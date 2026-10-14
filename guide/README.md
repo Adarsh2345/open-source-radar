@@ -17,6 +17,7 @@ Translations: [हिंदी (Hindi)](hi/README.md), [Español (Spanish)](es/R
 | 7 | [Talking to maintainers](07-communication.md) | Claiming an issue, asking good questions, writing PR descriptions people want to review |
 | 8 | [Reviews, feedback and rejection](08-reviews.md) | Handling change requests, CI failures, silence, and "no" |
 | 9 | [Keep going](09-keep-going.md) | From one PR to a track record: becoming a regular, a reviewer, a maintainer |
+| 10 | [Reading a codebase](10-reading-a-codebase.md) | How to navigate unfamiliar code, find entry points, and trace logic |
 
 Also useful:
 
