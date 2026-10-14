@@ -1,10 +1,10 @@
 # Lua issues
 
-**29** open issues (14 labeled for beginners) across **17** active Lua projects.
+**30** open issues (15 labeled for beginners) across **18** active Lua projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/lua.xml)
 
-> Updated automatically on **2026-10-13 22:52 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-14 11:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [🐛 migration needed: mobs speed enhancements](https://github.com/LandSandBoat/server/issues/4757) 💬 1 | [LandSandBoat/server](https://github.com/LandSandBoat/server) | 512 | 🟢 beginner | 2026-10-14 | [📘 guide](https://github.com/LandSandBoat/server/blob/HEAD/CONTRIBUTING.md) |
 | [\[GTAV Enhanced\] Reproducible client crash when consuming water/burger with ox_core](https://github.com/overextended/ox_inventory/issues/1977) 💬 2 | [overextended/ox_inventory](https://github.com/overextended/ox_inventory) | 561 | 🟡 help wanted | 2026-10-11 | ✍️ CLA · [📘 guide](https://github.com/overextended/ox_inventory/blob/HEAD/CONTRIBUTING.md) |
 | [\[Minor\] Ctrl+A Does not Highlight all text in entry box](https://github.com/PathOfBuildingCommunity/PathOfBuilding/issues/7147) 💬 4 | [PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) | 5.5k | 🟢 beginner | 2026-10-10 | [📘 guide](https://github.com/PathOfBuildingCommunity/PathOfBuilding/blob/HEAD/CONTRIBUTING.md) |
 | [Recipe for some icons / symbols configuration](https://github.com/hedyhli/outline.nvim/issues/164) 💬 1 | [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) | 1k | 🟡 help wanted | 2026-10-10 |  |
@@ -29,7 +30,7 @@
 | [Implement LAN Multiplayer System And Mode](https://github.com/CorsixTH/CorsixTH/issues/386) 💬 54 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.6k | 🟡 help wanted | 2026-09-18 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
 | [Chewbacca patients should be able to transform into females when they die](https://github.com/CorsixTH/CorsixTH/issues/177) 💬 12 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.6k | 🟡 help wanted | 2026-09-16 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
 | [Locations with known existing but non-public feeds](https://github.com/public-transport/transitous/issues/585) 💬 10 | [public-transport/transitous](https://github.com/public-transport/transitous) | 731 | 🟢 beginner | 2026-09-11 | 📄 AI policy |
-| [\[Feature\] 可否将标注的想法同步到微信读书功能](https://github.com/finlater/weread.koplugin/issues/126) 💬 7 | [finlater/weread.koplugin](https://github.com/finlater/weread.koplugin) | 895 | 🟡 help wanted | 2026-09-05 | [📘 guide](https://github.com/finlater/weread.koplugin/blob/HEAD/CONTRIBUTING.md) |
+| [\[Feature\] 可否将标注的想法同步到微信读书功能](https://github.com/finlater/weread.koplugin/issues/126) 💬 7 | [finlater/weread.koplugin](https://github.com/finlater/weread.koplugin) | 897 | 🟡 help wanted | 2026-09-05 | [📘 guide](https://github.com/finlater/weread.koplugin/blob/HEAD/CONTRIBUTING.md) |
 | [Integrate Swedish realtime feeds](https://github.com/public-transport/transitous/issues/125) 💬 7 | [public-transport/transitous](https://github.com/public-transport/transitous) | 731 | 🟢 beginner | 2026-08-06 | 📄 AI policy |
 | [Give reason for damage done by tnt](https://github.com/luanti-org/minetest_game/issues/3263) | [luanti-org/minetest_game](https://github.com/luanti-org/minetest_game) | 1.6k | 🟢 beginner | 2026-08-02 |  |
 | [New ingame Setting Button that opens uikeys.txt](https://github.com/beyond-all-reason/Beyond-All-Reason/issues/3369) 💬 2 | [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) | 4.3k | 🟢 beginner | 2026-07-19 | 🤖 disclose AI use · [📘 guide](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/HEAD/CONTRIBUTING.md) |

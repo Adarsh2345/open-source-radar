@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/clojure.xml)
 
-> Updated automatically on **2026-10-13 22:52 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-14 11:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -20,7 +20,7 @@
 | [Hide parts of schema in OpenAPI spec](https://github.com/metosin/malli/issues/1309) 💬 1 | [metosin/malli](https://github.com/metosin/malli) | 1.8k | 🟡 help wanted | 2026-08-25 | [📘 guide](https://github.com/metosin/malli/blob/HEAD/CONTRIBUTING.md) |
 | [Add "Replace full qualified ns with alias" feature](https://github.com/clojure-lsp/clojure-lsp/issues/1810) 💬 2 | [clojure-lsp/clojure-lsp](https://github.com/clojure-lsp/clojure-lsp) | 1.3k | 🟢 beginner | 2026-08-03 |  |
 | [Block embed doesn't contain block references info (number of instances)](https://github.com/logseq/logseq/issues/8489) 💬 3 | [logseq/logseq](https://github.com/logseq/logseq) | 45.2k | 🟢 beginner | 2026-08-01 | ✍️ CLA · [📘 guide](https://github.com/logseq/logseq/blob/HEAD/CONTRIBUTING.md) |
-| [Migrate 'locale' and 'is_qbnewb' columns in 'core_user' table to User-local settings](https://github.com/metabase/metabase/issues/20604) 💬 4 | [metabase/metabase](https://github.com/metabase/metabase) | 49.6k | 🟢 beginner | 2026-07-27 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
+| [Migrate 'locale' and 'is_qbnewb' columns in 'core_user' table to User-local settings](https://github.com/metabase/metabase/issues/20604) 💬 4 | [metabase/metabase](https://github.com/metabase/metabase) | 49.7k | 🟢 beginner | 2026-07-27 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Default settings](https://github.com/mtgred/netrunner/issues/7403) 💬 2 | [mtgred/netrunner](https://github.com/mtgred/netrunner) | 984 | 🟢 beginner | 2026-07-17 | [📘 guide](https://github.com/mtgred/netrunner/blob/HEAD/CONTRIBUTING.md) |
 | [New linter for usage of prefix lists in require](https://github.com/clj-kondo/clj-kondo/issues/1137) 💬 5 | [clj-kondo/clj-kondo](https://github.com/clj-kondo/clj-kondo) | 1.9k | 🟡 help wanted | 2026-06-26 | [📘 guide](https://github.com/clj-kondo/clj-kondo/blob/HEAD/CONTRIBUTING.md) |
-| [Metadata: automatically set password fields to sensitive information](https://github.com/metabase/metabase/issues/1694) 💬 7 | [metabase/metabase](https://github.com/metabase/metabase) | 49.6k | 🟢 beginner | 2026-05-15 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
+| [Metadata: automatically set password fields to sensitive information](https://github.com/metabase/metabase/issues/1694) 💬 7 | [metabase/metabase](https://github.com/metabase/metabase) | 49.7k | 🟢 beginner | 2026-05-15 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
