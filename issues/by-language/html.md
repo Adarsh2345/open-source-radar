@@ -1,10 +1,10 @@
 # HTML issues
 
-**80** open issues (30 labeled for beginners) across **36** active HTML projects.
+**79** open issues (30 labeled for beginners) across **36** active HTML projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/html.xml)
 
-> Updated automatically on **2026-10-14 11:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-14 21:30 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,10 +12,10 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [\[Marketplace\] Add Lever plugin](https://github.com/ToolJet/ToolJet/issues/18416) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41.1k | 🟡 help wanted | 2026-10-13 | 🤖 disclose AI use · [📘 guide](https://github.com/ToolJet/ToolJet/blob/HEAD/CONTRIBUTING.md) |
+| [\[Marketplace\] Add Lever plugin](https://github.com/ToolJet/ToolJet/issues/18416) 💬 1 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41.1k | 🟡 help wanted | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/ToolJet/ToolJet/blob/HEAD/CONTRIBUTING.md) |
 | [Ensure Documentation of all links mentioned in llm.txt file are complete across all binding, with example code](https://github.com/SeleniumHQ/seleniumhq.github.io/issues/2890) 💬 1 | [SeleniumHQ/seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io) | 1.4k | 🟢 beginner | 2026-10-12 | [📘 guide](https://github.com/SeleniumHQ/seleniumhq.github.io/blob/HEAD/CONTRIBUTING.md) |
-| [What's FSRS and how do I use it?](https://github.com/badlydrawnrob/anki/issues/185) | [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki) | 934 | 🟢 beginner | 2026-10-11 |  |
-| [Upgrading safely](https://github.com/badlydrawnrob/anki/issues/184) | [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki) | 934 | 🟢 beginner | 2026-10-11 |  |
+| [What's FSRS and how do I use it?](https://github.com/badlydrawnrob/anki/issues/185) | [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki) | 933 | 🟢 beginner | 2026-10-11 |  |
+| [Upgrading safely](https://github.com/badlydrawnrob/anki/issues/184) | [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki) | 933 | 🟢 beginner | 2026-10-11 |  |
 | [\[Marketplace\] Add Chargebee plugin](https://github.com/ToolJet/ToolJet/issues/18234) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41.1k | 🟡 help wanted | 2026-10-08 | 🤖 disclose AI use · [📘 guide](https://github.com/ToolJet/ToolJet/blob/HEAD/CONTRIBUTING.md) |
 | [\[Marketplace\] Add Resend plugin](https://github.com/ToolJet/ToolJet/issues/18236) 💬 1 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41.1k | 🟡 help wanted | 2026-10-08 | 🤖 disclose AI use · [📘 guide](https://github.com/ToolJet/ToolJet/blob/HEAD/CONTRIBUTING.md) |
 | [Add "Signature" component](https://github.com/ToolJet/ToolJet/issues/4859) 💬 4 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41.1k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · [📘 guide](https://github.com/ToolJet/ToolJet/blob/HEAD/CONTRIBUTING.md) |
@@ -35,15 +35,14 @@
 | [Allow disable generating full mobile navigation tree](https://github.com/imfing/hextra/issues/275) 💬 1 | [imfing/hextra](https://github.com/imfing/hextra) | 2.4k | 🟢 beginner | 2026-09-15 | [📘 guide](https://github.com/imfing/hextra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [输入 【介绍一下html-anything】，导出html单文件出现错误 1. 第一页只展示一半 2. 左右键不起作用 3. 从第二页开始都是黑底空白页 4. 。。。。。。](https://github.com/nexu-io/html-anything/issues/152) 💬 2 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 9.1k | 🟡 help wanted | 2026-09-14 | ✍️ CLA · [📘 guide](https://github.com/nexu-io/html-anything/blob/HEAD/CONTRIBUTING.md) |
 | [\[Initiative\]: Scale and performance testing guidance](https://github.com/cncf/toc/issues/2233) 💬 4 | [cncf/toc](https://github.com/cncf/toc) | 1.9k | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/cncf/toc/blob/HEAD/CONTRIBUTING.md) |
-| [\[feat\] no new X chat dm sending?](https://github.com/nirholas/XActions/issues/37) 💬 4 | [nirholas/XActions](https://github.com/nirholas/XActions) | 592 | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/nirholas/XActions/blob/HEAD/CONTRIBUTING.md) |
+| [\[feat\] no new X chat dm sending?](https://github.com/nirholas/XActions/issues/37) 💬 4 | [nirholas/XActions](https://github.com/nirholas/XActions) | 593 | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/nirholas/XActions/blob/HEAD/CONTRIBUTING.md) |
 | [\[🚀 Feature\]: Fixing Accessibility Issues On Selenium Website](https://github.com/SeleniumHQ/seleniumhq.github.io/issues/2486) 💬 6 | [SeleniumHQ/seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io) | 1.4k | 🟡 help wanted | 2026-09-11 | [📘 guide](https://github.com/SeleniumHQ/seleniumhq.github.io/blob/HEAD/CONTRIBUTING.md) |
 | [switch cutout for back body plate doesn't fit switch](https://github.com/nasa-jpl/open-source-rover/issues/499) 💬 2 | [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) | 9.7k | 🟡 help wanted | 2026-09-10 | [📘 guide](https://github.com/nasa-jpl/open-source-rover/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Headscale with reverse proxy Zoraxy not working because allegedly WebSockets are not passing through](https://github.com/tobychui/zoraxy/issues/1012) 💬 9 | [tobychui/zoraxy](https://github.com/tobychui/zoraxy) | 5.5k | 🟡 help wanted | 2026-09-09 |  |
-| [(1.37) Move resource managers page to new section](https://github.com/kubernetes/website/issues/56615) 💬 4 | [kubernetes/website](https://github.com/kubernetes/website) | 5.4k | 🟡 help wanted | 2026-09-09 | [📘 guide](https://github.com/kubernetes/website/blob/HEAD/CONTRIBUTING.md) |
 | [Check for obsoletes](https://github.com/mgaudet/CompilerJobs/issues/83) 💬 5 | [mgaudet/CompilerJobs](https://github.com/mgaudet/CompilerJobs) | 782 | 🟢 beginner | 2026-09-08 |  |
 | [Translation needed for existing languages](https://github.com/sumn2u/learn-javascript/issues/346) 💬 2 | [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript) | 1.1k | 🟢 beginner | 2026-08-29 | [📘 guide](https://github.com/sumn2u/learn-javascript/blob/HEAD/CONTRIBUTING.md) |
-| [功能增强：为RPG MV 和 RPG MZ增加汉化功能](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/36) 💬 1 | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 633 | 🟢 beginner | 2026-08-27 | [📘 guide](https://github.com/Weiss-UltimateSavior/Tyranor-Next/blob/HEAD/CONTRIBUTING.md) |
-| [功能增强：添加外置显式跳转的支持](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/28) | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 633 | 🟢 beginner | 2026-08-25 | [📘 guide](https://github.com/Weiss-UltimateSavior/Tyranor-Next/blob/HEAD/CONTRIBUTING.md) |
+| [功能增强：为RPG MV 和 RPG MZ增加汉化功能](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/36) 💬 1 | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 634 | 🟢 beginner | 2026-08-27 | [📘 guide](https://github.com/Weiss-UltimateSavior/Tyranor-Next/blob/HEAD/CONTRIBUTING.md) |
+| [功能增强：添加外置显式跳转的支持](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/28) | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 634 | 🟢 beginner | 2026-08-25 | [📘 guide](https://github.com/Weiss-UltimateSavior/Tyranor-Next/blob/HEAD/CONTRIBUTING.md) |
 | [Add play store promo](https://github.com/openfoodfacts/openfoodfacts-server/issues/604) 💬 6 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-08-21 | 🤖 disclose AI use · [📘 guide](https://github.com/openfoodfacts/openfoodfacts-server/blob/HEAD/CONTRIBUTING.md) |
 | [addTagOnEnter setting](https://github.com/yairEO/tagify/issues/1500) 💬 5 | [yairEO/tagify](https://github.com/yairEO/tagify) | 3.9k | 🟡 help wanted | 2026-08-17 |  |
 | [\[HELP\] Access control by Cloudflare IPs](https://github.com/tobychui/zoraxy/issues/761) 💬 7 | [tobychui/zoraxy](https://github.com/tobychui/zoraxy) | 5.5k | 🟡 help wanted | 2026-08-16 |  |
@@ -74,8 +73,8 @@
 | [Supporting BackendTLS for TLSRoute](https://github.com/projectcontour/contour/issues/6136) 💬 2 | [projectcontour/contour](https://github.com/projectcontour/contour) | 4k | 🟡 help wanted | 2026-06-18 | 🔏 DCO · [📘 guide](https://github.com/projectcontour/contour/blob/HEAD/CONTRIBUTING.md) |
 | [E2Es: improve verification that the correct backend service is being hit.](https://github.com/projectcontour/contour/issues/6253) 💬 1 | [projectcontour/contour](https://github.com/projectcontour/contour) | 4k | 🟡 help wanted | 2026-06-18 | 🔏 DCO · [📘 guide](https://github.com/projectcontour/contour/blob/HEAD/CONTRIBUTING.md) |
 | [Docs: Create and document a "stale content" checking cycle](https://github.com/projectcontour/contour/issues/3814) 💬 1 | [projectcontour/contour](https://github.com/projectcontour/contour) | 4k | 🟢 beginner | 2026-06-18 | 🔏 DCO · [📘 guide](https://github.com/projectcontour/contour/blob/HEAD/CONTRIBUTING.md) |
-| [Limitations of Anki as a learning coding platform](https://github.com/badlydrawnrob/anki/issues/180) | [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki) | 934 | 🟡 help wanted | 2026-06-17 |  |
-| [Moving away from Anki](https://github.com/badlydrawnrob/anki/issues/181) | [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki) | 934 | 🟡 help wanted | 2026-06-12 |  |
+| [Limitations of Anki as a learning coding platform](https://github.com/badlydrawnrob/anki/issues/180) | [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki) | 933 | 🟡 help wanted | 2026-06-17 |  |
+| [Moving away from Anki](https://github.com/badlydrawnrob/anki/issues/181) | [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki) | 933 | 🟡 help wanted | 2026-06-12 |  |
 | [Very high CPU usage while the GUI is open since EasyEffects 8.x](https://github.com/wwmm/easyeffects/issues/4652) 💬 69 | [wwmm/easyeffects](https://github.com/wwmm/easyeffects) | 10.4k | 🟡 help wanted | 2026-06-10 |  |
 | [Develop example of a datagrid with advanced, spreadsheet-like features](https://github.com/w3c/aria-practices/issues/155) 💬 19 | [w3c/aria-practices](https://github.com/w3c/aria-practices) | 1.4k | 🟡 help wanted | 2026-06-10 | [📘 guide](https://github.com/w3c/aria-practices/blob/HEAD/CONTRIBUTING.md) |
 | [\[Worlds Without Number\] Text is barely readable/showing the wrong color in the roll macro window](https://github.com/Roll20/roll20-character-sheets/issues/13773) 💬 3 | [Roll20/roll20-character-sheets](https://github.com/Roll20/roll20-character-sheets) | 1.2k | 🟢 beginner | 2026-06-10 |  |
