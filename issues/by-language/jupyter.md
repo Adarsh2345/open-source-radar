@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/jupyter.xml)
 
-> Updated automatically on **2026-10-14 21:30 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-15 10:49 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -27,7 +27,7 @@
 | [Jupyter notebook SSL does not allow keyfile with PEM pass phrase](https://github.com/jupyter/notebook/issues/2595) 💬 4 | [jupyter/notebook](https://github.com/jupyter/notebook) | 13.4k | 🟡 help wanted | 2026-05-24 | [📘 guide](https://github.com/jupyter/notebook/blob/HEAD/CONTRIBUTING.md) |
 | [A question about target_log_prob_fn](https://github.com/tensorflow/probability/issues/611) 💬 5 | [tensorflow/probability](https://github.com/tensorflow/probability) | 4.4k | 🟢 beginner | 2026-05-18 | ✍️ CLA · [📘 guide](https://github.com/tensorflow/probability/blob/HEAD/CONTRIBUTING.md) |
 | [Feature Request: Efficient Poisson Binomial PMF/CDF in tfp](https://github.com/tensorflow/probability/issues/1453) 💬 14 | [tensorflow/probability](https://github.com/tensorflow/probability) | 4.4k | 🟢 beginner | 2026-05-18 | ✍️ CLA · [📘 guide](https://github.com/tensorflow/probability/blob/HEAD/CONTRIBUTING.md) |
-| [Example for running on AWS (Glue, EMR, SageMaker, etc)](https://github.com/awslabs/python-deequ/issues/140) 💬 3 | [awslabs/python-deequ](https://github.com/awslabs/python-deequ) | 826 | 🟢 beginner | 2026-05-18 | ✍️ CLA · [📘 guide](https://github.com/awslabs/python-deequ/blob/HEAD/CONTRIBUTING.md) |
-| [External Json interface to define constraints](https://github.com/awslabs/python-deequ/issues/103) 💬 2 | [awslabs/python-deequ](https://github.com/awslabs/python-deequ) | 826 | 🟡 help wanted | 2026-05-18 | ✍️ CLA · [📘 guide](https://github.com/awslabs/python-deequ/blob/HEAD/CONTRIBUTING.md) |
-| [check with hasSize/hasMin etc fails with below error. Pydeequ version 1.0.0](https://github.com/awslabs/python-deequ/issues/64) 💬 3 | [awslabs/python-deequ](https://github.com/awslabs/python-deequ) | 826 | 🟡 help wanted | 2026-05-18 | ✍️ CLA · [📘 guide](https://github.com/awslabs/python-deequ/blob/HEAD/CONTRIBUTING.md) |
+| [Example for running on AWS (Glue, EMR, SageMaker, etc)](https://github.com/awslabs/python-deequ/issues/140) 💬 3 | [awslabs/python-deequ](https://github.com/awslabs/python-deequ) | 827 | 🟢 beginner | 2026-05-18 | ✍️ CLA · [📘 guide](https://github.com/awslabs/python-deequ/blob/HEAD/CONTRIBUTING.md) |
+| [External Json interface to define constraints](https://github.com/awslabs/python-deequ/issues/103) 💬 2 | [awslabs/python-deequ](https://github.com/awslabs/python-deequ) | 827 | 🟡 help wanted | 2026-05-18 | ✍️ CLA · [📘 guide](https://github.com/awslabs/python-deequ/blob/HEAD/CONTRIBUTING.md) |
+| [check with hasSize/hasMin etc fails with below error. Pydeequ version 1.0.0](https://github.com/awslabs/python-deequ/issues/64) 💬 3 | [awslabs/python-deequ](https://github.com/awslabs/python-deequ) | 827 | 🟡 help wanted | 2026-05-18 | ✍️ CLA · [📘 guide](https://github.com/awslabs/python-deequ/blob/HEAD/CONTRIBUTING.md) |
 | [NeuralFoil Optimizer tutorial issue](https://github.com/peterdsharpe/AeroSandbox/issues/172) 💬 1 | [peterdsharpe/AeroSandbox](https://github.com/peterdsharpe/AeroSandbox) | 1.4k | 🟢 beginner | 2026-05-16 | [📘 guide](https://github.com/peterdsharpe/AeroSandbox/blob/HEAD/CONTRIBUTING.md) |
