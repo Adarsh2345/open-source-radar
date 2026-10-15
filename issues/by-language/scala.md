@@ -1,10 +1,10 @@
 # Scala issues
 
-**41** open issues (20 labeled for beginners) across **18** active Scala projects.
+**39** open issues (19 labeled for beginners) across **18** active Scala projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-10-15 10:49 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-15 21:08 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -16,9 +16,7 @@
 | [Replace duplicated scalar/array broadcast match in math_funcs with a shared helper](https://github.com/apache/datafusion-comet/issues/6982) 💬 1 | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-10-15 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [Deduplicate ASCII and char paths in levenshtein_distance_with_threshold](https://github.com/apache/datafusion-comet/issues/6980) 💬 1 | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-10-15 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [Reuse hash_list_primitive! for string/binary list elements and factor out map-entry hashing loops](https://github.com/apache/datafusion-comet/issues/6984) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-10-14 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
-| [Extract shared list-array construction from the split_* functions in split.rs](https://github.com/apache/datafusion-comet/issues/6983) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-10-14 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [Extract a variable-length slot writer from TypedElements::write_elements_slow in columnar_to_row.rs](https://github.com/apache/datafusion-comet/issues/6981) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-10-14 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
-| [\[EPIC\] Finish moving PhysicalPlanner::create_plan and create_expr onto the operator and expression registries](https://github.com/apache/datafusion-comet/issues/6979) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟡 help wanted | 2026-10-14 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [Planner panics instead of returning errors for out-of-range Decimal128 list literals and unsupported ANSI bina](https://github.com/apache/datafusion-comet/issues/6973) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟡 help wanted | 2026-10-14 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [Deduplicate field-major struct append paths in shuffle spark_unsafe/row.rs](https://github.com/apache/datafusion-comet/issues/6977) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟡 help wanted | 2026-10-14 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [Deduplicate Legacy/Ansi/Try integer SUM accumulators in sum_int.rs](https://github.com/apache/datafusion-comet/issues/6976) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟡 help wanted | 2026-10-14 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
@@ -48,7 +46,7 @@
 | [\[2.x\] '@cacheLevel' and '@transient' annotation does not work if local val](https://github.com/sbt/sbt/issues/9162) 💬 2 | [sbt/sbt](https://github.com/sbt/sbt) | 5k | 🟡 help wanted | 2026-06-27 | ✍️ CLA · [📘 guide](https://github.com/sbt/sbt/blob/HEAD/CONTRIBUTING.md) |
 | [clean does not seem to work with java projects](https://github.com/sbt/sbt/issues/7187) 💬 2 | [sbt/sbt](https://github.com/sbt/sbt) | 5k | 🟡 help wanted | 2026-06-27 | ✍️ CLA · [📘 guide](https://github.com/sbt/sbt/blob/HEAD/CONTRIBUTING.md) |
 | [:memo: Publish kyuubi-spark-authz Spark 4.0 binary to Maven Central](https://github.com/apache/kyuubi/issues/7449) 💬 4 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-06-11 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/kyuubi/blob/HEAD/CONTRIBUTING.md) |
-| [Scala 3 builds](https://github.com/typelevel/frameless/issues/945) | [typelevel/frameless](https://github.com/typelevel/frameless) | 896 | 🟡 help wanted | 2026-05-25 |  |
+| [Scala 3 builds](https://github.com/typelevel/frameless/issues/945) | [typelevel/frameless](https://github.com/typelevel/frameless) | 897 | 🟡 help wanted | 2026-05-25 |  |
 | [How to Add the suggested constraints to verification run using PySpark ?](https://github.com/awslabs/deequ/issues/383) 💬 2 | [awslabs/deequ](https://github.com/awslabs/deequ) | 3.6k | 🟡 help wanted | 2026-05-06 | ✍️ CLA · [📘 guide](https://github.com/awslabs/deequ/blob/HEAD/CONTRIBUTING.md) |
 | [Extending Analyzer](https://github.com/awslabs/deequ/issues/365) 💬 2 | [awslabs/deequ](https://github.com/awslabs/deequ) | 3.6k | 🟡 help wanted | 2026-05-06 | ✍️ CLA · [📘 guide](https://github.com/awslabs/deequ/blob/HEAD/CONTRIBUTING.md) |
 | [Improving performance of histogram analyzer on 150 columns](https://github.com/awslabs/deequ/issues/300) 💬 6 | [awslabs/deequ](https://github.com/awslabs/deequ) | 3.6k | 🟡 help wanted | 2026-05-06 | ✍️ CLA · [📘 guide](https://github.com/awslabs/deequ/blob/HEAD/CONTRIBUTING.md) |
