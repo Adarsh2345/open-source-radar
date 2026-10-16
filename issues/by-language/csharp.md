@@ -1,10 +1,10 @@
 # C# issues
 
-**284** open issues (85 labeled for beginners) across **83** active C# projects.
+**286** open issues (84 labeled for beginners) across **83** active C# projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/csharp.xml)
 
-> Updated automatically on **2026-10-16 10:37 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-16 20:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,9 +12,11 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [More granular JSExceptions for JSInterop](https://github.com/dotnet/aspnetcore/issues/53620) 💬 12 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38.5k | 🟢 beginner | 2026-10-16 | ✍️ CLA · [📘 guide](https://github.com/dotnet/aspnetcore/blob/HEAD/CONTRIBUTING.md) |
+| [Update API Docs for Windows Life Cycle events](https://github.com/dotnet/maui/issues/24641) 💬 5 | [dotnet/maui](https://github.com/dotnet/maui) | 23.3k | 🟢 beginner | 2026-10-16 | ✍️ CLA · [📘 guide](https://github.com/dotnet/maui/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Address race in PerformanceCounterLib](https://github.com/dotnet/runtime/issues/90803) 💬 20 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟡 help wanted | 2026-10-16 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
-| [Support WrapContent for DataGrid ToolBarContent](https://github.com/MudBlazor/MudBlazor/issues/7595) 💬 1 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
-| [Ordering unimplemented ILVerify errors by their impact in compiler output validation](https://github.com/dotnet/runtime/issues/37393) 💬 20 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟡 help wanted | 2026-10-15 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
+| [HTTP/3: QPack dynamic compression and decompression](https://github.com/dotnet/runtime/issues/49561) 💬 9 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟡 help wanted | 2026-10-16 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
+| [Add package readmes to shipping libraries packages](https://github.com/dotnet/runtime/issues/99358) 💬 4 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟡 help wanted | 2026-10-16 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
 | [MudTabs: Add support for header content before and after the toolbar](https://github.com/MudBlazor/MudBlazor/issues/7502) 💬 2 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
 | [Mcp23017 initialization resets pin values](https://github.com/dotnet/iot/issues/1663) 💬 6 | [dotnet/iot](https://github.com/dotnet/iot) | 2.4k | 🟡 help wanted | 2026-10-15 |  |
 | [\[System.Text.Json\] : More accurate error messages when failing to map fields or parameters](https://github.com/dotnet/runtime/issues/88048) 💬 12 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟡 help wanted | 2026-10-14 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
@@ -69,6 +71,7 @@
 | [Dynamic Routing Error: Using dynamic routing with services that use HTTP and HTTPS](https://github.com/ThreeMammals/Ocelot/issues/2253) 💬 13 | [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot) | 8.7k | 🟡 help wanted | 2026-10-08 | [📘 guide](https://github.com/ThreeMammals/Ocelot/blob/HEAD/.github/CONTRIBUTING.md) |
 | [How to get all users who have no role assigned?](https://github.com/OrchardCMS/OrchardCore/issues/2987) 💬 23 | [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore) | 8.2k | 🟢 beginner | 2026-10-08 | [📘 guide](https://github.com/OrchardCMS/OrchardCore/blob/HEAD/CONTRIBUTING.md) |
 | [Problem with counting in the workflow loop](https://github.com/OrchardCMS/OrchardCore/issues/6912) 💬 11 | [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore) | 8.2k | 🟢 beginner | 2026-10-08 | [📘 guide](https://github.com/OrchardCMS/OrchardCore/blob/HEAD/CONTRIBUTING.md) |
+| [Exec Command UseCommandProcessor = "True" is missing cmd.exe](https://github.com/dotnet/msbuild/issues/5451) 💬 9 | [dotnet/msbuild](https://github.com/dotnet/msbuild) | 5.5k | 🟡 help wanted | 2026-10-08 |  |
 | [Invalid 'CS8648' When the 'using' statement is inside a try-catch block](https://github.com/dotnet/roslyn/issues/85891) 💬 5 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-10-07 | ✍️ CLA · [📘 guide](https://github.com/dotnet/roslyn/blob/HEAD/CONTRIBUTING.md) |
 | [MQ: Enable Azure MCP Server to Query Recent Service Updates (e.g., Key Vault changes in last X days)](https://github.com/microsoft/mcp/issues/1073) 💬 5 | [microsoft/mcp](https://github.com/microsoft/mcp) | 3.8k | 🟡 help wanted | 2026-10-07 | [📘 guide](https://github.com/microsoft/mcp/blob/HEAD/CONTRIBUTING.md) |
 | [User Secrets broke on different first word capitalization](https://github.com/dotnet/aspnetcore/issues/8602) 💬 4 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38.5k | 🟡 help wanted | 2026-10-06 | ✍️ CLA · [📘 guide](https://github.com/dotnet/aspnetcore/blob/HEAD/CONTRIBUTING.md) |
@@ -93,7 +96,6 @@
 | [Add ability to switch mode based on Battery saver on/off status](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/issues/834) 💬 7 | [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) | 9.8k | 🟡 help wanted | 2026-10-01 |  |
 | [Task: update the "Postpone" part](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/issues/980) 💬 3 | [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) | 9.8k | 🟡 help wanted | 2026-10-01 |  |
 | [DataFrame.Clone should have an overload that takes an IEnumerable&lt;int&gt;](https://github.com/dotnet/machinelearning/issues/5703) 💬 2 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-10-01 | ✍️ CLA · [📘 guide](https://github.com/dotnet/machinelearning/blob/HEAD/CONTRIBUTING.md) |
-| [Use disjoint-set-union for 'ClassLayout::AreCompatible'.](https://github.com/dotnet/runtime/issues/42801) 💬 7 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟢 beginner | 2026-09-30 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
 | [Support TypeConverterAttribute on bound properties](https://github.com/dotnet/runtime/issues/36545) 💬 10 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟡 help wanted | 2026-09-30 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
 | [Microsoft.Data.Analysis.DataFrame Join should produce a result with a single joined column](https://github.com/dotnet/machinelearning/issues/6133) 💬 5 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-30 | ✍️ CLA · [📘 guide](https://github.com/dotnet/machinelearning/blob/HEAD/CONTRIBUTING.md) |
 | [DataFrame.OrderBy(string columnName) does not perform stable sorting!](https://github.com/dotnet/machinelearning/issues/6443) 💬 2 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-30 | ✍️ CLA · [📘 guide](https://github.com/dotnet/machinelearning/blob/HEAD/CONTRIBUTING.md) |
@@ -116,6 +118,7 @@
 | [Add unrestricted panning](https://github.com/Ruben2776/PicView/issues/381) | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.7k | 🟡 help wanted | 2026-09-24 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
 | [Define and add 'FileSystemError' enum and matching property to IOException](https://github.com/dotnet/runtime/issues/926) 💬 67 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟡 help wanted | 2026-09-23 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
 | [JSON attributes docs should have mentions for corresponding metadata](https://github.com/dotnet/runtime/issues/84069) 💬 1 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟡 help wanted | 2026-09-23 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
+| [\[Feature Request\]: Reduce the wrapping around SDK Resolver messages when only one resolver is actually invoked](https://github.com/dotnet/msbuild/issues/10191) 💬 4 | [dotnet/msbuild](https://github.com/dotnet/msbuild) | 5.5k | 🟢 beginner | 2026-09-23 |  |
 | [Cursor flickering on Wayland: Repeated proximity-out/in events while hovering stationary.](https://github.com/OpenTabletDriver/OpenTabletDriver/issues/4936) 💬 17 | [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) | 4.2k | 🟡 help wanted | 2026-09-22 | ⚠️ AI restricted · [📘 guide](https://github.com/OpenTabletDriver/OpenTabletDriver/blob/HEAD/CONTRIBUTING.md) |
 | [JXL color management incorrectly applied](https://github.com/Ruben2776/PicView/issues/331) 💬 3 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.7k | 🟡 help wanted | 2026-09-22 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
 | [In App Purchase Documentation (macOS)](https://github.com/dotnet/macios/issues/8870) 💬 1 | [dotnet/macios](https://github.com/dotnet/macios) | 2.9k | 🟡 help wanted | 2026-09-22 |  |
@@ -193,7 +196,6 @@
 | [Custom SVG Icon Size Limitation in MudNavLink](https://github.com/MudBlazor/MudBlazor/issues/6491) 💬 1 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-08-15 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
 | [Feature: Use IPTC Location metadata fields instead of reverse geocoding addresses](https://github.com/files-community/Files/issues/10472) 💬 2 | [files-community/Files](https://github.com/files-community/Files) | 46k | 🟢 beginner | 2026-08-14 | [📘 guide](https://github.com/files-community/Files/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Extra vertical space in static ColorPicker with small palettes](https://github.com/MudBlazor/MudBlazor/issues/9131) 💬 1 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-08-13 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
-| [\[FEATURE REQUEST\] Update 'About &gt; Open Source Licenses' section in settings](https://github.com/unchihugo/FluentFlyout/issues/1021) | [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) | 4.7k | 🟢 beginner | 2026-08-13 | [📘 guide](https://github.com/unchihugo/FluentFlyout/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Implement cache tagging (RemoveByTagAsync + tagged writes)](https://github.com/FoundatioFx/Foundatio/issues/8) 💬 6 | [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio) | 2.1k | 🟡 help wanted | 2026-08-13 |  |
 | [【可视化】GUI/WebUI 收集](https://github.com/nilaoda/N_m3u8DL-RE/issues/239) 💬 34 | [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | 8.9k | 🟢 beginner | 2026-08-12 |  |
 | [Capitalization of build folders names in case sensitive OS's](https://github.com/dotnet/sdk/issues/375) 💬 16 | [dotnet/sdk](https://github.com/dotnet/sdk) | 3.2k | 🟡 help wanted | 2026-08-11 |  |
@@ -210,7 +212,5 @@
 | [Need HDR support](https://github.com/Ruben2776/PicView/issues/310) 💬 4 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.7k | 🟡 help wanted | 2026-08-06 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
 | [Image Position And Pixel Info](https://github.com/Ruben2776/PicView/issues/151) 💬 1 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.7k | 🟡 help wanted | 2026-08-06 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
 | [Add support for cropping function to work when zoomed in](https://github.com/Ruben2776/PicView/issues/44) 💬 1 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.7k | 🟡 help wanted | 2026-08-06 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
-| [Get-AzADGroupMember should return better error message if group does not exist](https://github.com/Azure/azure-powershell/issues/26237) 💬 6 | [Azure/azure-powershell](https://github.com/Azure/azure-powershell) | 4.8k | 🟢 beginner | 2026-08-05 | ✍️ CLA · [📘 guide](https://github.com/Azure/azure-powershell/blob/HEAD/CONTRIBUTING.md) |
-| [XML Doc Comment incorrectly indents code CDATA section](https://github.com/dotnet/roslyn/issues/27150) 💬 6 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-08-04 | ✍️ CLA · [📘 guide](https://github.com/dotnet/roslyn/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 284 on the website.
+Showing the 200 most recently updated. See all 286 on the website.

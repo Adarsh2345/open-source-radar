@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-10-16 10:37 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-16 20:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -15,7 +15,7 @@
 | [Please revisit the comma separated header collapsing decision.](https://github.com/lostisland/faraday/issues/1120) 💬 6 | [lostisland/faraday](https://github.com/lostisland/faraday) | 6k | 🟡 help wanted | 2026-10-11 | [📘 guide](https://github.com/lostisland/faraday/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Faraday Adapter Parallel Requests On Multiple Domains / Connections](https://github.com/lostisland/faraday/issues/805) 💬 6 | [lostisland/faraday](https://github.com/lostisland/faraday) | 6k | 🟡 help wanted | 2026-10-11 | [📘 guide](https://github.com/lostisland/faraday/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Thread::Backtrace::Location#label for top-level blocks includes filename instead of &lt;main&gt;](https://github.com/jruby/jruby/issues/5166) 💬 5 | [jruby/jruby](https://github.com/jruby/jruby) | 3.9k | 🟢 beginner | 2026-10-10 | [📘 guide](https://github.com/jruby/jruby/blob/HEAD/CONTRIBUTING.md) |
-| [Add Hokuriku RubyKaigi 02](https://github.com/rubyevents/rubyevents/issues/2178) | [rubyevents/rubyevents](https://github.com/rubyevents/rubyevents) | 569 | 🟢 beginner | 2026-10-09 | [📘 guide](https://github.com/rubyevents/rubyevents/blob/HEAD/CONTRIBUTING.md) |
+| [Add Hokuriku RubyKaigi 02](https://github.com/rubyevents/rubyevents/issues/2178) | [rubyevents/rubyevents](https://github.com/rubyevents/rubyevents) | 570 | 🟢 beginner | 2026-10-09 | [📘 guide](https://github.com/rubyevents/rubyevents/blob/HEAD/CONTRIBUTING.md) |
 | [Configure default questions by Assistant](https://github.com/AllYourBot/hostedgpt/issues/805) 💬 1 | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 513 | 🟢 beginner | 2026-10-08 | [📘 guide](https://github.com/AllYourBot/hostedgpt/blob/HEAD/CONTRIBUTING.md) |
 | [Helm: images inside lists in values files are never detected (find_images_in_hash never calls handle_array_val](https://github.com/dependabot/dependabot-core/issues/16425) | [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) | 5.8k | 🟡 help wanted | 2026-10-06 | [📘 guide](https://github.com/dependabot/dependabot-core/blob/HEAD/CONTRIBUTING.md) |
 | [Canceling comment edit triggers a JS exception and doesn't cancel](https://github.com/lobsters/lobsters/issues/2215) 💬 2 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-10-05 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |

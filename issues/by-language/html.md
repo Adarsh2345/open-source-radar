@@ -1,10 +1,10 @@
 # HTML issues
 
-**77** open issues (29 labeled for beginners) across **36** active HTML projects.
+**78** open issues (29 labeled for beginners) across **36** active HTML projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/html.xml)
 
-> Updated automatically on **2026-10-16 10:37 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-16 20:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [CronJob page still says the controller does not start a Job after more than 100 missed schedules](https://github.com/kubernetes/website/issues/57940) 💬 8 | [kubernetes/website](https://github.com/kubernetes/website) | 5.4k | 🟡 help wanted | 2026-10-16 | [📘 guide](https://github.com/kubernetes/website/blob/HEAD/CONTRIBUTING.md) |
 | [\[Marketplace\] Add Lever plugin](https://github.com/ToolJet/ToolJet/issues/18416) 💬 3 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41.1k | 🟡 help wanted | 2026-10-15 | 🤖 disclose AI use · [📘 guide](https://github.com/ToolJet/ToolJet/blob/HEAD/CONTRIBUTING.md) |
 | [Ensure Documentation of all links mentioned in llm.txt file are complete across all binding, with example code](https://github.com/SeleniumHQ/seleniumhq.github.io/issues/2890) 💬 1 | [SeleniumHQ/seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io) | 1.4k | 🟢 beginner | 2026-10-12 | [📘 guide](https://github.com/SeleniumHQ/seleniumhq.github.io/blob/HEAD/CONTRIBUTING.md) |
 | [What's FSRS and how do I use it?](https://github.com/badlydrawnrob/anki/issues/185) | [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki) | 934 | 🟢 beginner | 2026-10-11 |  |
@@ -33,14 +34,15 @@
 | [Allow disable generating full mobile navigation tree](https://github.com/imfing/hextra/issues/275) 💬 1 | [imfing/hextra](https://github.com/imfing/hextra) | 2.4k | 🟢 beginner | 2026-09-15 | [📘 guide](https://github.com/imfing/hextra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [输入 【介绍一下html-anything】，导出html单文件出现错误 1. 第一页只展示一半 2. 左右键不起作用 3. 从第二页开始都是黑底空白页 4. 。。。。。。](https://github.com/nexu-io/html-anything/issues/152) 💬 2 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 9.1k | 🟡 help wanted | 2026-09-14 | ✍️ CLA · [📘 guide](https://github.com/nexu-io/html-anything/blob/HEAD/CONTRIBUTING.md) |
 | [\[Initiative\]: Scale and performance testing guidance](https://github.com/cncf/toc/issues/2233) 💬 4 | [cncf/toc](https://github.com/cncf/toc) | 1.9k | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/cncf/toc/blob/HEAD/CONTRIBUTING.md) |
-| [\[feat\] no new X chat dm sending?](https://github.com/nirholas/XActions/issues/37) 💬 4 | [nirholas/XActions](https://github.com/nirholas/XActions) | 594 | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/nirholas/XActions/blob/HEAD/CONTRIBUTING.md) |
+| [\[feat\] no new X chat dm sending?](https://github.com/nirholas/XActions/issues/37) 💬 4 | [nirholas/XActions](https://github.com/nirholas/XActions) | 596 | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/nirholas/XActions/blob/HEAD/CONTRIBUTING.md) |
 | [\[🚀 Feature\]: Fixing Accessibility Issues On Selenium Website](https://github.com/SeleniumHQ/seleniumhq.github.io/issues/2486) 💬 6 | [SeleniumHQ/seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io) | 1.4k | 🟡 help wanted | 2026-09-11 | [📘 guide](https://github.com/SeleniumHQ/seleniumhq.github.io/blob/HEAD/CONTRIBUTING.md) |
 | [switch cutout for back body plate doesn't fit switch](https://github.com/nasa-jpl/open-source-rover/issues/499) 💬 2 | [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) | 9.7k | 🟡 help wanted | 2026-09-10 | [📘 guide](https://github.com/nasa-jpl/open-source-rover/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Headscale with reverse proxy Zoraxy not working because allegedly WebSockets are not passing through](https://github.com/tobychui/zoraxy/issues/1012) 💬 9 | [tobychui/zoraxy](https://github.com/tobychui/zoraxy) | 5.5k | 🟡 help wanted | 2026-09-09 |  |
+| [(1.37) Move resource managers page to new section](https://github.com/kubernetes/website/issues/56615) 💬 4 | [kubernetes/website](https://github.com/kubernetes/website) | 5.4k | 🟡 help wanted | 2026-09-09 | [📘 guide](https://github.com/kubernetes/website/blob/HEAD/CONTRIBUTING.md) |
 | [Check for obsoletes](https://github.com/mgaudet/CompilerJobs/issues/83) 💬 5 | [mgaudet/CompilerJobs](https://github.com/mgaudet/CompilerJobs) | 782 | 🟢 beginner | 2026-09-08 |  |
 | [Translation needed for existing languages](https://github.com/sumn2u/learn-javascript/issues/346) 💬 2 | [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript) | 1.1k | 🟢 beginner | 2026-08-29 | [📘 guide](https://github.com/sumn2u/learn-javascript/blob/HEAD/CONTRIBUTING.md) |
-| [功能增强：为RPG MV 和 RPG MZ增加汉化功能](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/36) 💬 1 | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 651 | 🟢 beginner | 2026-08-27 | [📘 guide](https://github.com/Weiss-UltimateSavior/Tyranor-Next/blob/HEAD/CONTRIBUTING.md) |
-| [功能增强：添加外置显式跳转的支持](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/28) | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 651 | 🟢 beginner | 2026-08-25 | [📘 guide](https://github.com/Weiss-UltimateSavior/Tyranor-Next/blob/HEAD/CONTRIBUTING.md) |
+| [功能增强：为RPG MV 和 RPG MZ增加汉化功能](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/36) 💬 1 | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 656 | 🟢 beginner | 2026-08-27 | [📘 guide](https://github.com/Weiss-UltimateSavior/Tyranor-Next/blob/HEAD/CONTRIBUTING.md) |
+| [功能增强：添加外置显式跳转的支持](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/28) | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 656 | 🟢 beginner | 2026-08-25 | [📘 guide](https://github.com/Weiss-UltimateSavior/Tyranor-Next/blob/HEAD/CONTRIBUTING.md) |
 | [Add play store promo](https://github.com/openfoodfacts/openfoodfacts-server/issues/604) 💬 6 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-08-21 | 🤖 disclose AI use · [📘 guide](https://github.com/openfoodfacts/openfoodfacts-server/blob/HEAD/CONTRIBUTING.md) |
 | [addTagOnEnter setting](https://github.com/yairEO/tagify/issues/1500) 💬 5 | [yairEO/tagify](https://github.com/yairEO/tagify) | 3.9k | 🟡 help wanted | 2026-08-17 |  |
 | [\[HELP\] Access control by Cloudflare IPs](https://github.com/tobychui/zoraxy/issues/761) 💬 7 | [tobychui/zoraxy](https://github.com/tobychui/zoraxy) | 5.5k | 🟡 help wanted | 2026-08-16 |  |
@@ -77,7 +79,7 @@
 | [Develop example of a datagrid with advanced, spreadsheet-like features](https://github.com/w3c/aria-practices/issues/155) 💬 19 | [w3c/aria-practices](https://github.com/w3c/aria-practices) | 1.4k | 🟡 help wanted | 2026-06-10 | [📘 guide](https://github.com/w3c/aria-practices/blob/HEAD/CONTRIBUTING.md) |
 | [\[Worlds Without Number\] Text is barely readable/showing the wrong color in the roll macro window](https://github.com/Roll20/roll20-character-sheets/issues/13773) 💬 3 | [Roll20/roll20-character-sheets](https://github.com/Roll20/roll20-character-sheets) | 1.2k | 🟢 beginner | 2026-06-10 |  |
 | [Ability to specify custom error page](https://github.com/projectcontour/contour/issues/320) 💬 16 | [projectcontour/contour](https://github.com/projectcontour/contour) | 4k | 🟡 help wanted | 2026-06-07 | 🔏 DCO · [📘 guide](https://github.com/projectcontour/contour/blob/HEAD/CONTRIBUTING.md) |
-| [Update theme demo site screenshots](https://github.com/hugo-sid/hugo-blog-awesome/issues/226) | [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) | 811 | 🟢 beginner | 2026-06-07 | [📘 guide](https://github.com/hugo-sid/hugo-blog-awesome/blob/HEAD/CONTRIBUTING.md) |
+| [Update theme demo site screenshots](https://github.com/hugo-sid/hugo-blog-awesome/issues/226) | [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) | 810 | 🟢 beginner | 2026-06-07 | [📘 guide](https://github.com/hugo-sid/hugo-blog-awesome/blob/HEAD/CONTRIBUTING.md) |
 | [有没有教程？不会使用....](https://github.com/nexu-io/html-anything/issues/29) 💬 20 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 9.1k | 🟡 help wanted | 2026-05-22 | ✍️ CLA · [📘 guide](https://github.com/nexu-io/html-anything/blob/HEAD/CONTRIBUTING.md) |
 | [hermes agent支持的问题](https://github.com/nexu-io/html-anything/issues/35) 💬 3 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 9.1k | 🟡 help wanted | 2026-05-17 | ✍️ CLA · [📘 guide](https://github.com/nexu-io/html-anything/blob/HEAD/CONTRIBUTING.md) |
 | [能否加个Claude Code 的聊天框，直接让它在里面帮我改 改好了再用你的模版生成](https://github.com/nexu-io/html-anything/issues/21) 💬 3 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 9.1k | 🟡 help wanted | 2026-05-16 | ✍️ CLA · [📘 guide](https://github.com/nexu-io/html-anything/blob/HEAD/CONTRIBUTING.md) |
@@ -88,4 +90,3 @@
 | [zh_cn Translation ambiguity in Chapter "Collections Types" of Scala 3 Book](https://github.com/scala/docs.scala-lang/issues/3257) 💬 3 | [scala/docs.scala-lang](https://github.com/scala/docs.scala-lang) | 574 | 🟡 help wanted | 2026-05-06 |  |
 | [Swipe for pagination of search results](https://github.com/openfoodfacts/openfoodfacts-server/issues/1029) 💬 2 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟡 help wanted | 2026-05-05 | 🤖 disclose AI use · [📘 guide](https://github.com/openfoodfacts/openfoodfacts-server/blob/HEAD/CONTRIBUTING.md) |
 | [\[HELP\] CORS Error with Immich](https://github.com/tobychui/zoraxy/issues/680) 💬 3 | [tobychui/zoraxy](https://github.com/tobychui/zoraxy) | 5.5k | 🟡 help wanted | 2026-04-22 |  |
-| [\[HELP\] NetBird setup](https://github.com/tobychui/zoraxy/issues/1029) 💬 5 | [tobychui/zoraxy](https://github.com/tobychui/zoraxy) | 5.5k | 🟡 help wanted | 2026-04-19 |  |

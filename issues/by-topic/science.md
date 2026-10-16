@@ -1,8 +1,8 @@
 # Science and research issues
 
-**59** open issues (36 labeled for beginners) across **19** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
+**60** open issues (37 labeled for beginners) across **19** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
 
-> Updated automatically on **2026-10-16 10:37 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-16 20:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +10,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Fix broken Markdown link: https://bugzilla.mozilla.org/show_bug.cgi?id=892671](https://github.com/stdlib-js/stdlib/issues/11248) 💬 9 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6k | 🟢 beginner | 2026-10-16 | 🤖 disclose AI use · [📘 guide](https://github.com/stdlib-js/stdlib/blob/HEAD/CONTRIBUTING.md) |
 | ['pairwise_distances' produces wrong output for asymmetric similarity measures](https://github.com/scikit-learn/scikit-learn/issues/13403) 💬 13 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 67.7k | 🟡 help wanted | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/scikit-learn/scikit-learn/blob/HEAD/CONTRIBUTING.md) |
 | [Write unit tests for multi-component editing](https://github.com/openrocket/openrocket/issues/1690) 💬 3 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 3.2k | 🟢 beginner | 2026-10-14 | 📄 AI policy · [📘 guide](https://github.com/openrocket/openrocket/blob/HEAD/CONTRIBUTING.md) |
 | [Write unit tests for cut, copy, paste, duplicate component actions](https://github.com/openrocket/openrocket/issues/1692) 💬 3 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 3.2k | 🟢 beginner | 2026-10-13 | 📄 AI policy · [📘 guide](https://github.com/openrocket/openrocket/blob/HEAD/CONTRIBUTING.md) |
