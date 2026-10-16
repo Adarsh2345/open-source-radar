@@ -1,10 +1,10 @@
 # Vue issues
 
-**29** open issues (19 labeled for beginners) across **10** active Vue projects.
+**28** open issues (18 labeled for beginners) across **10** active Vue projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/vue.xml)
 
-> Updated automatically on **2026-10-15 21:08 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-16 10:37 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [\[Bug\]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330) 💬 6 | [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) | 22.1k | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/FreeTubeApp/FreeTube/blob/HEAD/CONTRIBUTING.md) |
 | [关于AIPPT的各种常见问题说明](https://github.com/pipipi-pikachu/PPTist/issues/354) 💬 14 | [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) | 9.4k | 🟡 help wanted | 2026-10-15 |  |
 | [添加音源后卡顿严重，基本点击设置以及歌词等界面都会出现卡顿5秒左右，但是播放一切正常](https://github.com/algerkong/AlgerMusicPlayer/issues/723) 💬 1 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17k | 🟡 help wanted | 2026-10-07 |  |
 | [能否增加对外置DAC解码器的支持，支持bit-perfect源码播放，DAC独占支持？谢谢](https://github.com/algerkong/AlgerMusicPlayer/issues/686) | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17k | 🟡 help wanted | 2026-10-07 |  |
