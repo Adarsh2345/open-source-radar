@@ -1,10 +1,10 @@
 # Swift issues
 
-**105** open issues (49 labeled for beginners) across **56** active Swift projects.
+**111** open issues (52 labeled for beginners) across **57** active Swift projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/swift.xml)
 
-> Updated automatically on **2026-10-16 20:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-17 10:06 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,13 +12,19 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Agent launcher: command palette omits OpenCode despite native provider support](https://github.com/manaflow-ai/cmux/issues/15660) 💬 3 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 28.2k | 🟡 help wanted | 2026-10-16 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manaflow-ai/cmux/blob/HEAD/CONTRIBUTING.md) |
 | [Browser automation: eval, press, addscript fail with 'js_error' even when webview is focused](https://github.com/manaflow-ai/cmux/issues/2610) 💬 2 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 28.2k | 🟡 help wanted | 2026-10-16 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manaflow-ai/cmux/blob/HEAD/CONTRIBUTING.md) |
 | [Pi first-class parity with Claude Code and Codex (tracker)](https://github.com/manaflow-ai/cmux/issues/14481) 💬 4 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 28.2k | 🟡 help wanted | 2026-10-16 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manaflow-ai/cmux/blob/HEAD/CONTRIBUTING.md) |
+| [Suggestion: Alert in app when theres a new version in Github Releases](https://github.com/omlahore/RemoveMacAI/issues/44) 💬 1 | [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | 4.9k | 🟡 help wanted | 2026-10-16 | [📘 guide](https://github.com/omlahore/RemoveMacAI/blob/HEAD/CONTRIBUTING.md) |
+| [Move the app text into a String Catalog so it can be translated](https://github.com/omlahore/RemoveMacAI/issues/61) | [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | 4.9k | 🟡 help wanted | 2026-10-16 | [📘 guide](https://github.com/omlahore/RemoveMacAI/blob/HEAD/CONTRIBUTING.md) |
+| [A way to get the removemacai command when the app is installed from the zip](https://github.com/omlahore/RemoveMacAI/issues/60) | [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | 4.9k | 🟡 help wanted | 2026-10-16 | [📘 guide](https://github.com/omlahore/RemoveMacAI/blob/HEAD/CONTRIBUTING.md) |
+| [Shell completions for zsh, bash and fish](https://github.com/omlahore/RemoveMacAI/issues/59) | [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | 4.9k | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/omlahore/RemoveMacAI/blob/HEAD/CONTRIBUTING.md) |
+| [Commands accept arguments they do not use](https://github.com/omlahore/RemoveMacAI/issues/58) | [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | 4.9k | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/omlahore/RemoveMacAI/blob/HEAD/CONTRIBUTING.md) |
+| ['removemacai undo' with no tweak names says nothing needs changing](https://github.com/omlahore/RemoveMacAI/issues/57) | [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | 4.9k | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/omlahore/RemoveMacAI/blob/HEAD/CONTRIBUTING.md) |
 | [Help using async/await and ViewInspector in a single test](https://github.com/nalexn/ViewInspector/issues/186) 💬 3 | [nalexn/ViewInspector](https://github.com/nalexn/ViewInspector) | 2.6k | 🟡 help wanted | 2026-10-16 |  |
 | [Support value validations](https://github.com/apple/swift-configuration/issues/64) 💬 1 | [apple/swift-configuration](https://github.com/apple/swift-configuration) | 813 | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/apple/swift-configuration/blob/HEAD/CONTRIBUTING.md) |
 | [CFPrefs provider](https://github.com/apple/swift-configuration/issues/33) | [apple/swift-configuration](https://github.com/apple/swift-configuration) | 813 | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/apple/swift-configuration/blob/HEAD/CONTRIBUTING.md) |
 | [Support other Date decoding strategies than ISO8601](https://github.com/apple/swift-configuration/issues/25) | [apple/swift-configuration](https://github.com/apple/swift-configuration) | 813 | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/apple/swift-configuration/blob/HEAD/CONTRIBUTING.md) |
-| [CLI automation verbs silently ignore trailing arguments and unknown flags](https://github.com/manaflow-ai/cmux/issues/16311) 💬 2 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 28.2k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manaflow-ai/cmux/blob/HEAD/CONTRIBUTING.md) |
 | [Settings: launch-time socketPassword scrub rewrites cmux.json, dropping comments, escaping slashes and replaci](https://github.com/manaflow-ai/cmux/issues/15656) 💬 1 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 28.2k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manaflow-ai/cmux/blob/HEAD/CONTRIBUTING.md) |
 | [Menu labels may be missing (iOS 16)](https://github.com/mozilla-mobile/firefox-ios/issues/32205) 💬 5 | [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 13.1k | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/mozilla-mobile/firefox-ios/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\]: Keep your Mac awake when an agent is running.](https://github.com/AThevon/TokenEater/issues/262) 💬 2 | [AThevon/TokenEater](https://github.com/AThevon/TokenEater) | 516 | 🟡 help wanted | 2026-10-14 | 📄 AI policy · [📘 guide](https://github.com/AThevon/TokenEater/blob/HEAD/CONTRIBUTING.md) |
@@ -30,7 +36,7 @@
 | [0.64.25 auto-set NODE_OPTIONS kills node](https://github.com/manaflow-ai/cmux/issues/15950) 💬 3 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 28.2k | 🟡 help wanted | 2026-10-11 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manaflow-ai/cmux/blob/HEAD/CONTRIBUTING.md) |
 | [Add support for Embedded Swift](https://github.com/swiftlang/swift-testing/issues/977) 💬 12 | [swiftlang/swift-testing](https://github.com/swiftlang/swift-testing) | 2.2k | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/swiftlang/swift-testing/blob/HEAD/CONTRIBUTING.md) |
 | [Would a version for iPadOS be feasible?](https://github.com/awaseem/foqos/issues/287) 💬 10 | [awaseem/foqos](https://github.com/awaseem/foqos) | 874 | 🟡 help wanted | 2026-10-10 |  |
-| [All file names to lower case](https://github.com/lab421/forel/issues/60) 💬 1 | [lab421/forel](https://github.com/lab421/forel) | 831 | 🟡 help wanted | 2026-10-09 | 🤖 disclose AI use |
+| [All file names to lower case](https://github.com/lab421/forel/issues/60) 💬 1 | [lab421/forel](https://github.com/lab421/forel) | 835 | 🟡 help wanted | 2026-10-09 | 🤖 disclose AI use |
 | [window default-display is documented but unreachable](https://github.com/manaflow-ai/cmux/issues/15739) 💬 5 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 28.2k | 🟡 help wanted | 2026-10-08 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manaflow-ai/cmux/blob/HEAD/CONTRIBUTING.md) |
 | [how do i pin the version of swift in my project?](https://github.com/swiftlang/swiftly/issues/517) 💬 2 | [swiftlang/swiftly](https://github.com/swiftlang/swiftly) | 972 | 🟢 beginner | 2026-10-08 |  |
 | [\[Feature\]: keymapping for Mac appstore apps](https://github.com/PlayCover/PlayCover/issues/2209) | [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) | 12k | 🟢 beginner | 2026-10-07 |  |
@@ -63,7 +69,7 @@
 | [Add support for Cygwin](https://github.com/swiftlang/swift-testing/issues/886) 💬 1 | [swiftlang/swift-testing](https://github.com/swiftlang/swift-testing) | 2.2k | 🟡 help wanted | 2026-09-03 | [📘 guide](https://github.com/swiftlang/swift-testing/blob/HEAD/CONTRIBUTING.md) |
 | [test: fix flaky internal profiling API test](https://github.com/getsentry/sentry-cocoa/issues/8637) 💬 1 | [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) | 1.1k | 🟢 beginner | 2026-09-01 | [📘 guide](https://github.com/getsentry/sentry-cocoa/blob/HEAD/CONTRIBUTING.md) |
 | [Fix flaky 'testFlush_WhenNoInternet_BlocksAndFinishes'](https://github.com/getsentry/sentry-cocoa/issues/4704) | [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) | 1.1k | 🟢 beginner | 2026-09-01 | [📘 guide](https://github.com/getsentry/sentry-cocoa/blob/HEAD/CONTRIBUTING.md) |
-| [Feature request: Add a Disable option in the Menu](https://github.com/pablopunk/SwiftShift/issues/158) | [pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift) | 655 | 🟢 beginner | 2026-08-29 |  |
+| [Feature request: Add a Disable option in the Menu](https://github.com/pablopunk/SwiftShift/issues/158) | [pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift) | 656 | 🟢 beginner | 2026-08-29 |  |
 | [Add a Qoder CLI agent manifest](https://github.com/termio-sh/termio/issues/246) | [termio-sh/termio](https://github.com/termio-sh/termio) | 544 | 🟡 help wanted | 2026-08-27 | [📘 guide](https://github.com/termio-sh/termio/blob/HEAD/CONTRIBUTING.md) |
 | [Reduce redundancy in generated OpenAPI definition names](https://github.com/FeatherCMS/feather/issues/125) | [FeatherCMS/feather](https://github.com/FeatherCMS/feather) | 610 | 🟢 beginner | 2026-08-25 |  |
 | [Toolbar buttons draw without their glass capsule on some Macs](https://github.com/termio-sh/termio/issues/371) | [termio-sh/termio](https://github.com/termio-sh/termio) | 544 | 🟡 help wanted | 2026-08-20 | [📘 guide](https://github.com/termio-sh/termio/blob/HEAD/CONTRIBUTING.md) |

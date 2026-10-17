@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/dart.xml)
 
-> Updated automatically on **2026-10-16 20:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-17 10:06 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [\[Feature Request\]: Add a Global setting for "Trim version string with RegEx"](https://github.com/ImranR98/Obtainium/issues/3368) | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.5k | 🟢 beginner | 2026-10-16 | 📄 AI policy · [📘 guide](https://github.com/ImranR98/Obtainium/blob/HEAD/docs/CONTRIBUTING.md) |
+| [Feature Request: Add a Paste Button to the URL TextField](https://github.com/ImranR98/Obtainium/issues/3390) | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.5k | 🟢 beginner | 2026-10-17 | 📄 AI policy · [📘 guide](https://github.com/ImranR98/Obtainium/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Per-app installation method](https://github.com/ImranR98/Obtainium/issues/3340) | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.5k | 🟢 beginner | 2026-10-16 | 📄 AI policy · [📘 guide](https://github.com/ImranR98/Obtainium/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Puzzle streak "skip this move" frustrating behavior](https://github.com/lichess-org/mobile/issues/3838) 💬 5 | [lichess-org/mobile](https://github.com/lichess-org/mobile) | 2.6k | 🟢 beginner | 2026-10-15 | 🤖 disclose AI use · [📘 guide](https://github.com/lichess-org/mobile/blob/HEAD/CONTRIBUTING.md) |
 | [Exception processing in DevTools prevents objects from GCing.](https://github.com/flutter/devtools/issues/4128) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
@@ -51,15 +51,15 @@
 | [Migration guide Firebase to Serverpod](https://github.com/serverpod/serverpod/issues/3337) 💬 8 | [serverpod/serverpod](https://github.com/serverpod/serverpod) | 3.3k | 🟢 beginner | 2026-09-07 | [📘 guide](https://github.com/serverpod/serverpod/blob/HEAD/CONTRIBUTING.md) |
 | [ci: enable the use of a dependancy bot](https://github.com/ImranR98/Obtainium/issues/3275) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.5k | 🟢 beginner | 2026-09-06 | 📄 AI policy · [📘 guide](https://github.com/ImranR98/Obtainium/blob/HEAD/docs/CONTRIBUTING.md) |
 | [\[Flatpak\] Auth: Failed to launch: libsecret_error: Failed to unlock the keyring](https://github.com/ente/ente/issues/6564) 💬 6 | [ente/ente](https://github.com/ente/ente) | 29.4k | 🟡 help wanted | 2026-09-03 | [📘 guide](https://github.com/ente/ente/blob/HEAD/CONTRIBUTING.md) |
-| [\[Bug\] When drag and dropping contact to Bcc, the field isn't highlighted](https://github.com/linagora/tmail-flutter/issues/3074) 💬 1 | [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) | 658 | 🟢 beginner | 2026-08-29 |  |
+| [\[Bug\] When drag and dropping contact to Bcc, the field isn't highlighted](https://github.com/linagora/tmail-flutter/issues/3074) 💬 1 | [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) | 659 | 🟢 beginner | 2026-08-29 |  |
 | [Joplin integration](https://github.com/LinwoodDev/Butterfly/issues/253) 💬 3 | [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) | 2.1k | 🟢 beginner | 2026-08-23 | [📘 guide](https://github.com/LinwoodDev/Butterfly/blob/HEAD/CONTRIBUTING.md) |
-| [Refresh button for manage application page](https://github.com/ubuntu/app-center/issues/2027) | [ubuntu/app-center](https://github.com/ubuntu/app-center) | 930 | 🟢 beginner | 2026-08-17 | ✍️ CLA · [📘 guide](https://github.com/ubuntu/app-center/blob/HEAD/CONTRIBUTING.md) |
+| [Refresh button for manage application page](https://github.com/ubuntu/app-center/issues/2027) | [ubuntu/app-center](https://github.com/ubuntu/app-center) | 931 | 🟢 beginner | 2026-08-17 | ✍️ CLA · [📘 guide](https://github.com/ubuntu/app-center/blob/HEAD/CONTRIBUTING.md) |
 | [Adding a pointer beside the bar rod.](https://github.com/imaNNeo/fl_chart/issues/1480) 💬 6 | [imaNNeo/fl_chart](https://github.com/imaNNeo/fl_chart) | 7.6k | 🟢 beginner | 2026-08-15 | [📘 guide](https://github.com/imaNNeo/fl_chart/blob/HEAD/CONTRIBUTING.md) |
 | [Ente Auth iOS: slow unlock](https://github.com/ente/ente/issues/4749) 💬 10 | [ente/ente](https://github.com/ente/ente) | 29.4k | 🟢 beginner | 2026-08-11 | [📘 guide](https://github.com/ente/ente/blob/HEAD/CONTRIBUTING.md) |
 | [Change message and flag icons on game page for clarity](https://github.com/lichess-org/mobile/issues/3484) 💬 6 | [lichess-org/mobile](https://github.com/lichess-org/mobile) | 2.6k | 🟢 beginner | 2026-08-08 | 🤖 disclose AI use · [📘 guide](https://github.com/lichess-org/mobile/blob/HEAD/CONTRIBUTING.md) |
 | [Add a method to check whether the platform supports dynamic theming](https://github.com/material-foundation/flutter-packages/issues/390) 💬 7 | [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) | 865 | 🟡 help wanted | 2026-08-07 | [📘 guide](https://github.com/material-foundation/flutter-packages/blob/HEAD/CONTRIBUTING.md) |
 | [Improve development experience](https://github.com/material-foundation/flutter-packages/issues/299) | [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) | 865 | 🟡 help wanted | 2026-08-07 | [📘 guide](https://github.com/material-foundation/flutter-packages/blob/HEAD/CONTRIBUTING.md) |
-| [iOS版本播放界面侧滑返回](https://github.com/Predidit/Kazumi/issues/2427) | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 37.3k | 🟡 help wanted | 2026-08-04 |  |
+| [iOS版本播放界面侧滑返回](https://github.com/Predidit/Kazumi/issues/2427) | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 37.5k | 🟡 help wanted | 2026-08-04 |  |
 | [SOCKS5 Proxy/Orbot Support](https://github.com/ImranR98/Obtainium/issues/121) 💬 9 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.5k | 🟡 help wanted | 2026-07-31 | 📄 AI policy · [📘 guide](https://github.com/ImranR98/Obtainium/blob/HEAD/docs/CONTRIBUTING.md) |
 | [gif 动态图打开后不会动态显示](https://github.com/fregie/pho/issues/28) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 | [📘 guide](https://github.com/fregie/pho/blob/HEAD/CONTRIBUTING.md) |
 | [希望可以加入收藏功能](https://github.com/fregie/pho/issues/5) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 | [📘 guide](https://github.com/fregie/pho/blob/HEAD/CONTRIBUTING.md) |
@@ -71,7 +71,7 @@
 | [\[typed_sql\] MariaDB and MySQL support](https://github.com/google/dart-neats/issues/330) | [google/dart-neats](https://github.com/google/dart-neats) | 512 | 🟡 help wanted | 2026-06-09 | ✍️ CLA · [📘 guide](https://github.com/google/dart-neats/blob/HEAD/CONTRIBUTING.md) |
 | [Browers plugin? (eg. Firefox)](https://github.com/authpass/authpass/issues/41) 💬 13 | [authpass/authpass](https://github.com/authpass/authpass) | 2.8k | 🟡 help wanted | 2026-05-29 | ✍️ CLA · [📘 guide](https://github.com/authpass/authpass/blob/HEAD/CONTRIBUTING.md) |
 | [阅黑色背景右和下边会有一个白边](https://github.com/Anxcye/anx-reader/issues/93) 💬 4 | [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) | 9k | 🟡 help wanted | 2026-05-24 | [📘 guide](https://github.com/Anxcye/anx-reader/blob/HEAD/CONTRIBUTING.md) |
-| [feat: implement podcast sync api](https://github.com/ubuntu-flutter-community/musicpod/issues/36) 💬 6 | [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod) | 673 | 🟡 help wanted | 2026-05-20 |  |
+| [feat: implement podcast sync api](https://github.com/ubuntu-flutter-community/musicpod/issues/36) 💬 6 | [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod) | 672 | 🟡 help wanted | 2026-05-20 |  |
 | [Add advanced repeater settings controls in app UI](https://github.com/zjs81/meshcore-open/issues/237) 💬 1 | [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) | 636 | 🟢 beginner | 2026-05-10 | [📘 guide](https://github.com/zjs81/meshcore-open/blob/HEAD/CONTRIBUTING.md) |
 | [\[HDR\] Linux - Native HDR Rendering Support](https://github.com/AimesSoft/NipaPlay-Reload/issues/423) | [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) | 1.8k | 🟡 help wanted | 2026-05-05 |  |
 | [\[HDR\] Android - Native HDR Rendering Support](https://github.com/AimesSoft/NipaPlay-Reload/issues/421) | [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) | 1.8k | 🟡 help wanted | 2026-05-05 |  |

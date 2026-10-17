@@ -1,10 +1,10 @@
 # Nix issues
 
-**14** open issues (7 labeled for beginners) across **9** active Nix projects.
+**13** open issues (7 labeled for beginners) across **8** active Nix projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/nix.xml)
 
-> Updated automatically on **2026-10-16 20:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-17 10:06 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -14,7 +14,6 @@
 | --- | --- | ---: | --- | --- | --- |
 | [Slow formatting and high CPU usage](https://github.com/kamadorueda/alejandra/issues/252) 💬 2 | [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) | 1.4k | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/kamadorueda/alejandra/blob/HEAD/CONTRIBUTING.md) |
 | [Integrate cross-seed](https://github.com/kiriwalawren/nixflix/issues/360) 💬 2 | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 600 | 🟢 beginner | 2026-10-04 |  |
-| [Northstar local network issues](https://github.com/R2Northstar/Northstar/issues/335) 💬 1 | [R2Northstar/Northstar](https://github.com/R2Northstar/Northstar) | 1.8k | 🟡 help wanted | 2026-10-01 | [📘 guide](https://github.com/R2Northstar/Northstar/blob/HEAD/CONTRIBUTING.md) |
 | [Audible artifacts on M2 MBA](https://github.com/nix-community/nixos-apple-silicon/issues/306) 💬 22 | [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) | 1.7k | 🟡 help wanted | 2026-10-01 |  |
 | [Bind services to loopback only by default](https://github.com/kiriwalawren/nixflix/issues/364) | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 600 | 🟢 beginner | 2026-09-29 |  |
 | [Lidarr: Create metadata tags configuration service](https://github.com/kiriwalawren/nixflix/issues/335) 💬 1 | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 600 | 🟢 beginner | 2026-09-25 |  |
