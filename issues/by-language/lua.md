@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/lua.xml)
 
-> Updated automatically on **2026-10-18 10:41 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-18 20:30 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -29,7 +29,7 @@
 | [Implement LAN Multiplayer System And Mode](https://github.com/CorsixTH/CorsixTH/issues/386) 💬 54 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.6k | 🟡 help wanted | 2026-09-18 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
 | [Chewbacca patients should be able to transform into females when they die](https://github.com/CorsixTH/CorsixTH/issues/177) 💬 12 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.6k | 🟡 help wanted | 2026-09-16 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
 | [Locations with known existing but non-public feeds](https://github.com/public-transport/transitous/issues/585) 💬 10 | [public-transport/transitous](https://github.com/public-transport/transitous) | 735 | 🟢 beginner | 2026-09-11 | 📄 AI policy |
-| [\[Feature\] 可否将标注的想法同步到微信读书功能](https://github.com/finlater/weread.koplugin/issues/126) 💬 7 | [finlater/weread.koplugin](https://github.com/finlater/weread.koplugin) | 921 | 🟡 help wanted | 2026-09-05 | [📘 guide](https://github.com/finlater/weread.koplugin/blob/HEAD/CONTRIBUTING.md) |
+| [\[Feature\] 可否将标注的想法同步到微信读书功能](https://github.com/finlater/weread.koplugin/issues/126) 💬 7 | [finlater/weread.koplugin](https://github.com/finlater/weread.koplugin) | 926 | 🟡 help wanted | 2026-09-05 | [📘 guide](https://github.com/finlater/weread.koplugin/blob/HEAD/CONTRIBUTING.md) |
 | [Integrate Swedish realtime feeds](https://github.com/public-transport/transitous/issues/125) 💬 7 | [public-transport/transitous](https://github.com/public-transport/transitous) | 735 | 🟢 beginner | 2026-08-06 | 📄 AI policy |
 | [New ingame Setting Button that opens uikeys.txt](https://github.com/beyond-all-reason/Beyond-All-Reason/issues/3369) 💬 2 | [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) | 4.3k | 🟢 beginner | 2026-07-19 | 🤖 disclose AI use · [📘 guide](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/HEAD/CONTRIBUTING.md) |
 | [Standalone build for macos](https://github.com/teal-language/tl/issues/530) 💬 4 | [teal-language/tl](https://github.com/teal-language/tl) | 2.9k | 🟡 help wanted | 2026-07-08 |  |

@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/julia.xml)
 
-> Updated automatically on **2026-10-18 10:41 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-18 20:30 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Support authentication when downloading files (e.g. artifacts)](https://github.com/JuliaLang/Pkg.jl/issues/4247) 💬 4 | [JuliaLang/Pkg.jl](https://github.com/JuliaLang/Pkg.jl) | 675 | 🟡 help wanted | 2026-10-07 |  |
+| [Support authentication when downloading files (e.g. artifacts)](https://github.com/JuliaLang/Pkg.jl/issues/4247) 💬 4 | [JuliaLang/Pkg.jl](https://github.com/JuliaLang/Pkg.jl) | 676 | 🟡 help wanted | 2026-10-07 |  |
 | [Core.bitcast to LLVMPtr from Float64 generates invalid inttoptr, aborts compilation](https://github.com/JuliaLang/julia/issues/63218) 💬 4 | [JuliaLang/julia](https://github.com/JuliaLang/julia) | 49.2k | 🟢 beginner | 2026-10-06 | 🤖 disclose AI use · [📘 guide](https://github.com/JuliaLang/julia/blob/HEAD/CONTRIBUTING.md) |
 | [Conjugate heat transfer, requires implementation of new temperature scalar transport equation](https://github.com/WaterLily-jl/WaterLily.jl/issues/172) 💬 15 | [WaterLily-jl/WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl) | 853 | 🟡 help wanted | 2026-09-27 |  |
 | [Shell mode doesn't respect Cmd object's env](https://github.com/JuliaLang/julia/issues/51020) 💬 4 | [JuliaLang/julia](https://github.com/JuliaLang/julia) | 49.2k | 🟢 beginner | 2026-09-15 | 🤖 disclose AI use · [📘 guide](https://github.com/JuliaLang/julia/blob/HEAD/CONTRIBUTING.md) |

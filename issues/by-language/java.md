@@ -1,10 +1,10 @@
 # Java issues
 
-**265** open issues (109 labeled for beginners) across **75** active Java projects.
+**266** open issues (110 labeled for beginners) across **75** active Java projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/java.xml)
 
-> Updated automatically on **2026-10-18 10:41 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-18 20:30 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,10 +12,12 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| ['secret()', 'tasksWithState()', 'isDayWeekInMonth()' and 'isLastWorkingDay()' break on JVMs with Turkish local](https://github.com/kestra-io/kestra/issues/21222) 💬 5 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.8k | 🟢 beginner | 2026-10-18 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Replace Bootstrap utility classes in 'ValidationError.vue'](https://github.com/kestra-io/kestra/issues/21040) 💬 12 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.8k | 🟢 beginner | 2026-10-18 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Replace Bootstrap utility classes in 'TaskRunLine.vue'](https://github.com/kestra-io/kestra/issues/21015) 💬 6 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.8k | 🟢 beginner | 2026-10-18 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [No-code duration field writes weeks as P1W, which the backend can't parse](https://github.com/kestra-io/kestra/issues/21197) 💬 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.8k | 🟢 beginner | 2026-10-18 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Add unit tests for handledIf](https://github.com/kestra-io/kestra/issues/20903) 💬 8 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.8k | 🟢 beginner | 2026-10-18 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Plugin documentation section headings (Examples, Properties, Outputs, Metrics, Definitions) are not translated](https://github.com/kestra-io/kestra/issues/21169) 💬 4 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.8k | 🟢 beginner | 2026-10-18 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Triggers dashboard data docs copy the Executions description and have an empty example](https://github.com/kestra-io/kestra/issues/21168) 💬 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.8k | 🟢 beginner | 2026-10-18 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [APK Editor (RE-Build APKs and More)](https://github.com/MuntashirAkon/AppManager/issues/138) 💬 51 | [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) | 9.3k | 🟢 beginner | 2026-10-18 | 🔏 DCO · [📘 guide](https://github.com/MuntashirAkon/AppManager/blob/HEAD/CONTRIBUTING.rst) |
 | [\[Feature\]\[Connector-v2\]\[MySQL\] Support dynamic discovery of new tables for regex-based multi-table sync](https://github.com/apache/seatunnel/issues/10203) 💬 34 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.7k | 🟢 beginner | 2026-10-17 | ✍️ CLA |
 | [Infinite canvas: free mouse panning and continuous zoom](https://github.com/logisim-evolution/logisim-evolution/issues/3074) 💬 1 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.8k | 🟡 help wanted | 2026-10-17 | [📘 guide](https://github.com/logisim-evolution/logisim-evolution/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -94,7 +96,7 @@
 | [Custom wire colors / multi-wire selecting](https://github.com/logisim-evolution/logisim-evolution/issues/1994) 💬 6 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.8k | 🟡 help wanted | 2026-09-28 | [📘 guide](https://github.com/logisim-evolution/logisim-evolution/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Proposal\] Migration planning from Java Logic Simulator to Logisim](https://github.com/logisim-evolution/logisim-evolution/issues/3005) 💬 1 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.8k | 🟡 help wanted | 2026-09-28 | [📘 guide](https://github.com/logisim-evolution/logisim-evolution/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Disable Apache client5 cookie manager by default](https://github.com/spring-cloud/spring-cloud-gateway/issues/3311) 💬 9 | [spring-cloud/spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway) | 4.9k | 🟡 help wanted | 2026-09-28 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/spring-cloud/spring-cloud-gateway/blob/HEAD/.github/CONTRIBUTING.md) |
-| [\[Question\] Add monitoring grouping function](https://github.com/apache/hertzbeat/issues/698) 💬 2 | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/apache/hertzbeat/blob/HEAD/CONTRIBUTING.md) |
+| [\[Question\] Add monitoring grouping function](https://github.com/apache/hertzbeat/issues/698) 💬 2 | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟡 help wanted | 2026-09-27 | 📄 AI policy · [📘 guide](https://github.com/apache/hertzbeat/blob/HEAD/CONTRIBUTING.md) |
 | [Matlab analyzer wanted](https://github.com/oracle/opengrok/issues/3419) 💬 12 | [oracle/opengrok](https://github.com/oracle/opengrok) | 5k | 🟡 help wanted | 2026-09-26 | 🔏 DCO · [📘 guide](https://github.com/oracle/opengrok/blob/HEAD/CONTRIBUTING.md) |
 | [Batch offline service based on IP address](https://github.com/alibaba/nacos/issues/2272) 💬 24 | [alibaba/nacos](https://github.com/alibaba/nacos) | 33.5k | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/alibaba/nacos/blob/HEAD/CONTRIBUTING.md) |
 | [Support for Azure Cognitive Services Speech SDK](https://github.com/spring-projects/spring-ai/issues/1165) 💬 9 | [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) | 9.6k | 🟡 help wanted | 2026-09-24 | 🤖 disclose AI use · ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/spring-projects/spring-ai/blob/HEAD/CONTRIBUTING.md) |
@@ -198,7 +200,6 @@
 | [Oracle Geometry type not handled / not queryable in Trino](https://github.com/trinodb/trino/issues/30020) 💬 3 | [trinodb/trino](https://github.com/trinodb/trino) | 13.3k | 🟢 beginner | 2026-07-21 | ✍️ CLA · [📘 guide](https://github.com/trinodb/trino/blob/HEAD/.github/CONTRIBUTING.md) |
 | [RTools download progress dialog isn't focused](https://github.com/rstudio/rstudio/issues/11521) 💬 2 | [rstudio/rstudio](https://github.com/rstudio/rstudio) | 5.1k | 🟢 beginner | 2026-07-21 | [📘 guide](https://github.com/rstudio/rstudio/blob/HEAD/CONTRIBUTING.md) |
 | [\[FEATURE\] Native volume key / Bluetooth shutter shortcut for FadShot during video recording](https://github.com/anonfaded/FadCam/issues/292) 💬 2 | [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | 2.8k | 🟢 beginner | 2026-07-21 |  |
-| [\[FEATURE\] Bookmark important timestamps during recording](https://github.com/anonfaded/FadCam/issues/314) | [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | 2.8k | 🟢 beginner | 2026-07-19 |  |
 | [The MavenMetaAnalyzer task fails due to invalid URLs](https://github.com/DependencyTrack/dependency-track/issues/3566) 💬 2 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟢 beginner | 2026-07-16 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/DependencyTrack/dependency-track/blob/HEAD/CONTRIBUTING.md) |
 | [\[FEATURE\] Separate FadShot photo resolution from video recording resolution](https://github.com/anonfaded/FadCam/issues/293) | [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | 2.8k | 🟢 beginner | 2026-07-16 |  |
 | [\[FEATURE\] Configurable watermark font size for videos and FadShot photos](https://github.com/anonfaded/FadCam/issues/294) | [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | 2.8k | 🟢 beginner | 2026-07-16 |  |
@@ -211,6 +212,5 @@
 | [\[JENKINS-42816\] Agent terminology cleanup](https://github.com/jenkinsci/jenkins/issues/21944) 💬 9 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 26.7k | 🟡 help wanted | 2026-07-08 | ✍️ CLA · [📘 guide](https://github.com/jenkinsci/jenkins/blob/HEAD/CONTRIBUTING.md) |
 | [Improve UX for beginner users](https://github.com/Col-E/Recaf/issues/230) | [Col-E/Recaf](https://github.com/Col-E/Recaf) | 7.4k | 🟡 help wanted | 2026-07-08 | [📘 guide](https://github.com/Col-E/Recaf/blob/HEAD/CONTRIBUTING.md) |
 | [Disable colors in logs](https://github.com/tchiotludo/akhq/issues/917) 💬 9 | [tchiotludo/akhq](https://github.com/tchiotludo/akhq) | 3.9k | 🟢 beginner | 2026-07-08 |  |
-| [Consider expanding the HttpClient to support a query parameter and fragment builders.](https://github.com/reactor/reactor-netty/issues/753) 💬 5 | [reactor/reactor-netty](https://github.com/reactor/reactor-netty) | 2.8k | 🟡 help wanted | 2026-07-07 |  |
 
-Showing the 200 most recently updated. See all 265 on the website.
+Showing the 200 most recently updated. See all 266 on the website.

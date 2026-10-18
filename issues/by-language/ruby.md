@@ -1,10 +1,10 @@
 # Ruby issues
 
-**81** open issues (58 labeled for beginners) across **29** active Ruby projects.
+**79** open issues (57 labeled for beginners) across **29** active Ruby projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-10-18 10:41 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-18 20:30 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -17,7 +17,6 @@
 | [Thread::Backtrace::Location#label for top-level blocks includes filename instead of &lt;main&gt;](https://github.com/jruby/jruby/issues/5166) 💬 5 | [jruby/jruby](https://github.com/jruby/jruby) | 3.9k | 🟢 beginner | 2026-10-10 | [📘 guide](https://github.com/jruby/jruby/blob/HEAD/CONTRIBUTING.md) |
 | [Add Hokuriku RubyKaigi 02](https://github.com/rubyevents/rubyevents/issues/2178) | [rubyevents/rubyevents](https://github.com/rubyevents/rubyevents) | 570 | 🟢 beginner | 2026-10-09 | [📘 guide](https://github.com/rubyevents/rubyevents/blob/HEAD/CONTRIBUTING.md) |
 | [Configure default questions by Assistant](https://github.com/AllYourBot/hostedgpt/issues/805) 💬 1 | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 513 | 🟢 beginner | 2026-10-08 | [📘 guide](https://github.com/AllYourBot/hostedgpt/blob/HEAD/CONTRIBUTING.md) |
-| [Helm: images inside lists in values files are never detected (find_images_in_hash never calls handle_array_val](https://github.com/dependabot/dependabot-core/issues/16425) | [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) | 5.8k | 🟡 help wanted | 2026-10-06 | [📘 guide](https://github.com/dependabot/dependabot-core/blob/HEAD/CONTRIBUTING.md) |
 | [Canceling comment edit triggers a JS exception and doesn't cancel](https://github.com/lobsters/lobsters/issues/2215) 💬 2 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-10-05 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Isolated reply comment form allows for two different reply forms.](https://github.com/lobsters/lobsters/issues/2098) 💬 2 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-09-30 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Mark actions as destructive](https://github.com/avo-hq/avo/issues/2082) 💬 1 | [avo-hq/avo](https://github.com/avo-hq/avo) | 1.8k | 🟡 help wanted | 2026-09-28 | ✍️ CLA |
@@ -77,7 +76,6 @@
 | [Automated Performance Testing](https://github.com/lobsters/lobsters/issues/2016) 💬 5 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-06-16 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [bug?: "prompted for a comment when submitting this entry because of a similar entry"](https://github.com/lobsters/lobsters/issues/2069) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-06-11 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [New comment appears at the top of parent when replying in isolated form](https://github.com/lobsters/lobsters/issues/2061) 💬 2 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-06-11 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
-| [Stats Page doesn't Display Graphs Anymore](https://github.com/lobsters/lobsters/issues/1562) 💬 5 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-06-04 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Redesign VM Reconfigure Dialogs](https://github.com/ManageIQ/manageiq/issues/23832) | [ManageIQ/manageiq](https://github.com/ManageIQ/manageiq) | 1.4k | 🟡 help wanted | 2026-06-03 | [📘 guide](https://github.com/ManageIQ/manageiq/blob/HEAD/CONTRIBUTING.md) |
 | [Clean up github-based projects in catalog](https://github.com/rubytoolbox/rubytoolbox/issues/75) 💬 2 | [rubytoolbox/rubytoolbox](https://github.com/rubytoolbox/rubytoolbox) | 549 | 🟡 help wanted | 2026-05-26 |  |
 | [Share Button](https://github.com/manyfold3d/manyfold/issues/3856) 💬 4 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-05-21 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
