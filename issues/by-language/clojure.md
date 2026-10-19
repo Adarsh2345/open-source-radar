@@ -1,10 +1,10 @@
 # Clojure issues
 
-**23** open issues (20 labeled for beginners) across **10** active Clojure projects.
+**24** open issues (21 labeled for beginners) across **9** active Clojure projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/clojure.xml)
 
-> Updated automatically on **2026-10-18 20:30 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-19 22:23 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,8 +12,10 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Zombie chrome-headless processes created on element export](https://github.com/penpot/penpot/issues/10339) 💬 3 | [penpot/penpot](https://github.com/penpot/penpot) | 61.3k | 🟢 beginner | 2026-10-18 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/penpot/penpot/blob/HEAD/CONTRIBUTING.md) |
-| [Keep the search when changing library in the Swap component menu](https://github.com/penpot/penpot/issues/12335) 💬 2 | [penpot/penpot](https://github.com/penpot/penpot) | 61.3k | 🟢 beginner | 2026-10-18 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/penpot/penpot/blob/HEAD/CONTRIBUTING.md) |
+| [Context menu item are displayed on two lines when too long](https://github.com/penpot/penpot/issues/12320) | [penpot/penpot](https://github.com/penpot/penpot) | 61.4k | 🟢 beginner | 2026-10-19 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/penpot/penpot/blob/HEAD/CONTRIBUTING.md) |
+| [Improve the Open Decklists' deckview.](https://github.com/mtgred/netrunner/issues/7890) 💬 1 | [mtgred/netrunner](https://github.com/mtgred/netrunner) | 985 | 🟢 beginner | 2026-10-19 | [📘 guide](https://github.com/mtgred/netrunner/blob/HEAD/CONTRIBUTING.md) |
+| [Zombie chrome-headless processes created on element export](https://github.com/penpot/penpot/issues/10339) 💬 3 | [penpot/penpot](https://github.com/penpot/penpot) | 61.4k | 🟢 beginner | 2026-10-18 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/penpot/penpot/blob/HEAD/CONTRIBUTING.md) |
+| [Keep the search when changing library in the Swap component menu](https://github.com/penpot/penpot/issues/12335) 💬 2 | [penpot/penpot](https://github.com/penpot/penpot) | 61.4k | 🟢 beginner | 2026-10-18 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/penpot/penpot/blob/HEAD/CONTRIBUTING.md) |
 | [Redundant scrollbar shows when scrolling a container that contains tooltips](https://github.com/metabase/metabase/issues/83643) 💬 1 | [metabase/metabase](https://github.com/metabase/metabase) | 49.7k | 🟢 beginner | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Range inputs in chart settings only update the chart on blur](https://github.com/metabase/metabase/issues/83442) 💬 1 | [metabase/metabase](https://github.com/metabase/metabase) | 49.7k | 🟢 beginner | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Gauge loses all its ranges when one Min or Max is empty](https://github.com/metabase/metabase/issues/83439) 💬 1 | [metabase/metabase](https://github.com/metabase/metabase) | 49.7k | 🟢 beginner | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
@@ -23,7 +25,6 @@
 | [SQL transform editor: Cmd+Return only runs the query while the cursor is in the SQL text](https://github.com/metabase/metabase/issues/83982) 💬 1 | [metabase/metabase](https://github.com/metabase/metabase) | 49.7k | 🟢 beginner | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Table editing: Description cell editor grows its row and renders behind the rows below](https://github.com/metabase/metabase/issues/84219) 💬 1 | [metabase/metabase](https://github.com/metabase/metabase) | 49.7k | 🟢 beginner | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Alert "Send now" gives no feedback when the send succeeds](https://github.com/metabase/metabase/issues/84431) 💬 1 | [metabase/metabase](https://github.com/metabase/metabase) | 49.7k | 🟢 beginner | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
-| [a mixed-type argument should reach the server over Flight SQL](https://github.com/xtdb/xtdb/issues/6215) | [xtdb/xtdb](https://github.com/xtdb/xtdb) | 3.1k | 🟢 beginner | 2026-10-18 |  |
 | [What companies or projects are using Datalevin?](https://github.com/datalevin/datalevin/issues/383) 💬 7 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1.5k | 🟡 help wanted | 2026-10-07 |  |
 | [Page is duplicated in favorites after renaming](https://github.com/logseq/logseq/issues/8596) 💬 4 | [logseq/logseq](https://github.com/logseq/logseq) | 45.3k | 🟢 beginner | 2026-10-01 | ✍️ CLA · [📘 guide](https://github.com/logseq/logseq/blob/HEAD/CONTRIBUTING.md) |
 | [Web Search Tool](https://github.com/editor-code-assistant/eca/issues/70) 💬 8 | [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) | 1k | 🟢 beginner | 2026-09-15 |  |
