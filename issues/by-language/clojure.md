@@ -1,10 +1,10 @@
 # Clojure issues
 
-**24** open issues (21 labeled for beginners) across **9** active Clojure projects.
+**23** open issues (20 labeled for beginners) across **9** active Clojure projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/clojure.xml)
 
-> Updated automatically on **2026-10-20 11:01 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-20 21:26 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -24,7 +24,6 @@
 | [Query builder transform: preview cannot be rerun, and the "⌘ + return" hint does nothing](https://github.com/metabase/metabase/issues/83979) 💬 1 | [metabase/metabase](https://github.com/metabase/metabase) | 49.8k | 🟢 beginner | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [SQL transform editor: Cmd+Return only runs the query while the cursor is in the SQL text](https://github.com/metabase/metabase/issues/83982) 💬 1 | [metabase/metabase](https://github.com/metabase/metabase) | 49.8k | 🟢 beginner | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Table editing: Description cell editor grows its row and renders behind the rows below](https://github.com/metabase/metabase/issues/84219) 💬 1 | [metabase/metabase](https://github.com/metabase/metabase) | 49.8k | 🟢 beginner | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
-| [Alert "Send now" gives no feedback when the send succeeds](https://github.com/metabase/metabase/issues/84431) 💬 1 | [metabase/metabase](https://github.com/metabase/metabase) | 49.8k | 🟢 beginner | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [What companies or projects are using Datalevin?](https://github.com/datalevin/datalevin/issues/383) 💬 7 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1.5k | 🟡 help wanted | 2026-10-07 |  |
 | [Page is duplicated in favorites after renaming](https://github.com/logseq/logseq/issues/8596) 💬 4 | [logseq/logseq](https://github.com/logseq/logseq) | 45.3k | 🟢 beginner | 2026-10-01 | ✍️ CLA · [📘 guide](https://github.com/logseq/logseq/blob/HEAD/CONTRIBUTING.md) |
 | [Web Search Tool](https://github.com/editor-code-assistant/eca/issues/70) 💬 8 | [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) | 1k | 🟢 beginner | 2026-09-15 |  |

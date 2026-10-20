@@ -1,10 +1,10 @@
 # Julia issues
 
-**54** open issues (40 labeled for beginners) across **15** active Julia projects.
+**55** open issues (40 labeled for beginners) across **15** active Julia projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/julia.xml)
 
-> Updated automatically on **2026-10-20 11:01 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-20 21:26 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -37,10 +37,11 @@
 | [Document Mem.pin more explicitly to make it more findable](https://github.com/JuliaGPU/CUDA.jl/issues/1570) | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
 | [Base.stack is underperforming.](https://github.com/JuliaGPU/CUDA.jl/issues/2248) 💬 2 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
 | [Support CuDeviceArray construction with non-Int dims](https://github.com/JuliaGPU/CUDA.jl/issues/2846) 💬 1 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
+| [FFT on real array with 'plan_fft(x)' is 50% slower than PyTorch](https://github.com/JuliaGPU/CUDA.jl/issues/2419) 💬 1 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟡 help wanted | 2026-10-19 |  |
 | [Accept static sizes as keyword arguments](https://github.com/JuliaGPU/KernelAbstractions.jl/issues/570) 💬 2 | [JuliaGPU/KernelAbstractions.jl](https://github.com/JuliaGPU/KernelAbstractions.jl) | 531 | 🟢 beginner | 2026-10-19 |  |
 | ['KA.copyto!' between gpu arrays not tested.](https://github.com/JuliaGPU/KernelAbstractions.jl/issues/474) | [JuliaGPU/KernelAbstractions.jl](https://github.com/JuliaGPU/KernelAbstractions.jl) | 531 | 🟢 beginner | 2026-10-19 |  |
 | [Implement 'KernelAbstractions.get_backend(::Memory{Float64})'](https://github.com/JuliaGPU/KernelAbstractions.jl/issues/691) 💬 2 | [JuliaGPU/KernelAbstractions.jl](https://github.com/JuliaGPU/KernelAbstractions.jl) | 531 | 🟢 beginner | 2026-10-19 |  |
-| [Support authentication when downloading files (e.g. artifacts)](https://github.com/JuliaLang/Pkg.jl/issues/4247) 💬 4 | [JuliaLang/Pkg.jl](https://github.com/JuliaLang/Pkg.jl) | 676 | 🟡 help wanted | 2026-10-07 |  |
+| [Support authentication when downloading files (e.g. artifacts)](https://github.com/JuliaLang/Pkg.jl/issues/4247) 💬 4 | [JuliaLang/Pkg.jl](https://github.com/JuliaLang/Pkg.jl) | 677 | 🟡 help wanted | 2026-10-07 |  |
 | [Core.bitcast to LLVMPtr from Float64 generates invalid inttoptr, aborts compilation](https://github.com/JuliaLang/julia/issues/63218) 💬 4 | [JuliaLang/julia](https://github.com/JuliaLang/julia) | 49.2k | 🟢 beginner | 2026-10-06 | 🤖 disclose AI use · [📘 guide](https://github.com/JuliaLang/julia/blob/HEAD/CONTRIBUTING.md) |
 | [Conjugate heat transfer, requires implementation of new temperature scalar transport equation](https://github.com/WaterLily-jl/WaterLily.jl/issues/172) 💬 15 | [WaterLily-jl/WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl) | 853 | 🟡 help wanted | 2026-09-27 |  |
 | [Missing Rmath derivatives](https://github.com/EnzymeAD/Enzyme.jl/issues/1620) 💬 2 | [EnzymeAD/Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl) | 589 | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/EnzymeAD/Enzyme.jl/blob/HEAD/CONTRIBUTING.md) |
@@ -60,7 +61,7 @@
 | [Implement '@formula' support in 'Kriging' model](https://github.com/JuliaEarth/GeoStats.jl/issues/573) 💬 2 | [JuliaEarth/GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) | 591 | 🟡 help wanted | 2026-07-04 | [📘 guide](https://github.com/JuliaEarth/GeoStats.jl/blob/HEAD/CONTRIBUTING.md) |
 | [Space between unary prefix operator and operand is not removed](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/281) 💬 5 | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 646 | 🟢 beginner | 2026-07-01 |  |
 | [Option for whitespace surrounding parenthesis/brackets?](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/1084) 💬 1 | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 646 | 🟢 beginner | 2026-06-17 |  |
-| [Error with quadrilateral mesh generated from Gmsh + Lowest-order Nedelec FEs](https://github.com/gridap/Gridap.jl/issues/811) 💬 10 | [gridap/Gridap.jl](https://github.com/gridap/Gridap.jl) | 885 | 🟡 help wanted | 2026-06-10 | 🔏 DCO · [📘 guide](https://github.com/gridap/Gridap.jl/blob/HEAD/CONTRIBUTING.md) |
+| [Error with quadrilateral mesh generated from Gmsh + Lowest-order Nedelec FEs](https://github.com/gridap/Gridap.jl/issues/811) 💬 10 | [gridap/Gridap.jl](https://github.com/gridap/Gridap.jl) | 886 | 🟡 help wanted | 2026-06-10 | 🔏 DCO · [📘 guide](https://github.com/gridap/Gridap.jl/blob/HEAD/CONTRIBUTING.md) |
 | [make this repo's pre-commit hook use 'julia --project=. -e'](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/1028) | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 646 | 🟢 beginner | 2026-06-08 |  |
 | [Whitespace removed outside of indices](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/651) | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 646 | 🟢 beginner | 2026-06-07 |  |
 | [Cannot combine @simd and @threads on a loop](https://github.com/JuliaLang/julia/issues/32684) 💬 5 | [JuliaLang/julia](https://github.com/JuliaLang/julia) | 49.2k | 🟢 beginner | 2026-06-06 | 🤖 disclose AI use · [📘 guide](https://github.com/JuliaLang/julia/blob/HEAD/CONTRIBUTING.md) |
