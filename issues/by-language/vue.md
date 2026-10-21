@@ -1,10 +1,10 @@
 # Vue issues
 
-**29** open issues (19 labeled for beginners) across **9** active Vue projects.
+**30** open issues (20 labeled for beginners) across **10** active Vue projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/vue.xml)
 
-> Updated automatically on **2026-10-20 21:26 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-21 11:03 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [使用客户端发送消息时没有选择压缩条件，但实际消息好像还是进行了Snappy 压缩](https://github.com/Bronya0/Kafka-King/issues/117) 💬 1 | [Bronya0/Kafka-King](https://github.com/Bronya0/Kafka-King) | 1.3k | 🟢 beginner | 2026-10-21 |  |
 | [Teams overview: toggle option between wide and narrow mode with tags and content information](https://github.com/Smaug6739/Alexandrie/issues/771) 💬 1 | [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) | 3.3k | 🟢 beginner | 2026-10-20 | [📘 guide](https://github.com/Smaug6739/Alexandrie/blob/HEAD/CONTRIBUTING.md) |
 | [Authentik - SSO - Picture field leads to "Data too long for column 'avatar'"](https://github.com/Smaug6739/Alexandrie/issues/775) 💬 2 | [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) | 3.3k | 🟢 beginner | 2026-10-18 | [📘 guide](https://github.com/Smaug6739/Alexandrie/blob/HEAD/CONTRIBUTING.md) |
 | [关于AIPPT的各种常见问题说明](https://github.com/pipipi-pikachu/PPTist/issues/354) 💬 14 | [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) | 9.4k | 🟡 help wanted | 2026-10-15 |  |

@@ -1,10 +1,10 @@
 # Nix issues
 
-**13** open issues (7 labeled for beginners) across **8** active Nix projects.
+**14** open issues (7 labeled for beginners) across **9** active Nix projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/nix.xml)
 
-> Updated automatically on **2026-10-20 21:26 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-21 11:03 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [nvim-dap pwa-node adapter leaves ${port} unresolved, causing Node attach failures](https://github.com/NotAShelf/nvf/issues/1848) 💬 7 | [NotAShelf/nvf](https://github.com/NotAShelf/nvf) | 1.7k | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/NotAShelf/nvf/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Slow formatting and high CPU usage](https://github.com/kamadorueda/alejandra/issues/252) 💬 2 | [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) | 1.4k | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/kamadorueda/alejandra/blob/HEAD/CONTRIBUTING.md) |
 | [Integrate cross-seed](https://github.com/kiriwalawren/nixflix/issues/360) 💬 2 | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 607 | 🟢 beginner | 2026-10-04 |  |
 | [Audible artifacts on M2 MBA](https://github.com/nix-community/nixos-apple-silicon/issues/306) 💬 22 | [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) | 1.7k | 🟡 help wanted | 2026-10-01 |  |
@@ -22,6 +23,6 @@
 | [In-editor "enabled options" and "documentation"](https://github.com/nix-community/nixvim/issues/1706) 💬 1 | [nix-community/nixvim](https://github.com/nix-community/nixvim) | 3k | 🟡 help wanted | 2026-07-29 | [📘 guide](https://github.com/nix-community/nixvim/blob/HEAD/CONTRIBUTING.md) |
 | [Documentation for the disko configuration format](https://github.com/nix-community/disko/issues/817) 💬 8 | [nix-community/disko](https://github.com/nix-community/disko) | 3.4k | 🟡 help wanted | 2026-07-11 | [📘 guide](https://github.com/nix-community/disko/blob/HEAD/CONTRIBUTING.md) |
 | [Use smbios to pass systemd credentials instead of fw_cfg](https://github.com/microvm-nix/microvm.nix/issues/511) 💬 1 | [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) | 3k | 🟢 beginner | 2026-06-30 |  |
-| [Cannot set font with qt5ct](https://github.com/catppuccin/nix/issues/368) 💬 1 | [catppuccin/nix](https://github.com/catppuccin/nix) | 771 | 🟡 help wanted | 2026-05-21 |  |
+| [Cannot set font with qt5ct](https://github.com/catppuccin/nix/issues/368) 💬 1 | [catppuccin/nix](https://github.com/catppuccin/nix) | 772 | 🟡 help wanted | 2026-05-21 |  |
 | [random failures during script "cannot open /dev/disk/by-partlabel/disk-sda-boot"](https://github.com/nix-community/disko/issues/739) 💬 5 | [nix-community/disko](https://github.com/nix-community/disko) | 3.4k | 🟡 help wanted | 2026-05-15 | [📘 guide](https://github.com/nix-community/disko/blob/HEAD/CONTRIBUTING.md) |
 | [vsock support with vfkit runner](https://github.com/microvm-nix/microvm.nix/issues/513) 💬 4 | [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) | 3k | 🟡 help wanted | 2026-05-02 |  |

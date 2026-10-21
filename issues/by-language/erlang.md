@@ -1,10 +1,10 @@
 # Erlang issues
 
-**31** open issues (0 labeled for beginners) across **2** active Erlang projects.
+**30** open issues (0 labeled for beginners) across **2** active Erlang projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/erlang.xml)
 
-> Updated automatically on **2026-10-20 21:26 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-21 11:03 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [shell:whereis/0 raises badarg when user_drv is not running](https://github.com/erlang/otp/issues/11819) 💬 1 | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-19 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [asn1: BER generation shifts an unresolved formal used as an APPLICATION tag number](https://github.com/erlang/otp/issues/11861) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-19 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [asn1: cstring tokenization rejects doubled quotation marks and physical newlines](https://github.com/erlang/otp/issues/11860) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-19 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [asn1: an outer extension marker on an intersection drops the effective size and extension bit](https://github.com/erlang/otp/issues/11859) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-19 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |

@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**51** open issues (26 labeled for beginners) across **13** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
+**53** open issues (26 labeled for beginners) across **13** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
 
-> Updated automatically on **2026-10-20 21:26 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-21 11:03 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +10,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Update speed tests to measure GPU performance for cuPQC code](https://github.com/open-quantum-safe/liboqs/issues/2160) 💬 43 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
 | [Possible key lifetime issue in OSSL_PARAM_BLD_to_param() — OpenSSL 4.1 beta](https://github.com/openssl/openssl/issues/33264) 💬 4 | [openssl/openssl](https://github.com/openssl/openssl) | 31k | 🟡 help wanted | 2026-10-20 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [OpenSSL accepts non-DER TRUE encoding in the CRL Number extension](https://github.com/openssl/openssl/issues/33239) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31k | 🟡 help wanted | 2026-10-19 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [duplicate synopsys for i2d_TYPE set of functions](https://github.com/openssl/openssl/issues/33182) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31k | 🟢 beginner | 2026-10-19 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
@@ -35,7 +36,6 @@
 | [OpenSSL retains consumed TLS 1.3 stage secrets](https://github.com/openssl/openssl/issues/32213) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 31k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [Adding FAEST](https://github.com/open-quantum-safe/liboqs/issues/2101) 💬 14 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-01 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
 | [Syncing archive node from era files](https://github.com/ethereum/go-ethereum/issues/35354) 💬 4 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51.4k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/ethereum/go-ethereum/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Update speed tests to measure GPU performance for cuPQC code](https://github.com/open-quantum-safe/liboqs/issues/2160) 💬 42 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-09-16 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Enable Banking with "imagin / CaixaBank" bank linking fails on desktop but works on mobile browser](https://github.com/actualbudget/actual/issues/8326) 💬 9 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟡 help wanted | 2026-09-13 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: All Accounts totals do not match when a closed account has a balance](https://github.com/actualbudget/actual/issues/5413) 💬 6 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟢 beginner | 2026-09-13 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [Consider bounded CBMC proofs for liboqs-owned code](https://github.com/open-quantum-safe/liboqs/issues/2504) 💬 1 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-08-21 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
@@ -46,6 +46,8 @@
 | [\[Bug\]: Notifications overlapping](https://github.com/actualbudget/actual/issues/3536) 💬 3 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟢 beginner | 2026-07-21 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Can't click off to close filter menu with select open](https://github.com/actualbudget/actual/issues/3051) 💬 6 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟢 beginner | 2026-07-21 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Filtered balance on Split's notes not calculating properly](https://github.com/actualbudget/actual/issues/4381) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟡 help wanted | 2026-07-21 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
+| [\[Bug\]: Unable to type in fields when editing reports on mobile browsers](https://github.com/actualbudget/actual/issues/4285) 💬 3 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟡 help wanted | 2026-07-21 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
+| [\[Bug\]: App not loading on mobile / Safari iOS](https://github.com/actualbudget/actual/issues/3575) 💬 5 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟡 help wanted | 2026-07-21 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [Provide better message for transactionAPI](https://github.com/saleor/saleor/issues/13951) 💬 5 | [saleor/saleor](https://github.com/saleor/saleor) | 23.5k | 🟢 beginner | 2026-07-01 | [📘 guide](https://github.com/saleor/saleor/blob/HEAD/CONTRIBUTING.md) |
 | [parseLedgerHashes accepts negative int then throws on asUInt conversion](https://github.com/XRPLF/rippled/issues/6768) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-06-26 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
 | [Notify user, when response of Hub Authentication takes a long time](https://github.com/cryptomator/cryptomator/issues/3162) 💬 3 | [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) | 16.3k | 🟢 beginner | 2026-06-24 | [📘 guide](https://github.com/cryptomator/cryptomator/blob/HEAD/.github/CONTRIBUTING.md) |
