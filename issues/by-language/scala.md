@@ -1,10 +1,10 @@
 # Scala issues
 
-**38** open issues (20 labeled for beginners) across **18** active Scala projects.
+**36** open issues (18 labeled for beginners) across **18** active Scala projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-10-21 11:03 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-21 21:24 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,8 +13,6 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [chore: Improve cast MapType to String](https://github.com/apache/datafusion-comet/issues/4631) 💬 2 | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-10-20 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
-| [Reuse hash_list_primitive! for string/binary list elements and factor out map-entry hashing loops](https://github.com/apache/datafusion-comet/issues/6984) 💬 1 | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
-| [Replace duplicated scalar/array broadcast match in math_funcs with a shared helper](https://github.com/apache/datafusion-comet/issues/6982) 💬 1 | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [Extract a variable-length slot writer from TypedElements::write_elements_slow in columnar_to_row.rs](https://github.com/apache/datafusion-comet/issues/6981) 💬 1 | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [Deduplicate ASCII and char paths in levenshtein_distance_with_threshold](https://github.com/apache/datafusion-comet/issues/6980) 💬 1 | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [Deduplicate field-major struct append paths in shuffle spark_unsafe/row.rs](https://github.com/apache/datafusion-comet/issues/6977) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟡 help wanted | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
@@ -39,8 +37,8 @@
 | [\[EPIC\] Replace hand-rolled native code with existing arrow-rs kernels](https://github.com/apache/datafusion-comet/issues/5104) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-08-03 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [\[FEATURE\] Interval analysis to improve a..b](https://github.com/apalache-mc/apalache/issues/446) | [apalache-mc/apalache](https://github.com/apalache-mc/apalache) | 614 | 🟡 help wanted | 2026-08-02 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/apalache-mc/apalache/blob/HEAD/CONTRIBUTING.md) |
 | [\[FEATURE\] Detect uninitialized 'CONSTANT's in the 'ConfigurationPass'](https://github.com/apalache-mc/apalache/issues/1274) | [apalache-mc/apalache](https://github.com/apalache-mc/apalache) | 614 | 🟢 beginner | 2026-08-02 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/apalache-mc/apalache/blob/HEAD/CONTRIBUTING.md) |
-| [ScalaSQL support](https://github.com/Iltotore/iron/issues/375) | [Iltotore/iron](https://github.com/Iltotore/iron) | 561 | 🟢 beginner | 2026-07-06 | [📘 guide](https://github.com/Iltotore/iron/blob/HEAD/CONTRIBUTING.md) |
-| [Cask support](https://github.com/Iltotore/iron/issues/374) | [Iltotore/iron](https://github.com/Iltotore/iron) | 561 | 🟢 beginner | 2026-07-02 | [📘 guide](https://github.com/Iltotore/iron/blob/HEAD/CONTRIBUTING.md) |
+| [ScalaSQL support](https://github.com/Iltotore/iron/issues/375) | [Iltotore/iron](https://github.com/Iltotore/iron) | 562 | 🟢 beginner | 2026-07-06 | [📘 guide](https://github.com/Iltotore/iron/blob/HEAD/CONTRIBUTING.md) |
+| [Cask support](https://github.com/Iltotore/iron/issues/374) | [Iltotore/iron](https://github.com/Iltotore/iron) | 562 | 🟢 beginner | 2026-07-02 | [📘 guide](https://github.com/Iltotore/iron/blob/HEAD/CONTRIBUTING.md) |
 | [SFTP and SSH resolvers are not correctly used to download dependencies since 0.13.1](https://github.com/sbt/sbt/issues/1810) 💬 16 | [sbt/sbt](https://github.com/sbt/sbt) | 5k | 🟡 help wanted | 2026-06-27 | ✍️ CLA · [📘 guide](https://github.com/sbt/sbt/blob/HEAD/CONTRIBUTING.md) |
 | [\[2.x\] '@cacheLevel' and '@transient' annotation does not work if local val](https://github.com/sbt/sbt/issues/9162) 💬 2 | [sbt/sbt](https://github.com/sbt/sbt) | 5k | 🟡 help wanted | 2026-06-27 | ✍️ CLA · [📘 guide](https://github.com/sbt/sbt/blob/HEAD/CONTRIBUTING.md) |
 | [clean does not seem to work with java projects](https://github.com/sbt/sbt/issues/7187) 💬 2 | [sbt/sbt](https://github.com/sbt/sbt) | 5k | 🟡 help wanted | 2026-06-27 | ✍️ CLA · [📘 guide](https://github.com/sbt/sbt/blob/HEAD/CONTRIBUTING.md) |

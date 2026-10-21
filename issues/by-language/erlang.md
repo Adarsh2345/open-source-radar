@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/erlang.xml)
 
-> Updated automatically on **2026-10-21 11:03 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-21 21:24 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -41,4 +41,4 @@
 | [asn1: a default tag on an untagged dummy reference is applied implicitly under IMPLICIT TAGS](https://github.com/erlang/otp/issues/11871) 💬 2 | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-19 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [asn1: FROM with a contained alphabet type causes an internal case_clause error](https://github.com/erlang/otp/issues/11870) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-19 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [asn1: MIN and MAX endpoints in a permitted alphabet cause an internal error or a reversed-range error](https://github.com/erlang/otp/issues/11869) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-19 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
-| [Can emqx cluster provide a docker swarm mode demo? Currently only the single-machine cluster deployed in docke](https://github.com/emqx/emqx/issues/6002) 💬 2 | [emqx/emqx](https://github.com/emqx/emqx) | 16.8k | 🟡 help wanted | 2026-06-04 | [📘 guide](https://github.com/emqx/emqx/blob/HEAD/CONTRIBUTING.md) |
+| [Can emqx cluster provide a docker swarm mode demo? Currently only the single-machine cluster deployed in docke](https://github.com/emqx/emqx/issues/6002) 💬 2 | [emqx/emqx](https://github.com/emqx/emqx) | 16.9k | 🟡 help wanted | 2026-06-04 | [📘 guide](https://github.com/emqx/emqx/blob/HEAD/CONTRIBUTING.md) |
