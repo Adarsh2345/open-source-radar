@@ -1,10 +1,10 @@
 # PHP issues
 
-**146** open issues (76 labeled for beginners) across **50** active PHP projects.
+**148** open issues (74 labeled for beginners) across **50** active PHP projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-10-21 21:24 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-22 11:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,10 +13,12 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-21 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
+| [Cache Logic Check Command](https://github.com/netz98/n98-magerun2/issues/493) | [netz98/n98-magerun2](https://github.com/netz98/n98-magerun2) | 925 | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/netz98/n98-magerun2/blob/HEAD/CONTRIBUTING.md) |
+| [Porting command: dev:setup:script:attribute](https://github.com/netz98/n98-magerun2/issues/89) | [netz98/n98-magerun2](https://github.com/netz98/n98-magerun2) | 925 | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/netz98/n98-magerun2/blob/HEAD/CONTRIBUTING.md) |
+| [Porting command: dev:log:db](https://github.com/netz98/n98-magerun2/issues/75) | [netz98/n98-magerun2](https://github.com/netz98/n98-magerun2) | 925 | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/netz98/n98-magerun2/blob/HEAD/CONTRIBUTING.md) |
+| [Porting command: dev:log](https://github.com/netz98/n98-magerun2/issues/74) | [netz98/n98-magerun2](https://github.com/netz98/n98-magerun2) | 925 | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/netz98/n98-magerun2/blob/HEAD/CONTRIBUTING.md) |
 | [Enable Vue template indentation and content newline rules](https://github.com/LibreSign/libresign/issues/9145) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 835 | 🟢 beginner | 2026-10-21 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |
 | [Enable consistent blank-line formatting](https://github.com/LibreSign/libresign/issues/9144) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 835 | 🟢 beginner | 2026-10-21 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |
-| [\[Bug\] : Event resolution missing on speakers archive and invisible hover text on speaker profile](https://github.com/fossasia/WPFAevent/issues/312) 💬 9 | [fossasia/WPFAevent](https://github.com/fossasia/WPFAevent) | 825 | 🟢 beginner | 2026-10-21 |  |
-| [\[Bug\]: Clicking administration settings doesn't auto-scroll to admin settings menu section if there are lots o](https://github.com/nextcloud/server/issues/34414) 💬 4 | [nextcloud/server](https://github.com/nextcloud/server) | 37.2k | 🟢 beginner | 2026-10-20 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nextcloud/server/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Feature\] Notification to Admin when an update is actually ready for installation](https://github.com/FreshRSS/FreshRSS/issues/6487) 💬 5 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.4k | 🟡 help wanted | 2026-10-20 | [📘 guide](https://github.com/FreshRSS/FreshRSS/blob/HEAD/CONTRIBUTING.md) |
 | [Add usage statistics administration UI](https://github.com/LibreSign/libresign/issues/8936) 💬 1 | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 835 | 🟢 beginner | 2026-10-20 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |
 | ["Only Assigned Sections" does not stick across different courses & gradeables](https://github.com/Submitty/Submitty/issues/13495) 💬 5 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 804 | 🟢 beginner | 2026-10-20 | [📘 guide](https://github.com/Submitty/Submitty/blob/HEAD/CONTRIBUTING.md) |
