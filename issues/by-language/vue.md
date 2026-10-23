@@ -1,10 +1,10 @@
 # Vue issues
 
-**29** open issues (18 labeled for beginners) across **11** active Vue projects.
+**31** open issues (19 labeled for beginners) across **12** active Vue projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/vue.xml)
 
-> Updated automatically on **2026-10-22 21:18 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-23 10:56 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [\[Enhancement\] Android TV Support](https://github.com/advplyr/audiobookshelf-app/issues/606) 💬 31 | [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) | 2.8k | 🟡 help wanted | 2026-10-23 |  |
+| [Regarding language settings](https://github.com/VueTorrent/VueTorrent/issues/1403) 💬 5 | [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) | 7k | 🟢 beginner | 2026-10-22 | [📘 guide](https://github.com/VueTorrent/VueTorrent/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[功能建议\]NixOS适配](https://github.com/stark81/VutronMusic/issues/421) 💬 4 | [stark81/VutronMusic](https://github.com/stark81/VutronMusic) | 1.6k | 🟡 help wanted | 2026-10-21 |  |
 | [使用客户端发送消息时没有选择压缩条件，但实际消息好像还是进行了Snappy 压缩](https://github.com/Bronya0/Kafka-King/issues/117) 💬 1 | [Bronya0/Kafka-King](https://github.com/Bronya0/Kafka-King) | 1.3k | 🟢 beginner | 2026-10-21 |  |
 | [Teams overview: toggle option between wide and narrow mode with tags and content information](https://github.com/Smaug6739/Alexandrie/issues/771) 💬 1 | [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) | 3.3k | 🟢 beginner | 2026-10-20 | [📘 guide](https://github.com/Smaug6739/Alexandrie/blob/HEAD/CONTRIBUTING.md) |
