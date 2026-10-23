@@ -1,10 +1,10 @@
 # Ruby issues
 
-**79** open issues (56 labeled for beginners) across **29** active Ruby projects.
+**75** open issues (53 labeled for beginners) across **28** active Ruby projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-10-23 10:56 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-23 21:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Allow manually added memories](https://github.com/AllYourBot/hostedgpt/issues/836) | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 513 | 🟢 beginner | 2026-10-22 | [📘 guide](https://github.com/AllYourBot/hostedgpt/blob/HEAD/CONTRIBUTING.md) |
 | [Current page's table of contents](https://github.com/freeCodeCamp/devdocs/issues/6) 💬 21 | [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) | 39.6k | 🟡 help wanted | 2026-10-20 | [📘 guide](https://github.com/freeCodeCamp/devdocs/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Mod deleting a comment removes the visual indication of upvoted](https://github.com/lobsters/lobsters/issues/2201) | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-10-19 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Rubocop Layout/LineLength](https://github.com/drwl/annotaterb/issues/261) 💬 5 | [drwl/annotaterb](https://github.com/drwl/annotaterb) | 624 | 🟡 help wanted | 2026-10-19 | [📘 guide](https://github.com/drwl/annotaterb/blob/HEAD/CONTRIBUTING.md) |
@@ -39,9 +38,7 @@
 | [Revisit Style/EmptyCaseCondition?](https://github.com/rubocop/rubocop/issues/8396) 💬 4 | [rubocop/rubocop](https://github.com/rubocop/rubocop) | 12.9k | 🟡 help wanted | 2026-09-01 | 🤖 disclose AI use · [📘 guide](https://github.com/rubocop/rubocop/blob/HEAD/CONTRIBUTING.md) |
 | [Support setting cron monitor tolerances](https://github.com/getsentry/sentry-ruby/issues/2668) 💬 1 | [getsentry/sentry-ruby](https://github.com/getsentry/sentry-ruby) | 989 | 🟢 beginner | 2026-09-01 | [📘 guide](https://github.com/getsentry/sentry-ruby/blob/HEAD/CONTRIBUTING.md) |
 | [Oauth2 generated accounts are not added as creators](https://github.com/manyfold3d/manyfold/issues/4768) 💬 3 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-08-29 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Better handling of super large images](https://github.com/AllYourBot/hostedgpt/issues/142) | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 513 | 🟢 beginner | 2026-08-29 | [📘 guide](https://github.com/AllYourBot/hostedgpt/blob/HEAD/CONTRIBUTING.md) |
 | [Better icon library](https://github.com/AllYourBot/hostedgpt/issues/287) 💬 4 | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 513 | 🟢 beginner | 2026-08-29 | [📘 guide](https://github.com/AllYourBot/hostedgpt/blob/HEAD/CONTRIBUTING.md) |
-| [Confirm that I can set an authentication deleted_at and it logs out that client](https://github.com/AllYourBot/hostedgpt/issues/434) | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 513 | 🟢 beginner | 2026-08-29 | [📘 guide](https://github.com/AllYourBot/hostedgpt/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature Request\] Dark Mode](https://github.com/endoflife-date/endoflife.date/issues/1187) 💬 10 | [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) | 3.4k | 🟢 beginner | 2026-08-28 | [📘 guide](https://github.com/endoflife-date/endoflife.date/blob/HEAD/CONTRIBUTING.md) |
 | [\[Request\] Generate policy file when using scaffolding](https://github.com/varvet/pundit/issues/735) 💬 5 | [varvet/pundit](https://github.com/varvet/pundit) | 8.5k | 🟢 beginner | 2026-08-15 | [📘 guide](https://github.com/varvet/pundit/blob/HEAD/CONTRIBUTING.md) |
 | [Make a performance comparison between replacing Turbolinks (plus rails-ujs) with Turbo and dropping it entirel](https://github.com/consuldemocracy/consuldemocracy/issues/5485) | [consuldemocracy/consuldemocracy](https://github.com/consuldemocracy/consuldemocracy) | 1.6k | 🟡 help wanted | 2026-08-14 | [📘 guide](https://github.com/consuldemocracy/consuldemocracy/blob/HEAD/CONTRIBUTING.md) |
@@ -90,4 +87,3 @@
 | [Pools in upload form](https://github.com/e621ng/e621ng/issues/1882) 💬 1 | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 583 | 🟡 help wanted | 2026-04-29 |  |
 | [\[Tests\] Add client-side Playwright testing](https://github.com/e621ng/e621ng/issues/1936) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 583 | 🟡 help wanted | 2026-04-29 |  |
 | [Comment search should have a method of viewing results under the threshold](https://github.com/e621ng/e621ng/issues/1756) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 583 | 🟢 beginner | 2026-04-28 |  |
-| ['download_job_artifact_file' method fails when the artifact is a non-JSON text file](https://github.com/NARKOZ/gitlab/issues/621) 💬 2 | [NARKOZ/gitlab](https://github.com/NARKOZ/gitlab) | 1.1k | 🟡 help wanted | 2026-04-26 | [📘 guide](https://github.com/NARKOZ/gitlab/blob/HEAD/CONTRIBUTING.md) |

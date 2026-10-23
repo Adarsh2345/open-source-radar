@@ -1,10 +1,10 @@
 # Shell issues
 
-**116** open issues (55 labeled for beginners) across **49** active Shell projects.
+**118** open issues (55 labeled for beginners) across **50** active Shell projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/shell.xml)
 
-> Updated automatically on **2026-10-23 10:56 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-23 21:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,13 +12,15 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [\[Swift\] Initial support](https://github.com/sublimehq/Packages/issues/3918) 💬 8 | [sublimehq/Packages](https://github.com/sublimehq/Packages) | 3k | 🟡 help wanted | 2026-10-23 |  |
+| [&gt; PipeWire is unavailable; start the desktop audio service and try again.](https://github.com/shibco/ableton-linux/issues/355) 💬 2 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 756 | 🟡 help wanted | 2026-10-23 |  |
 | [Request: Option to set environment variables per installed app](https://github.com/ivan-hc/AM/issues/2832) 💬 11 | [ivan-hc/AM](https://github.com/ivan-hc/AM) | 1.4k | 🟡 help wanted | 2026-10-22 | [📘 guide](https://github.com/ivan-hc/AM/blob/HEAD/CONTRIBUTING.md) |
-| [Ableton Live 11.2.6 Suite does not launch](https://github.com/shibco/ableton-linux/issues/353) 💬 9 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 753 | 🟡 help wanted | 2026-10-22 |  |
+| [Ableton Live 11.2.6 Suite does not launch](https://github.com/shibco/ableton-linux/issues/353) 💬 9 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 756 | 🟡 help wanted | 2026-10-22 |  |
 | [\[Bug\]: hostapd 2.11 breaks 5GHz AP on uwe5622 boards (Orange Pi 3 LTS): firmware stops transmitting beacons, h](https://github.com/armbian/build/issues/11062) 💬 1 | [armbian/build](https://github.com/armbian/build) | 5.5k | 🟢 beginner | 2026-10-21 | [📘 guide](https://github.com/armbian/build/blob/HEAD/CONTRIBUTING.md) |
 | [\[arm64/box64\] BDS 1.26.51.1 NetherNet TLS handshake fails with InitialConnection-13](https://github.com/itzg/docker-minecraft-bedrock-server/issues/680) 💬 18 | [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) | 1.9k | 🟡 help wanted | 2026-10-21 |  |
-| [PCIe Gen 3/4 support](https://github.com/amoghmunikote/cmpunlocker/issues/9) 💬 21 | [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) | 784 | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/amoghmunikote/cmpunlocker/blob/HEAD/docs/CONTRIBUTING.md) |
+| [PCIe Gen 3/4 support](https://github.com/amoghmunikote/cmpunlocker/issues/9) 💬 21 | [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) | 786 | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/amoghmunikote/cmpunlocker/blob/HEAD/docs/CONTRIBUTING.md) |
 | [\[FEATURE\] CLI support preflight check for Talos Linux](https://github.com/longhorn/longhorn/issues/9950) 💬 2 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-10-20 | 🔏 DCO · [📘 guide](https://github.com/longhorn/longhorn/blob/HEAD/CONTRIBUTING.md) |
-| [32bit plugins via jBridge dont work](https://github.com/shibco/ableton-linux/issues/343) | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 753 | 🟡 help wanted | 2026-10-17 |  |
+| [32bit plugins via jBridge dont work](https://github.com/shibco/ableton-linux/issues/343) | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 756 | 🟡 help wanted | 2026-10-17 |  |
 | [App Request: pdfcraft](https://github.com/wimpysworld/deb-get/issues/2049) | [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) | 1.8k | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/wimpysworld/deb-get/blob/HEAD/CONTRIBUTING.md) |
 | [\[FEATURE\] Expose metrics of data plane's underlying components including share manager/nfs ganesha and spdk da](https://github.com/longhorn/longhorn/issues/12046) | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟡 help wanted | 2026-10-14 | 🔏 DCO · [📘 guide](https://github.com/longhorn/longhorn/blob/HEAD/CONTRIBUTING.md) |
 | [App Request: FileApex](https://github.com/wimpysworld/deb-get/issues/2047) | [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) | 1.8k | 🟢 beginner | 2026-10-14 | [📘 guide](https://github.com/wimpysworld/deb-get/blob/HEAD/CONTRIBUTING.md) |
@@ -29,10 +31,10 @@
 | [Missing icon: PhotoCraft](https://github.com/SylEleuth/gruvbox-plus-icon-pack/issues/564) | [SylEleuth/gruvbox-plus-icon-pack](https://github.com/SylEleuth/gruvbox-plus-icon-pack) | 815 | 🟡 help wanted | 2026-10-08 |  |
 | [add documentation to build lunatik on-tree using make menuconfig](https://github.com/luainkernel/lunatik/issues/413) | [luainkernel/lunatik](https://github.com/luainkernel/lunatik) | 608 | 🟢 beginner | 2026-10-07 |  |
 | [add a maintainers/contributors section on README.md](https://github.com/luainkernel/lunatik/issues/409) | [luainkernel/lunatik](https://github.com/luainkernel/lunatik) | 608 | 🟢 beginner | 2026-10-07 |  |
-| [Super basic question about manually setting scaling](https://github.com/shibco/ableton-linux/issues/325) 💬 10 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 753 | 🟡 help wanted | 2026-10-06 |  |
+| [Super basic question about manually setting scaling](https://github.com/shibco/ableton-linux/issues/325) 💬 10 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 756 | 🟡 help wanted | 2026-10-06 |  |
 | [\[BUG\] Backup engine SIGSEGV on aarch64 with 16K page size kernel (Fedora Asahi Remix / Apple Silicon) — v1.11.](https://github.com/longhorn/longhorn/issues/12929) 💬 3 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟡 help wanted | 2026-10-04 | 🔏 DCO · [📘 guide](https://github.com/longhorn/longhorn/blob/HEAD/CONTRIBUTING.md) |
 | [\[Task\]: Orange Pi 4A (T527/A523) Sony IMX219 MIPI CSI-2 / CSI capture support](https://github.com/armbian/build/issues/10905) 💬 1 | [armbian/build](https://github.com/armbian/build) | 5.5k | 🟢 beginner | 2026-10-04 | [📘 guide](https://github.com/armbian/build/blob/HEAD/CONTRIBUTING.md) |
-| [NVLink](https://github.com/amoghmunikote/cmpunlocker/issues/13) 💬 8 | [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) | 784 | 🟡 help wanted | 2026-10-04 | [📘 guide](https://github.com/amoghmunikote/cmpunlocker/blob/HEAD/docs/CONTRIBUTING.md) |
+| [NVLink](https://github.com/amoghmunikote/cmpunlocker/issues/13) 💬 8 | [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) | 786 | 🟡 help wanted | 2026-10-04 | [📘 guide](https://github.com/amoghmunikote/cmpunlocker/blob/HEAD/docs/CONTRIBUTING.md) |
 | [App Request:IPTVnator](https://github.com/wimpysworld/deb-get/issues/2003) 💬 2 | [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) | 1.8k | 🟢 beginner | 2026-10-02 | [📘 guide](https://github.com/wimpysworld/deb-get/blob/HEAD/CONTRIBUTING.md) |
 | [CAPTCHA Issues (Mismatched Desktop UA)](https://github.com/jqssun/android-titanium-browser/issues/50) 💬 12 | [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser) | 3k | 🟡 help wanted | 2026-09-30 |  |
 | [\[FEATURE\] Node Affinity support for longhorn component deployment](https://github.com/longhorn/longhorn/issues/6035) 💬 2 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-09-28 | 🔏 DCO · [📘 guide](https://github.com/longhorn/longhorn/blob/HEAD/CONTRIBUTING.md) |
@@ -41,9 +43,9 @@
 | [Missing icon: Lap](https://github.com/SylEleuth/gruvbox-plus-icon-pack/issues/556) | [SylEleuth/gruvbox-plus-icon-pack](https://github.com/SylEleuth/gruvbox-plus-icon-pack) | 815 | 🟡 help wanted | 2026-09-28 |  |
 | [\[Bug\]: uInitrd CRC mismatch in community images for Orange Pi Zero3 (sun50iw9)](https://github.com/armbian/build/issues/10701) 💬 2 | [armbian/build](https://github.com/armbian/build) | 5.5k | 🟢 beginner | 2026-09-27 | [📘 guide](https://github.com/armbian/build/blob/HEAD/CONTRIBUTING.md) |
 | [Curseforge pack containing Cleanroom relauncher](https://github.com/itzg/docker-minecraft-server/issues/4282) 💬 9 | [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) | 14.5k | 🟡 help wanted | 2026-09-26 |  |
-| [updated from ableton 11 to ableton 12 by ising script uninstaller, now ableton doesn't open at all](https://github.com/shibco/ableton-linux/issues/316) 💬 12 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 753 | 🟡 help wanted | 2026-09-25 |  |
+| [updated from ableton 11 to ableton 12 by ising script uninstaller, now ableton doesn't open at all](https://github.com/shibco/ableton-linux/issues/316) 💬 12 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 756 | 🟡 help wanted | 2026-09-25 |  |
 | [App Request: Komi-Store](https://github.com/wimpysworld/deb-get/issues/2029) | [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) | 1.8k | 🟢 beginner | 2026-09-24 | [📘 guide](https://github.com/wimpysworld/deb-get/blob/HEAD/CONTRIBUTING.md) |
-| [cannot read Ableton Live 12 Suite Installer.exe well enough to verify its Live version](https://github.com/shibco/ableton-linux/issues/319) 💬 12 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 753 | 🟡 help wanted | 2026-09-24 |  |
+| [cannot read Ableton Live 12 Suite Installer.exe well enough to verify its Live version](https://github.com/shibco/ableton-linux/issues/319) 💬 12 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 756 | 🟡 help wanted | 2026-09-24 |  |
 | [For PLUGINS and MODS list support GitHub and Jenkins resolving](https://github.com/itzg/docker-minecraft-server/issues/2944) 💬 4 | [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) | 14.5k | 🟡 help wanted | 2026-09-18 |  |
 | [\[IMPROVEMENT\] Strictly validate resources spec and status fields in validating webhook](https://github.com/longhorn/longhorn/issues/6793) | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟡 help wanted | 2026-09-18 | 🔏 DCO · [📘 guide](https://github.com/longhorn/longhorn/blob/HEAD/CONTRIBUTING.md) |
 | [\[FEATURE\] Make UI WebSocket Refresh Interval Configurable](https://github.com/longhorn/longhorn/issues/11134) 💬 4 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟡 help wanted | 2026-09-18 | 🔏 DCO · [📘 guide](https://github.com/longhorn/longhorn/blob/HEAD/CONTRIBUTING.md) |
@@ -59,7 +61,7 @@
 | [App Request: Biopass](https://github.com/wimpysworld/deb-get/issues/2005) | [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) | 1.8k | 🟢 beginner | 2026-09-07 | [📘 guide](https://github.com/wimpysworld/deb-get/blob/HEAD/CONTRIBUTING.md) |
 | [v4.0 post-release polish: event-count arithmetic + test cleanup trap](https://github.com/sangrokjung/claude-forge/issues/81) 💬 1 | [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) | 862 | 🟢 beginner | 2026-09-06 | [📘 guide](https://github.com/sangrokjung/claude-forge/blob/HEAD/CONTRIBUTING.md) |
 | [Refresh CHYT benchmark results](https://github.com/ClickHouse/ClickBench/issues/1459) | [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) | 1.1k | 🟡 help wanted | 2026-09-03 |  |
-| [Leaks user passwords via parameter expansion of variables in command arguments and command substitution](https://github.com/Macjutsu/super/issues/301) 💬 4 | [Macjutsu/super](https://github.com/Macjutsu/super) | 905 | 🟡 help wanted | 2026-09-03 |  |
+| [Leaks user passwords via parameter expansion of variables in command arguments and command substitution](https://github.com/Macjutsu/super/issues/301) 💬 4 | [Macjutsu/super](https://github.com/Macjutsu/super) | 906 | 🟡 help wanted | 2026-09-03 |  |
 | [Switching Go version when process.env\["GOROOT"\] is set is unsupported.](https://github.com/go-nv/goenv/issues/367) 💬 5 | [go-nv/goenv](https://github.com/go-nv/goenv) | 2.5k | 🟡 help wanted | 2026-08-31 | [📘 guide](https://github.com/go-nv/goenv/blob/HEAD/CONTRIBUTING.md) |
 | [enchancement: Can we move transalation to weblate/transifex/crowdin](https://github.com/ivan-hc/AM/issues/2655) 💬 24 | [ivan-hc/AM](https://github.com/ivan-hc/AM) | 1.4k | 🟢 beginner | 2026-08-31 | [📘 guide](https://github.com/ivan-hc/AM/blob/HEAD/CONTRIBUTING.md) |
 | [Feature request: Publish as Snap Package](https://github.com/Betterbird/thunderbird-patches/issues/393) 💬 1 | [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) | 993 | 🟡 help wanted | 2026-08-31 |  |

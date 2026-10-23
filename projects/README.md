@@ -1,6 +1,6 @@
 # Projects welcoming contributors
 
-**1,162** active open source projects that currently have open, unclaimed issues labeled for newcomers or help wanted, grouped by language. Updated 2026-10-23 10:56 UTC.
+**1,160** active open source projects that currently have open, unclaimed issues labeled for newcomers or help wanted, grouped by language. Updated 2026-10-23 21:17 UTC.
 
 Use this page to find a project first, then pick an issue in it. Before contributing, check that the project merged pull requests from outside contributors recently ([how](../guide/03-choose-a-project.md)).
 
@@ -8,7 +8,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 
 ## Languages
 
-[C++ (98)](#c) · [Rust (92)](#rust) · [C# (84)](#c) · [TypeScript (82)](#typescript) · [Go (80)](#go) · [Python (76)](#python) · [Java (74)](#java) · [Kotlin (73)](#kotlin) · [JavaScript (65)](#javascript) · [C (60)](#c) · [Swift (58)](#swift) · [PHP (50)](#php) · [Shell (49)](#shell) · [Dart (35)](#dart) · [HTML (35)](#html) · [Ruby (29)](#ruby) · [Scala (18)](#scala) · [Lua (17)](#lua) · [Julia (15)](#julia) · [Vue (12)](#vue) · [Jupyter Notebook (9)](#jupyter-notebook) · [Nix (9)](#nix) · [Clojure (9)](#clojure) · [Zig (8)](#zig) · [OCaml (7)](#ocaml) · [Haskell (5)](#haskell) · [CSS (4)](#css) · [Elixir (4)](#elixir) · [R (3)](#r) · [Erlang (2)](#erlang)
+[C++ (98)](#c) · [Rust (89)](#rust) · [C# (84)](#c) · [TypeScript (82)](#typescript) · [Go (78)](#go) · [Python (76)](#python) · [Kotlin (74)](#kotlin) · [Java (74)](#java) · [JavaScript (65)](#javascript) · [C (60)](#c) · [Swift (59)](#swift) · [Shell (50)](#shell) · [PHP (50)](#php) · [Dart (35)](#dart) · [HTML (34)](#html) · [Ruby (28)](#ruby) · [Scala (18)](#scala) · [Lua (17)](#lua) · [Julia (15)](#julia) · [Vue (13)](#vue) · [Clojure (10)](#clojure) · [Jupyter Notebook (9)](#jupyter-notebook) · [Nix (9)](#nix) · [Zig (8)](#zig) · [OCaml (7)](#ocaml) · [Haskell (5)](#haskell) · [CSS (4)](#css) · [Elixir (4)](#elixir) · [R (3)](#r) · [Erlang (2)](#erlang)
 
 ## C++
 
@@ -16,7 +16,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 
 | Project | Stars | Open issues | Beginner | Rules | What it is |
 | --- | ---: | ---: | ---: | --- | --- |
-| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp/issues) | 132.1k | 2 | 1 | ⚠️ AI restricted · [📘 guide](https://github.com/ggml-org/llama.cpp/blob/HEAD/CONTRIBUTING.md) | LLM inference in C/C++ |
+| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp/issues) | 132.2k | 2 | 1 | ⚠️ AI restricted · [📘 guide](https://github.com/ggml-org/llama.cpp/blob/HEAD/CONTRIBUTING.md) | LLM inference in C/C++ |
 | [microsoft/terminal](https://github.com/microsoft/terminal/issues) | 105.2k | 13 | 2 | 🤖 disclose AI use · [📘 guide](https://github.com/microsoft/terminal/blob/HEAD/CONTRIBUTING.md) | The new Windows Terminal and the original Windows console host, all in the same place! |
 | [ocornut/imgui](https://github.com/ocornut/imgui/issues) | 76.8k | 2 | 0 | ✍️ CLA · [📘 guide](https://github.com/ocornut/imgui/blob/HEAD/docs/CONTRIBUTING.md) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf/issues) | 72.1k | 15 | 0 | ✍️ CLA · [📘 guide](https://github.com/protocolbuffers/protobuf/blob/HEAD/CONTRIBUTING.md) | Protocol Buffers - Google's data interchange format |
@@ -31,7 +31,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly/issues) | 31.8k | 2 | 2 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/dragonflydb/dragonfly/blob/HEAD/CONTRIBUTING.md) | A modern replacement for Redis and Memcached |
 | [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot/issues) | 31.3k | 2 | 0 | [📘 guide](https://github.com/flameshot-org/flameshot/blob/HEAD/docs/CONTRIBUTING.md) | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: |
 | [deskflow/deskflow](https://github.com/deskflow/deskflow/issues) | 30.1k | 1 | 1 | [📘 guide](https://github.com/deskflow/deskflow/blob/HEAD/.github/CONTRIBUTING.md) | Share a single keyboard and mouse between multiple computers. |
-| [envoyproxy/envoy](https://github.com/envoyproxy/envoy/issues) | 29.1k | 11 | 0 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/envoyproxy/envoy/blob/HEAD/CONTRIBUTING.md) | Cloud-native high-performance edge/middle/service proxy |
+| [envoyproxy/envoy](https://github.com/envoyproxy/envoy/issues) | 29.1k | 12 | 0 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/envoyproxy/envoy/blob/HEAD/CONTRIBUTING.md) | Cloud-native high-performance edge/middle/service proxy |
 | [dmlc/xgboost](https://github.com/dmlc/xgboost/issues) | 28.9k | 1 | 0 |  | Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and more |
 | [typesense/typesense](https://github.com/typesense/typesense/issues) | 27k | 1 | 1 | [📘 guide](https://github.com/typesense/typesense/blob/HEAD/CONTRIBUTING.md) | Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo toleran |
 | [google/flatbuffers](https://github.com/google/flatbuffers/issues) | 26.6k | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/google/flatbuffers/blob/HEAD/CONTRIBUTING.md) | FlatBuffers: Memory Efficient Serialization Library |
@@ -74,7 +74,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets/issues) | 10k | 1 | 0 |  | Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. P2P networking / NAT traversal. Encr |
 | [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX/issues) | 9.9k | 2 | 2 | [📘 guide](https://github.com/diasurgical/DevilutionX/blob/HEAD/docs/CONTRIBUTING.md) | Diablo build for modern operating systems |
 | [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity/issues) | 9.8k | 5 | 0 |  | ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a  |
-| [NVIDIA/cudf](https://github.com/NVIDIA/cudf/issues) | 9.8k | 6 | 6 | [📘 guide](https://github.com/NVIDIA/cudf/blob/HEAD/CONTRIBUTING.md) | cuDF - GPU DataFrame Library |
+| [NVIDIA/cudf](https://github.com/NVIDIA/cudf/issues) | 9.8k | 7 | 7 | [📘 guide](https://github.com/NVIDIA/cudf/blob/HEAD/CONTRIBUTING.md) | cuDF - GPU DataFrame Library |
 | [falcosecurity/falco](https://github.com/falcosecurity/falco/issues) | 9.5k | 1 | 0 |  | Cloud Native Runtime Security |
 | [canonical/multipass](https://github.com/canonical/multipass/issues) | 9.3k | 11 | 7 | ✍️ CLA · [📘 guide](https://github.com/canonical/multipass/blob/HEAD/CONTRIBUTING.md) | Multipass orchestrates virtual Ubuntu instances |
 | [catboost/catboost](https://github.com/catboost/catboost/issues) | 9.2k | 1 | 1 | [📘 guide](https://github.com/catboost/catboost/blob/HEAD/CONTRIBUTING.md) | A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regres |
@@ -82,7 +82,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip/issues) | 9k | 1 | 1 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/project-chip/connectedhomeip/blob/HEAD/CONTRIBUTING.md) | Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers  |
 | [love2d/love](https://github.com/love2d/love/issues) | 8.9k | 1 | 0 |  | LÖVE is an awesome 2D game framework for Lua. |
 | [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite/issues) | 8.6k | 1 | 0 | ⚠️ AI restricted · [📘 guide](https://github.com/LibreSprite/LibreSprite/blob/HEAD/CONTRIBUTING.md) | Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite |
-| [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml/issues) | 8.6k | 7 | 1 | ✍️ CLA · [📘 guide](https://github.com/microsoft/microsoft-ui-xaml/blob/HEAD/CONTRIBUTING.md) | WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applica |
+| [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml/issues) | 8.6k | 5 | 0 | ✍️ CLA · [📘 guide](https://github.com/microsoft/microsoft-ui-xaml/blob/HEAD/CONTRIBUTING.md) | WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applica |
 | [brndnmtthws/conky](https://github.com/brndnmtthws/conky/issues) | 8.5k | 2 | 2 |  | Light-weight system monitor for X, Wayland, and other things, too |
 | [meshtastic/firmware](https://github.com/meshtastic/firmware/issues) | 8.5k | 3 | 0 | ✍️ CLA · [📘 guide](https://github.com/meshtastic/firmware/blob/HEAD/CONTRIBUTING.md) | The official firmware for Meshtastic, an open-source, off-grid mesh communication system. |
 | [azahar-emu/azahar](https://github.com/azahar-emu/azahar/issues) | 8.4k | 3 | 0 | 🤖 disclose AI use | An open-source 3DS emulator project based on Citra. |
@@ -95,13 +95,13 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth/issues) | 7k | 3 | 3 | [📘 guide](https://github.com/wesnoth/wesnoth/blob/HEAD/CONTRIBUTING.md) | An open source, turn-based strategy game with a high fantasy theme. |
 | [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake/issues) | 6.9k | 1 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/kvcache-ai/Mooncake/blob/HEAD/CONTRIBUTING.md) | Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. |
 | [google/perfetto](https://github.com/google/perfetto/issues) | 6.7k | 1 | 1 |  | Production-grade client-side tracing, profiling, and analysis for complex software systems. |
-| [defold/defold](https://github.com/defold/defold/issues) | 6.4k | 6 | 6 | ✍️ CLA · [📘 guide](https://github.com/defold/defold/blob/HEAD/CONTRIBUTING.md) | Defold is a completely free to use game engine for development of desktop, console, mobile and web games. |
+| [defold/defold](https://github.com/defold/defold/issues) | 6.4k | 5 | 5 | ✍️ CLA · [📘 guide](https://github.com/defold/defold/blob/HEAD/CONTRIBUTING.md) | Defold is a completely free to use game engine for development of desktop, console, mobile and web games. |
 | [cvxpy/cvxpy](https://github.com/cvxpy/cvxpy/issues) | 6.4k | 1 | 1 | [📘 guide](https://github.com/cvxpy/cvxpy/blob/HEAD/CONTRIBUTING.md) | A Python-embedded modeling language for convex optimization problems. |
 | [valhalla/valhalla](https://github.com/valhalla/valhalla/issues) | 6.4k | 1 | 1 | 📄 AI policy · [📘 guide](https://github.com/valhalla/valhalla/blob/HEAD/CONTRIBUTING.md) | Open Source Routing Engine for OpenStreetMap |
 | [Neargye/magic_enum](https://github.com/Neargye/magic_enum/issues) | 6.2k | 3 | 0 |  | Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macr |
 | [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine/issues) | 6.1k | 3 | 0 | ⚠️ AI restricted · [📘 guide](https://github.com/Redot-Engine/redot-engine/blob/HEAD/CONTRIBUTING.md) | Redot Engine – Multi-platform 2D and 3D game engine |
 | [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp/issues) | 6.1k | 7 | 0 | ⚠️ AI restricted · [📘 guide](https://github.com/jbeder/yaml-cpp/blob/HEAD/CONTRIBUTING.md) | A YAML parser and emitter in C++ |
-| [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight/issues) | 6k | 2 | 1 |  | Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements. |
+| [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight/issues) | 6k | 1 | 1 |  | Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements. |
 | [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop/issues) | 5.9k | 7 | 0 | [📘 guide](https://github.com/jellyfin/jellyfin-desktop/blob/HEAD/CONTRIBUTING.md) | Jellyfin Desktop Client |
 | [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K/issues) | 5.9k | 2 | 2 | [📘 guide](https://github.com/Vita3K/Vita3K/blob/HEAD/.github/CONTRIBUTING.md) | Experimental PlayStation Vita emulator |
 | [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D/issues) | 5.3k | 1 | 0 |  | The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for  |
@@ -117,15 +117,15 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 
 ## Rust
 
-92 projects · [open issues](../issues/by-language/rust.md)
+89 projects · [open issues](../issues/by-language/rust.md)
 
 | Project | Stars | Open issues | Beginner | Rules | What it is |
 | --- | ---: | ---: | ---: | --- | --- |
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk/issues) | 126.7k | 7 | 0 | 🔏 DCO · [📘 guide](https://github.com/rustdesk/rustdesk/blob/HEAD/docs/CONTRIBUTING.md) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk/issues) | 126.7k | 4 | 0 | 🔏 DCO · [📘 guide](https://github.com/rustdesk/rustdesk/blob/HEAD/docs/CONTRIBUTING.md) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri/issues) | 112.1k | 2 | 0 | 📄 AI policy · [📘 guide](https://github.com/tauri-apps/tauri/blob/HEAD/.github/CONTRIBUTING.md) | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
 | [oven-sh/bun](https://github.com/oven-sh/bun/issues) | 96.4k | 2 | 2 | [📘 guide](https://github.com/oven-sh/bun/blob/HEAD/CONTRIBUTING.md) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 | [astral-sh/uv](https://github.com/astral-sh/uv/issues) | 91.1k | 4 | 0 | 📄 AI policy · [📘 guide](https://github.com/astral-sh/uv/blob/HEAD/CONTRIBUTING.md) | An extremely fast Python package and project manager, written in Rust. |
-| [rtk-ai/rtk](https://github.com/rtk-ai/rtk/issues) | 84.3k | 7 | 2 | ✍️ CLA · [📘 guide](https://github.com/rtk-ai/rtk/blob/HEAD/CONTRIBUTING.md) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk/issues) | 84.4k | 5 | 1 | ✍️ CLA · [📘 guide](https://github.com/rtk-ai/rtk/blob/HEAD/CONTRIBUTING.md) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 | [alacritty/alacritty](https://github.com/alacritty/alacritty/issues) | 66k | 3 | 1 | [📘 guide](https://github.com/alacritty/alacritty/blob/HEAD/CONTRIBUTING.md) | A cross-platform, OpenGL terminal emulator. |
 | [sharkdp/bat](https://github.com/sharkdp/bat/issues) | 60.9k | 1 | 0 | [📘 guide](https://github.com/sharkdp/bat/blob/HEAD/CONTRIBUTING.md) | A cat(1) clone with wings. |
 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch/issues) | 59.6k | 2 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/meilisearch/meilisearch/blob/HEAD/CONTRIBUTING.md) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
@@ -140,6 +140,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [qdrant/qdrant](https://github.com/qdrant/qdrant/issues) | 35.2k | 2 | 0 | 🤖 disclose AI use · [📘 guide](https://github.com/qdrant/qdrant/blob/HEAD/docs/CONTRIBUTING.md) | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
 | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb/issues) | 33.2k | 3 | 2 | [📘 guide](https://github.com/surrealdb/surrealdb/blob/HEAD/CONTRIBUTING.md) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw/issues) | 33k | 1 | 0 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/zeroclaw-labs/zeroclaw/blob/HEAD/CONTRIBUTING.md) | Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap any |
+| [ankitects/anki](https://github.com/ankitects/anki/issues) | 32.2k | 3 | 2 |  | Anki is a smart spaced repetition flashcard program |
 | [iced-rs/iced](https://github.com/iced-rs/iced/issues) | 31.8k | 1 | 1 | [📘 guide](https://github.com/iced-rs/iced/blob/HEAD/CONTRIBUTING.md) | A cross-platform GUI library for Rust, inspired by Elm |
 | [influxdata/influxdb](https://github.com/influxdata/influxdb/issues) | 31.8k | 1 | 1 | ✍️ CLA · [📘 guide](https://github.com/influxdata/influxdb/blob/HEAD/CONTRIBUTING.md) | Scalable datastore for metrics, events, and real-time analytics |
 | [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite/issues) | 27.7k | 5 | 4 | 📄 AI policy | Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-tim |
@@ -153,58 +154,54 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam/issues) | 22k | 13 | 5 | ⚠️ AI restricted · [📘 guide](https://github.com/gleam-lang/gleam/blob/HEAD/CONTRIBUTING.md) | ⭐️ A friendly language for building type-safe, scalable systems! |
 | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler/issues) | 21.8k | 4 | 1 | ✍️ CLA · [📘 guide](https://github.com/gitbutlerapp/gitbutler/blob/HEAD/CONTRIBUTING.md) | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte |
 | [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic/issues) | 21.4k | 7 | 3 | [📘 guide](https://github.com/valeriansaliou/sonic/blob/HEAD/CONTRIBUTING.md) | 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. |
-| [1jehuang/jcode](https://github.com/1jehuang/jcode/issues) | 21.1k | 1 | 0 | [📘 guide](https://github.com/1jehuang/jcode/blob/HEAD/CONTRIBUTING.md) | High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode/issues) | 21.2k | 1 | 0 | [📘 guide](https://github.com/1jehuang/jcode/blob/HEAD/CONTRIBUTING.md) | High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows |
 | [cube-js/cube](https://github.com/cube-js/cube/issues) | 21.1k | 4 | 0 | 🔏 DCO · [📘 guide](https://github.com/cube-js/cube/blob/HEAD/CONTRIBUTING.md) | 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics |
 | [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl/issues) | 19.3k | 1 | 0 | 📄 AI policy · [📘 guide](https://github.com/Orange-OpenSource/hurl/blob/HEAD/CONTRIBUTING.md) | Hurl, run and test HTTP requests with plain text. |
 | [facebook/relay](https://github.com/facebook/relay/issues) | 19k | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/facebook/relay/blob/HEAD/.github/CONTRIBUTING.md) | Relay is a JavaScript framework for building data-driven React applications. |
-| [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/issues) | 18.7k | 1 | 1 | ⚠️ AI restricted · [📘 guide](https://github.com/bytecodealliance/wasmtime/blob/HEAD/CONTRIBUTING.md) | A lightweight WebAssembly runtime that is fast, secure, and standards-compliant |
-| [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu/issues) | 18.4k | 1 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/gfx-rs/wgpu/blob/HEAD/CONTRIBUTING.md) | A cross-platform, safe, pure-Rust graphics API. |
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell/issues) | 18.2k | 1 | 0 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/NVIDIA/OpenShell/blob/HEAD/CONTRIBUTING.md) | OpenShell is the safe, private runtime for autonomous AI agents. |
+| [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/issues) | 18.8k | 1 | 1 | ⚠️ AI restricted · [📘 guide](https://github.com/bytecodealliance/wasmtime/blob/HEAD/CONTRIBUTING.md) | A lightweight WebAssembly runtime that is fast, secure, and standards-compliant |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell/issues) | 18.7k | 1 | 0 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/NVIDIA/OpenShell/blob/HEAD/CONTRIBUTING.md) | OpenShell is the safe, private runtime for autonomous AI agents. |
+| [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu/issues) | 18.4k | 2 | 2 | 🤖 disclose AI use · [📘 guide](https://github.com/gfx-rs/wgpu/blob/HEAD/CONTRIBUTING.md) | A cross-platform, safe, pure-Rust graphics API. |
 | [transact-rs/sqlx](https://github.com/transact-rs/sqlx/issues) | 17.6k | 1 | 0 | [📘 guide](https://github.com/transact-rs/sqlx/blob/HEAD/CONTRIBUTING.md) | 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports Pos |
-| [Automattic/harper](https://github.com/Automattic/harper/issues) | 17k | 11 | 8 | 🤖 disclose AI use · [📘 guide](https://github.com/Automattic/harper/blob/HEAD/CONTRIBUTING.md) | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
-| [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer/issues) | 16.9k | 5 | 5 | 🤖 disclose AI use · [📘 guide](https://github.com/rust-lang/rust-analyzer/blob/HEAD/CONTRIBUTING.md) | A Rust compiler front-end for IDEs |
+| [Automattic/harper](https://github.com/Automattic/harper/issues) | 17.1k | 11 | 7 | 🤖 disclose AI use · [📘 guide](https://github.com/Automattic/harper/blob/HEAD/CONTRIBUTING.md) | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
+| [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer/issues) | 16.9k | 1 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/rust-lang/rust-analyzer/blob/HEAD/CONTRIBUTING.md) | A Rust compiler front-end for IDEs |
 | [tikv/tikv](https://github.com/tikv/tikv/issues) | 16.9k | 1 | 0 | 🔏 DCO · [📘 guide](https://github.com/tikv/tikv/blob/HEAD/CONTRIBUTING.md) | Distributed transactional key-value database, originally created to complement TiDB |
 | [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy/issues) | 16.3k | 1 | 1 |  | Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust |
 | [tracel-ai/burn](https://github.com/tracel-ai/burn/issues) | 16.1k | 5 | 2 | 🤖 disclose AI use · [📘 guide](https://github.com/tracel-ai/burn/blob/HEAD/CONTRIBUTING.md) | Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency  |
 | [vosen/ZLUDA](https://github.com/vosen/ZLUDA/issues) | 15.1k | 2 | 0 |  | CUDA on non-NVIDIA GPUs |
 | [espanso/espanso](https://github.com/espanso/espanso/issues) | 14.7k | 4 | 0 |  | A Privacy-first, Cross-platform Text Expander written in Rust |
-| [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier/issues) | 14.2k | 3 | 0 | [📘 guide](https://github.com/EasyTier/EasyTier/blob/HEAD/CONTRIBUTING.md) | A simple, decentralized mesh VPN with WireGuard support. |
+| [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier/issues) | 14.3k | 3 | 0 | [📘 guide](https://github.com/EasyTier/EasyTier/blob/HEAD/CONTRIBUTING.md) | A simple, decentralized mesh VPN with WireGuard support. |
 | [diesel-rs/diesel](https://github.com/diesel-rs/diesel/issues) | 14.2k | 3 | 0 | ⚠️ AI restricted · [📘 guide](https://github.com/diesel-rs/diesel/blob/HEAD/CONTRIBUTING.md) | A safe, extensible ORM and Query Builder for Rust |
-| [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy/issues) | 13.6k | 5 | 5 | 🤖 disclose AI use · [📘 guide](https://github.com/rust-lang/rust-clippy/blob/HEAD/CONTRIBUTING.md) | A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/ |
 | [rayon-rs/rayon](https://github.com/rayon-rs/rayon/issues) | 13.4k | 1 | 0 |  | Rayon: A data parallelism library for Rust |
 | [Canop/broot](https://github.com/Canop/broot/issues) | 13.1k | 1 | 0 | ⚠️ AI restricted · [📘 guide](https://github.com/Canop/broot/blob/HEAD/CONTRIBUTING.md) | A new way to see and navigate directory trees |
 | [orhun/git-cliff](https://github.com/orhun/git-cliff/issues) | 12.3k | 1 | 0 | [📘 guide](https://github.com/orhun/git-cliff/blob/HEAD/CONTRIBUTING.md) | A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ |
 | [flxzt/rnote](https://github.com/flxzt/rnote/issues) | 11.8k | 2 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/flxzt/rnote/blob/HEAD/CONTRIBUTING.md) | Sketch and take handwritten notes. |
 | [lancedb/lancedb](https://github.com/lancedb/lancedb/issues) | 11.8k | 1 | 1 | [📘 guide](https://github.com/lancedb/lancedb/blob/HEAD/CONTRIBUTING.md) | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
 | [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit/issues) | 11.7k | 14 | 11 | 📄 AI policy · [📘 guide](https://github.com/quickwit-oss/quickwit/blob/HEAD/CONTRIBUTING.md) | Cloud-native OSS search engine for observability |
-| [jub0t/Concat](https://github.com/jub0t/Concat/issues) | 11k | 2 | 2 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/jub0t/Concat/blob/HEAD/CONTRIBUTING.md) | The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP. |
+| [jub0t/Concat](https://github.com/jub0t/Concat/issues) | 11.1k | 2 | 2 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/jub0t/Concat/blob/HEAD/CONTRIBUTING.md) | The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP. |
 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB/issues) | 10.5k | 6 | 0 |  | A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal |
 | [astrid-runtime/astrid](https://github.com/astrid-runtime/astrid/issues) | 10.3k | 1 | 1 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/astrid-runtime/astrid/blob/HEAD/CONTRIBUTING.md) | Astrid is a portable, capability-secure operating system for composable software. |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm/issues) | 9.9k | 2 | 0 | [📘 guide](https://github.com/SeaQL/sea-orm/blob/HEAD/CONTRIBUTING.md) | 🐚 A powerful relational ORM for Rust |
+| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft/issues) | 9.7k | 3 | 0 | [📘 guide](https://github.com/tangency-labs/solidcraft/blob/HEAD/CONTRIBUTING.md) | SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. |
 | [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox/issues) | 9.6k | 1 | 1 | [📘 guide](https://github.com/FyroxEngine/Fyrox/blob/HEAD/CONTRIBUTING.md) | 3D and 2D game engine written in Rust |
-| [pacifio/atlas](https://github.com/pacifio/atlas/issues) | 9.6k | 2 | 1 | [📘 guide](https://github.com/pacifio/atlas/blob/HEAD/CONTRIBUTING.md) | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
 | [apache/datafusion](https://github.com/apache/datafusion/issues) | 9.5k | 3 | 0 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion/blob/HEAD/CONTRIBUTING.md) | Apache DataFusion SQL Query Engine |
-| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft/issues) | 9.5k | 3 | 0 | [📘 guide](https://github.com/tangency-labs/solidcraft/blob/HEAD/CONTRIBUTING.md) | SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. |
 | [paradedb/paradedb](https://github.com/paradedb/paradedb/issues) | 9.4k | 5 | 5 | ✍️ CLA · [📘 guide](https://github.com/paradedb/paradedb/blob/HEAD/CONTRIBUTING.md) | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
 | [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave/issues) | 9.4k | 4 | 4 | ✍️ CLA · [📘 guide](https://github.com/risingwavelabs/risingwave/blob/HEAD/CONTRIBUTING.md) | Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale. |
 | [EpicGames/lore](https://github.com/EpicGames/lore/issues) | 9k | 1 | 1 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/EpicGames/lore/blob/HEAD/CONTRIBUTING.md) | Lore is a next-generation, open source version control system |
 | [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox/issues) | 8.8k | 2 | 2 | 🔏 DCO · [📘 guide](https://github.com/superradcompany/microsandbox/blob/HEAD/CONTRIBUTING.md) | 🧱 easy, fast, programmable and local-first microVM runtime and library |
-| [deeplethe/utopia](https://github.com/deeplethe/utopia/issues) | 8.5k | 1 | 0 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/deeplethe/utopia/blob/HEAD/CONTRIBUTING.md) | World's first open-source enterprise world model. |
 | [jtroo/kanata](https://github.com/jtroo/kanata/issues) | 8k | 9 | 0 |  | Improve keyboard comfort and usability with advanced customization |
 | [prefix-dev/pixi](https://github.com/prefix-dev/pixi/issues) | 7.9k | 4 | 3 | 🤖 disclose AI use · [📘 guide](https://github.com/prefix-dev/pixi/blob/HEAD/.github/CONTRIBUTING.md) | Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosys |
 | [cantino/mcfly](https://github.com/cantino/mcfly/issues) | 7.8k | 1 | 0 |  | Fly through your shell history. Great Scott! |
 | [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss/issues) | 7.7k | 1 | 0 | [📘 guide](https://github.com/parcel-bundler/lightningcss/blob/HEAD/CONTRIBUTING.md) | An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. |
-| [youki-dev/youki](https://github.com/youki-dev/youki/issues) | 7.6k | 1 | 1 |  | A container runtime written in Rust |
+| [youki-dev/youki](https://github.com/youki-dev/youki/issues) | 7.7k | 1 | 1 |  | A container runtime written in Rust |
 | [lance-format/lance](https://github.com/lance-format/lance/issues) | 7.2k | 5 | 5 | [📘 guide](https://github.com/lance-format/lance/blob/HEAD/CONTRIBUTING.md) | Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector i |
 | [facebook/pyrefly](https://github.com/facebook/pyrefly/issues) | 7.1k | 7 | 3 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/facebook/pyrefly/blob/HEAD/CONTRIBUTING.md) | A fast type checker and language server for Python |
 | [erebe/wstunnel](https://github.com/erebe/wstunnel/issues) | 7.1k | 1 | 0 | [📘 guide](https://github.com/erebe/wstunnel/blob/HEAD/CONTRIBUTING.md) | Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available |
-| [rust-lang/rustup](https://github.com/rust-lang/rustup/issues) | 7.1k | 6 | 1 | 📄 AI policy · [📘 guide](https://github.com/rust-lang/rustup/blob/HEAD/CONTRIBUTING.md) | The Rust toolchain installer |
 | [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian/issues) | 7.1k | 3 | 1 |  | 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词 |
-| [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt/issues) | 7k | 3 | 1 | 📄 AI policy | Format Rust code |
+| [rust-lang/rustup](https://github.com/rust-lang/rustup/issues) | 7.1k | 3 | 1 | 📄 AI policy · [📘 guide](https://github.com/rust-lang/rustup/blob/HEAD/CONTRIBUTING.md) | The Rust toolchain installer |
 | [dtolnay/cxx](https://github.com/dtolnay/cxx/issues) | 6.9k | 1 | 0 |  | Safe interop between Rust and C++ |
-| [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb/issues) | 6.8k | 2 | 2 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/GreptimeTeam/greptimedb/blob/HEAD/CONTRIBUTING.md) | The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. |
 | [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor/issues) | 6.8k | 4 | 3 | 📄 AI policy · [📘 guide](https://github.com/zizmorcore/zizmor/blob/HEAD/CONTRIBUTING.md) | Static analysis for GitHub Actions (and more) |
-| [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager/issues) | 6.7k | 1 | 0 |  | A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cu |
+| [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb/issues) | 6.8k | 2 | 2 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/GreptimeTeam/greptimedb/blob/HEAD/CONTRIBUTING.md) | The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage. |
+| [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager/issues) | 6.8k | 1 | 0 |  | A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cu |
 | [lldap/lldap](https://github.com/lldap/lldap/issues) | 6.6k | 3 | 2 | [📘 guide](https://github.com/lldap/lldap/blob/HEAD/CONTRIBUTING.md) | Light LDAP implementation |
 | [koharu-rs/koharu](https://github.com/koharu-rs/koharu/issues) | 6.5k | 24 | 8 | [📘 guide](https://github.com/koharu-rs/koharu/blob/HEAD/CONTRIBUTING.md) | ML-powered manga translator, written in Rust. |
 | [kucherenko/jscpd](https://github.com/kucherenko/jscpd/issues) | 6.4k | 1 | 0 | [📘 guide](https://github.com/kucherenko/jscpd/blob/HEAD/CONTRIBUTING.md) | Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server  |
@@ -224,7 +221,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore/issues) | 38.5k | 6 | 1 | ✍️ CLA · [📘 guide](https://github.com/dotnet/aspnetcore/blob/HEAD/CONTRIBUTING.md) | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Lin |
 | [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys/issues) | 32.1k | 1 | 0 | [📘 guide](https://github.com/DevToys-app/DevToys/blob/HEAD/CONTRIBUTING.md) | A Swiss Army knife for developers. |
 | [microsoft/calculator](https://github.com/microsoft/calculator/issues) | 31.1k | 3 | 0 | ✍️ CLA · [📘 guide](https://github.com/microsoft/calculator/blob/HEAD/CONTRIBUTING.md) | Windows Calculator: A simple yet powerful calculator that ships with Windows |
-| [dotnet/maui](https://github.com/dotnet/maui/issues) | 23.3k | 2 | 2 | ✍️ CLA · [📘 guide](https://github.com/dotnet/maui/blob/HEAD/.github/CONTRIBUTING.md) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet |
+| [dotnet/maui](https://github.com/dotnet/maui/issues) | 23.3k | 3 | 3 | ✍️ CLA · [📘 guide](https://github.com/dotnet/maui/blob/HEAD/.github/CONTRIBUTING.md) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet |
 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean/issues) | 22.2k | 1 | 1 | [📘 guide](https://github.com/QuantConnect/Lean/blob/HEAD/CONTRIBUTING.md) | Lean Algorithmic Trading Engine by QuantConnect (Python, C#) |
 | [dotnet/roslyn](https://github.com/dotnet/roslyn/issues) | 20.8k | 20 | 0 | ✍️ CLA · [📘 guide](https://github.com/dotnet/roslyn/blob/HEAD/CONTRIBUTING.md) | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. |
 | [lively-community/lively](https://github.com/lively-community/lively/issues) | 19.9k | 1 | 0 | [📘 guide](https://github.com/lively-community/lively/blob/HEAD/CONTRIBUTING.md) | Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3. |
@@ -234,8 +231,8 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [Tichau/FileConverter](https://github.com/Tichau/FileConverter/issues) | 15.5k | 1 | 0 |  | File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows ex |
 | [dotnet/efcore](https://github.com/dotnet/efcore/issues) | 14.8k | 2 | 0 | ✍️ CLA · [📘 guide](https://github.com/dotnet/efcore/blob/HEAD/.github/CONTRIBUTING.md) | EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migr |
 | [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame/issues) | 14.6k | 6 | 0 | ⚠️ AI restricted · [📘 guide](https://github.com/MonoGame/MonoGame/blob/HEAD/CONTRIBUTING.md) | One framework for creating powerful cross-platform games. |
+| [App-vNext/Polly](https://github.com/App-vNext/Polly/issues) | 14.3k | 1 | 0 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/App-vNext/Polly/blob/HEAD/CONTRIBUTING.md) | Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry |
 | [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter/issues) | 12.2k | 1 | 0 |  | Saves Discord chat logs to a file |
-| [microsoft/garnet](https://github.com/microsoft/garnet/issues) | 12.1k | 2 | 0 |  | Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalabil |
 | [Kareadita/Kavita](https://github.com/Kareadita/Kavita/issues) | 11.9k | 5 | 0 | ⚠️ AI restricted · [📘 guide](https://github.com/Kareadita/Kavita/blob/HEAD/CONTRIBUTING.md) | Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your |
 | [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console/issues) | 11.7k | 1 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/spectreconsole/spectre.console/blob/HEAD/CONTRIBUTING.md) | A .NET library that makes it easier to create beautiful console applications. |
 | [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet/issues) | 11.5k | 2 | 1 | [📘 guide](https://github.com/dotnet/BenchmarkDotNet/blob/HEAD/.github/CONTRIBUTING.md) | Powerful .NET library for benchmarking |
@@ -247,19 +244,20 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire/issues) | 10.2k | 1 | 0 | [📘 guide](https://github.com/HangfireIO/Hangfire/blob/HEAD/CONTRIBUTING.md) | An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate proc |
 | [unoplatform/uno](https://github.com/unoplatform/uno/issues) | 10.1k | 13 | 13 | [📘 guide](https://github.com/unoplatform/uno/blob/HEAD/CONTRIBUTING.md) | Open-source platform for building cross-platform native Mobile, Web, Desktop, and Embedded apps from a single C#/XAML co |
 | [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/issues) | 9.8k | 5 | 2 |  | Automatically switches between the dark and light theme of Windows 10 and Windows 11 |
-| [dotnet/yarp](https://github.com/dotnet/yarp/issues) | 9.6k | 2 | 0 | ✍️ CLA · [📘 guide](https://github.com/dotnet/yarp/blob/HEAD/CONTRIBUTING.md) | A toolkit for developing high-performance HTTP reverse proxy applications. |
-| [dotnet/machinelearning](https://github.com/dotnet/machinelearning/issues) | 9.4k | 12 | 1 | ✍️ CLA · [📘 guide](https://github.com/dotnet/machinelearning/blob/HEAD/CONTRIBUTING.md) | ML.NET is an open source and cross-platform machine learning framework for .NET. |
+| [dotnet/yarp](https://github.com/dotnet/yarp/issues) | 9.6k | 4 | 0 | ✍️ CLA · [📘 guide](https://github.com/dotnet/yarp/blob/HEAD/CONTRIBUTING.md) | A toolkit for developing high-performance HTTP reverse proxy applications. |
+| [dotnet/machinelearning](https://github.com/dotnet/machinelearning/issues) | 9.4k | 13 | 1 | ✍️ CLA · [📘 guide](https://github.com/dotnet/machinelearning/blob/HEAD/CONTRIBUTING.md) | ML.NET is an open source and cross-platform machine learning framework for .NET. |
 | [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE/issues) | 8.9k | 2 | 1 |  | Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文. |
 | [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot/issues) | 8.7k | 2 | 0 | [📘 guide](https://github.com/ThreeMammals/Ocelot/blob/HEAD/.github/CONTRIBUTING.md) | .NET API Gateway |
 | [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore/issues) | 8.2k | 2 | 2 | [📘 guide](https://github.com/OrchardCMS/OrchardCore/blob/HEAD/CONTRIBUTING.md) | Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content man |
 | [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core/issues) | 7.9k | 4 | 3 | [📘 guide](https://github.com/elsa-workflows/elsa-core/blob/HEAD/CONTRIBUTING.md) | The Workflow Engine for .NET |
 | [stride3d/stride](https://github.com/stride3d/stride/issues) | 7.9k | 3 | 3 | [📘 guide](https://github.com/stride3d/stride/blob/HEAD/.github/CONTRIBUTING.md) | Stride (formerly Xenko), a free and open-source cross-platform C# game engine. |
+| [dotnet/wpf](https://github.com/dotnet/wpf/issues) | 7.7k | 3 | 2 | [📘 guide](https://github.com/dotnet/wpf/blob/HEAD/.github/CONTRIBUTING.md) | WPF is a .NET Core UI framework for building Windows desktop applications. |
 | [ElectronNET/Electron.NET](https://github.com/ElectronNET/Electron.NET/issues) | 7.6k | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/ElectronNET/Electron.NET/blob/HEAD/.github/CONTRIBUTING.md) | :electron: Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor). |
 | [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe/issues) | 7.4k | 1 | 0 |  | Flyoobe is the Control Panel for setting up Windows |
 | [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag/issues) | 7.4k | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/RicoSuter/NSwag/blob/HEAD/CONTRIBUTING.md) | The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript. |
 | [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner/issues) | 6.6k | 1 | 0 |  | FluentCleaner is the transparent, community-powered CCleaner alternative for Windows. |
 | [microsoft/aspire](https://github.com/microsoft/aspire/issues) | 6.4k | 1 | 1 |  | Aspire is the tool for code-first, extensible, observable dev and deploy. |
-| [dotnet/msbuild](https://github.com/dotnet/msbuild/issues) | 5.6k | 1 | 0 |  | The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio. |
+| [dotnet/msbuild](https://github.com/dotnet/msbuild/issues) | 5.6k | 4 | 1 |  | The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio. |
 | [dotnet/Silk.NET](https://github.com/dotnet/Silk.NET/issues) | 5.2k | 1 | 1 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/dotnet/Silk.NET/blob/HEAD/CONTRIBUTING.md) | The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your moth |
 | [akkadotnet/akka.net](https://github.com/akkadotnet/akka.net/issues) | 5.1k | 4 | 0 |  | Canonical actor model implementation for .NET with local + distributed actors in C# and F#. |
 | [dotnet/winforms](https://github.com/dotnet/winforms/issues) | 4.9k | 13 | 2 | [📘 guide](https://github.com/dotnet/winforms/blob/HEAD/CONTRIBUTING.md) | Windows Forms is a .NET UI framework for building Windows desktop applications. |
@@ -273,7 +271,6 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [dlemstra/Magick.NET](https://github.com/dlemstra/Magick.NET/issues) | 4k | 1 | 0 | [📘 guide](https://github.com/dlemstra/Magick.NET/blob/HEAD/.github/CONTRIBUTING.md) | The .NET library for ImageMagick |
 | [picoe/Eto](https://github.com/picoe/Eto/issues) | 4k | 1 | 0 |  | Cross platform GUI framework for desktop and mobile applications in .NET |
 | [hardkoded/puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp/issues) | 3.9k | 1 | 0 | [📘 guide](https://github.com/hardkoded/puppeteer-sharp/blob/HEAD/CONTRIBUTING.md) | Headless Chrome .NET API |
-| [microsoft/kiota](https://github.com/microsoft/kiota/issues) | 3.8k | 2 | 0 | ✍️ CLA · [📘 guide](https://github.com/microsoft/kiota/blob/HEAD/CONTRIBUTING.md) | OpenAPI based HTTP Client code generator |
 | [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp/issues) | 3.8k | 1 | 1 | [📘 guide](https://github.com/SciSharp/LLamaSharp/blob/HEAD/CONTRIBUTING.md) | A C#/.NET library to run LLM (🦙LLaMA/LLaVA) on your local device efficiently. |
 | [microsoft/mcp](https://github.com/microsoft/mcp/issues) | 3.8k | 4 | 0 | [📘 guide](https://github.com/microsoft/mcp/blob/HEAD/CONTRIBUTING.md) | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool in |
 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive/issues) | 3.8k | 10 | 9 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) | The main repository for the development of the evolution game Thrive. |
@@ -293,7 +290,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb/issues) | 2.8k | 2 | 0 |  | Reduces eye strain by adjusting screen gamma based on the current time |
 | [TASEmulators/BizHawk](https://github.com/TASEmulators/BizHawk/issues) | 2.8k | 1 | 1 | 📄 AI policy | BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen,  |
 | [nunit/nunit](https://github.com/nunit/nunit/issues) | 2.6k | 1 | 1 | ⚠️ AI restricted · [📘 guide](https://github.com/nunit/nunit/blob/HEAD/CONTRIBUTING.md) | NUnit Framework |
-| [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter/issues) | 2.5k | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/BrighterCommand/Brighter/blob/HEAD/CONTRIBUTING.md) | A framework for building messaging apps with .NET and C#. |
+| [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter/issues) | 2.5k | 10 | 0 | ✍️ CLA · [📘 guide](https://github.com/BrighterCommand/Brighter/blob/HEAD/CONTRIBUTING.md) | A framework for building messaging apps with .NET and C#. |
 | [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless/issues) | 2.5k | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/exceptionless/Exceptionless/blob/HEAD/CONTRIBUTING.md) | Exceptionless application |
 | [dotnet/iot](https://github.com/dotnet/iot/issues) | 2.4k | 1 | 0 |  | This repo includes .NET Core implementations for various IoT boards, chips, displays and PCBs. |
 | [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame/issues) | 2.4k | 1 | 1 | [📘 guide](https://github.com/immichFrame/ImmichFrame/blob/HEAD/CONTRIBUTING.md) |  |
@@ -311,25 +308,25 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 
 | Project | Stars | Open issues | Beginner | Rules | What it is |
 | --- | ---: | ---: | ---: | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw/issues) | 392.8k | 1 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/openclaw/openclaw/blob/HEAD/CONTRIBUTING.md) | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw/issues) | 392.9k | 1 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/openclaw/openclaw/blob/HEAD/CONTRIBUTING.md) | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw/issues) | 134.4k | 1 | 1 | [📘 guide](https://github.com/excalidraw/excalidraw/blob/HEAD/CONTRIBUTING.md) | Virtual whiteboard for sketching hand-drawn like diagrams |
 | [immich-app/immich](https://github.com/immich-app/immich/issues) | 117k | 1 | 1 | [📘 guide](https://github.com/immich-app/immich/blob/HEAD/CONTRIBUTING.md) | High performance self-hosted photo and video management solution. |
-| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli/issues) | 107.5k | 2 | 2 | ✍️ CLA · [📘 guide](https://github.com/google-gemini/gemini-cli/blob/HEAD/CONTRIBUTING.md) | An open-source AI agent that brings the power of Gemini directly into your terminal. |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design/issues) | 103.5k | 1 | 0 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/nexu-io/open-design/blob/HEAD/CONTRIBUTING.md) | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, |
-| [ant-design/ant-design](https://github.com/ant-design/ant-design/issues) | 99.9k | 14 | 0 | [📘 guide](https://github.com/ant-design/ant-design/blob/HEAD/.github/CONTRIBUTING.md) | An enterprise-class UI design language and React UI library |
+| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli/issues) | 107.6k | 2 | 2 | ✍️ CLA · [📘 guide](https://github.com/google-gemini/gemini-cli/blob/HEAD/CONTRIBUTING.md) | An open-source AI agent that brings the power of Gemini directly into your terminal. |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design/issues) | 103.6k | 1 | 0 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/nexu-io/open-design/blob/HEAD/CONTRIBUTING.md) | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, |
+| [ant-design/ant-design](https://github.com/ant-design/ant-design/issues) | 99.9k | 23 | 0 | [📘 guide](https://github.com/ant-design/ant-design/blob/HEAD/.github/CONTRIBUTING.md) | An enterprise-class UI design language and React UI library |
 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer/issues) | 95.7k | 2 | 2 |  | JavaScript API for Chrome and Firefox |
 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF/issues) | 94.8k | 6 | 5 | [📘 guide](https://github.com/Stirling-Tools/Stirling-PDF/blob/HEAD/.github/CONTRIBUTING.md) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
-| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands/issues) | 91.6k | 1 | 1 |  | 🙌 OpenHands: AI-Driven Development |
+| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands/issues) | 91.7k | 1 | 1 |  | 🙌 OpenHands: AI-Driven Development |
 | [storybookjs/storybook](https://github.com/storybookjs/storybook/issues) | 91.4k | 16 | 0 | 🤖 disclose AI use · [📘 guide](https://github.com/storybookjs/storybook/blob/HEAD/CONTRIBUTING.md) | Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo/issues) | 78.6k | 1 | 0 | 🤖 disclose AI use · [📘 guide](https://github.com/ruvnet/ruflo/blob/HEAD/CONTRIBUTING.md) | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build convers |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo/issues) | 78.7k | 1 | 0 | 🤖 disclose AI use · [📘 guide](https://github.com/ruvnet/ruflo/blob/HEAD/CONTRIBUTING.md) | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build convers |
 | [grafana/grafana](https://github.com/grafana/grafana/issues) | 77.5k | 7 | 4 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/grafana/grafana/blob/HEAD/CONTRIBUTING.md) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple |
 | [Eugeny/tabby](https://github.com/Eugeny/tabby/issues) | 75.1k | 1 | 0 |  | A terminal for a more modern age |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes/issues) | 70.3k | 2 | 2 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/heygen-com/hyperframes/blob/HEAD/CONTRIBUTING.md) | Write HTML. Render video. Built for agents. |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes/issues) | 70.7k | 2 | 2 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/heygen-com/hyperframes/blob/HEAD/CONTRIBUTING.md) | Write HTML. Render video. Built for agents. |
 | [upstash/context7](https://github.com/upstash/context7/issues) | 63.5k | 1 | 1 |  | Context7 Platform -- Up-to-date docs for AI agents |
 | [nuxt/nuxt](https://github.com/nuxt/nuxt/issues) | 61k | 2 | 2 | ⚠️ AI restricted · [📘 guide](https://github.com/nuxt/nuxt/blob/HEAD/CONTRIBUTING.md) | The full-stack Vue framework. |
 | [appwrite/appwrite](https://github.com/appwrite/appwrite/issues) | 57.8k | 1 | 0 | [📘 guide](https://github.com/appwrite/appwrite/blob/HEAD/CONTRIBUTING.md) | The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WA |
 | [TryGhost/Ghost](https://github.com/TryGhost/Ghost/issues) | 55.6k | 1 | 1 | ✍️ CLA · [📘 guide](https://github.com/TryGhost/Ghost/blob/HEAD/.github/CONTRIBUTING.md) | Independent technology for modern publishing, memberships, subscriptions and newsletters. |
-| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio/issues) | 52.9k | 25 | 0 | 🔏 DCO · [📘 guide](https://github.com/CherryHQ/cherry-studio/blob/HEAD/CONTRIBUTING.md) | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs |
+| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio/issues) | 52.9k | 26 | 0 | 🔏 DCO · [📘 guide](https://github.com/CherryHQ/cherry-studio/blob/HEAD/CONTRIBUTING.md) | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs |
 | [tldraw/tldraw](https://github.com/tldraw/tldraw/issues) | 51.1k | 2 | 2 | [📘 guide](https://github.com/tldraw/tldraw/blob/HEAD/CONTRIBUTING.md) | Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK. |
 | [moeru-ai/airi](https://github.com/moeru-ai/airi/issues) | 50.6k | 1 | 0 | 📄 AI policy · [📘 guide](https://github.com/moeru-ai/airi/blob/HEAD/.github/CONTRIBUTING.md) | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wi |
 | [slidevjs/slidev](https://github.com/slidevjs/slidev/issues) | 49.2k | 1 | 0 | [📘 guide](https://github.com/slidevjs/slidev/blob/HEAD/CONTRIBUTING.md) | Presentation Slides for Developers |
@@ -342,14 +339,14 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap/issues) | 38.8k | 5 | 5 | 🤖 disclose AI use · [📘 guide](https://github.com/ueberdosis/tiptap/blob/HEAD/CONTRIBUTING.md) | The headless rich text editor framework for web artisans. |
 | [directus/directus](https://github.com/directus/directus/issues) | 38.6k | 5 | 0 |  | The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, i |
 | [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome/issues) | 37.6k | 3 | 0 | [📘 guide](https://github.com/AdguardTeam/AdGuardHome/blob/HEAD/CONTRIBUTING.md) | Network-wide ads & trackers blocking DNS server |
-| [medusajs/medusa](https://github.com/medusajs/medusa/issues) | 36.9k | 16 | 5 | [📘 guide](https://github.com/medusajs/medusa/blob/HEAD/CONTRIBUTING.md) | The world's most flexible commerce platform for agents and developers |
+| [medusajs/medusa](https://github.com/medusajs/medusa/issues) | 36.9k | 20 | 6 | [📘 guide](https://github.com/medusajs/medusa/blob/HEAD/CONTRIBUTING.md) | The world's most flexible commerce platform for agents and developers |
 | [typeorm/typeorm](https://github.com/typeorm/typeorm/issues) | 36.7k | 1 | 1 | [📘 guide](https://github.com/typeorm/typeorm/blob/HEAD/CONTRIBUTING.md) | TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more. |
 | [backstage/backstage](https://github.com/backstage/backstage/issues) | 34.7k | 30 | 0 | 📄 AI policy · 🔏 DCO · [📘 guide](https://github.com/backstage/backstage/blob/HEAD/CONTRIBUTING.md) | Backstage is an open framework for building developer portals |
 | [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop/issues) | 33.9k | 4 | 3 |  | Pear 🍐 is extension for music player |
 | [hasura/graphql-engine](https://github.com/hasura/graphql-engine/issues) | 32.1k | 2 | 1 | ✍️ CLA · [📘 guide](https://github.com/hasura/graphql-engine/blob/HEAD/CONTRIBUTING.md) | Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on  |
 | [codex-team/editor.js](https://github.com/codex-team/editor.js/issues) | 32k | 1 | 1 |  | A block-style editor with clean JSON output |
 | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep/issues) | 29.9k | 1 | 1 | [📘 guide](https://github.com/karakeep-app/karakeep/blob/HEAD/CONTRIBUTING.md) | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search |
-| [actualbudget/actual](https://github.com/actualbudget/actual/issues) | 29.7k | 15 | 8 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) | A local-first personal finance app |
+| [actualbudget/actual](https://github.com/actualbudget/actual/issues) | 29.7k | 14 | 7 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) | A local-first personal finance app |
 | [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI/issues) | 28.8k | 1 | 1 |  | Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to g |
 | [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs/issues) | 28.6k | 1 | 0 |  | The most advanced free and open-source browser fingerprinting library |
 | [Budibase/budibase](https://github.com/Budibase/budibase/issues) | 28.3k | 1 | 1 | ✍️ CLA · [📘 guide](https://github.com/Budibase/budibase/blob/HEAD/.github/CONTRIBUTING.md) | AI agents, automations and apps that run your operations. Model agnostic. |
@@ -357,14 +354,14 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [onlook-dev/onlook](https://github.com/onlook-dev/onlook/issues) | 27k | 1 | 0 | [📘 guide](https://github.com/onlook-dev/onlook/blob/HEAD/CONTRIBUTING.md) | The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your cod |
 | [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh/issues) | 26.1k | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/GoogleChromeLabs/squoosh/blob/HEAD/CONTRIBUTING.md) | Make images smaller using best-in-class codecs, right in the browser. |
 | [Redocly/redoc](https://github.com/Redocly/redoc/issues) | 26k | 1 | 0 | [📘 guide](https://github.com/Redocly/redoc/blob/HEAD/.github/CONTRIBUTING.md) | 📘 OpenAPI/Swagger-generated API Reference Documentation |
-| [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript/issues) | 25.7k | 1 | 0 | ✍️ CLA | ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you l |
+| [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript/issues) | 25.7k | 7 | 5 | ✍️ CLA | ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you l |
 | [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app/issues) | 25.5k | 2 | 0 | [📘 guide](https://github.com/responsively-org/responsively-app/blob/HEAD/CONTRIBUTING.md) | A modified web browser that helps in responsive web development. A web developer's must have dev-tool. |
 | [pascalorg/editor](https://github.com/pascalorg/editor/issues) | 25.1k | 2 | 0 | [📘 guide](https://github.com/pascalorg/editor/blob/HEAD/CONTRIBUTING.md) | Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents. |
 | [angular/components](https://github.com/angular/components/issues) | 25k | 1 | 1 | ✍️ CLA · [📘 guide](https://github.com/angular/components/blob/HEAD/CONTRIBUTING.md) | Component infrastructure and Material Design components for Angular |
 | [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio/issues) | 23.8k | 1 | 1 | ✍️ CLA · [📘 guide](https://github.com/beekeeper-studio/beekeeper-studio/blob/HEAD/CONTRIBUTING.md) | Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. |
 | [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit/issues) | 23.7k | 1 | 1 | 🔏 DCO · [📘 guide](https://github.com/kriasoft/react-starter-kit/blob/HEAD/.github/CONTRIBUTING.md) | Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready mono |
 | [winboat-org/winboat](https://github.com/winboat-org/winboat/issues) | 23.3k | 2 | 2 | [📘 guide](https://github.com/winboat-org/winboat/blob/HEAD/CONTRIBUTING.md) | Run Windows apps on 🐧 Linux with ✨ seamless integration |
-| [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity/issues) | 23.1k | 8 | 0 | [📘 guide](https://github.com/super-productivity/super-productivity/blob/HEAD/CONTRIBUTING.md) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes |
+| [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity/issues) | 23.1k | 10 | 0 | [📘 guide](https://github.com/super-productivity/super-productivity/blob/HEAD/CONTRIBUTING.md) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes |
 | [renovatebot/renovate](https://github.com/renovatebot/renovate/issues) | 22.9k | 8 | 0 | 🤖 disclose AI use · ✍️ CLA | Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io |
 | [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw/issues) | 22.8k | 1 | 0 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/NVIDIA/NemoClaw/blob/HEAD/CONTRIBUTING.md) | Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference |
 | [emberjs/ember.js](https://github.com/emberjs/ember.js/issues) | 22.6k | 1 | 1 | [📘 guide](https://github.com/emberjs/ember.js/blob/HEAD/CONTRIBUTING.md) | Ember.js - A JavaScript framework for creating ambitious web applications |
@@ -387,16 +384,16 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [umijs/qiankun](https://github.com/umijs/qiankun/issues) | 16.7k | 17 | 1 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/umijs/qiankun/blob/HEAD/.github/CONTRIBUTING.md) | 📦 🚀 Blazing fast, simple and complete solution for micro frontends. |
 | [umijs/umi](https://github.com/umijs/umi/issues) | 16k | 1 | 0 | [📘 guide](https://github.com/umijs/umi/blob/HEAD/CONTRIBUTING.md) | A framework in react community ✨ |
 | [adobe/react-spectrum](https://github.com/adobe/react-spectrum/issues) | 16k | 1 | 0 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/adobe/react-spectrum/blob/HEAD/CONTRIBUTING.md) | A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences. |
-| [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form/issues) | 15.9k | 4 | 0 | [📘 guide](https://github.com/rjsf-team/react-jsonschema-form/blob/HEAD/CONTRIBUTING.md) | A React component for building Web forms from JSON Schema. |
+| [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form/issues) | 15.9k | 5 | 0 | [📘 guide](https://github.com/rjsf-team/react-jsonschema-form/blob/HEAD/CONTRIBUTING.md) | A React component for building Web forms from JSON Schema. |
 | [faker-js/faker](https://github.com/faker-js/faker/issues) | 15.5k | 1 | 0 | [📘 guide](https://github.com/faker-js/faker/blob/HEAD/CONTRIBUTING.md) | Generate massive amounts of fake data in the browser and node.js |
 | [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab/issues) | 15.4k | 2 | 0 | 🤖 disclose AI use · [📘 guide](https://github.com/jupyterlab/jupyterlab/blob/HEAD/CONTRIBUTING.md) | JupyterLab computational environment. |
 | [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim/issues) | 15.2k | 2 | 0 | [📘 guide](https://github.com/VSCodeVim/Vim/blob/HEAD/.github/CONTRIBUTING.md) | :star: Vim for Visual Studio Code |
-| [alibaba/hooks](https://github.com/alibaba/hooks/issues) | 15k | 3 | 0 |  | A high-quality & reliable React Hooks library. https://alibaba.github.io/hooks/ |
 | [plait-board/drawnix](https://github.com/plait-board/drawnix/issues) | 15k | 1 | 0 | 🤖 disclose AI use · [📘 guide](https://github.com/plait-board/drawnix/blob/HEAD/CONTRIBUTING.md) | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. |
+| [alibaba/hooks](https://github.com/alibaba/hooks/issues) | 15k | 3 | 0 |  | A high-quality & reliable React Hooks library. https://alibaba.github.io/hooks/ |
 
 ## Go
 
-80 projects · [open issues](../issues/by-language/go.md)
+78 projects · [open issues](../issues/by-language/go.md)
 
 | Project | Stars | Open issues | Beginner | Rules | What it is |
 | --- | ---: | ---: | ---: | --- | --- |
@@ -406,14 +403,14 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [moby/moby](https://github.com/moby/moby/issues) | 72.2k | 3 | 0 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/moby/moby/blob/HEAD/CONTRIBUTING.md) | The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus/issues) | 66.7k | 3 | 0 | 🔏 DCO · [📘 guide](https://github.com/prometheus/prometheus/blob/HEAD/CONTRIBUTING.md) | The Prometheus monitoring system and time series database. |
 | [rclone/rclone](https://github.com/rclone/rclone/issues) | 60.5k | 5 | 0 | [📘 guide](https://github.com/rclone/rclone/blob/HEAD/CONTRIBUTING.md) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Stora |
-| [multica-ai/multica](https://github.com/multica-ai/multica/issues) | 53.6k | 3 | 3 | 🤖 disclose AI use · [📘 guide](https://github.com/multica-ai/multica/blob/HEAD/CONTRIBUTING.md) | Make humans and AI agents work as one team — open-source and self-hostable. |
+| [multica-ai/multica](https://github.com/multica-ai/multica/issues) | 53.7k | 3 | 3 | 🤖 disclose AI use · [📘 guide](https://github.com/multica-ai/multica/blob/HEAD/CONTRIBUTING.md) | Make humans and AI agents work as one team — open-source and self-hostable. |
 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/issues) | 51.4k | 1 | 0 | [📘 guide](https://github.com/ethereum/go-ethereum/blob/HEAD/.github/CONTRIBUTING.md) | Go implementation of the Ethereum protocol |
 | [QuantumNous/new-api](https://github.com/QuantumNous/new-api/issues) | 50.6k | 2 | 1 |  | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, |
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review/issues) | 48.1k | 1 | 0 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/alibaba/open-code-review/blob/HEAD/CONTRIBUTING.md) | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines |
 | [juanfont/headscale](https://github.com/juanfont/headscale/issues) | 44.9k | 2 | 0 | ⚠️ AI restricted · [📘 guide](https://github.com/juanfont/headscale/blob/HEAD/CONTRIBUTING.md) | An open source, self-hosted implementation of the Tailscale control server |
 | [schollz/croc](https://github.com/schollz/croc/issues) | 40.7k | 1 | 0 |  | Easily and securely send things from one computer to another :crocodile: :package: |
-| [photoprism/photoprism](https://github.com/photoprism/photoprism/issues) | 40.3k | 21 | 0 | ⚠️ AI restricted · ✍️ CLA · [📘 guide](https://github.com/photoprism/photoprism/blob/HEAD/CONTRIBUTING.md) | AI-Powered Photos App 🌈💎✨ |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy/issues) | 38.6k | 2 | 0 | [📘 guide](https://github.com/aquasecurity/trivy/blob/HEAD/CONTRIBUTING.md) | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [photoprism/photoprism](https://github.com/photoprism/photoprism/issues) | 40.4k | 21 | 0 | ⚠️ AI restricted · ✍️ CLA · [📘 guide](https://github.com/photoprism/photoprism/blob/HEAD/CONTRIBUTING.md) | AI-Powered Photos App 🌈💎✨ |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy/issues) | 38.7k | 2 | 0 | [📘 guide](https://github.com/aquasecurity/trivy/blob/HEAD/CONTRIBUTING.md) | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 | [istio/istio](https://github.com/istio/istio/issues) | 38.5k | 3 | 0 | [📘 guide](https://github.com/istio/istio/blob/HEAD/CONTRIBUTING.md) | Connect, secure, control, and observe services. |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale/issues) | 38k | 2 | 1 | 🔏 DCO · [📘 guide](https://github.com/tailscale/tailscale/blob/HEAD/.github/CONTRIBUTING.md) | The easiest, most secure way to use WireGuard and 2FA. |
 | [wailsapp/wails](https://github.com/wailsapp/wails/issues) | 36.7k | 1 | 1 | ✍️ CLA · [📘 guide](https://github.com/wailsapp/wails/blob/HEAD/CONTRIBUTING.md) | Create beautiful applications using Go |
@@ -424,11 +421,10 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [grafana/k6](https://github.com/grafana/k6/issues) | 32k | 5 | 3 | ✍️ CLA · [📘 guide](https://github.com/grafana/k6/blob/HEAD/CONTRIBUTING.md) | A modern load testing tool, using Go and JavaScript |
 | [chubin/wttr.in](https://github.com/chubin/wttr.in/issues) | 30.7k | 2 | 0 |  | :partly_sunny: The right way to check the weather |
 | [helm/helm](https://github.com/helm/helm/issues) | 30.4k | 2 | 0 | 🔏 DCO · [📘 guide](https://github.com/helm/helm/blob/HEAD/CONTRIBUTING.md) | The Kubernetes Package Manager |
-| [micro-editor/micro](https://github.com/micro-editor/micro/issues) | 29.7k | 3 | 0 |  | A modern and intuitive terminal-based text editor |
+| [micro-editor/micro](https://github.com/micro-editor/micro/issues) | 29.8k | 3 | 0 |  | A modern and intuitive terminal-based text editor |
 | [goharbor/harbor](https://github.com/goharbor/harbor/issues) | 29.6k | 10 | 0 | 🔏 DCO · [📘 guide](https://github.com/goharbor/harbor/blob/HEAD/CONTRIBUTING.md) | An open source trusted cloud native registry project that stores, signs, and scans content. |
 | [fyne-io/fyne](https://github.com/fyne-io/fyne/issues) | 28.8k | 4 | 0 | [📘 guide](https://github.com/fyne-io/fyne/blob/HEAD/CONTRIBUTING.md) | Cross platform GUI toolkit in Go inspired by Material Design |
 | [henrygd/beszel](https://github.com/henrygd/beszel/issues) | 26.5k | 1 | 0 |  | Lightweight server monitoring with historical data, docker stats, and alerts. |
-| [stretchr/testify](https://github.com/stretchr/testify/issues) | 26.2k | 1 | 0 | [📘 guide](https://github.com/stretchr/testify/blob/HEAD/CONTRIBUTING.md) | A toolkit with common assertions and mocks that plays nicely with the standard library |
 | [dapr/dapr](https://github.com/dapr/dapr/issues) | 26.2k | 2 | 1 | 🔏 DCO · [📘 guide](https://github.com/dapr/dapr/blob/HEAD/CONTRIBUTING.md) | Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architect |
 | [go-kratos/kratos](https://github.com/go-kratos/kratos/issues) | 26k | 1 | 0 | [📘 guide](https://github.com/go-kratos/kratos/blob/HEAD/CONTRIBUTING.md) | Your ultimate Go microservices framework for the cloud-native era. |
 | [d2lang/d2](https://github.com/d2lang/d2/issues) | 25.7k | 3 | 3 | [📘 guide](https://github.com/d2lang/d2/blob/HEAD/docs/CONTRIBUTING.md) | D2 is a modern diagram scripting language that turns text to diagrams. |
@@ -461,8 +457,8 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [stashapp/stash](https://github.com/stashapp/stash/issues) | 13.2k | 18 | 1 | ⚠️ AI restricted · [📘 guide](https://github.com/stashapp/stash/blob/HEAD/docs/CONTRIBUTING.md) | An organizer for your porn, written in Go. Documentation: https://docs.stashapp.cc |
 | [89luca89/distrobox](https://github.com/89luca89/distrobox/issues) | 13.1k | 1 | 0 | [📘 guide](https://github.com/89luca89/distrobox/blob/HEAD/CONTRIBUTING.md) | Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedo |
 | [TwiN/gatus](https://github.com/TwiN/gatus/issues) | 12.4k | 1 | 0 |  | Automated developer-oriented status page with alerting and incident support |
-| [crossplane/crossplane](https://github.com/crossplane/crossplane/issues) | 12.2k | 1 | 0 | 🤖 disclose AI use · [📘 guide](https://github.com/crossplane/crossplane/blob/HEAD/CONTRIBUTING.md) | The Cloud Native Control Plane |
 | [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize/issues) | 12.2k | 2 | 1 | ✍️ CLA · [📘 guide](https://github.com/kubernetes-sigs/kustomize/blob/HEAD/CONTRIBUTING.md) | Customization of kubernetes YAML configurations |
+| [crossplane/crossplane](https://github.com/crossplane/crossplane/issues) | 12.2k | 1 | 0 | 🤖 disclose AI use · [📘 guide](https://github.com/crossplane/crossplane/blob/HEAD/CONTRIBUTING.md) | The Cloud Native Control Plane |
 | [quic-go/quic-go](https://github.com/quic-go/quic-go/issues) | 11.8k | 1 | 0 | 🤖 disclose AI use | A production-ready QUIC implementation in pure Go |
 | [linkerd/linkerd2](https://github.com/linkerd/linkerd2/issues) | 11.5k | 2 | 1 | 🔏 DCO · [📘 guide](https://github.com/linkerd/linkerd2/blob/HEAD/CONTRIBUTING.md) | Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x. |
 | [loft-sh/vcluster](https://github.com/loft-sh/vcluster/issues) | 11.4k | 1 | 0 | [📘 guide](https://github.com/loft-sh/vcluster/blob/HEAD/CONTRIBUTING.md) | vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for  |
@@ -479,7 +475,6 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [higress-group/higress](https://github.com/higress-group/higress/issues) | 9.6k | 7 | 2 | 🤖 disclose AI use | 🤖 AI Gateway \| AI Native API Gateway |
 | [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence/issues) | 9.5k | 8 | 1 | [📘 guide](https://github.com/cadence-workflow/cadence/blob/HEAD/CONTRIBUTING.md) | Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-runn |
 | [replicate/cog](https://github.com/replicate/cog/issues) | 9.5k | 2 | 2 | [📘 guide](https://github.com/replicate/cog/blob/HEAD/CONTRIBUTING.md) | Containers for machine learning |
-| [certimate-go/certimate](https://github.com/certimate-go/certimate/issues) | 9.4k | 1 | 0 | [📘 guide](https://github.com/certimate-go/certimate/blob/HEAD/CONTRIBUTING.md) | An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewa |
 
 ## Python
 
@@ -490,16 +485,16 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/issues) | 399.9k | 1 | 1 | ✍️ CLA · [📘 guide](https://github.com/EbookFoundation/free-programming-books/blob/HEAD/docs/CONTRIBUTING.md) | :books: Freely available programming books |
 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer/issues) | 375.3k | 3 | 0 | [📘 guide](https://github.com/donnemartin/system-design-primer/blob/HEAD/CONTRIBUTING.md) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning/issues) | 287.7k | 5 | 5 | [📘 guide](https://github.com/practical-tutorials/project-based-learning/blob/HEAD/CONTRIBUTING.md) | Curated list of project-based tutorials |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown/issues) | 191.7k | 4 | 4 |  | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown/issues) | 191.8k | 1 | 1 |  | Python tool for converting files and office documents to Markdown. |
 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT/issues) | 187.7k | 3 | 3 | ✍️ CLA · [📘 guide](https://github.com/Significant-Gravitas/AutoGPT/blob/HEAD/CONTRIBUTING.md) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify/issues) | 133.5k | 1 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/Graphify-Labs/graphify/blob/HEAD/CONTRIBUTING.md) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill fo |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify/issues) | 133.8k | 1 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/Graphify-Labs/graphify/blob/HEAD/CONTRIBUTING.md) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill fo |
 | [pytorch/pytorch](https://github.com/pytorch/pytorch/issues) | 105k | 8 | 8 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/pytorch/pytorch/blob/HEAD/CONTRIBUTING.md) | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
 | [home-assistant/core](https://github.com/home-assistant/core/issues) | 91.7k | 1 | 0 | ⚠️ AI restricted · [📘 guide](https://github.com/home-assistant/core/blob/HEAD/CONTRIBUTING.md) | :house_with_garden: Open source home automation that puts local control and privacy first. |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio/issues) | 82.3k | 1 | 0 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/debpalash/VoiceStudio/blob/HEAD/.github/CONTRIBUTING.md) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictati |
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish/issues) | 81.4k | 3 | 0 |  | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio/issues) | 83k | 1 | 0 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/debpalash/VoiceStudio/blob/HEAD/.github/CONTRIBUTING.md) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictati |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish/issues) | 81.5k | 3 | 0 |  | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code/issues) | 79.1k | 1 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/shareAI-lab/learn-claude-code/blob/HEAD/CONTRIBUTING.md) | Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1 |
 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory/issues) | 75.7k | 1 | 1 | [📘 guide](https://github.com/hiyouga/LlamaFactory/blob/HEAD/.github/CONTRIBUTING.md) | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) |
-| [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues) | 67.9k | 10 | 0 | 🤖 disclose AI use · [📘 guide](https://github.com/scikit-learn/scikit-learn/blob/HEAD/CONTRIBUTING.md) | scikit-learn: machine learning in Python |
+| [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues) | 67.9k | 11 | 0 | 🤖 disclose AI use · [📘 guide](https://github.com/scikit-learn/scikit-learn/blob/HEAD/CONTRIBUTING.md) | scikit-learn: machine learning in Python |
 | [scrapy/scrapy](https://github.com/scrapy/scrapy/issues) | 65k | 1 | 0 | [📘 guide](https://github.com/scrapy/scrapy/blob/HEAD/CONTRIBUTING.md) | Scrapy, a fast high-level web crawling & scraping framework for Python. |
 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind/issues) | 64.3k | 2 | 1 |  | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
 | [microsoft/autogen](https://github.com/microsoft/autogen/issues) | 61.5k | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/microsoft/autogen/blob/HEAD/CONTRIBUTING.md) | A programming framework for agentic AI |
@@ -513,7 +508,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [sgl-project/sglang](https://github.com/sgl-project/sglang/issues) | 37.7k | 2 | 2 | [📘 guide](https://github.com/sgl-project/sglang/blob/HEAD/docs/CONTRIBUTING.md) | SGLang is a high-performance serving framework for large language models and multimodal models. |
 | [jax-ml/jax](https://github.com/jax-ml/jax/issues) | 36.5k | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/jax-ml/jax/blob/HEAD/CONTRIBUTING.md) | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more |
 | [huggingface/diffusers](https://github.com/huggingface/diffusers/issues) | 34.8k | 1 | 0 | [📘 guide](https://github.com/huggingface/diffusers/blob/HEAD/CONTRIBUTING.md) | 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch. |
-| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope/issues) | 33.7k | 2 | 0 | 📄 AI policy · [📘 guide](https://github.com/agentscope-ai/agentscope/blob/HEAD/CONTRIBUTING.md) | Build and run agents you can see, understand and trust. |
+| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope/issues) | 33.8k | 2 | 0 | 📄 AI policy · [📘 guide](https://github.com/agentscope-ai/agentscope/blob/HEAD/CONTRIBUTING.md) | Build and run agents you can see, understand and trust. |
 | [0xAX/linux-insides](https://github.com/0xAX/linux-insides/issues) | 33.7k | 9 | 0 | [📘 guide](https://github.com/0xAX/linux-insides/blob/HEAD/CONTRIBUTING.md) | A book-in-progress about the Linux kernel and its insides. |
 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning/issues) | 31.4k | 1 | 0 | 📄 AI policy · [📘 guide](https://github.com/Lightning-AI/pytorch-lightning/blob/HEAD/.github/CONTRIBUTING.md) | Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes. |
 | [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics/issues) | 30.8k | 1 | 0 | [📘 guide](https://github.com/AtsushiSakai/PythonRobotics/blob/HEAD/CONTRIBUTING.md) | Python sample codes and textbook for robotics algorithms. |
@@ -522,6 +517,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox/issues) | 28.9k | 1 | 0 | [📘 guide](https://github.com/ArchiveBox/ArchiveBox/blob/HEAD/.github/CONTRIBUTING.md) | 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs |
 | [mlflow/mlflow](https://github.com/mlflow/mlflow/issues) | 28.5k | 4 | 0 | 🔏 DCO · [📘 guide](https://github.com/mlflow/mlflow/blob/HEAD/CONTRIBUTING.md) | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium/issues) | 28.1k | 15 | 0 |  | Google Chromium, sans integration with Google |
+| [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files/issues) | 27.6k | 2 | 1 | [📘 guide](https://github.com/OthmanAdi/planning-with-files/blob/HEAD/CONTRIBUTING.md) | Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery |
 | [zulip/zulip](https://github.com/zulip/zulip/issues) | 26.1k | 1 | 0 | 📄 AI policy · [📘 guide](https://github.com/zulip/zulip/blob/HEAD/CONTRIBUTING.md) | Zulip server and web application. Open-source team chat that helps teams stay productive and focused. |
 | [index-tts/index-tts](https://github.com/index-tts/index-tts/issues) | 24.7k | 1 | 0 |  | An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System |
 | [saleor/saleor](https://github.com/saleor/saleor/issues) | 23.5k | 4 | 2 | [📘 guide](https://github.com/saleor/saleor/blob/HEAD/CONTRIBUTING.md) | Saleor Core: the high performance, composable, headless commerce API. |
@@ -534,21 +530,21 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning/issues) | 18.8k | 5 | 0 |  | The absolute trainer to light up AI agents. |
 | [xming521/WeClone](https://github.com/xming521/WeClone/issues) | 18.3k | 1 | 1 |  | 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your uni |
 | [Canner/WrenAI](https://github.com/Canner/WrenAI/issues) | 18k | 1 | 1 | [📘 guide](https://github.com/Canner/WrenAI/blob/HEAD/CONTRIBUTING.md) | GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natur |
-| [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server/issues) | 17.7k | 15 | 1 | [📘 guide](https://github.com/rocketride-org/rocketride-server/blob/HEAD/CONTRIBUTING.md) | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflo |
+| [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server/issues) | 17.7k | 12 | 1 | [📘 guide](https://github.com/rocketride-org/rocketride-server/blob/HEAD/CONTRIBUTING.md) | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflo |
 | [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate/issues) | 17.2k | 1 | 1 | ⚠️ AI restricted · [📘 guide](https://github.com/LibreTranslate/LibreTranslate/blob/HEAD/CONTRIBUTING.md) | Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup. |
 | [cft0808/edict](https://github.com/cft0808/edict/issues) | 17k | 1 | 1 | [📘 guide](https://github.com/cft0808/edict/blob/HEAD/CONTRIBUTING.md) | 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, a |
 | [cvat-ai/cvat](https://github.com/cvat-ai/cvat/issues) | 17k | 2 | 2 |  | CVAT is a leading data annotation platform for image, video, audio, and 3D datasets. It offers open-source, cloud, and e |
-| [suitenumerique/docs](https://github.com/suitenumerique/docs/issues) | 16.9k | 3 | 2 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/suitenumerique/docs/blob/HEAD/CONTRIBUTING.md) | Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-d |
+| [suitenumerique/docs](https://github.com/suitenumerique/docs/issues) | 16.9k | 2 | 1 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/suitenumerique/docs/blob/HEAD/CONTRIBUTING.md) | Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-d |
 | [ipython/ipython](https://github.com/ipython/ipython/issues) | 16.8k | 1 | 0 | [📘 guide](https://github.com/ipython/ipython/blob/HEAD/CONTRIBUTING.md) | Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documen |
-| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense/issues) | 16.6k | 11 | 0 | [📘 guide](https://github.com/MODSetter/SurfSense/blob/HEAD/CONTRIBUTING.md) | Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your do |
 | [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps/issues) | 16.6k | 7 | 0 | [📘 guide](https://github.com/Arindam200/awesome-ai-apps/blob/HEAD/CONTRIBUTING.md) | A collection of projects showcasing RAG, agents, workflows, and other AI use cases |
+| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense/issues) | 16.6k | 12 | 0 | [📘 guide](https://github.com/MODSetter/SurfSense/blob/HEAD/CONTRIBUTING.md) | Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your do |
 | [fortra/impacket](https://github.com/fortra/impacket/issues) | 16.2k | 1 | 0 |  | Impacket is a collection of Python classes for working with network protocols. |
 | [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr/issues) | 16k | 4 | 0 |  | Proxy server to bypass Cloudflare protection |
 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift/issues) | 15.9k | 1 | 1 | ⚠️ AI restricted · [📘 guide](https://github.com/modelscope/ms-swift/blob/HEAD/CONTRIBUTING.md) | Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.8, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300 |
 | [beetbox/beets](https://github.com/beetbox/beets/issues) | 15.8k | 5 | 5 | 🤖 disclose AI use · [📘 guide](https://github.com/beetbox/beets/blob/HEAD/CONTRIBUTING.rst) | music library manager and MusicBrainz tagger |
-| [saltstack/salt](https://github.com/saltstack/salt/issues) | 15.7k | 9 | 0 | [📘 guide](https://github.com/saltstack/salt/blob/HEAD/CONTRIBUTING.rst) | Software to automate the management and configuration of infrastructure and applications at scale. |
 | [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice/issues) | 15.7k | 1 | 0 | [📘 guide](https://github.com/k2-fsa/OmniVoice/blob/HEAD/CONTRIBUTING.md) | High-Quality Voice Cloning TTS for 600+ Languages |
-| [ansible/awx](https://github.com/ansible/awx/issues) | 15.6k | 3 | 1 | 🔏 DCO · [📘 guide](https://github.com/ansible/awx/blob/HEAD/CONTRIBUTING.md) | AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream pr |
+| [saltstack/salt](https://github.com/saltstack/salt/issues) | 15.7k | 9 | 0 | [📘 guide](https://github.com/saltstack/salt/blob/HEAD/CONTRIBUTING.rst) | Software to automate the management and configuration of infrastructure and applications at scale. |
+| [ansible/awx](https://github.com/ansible/awx/issues) | 15.6k | 6 | 4 | 🔏 DCO · [📘 guide](https://github.com/ansible/awx/blob/HEAD/CONTRIBUTING.md) | AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream pr |
 | [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS/issues) | 15.4k | 3 | 0 |  | Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching" |
 | [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka/issues) | 15.2k | 1 | 0 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/Nuitka/Nuitka/blob/HEAD/CONTRIBUTING.md) | Nuitka is a Python compiler written in Python. It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Py |
 | [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler/issues) | 15.1k | 2 | 0 | [📘 guide](https://github.com/prowler-cloud/prowler/blob/HEAD/CONTRIBUTING.md) | This repo hosts Prowler OSS (CLI and Local Server). Prowler is the world’s most widely used open-source cloud security p |
@@ -562,92 +558,10 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [borgbackup/borg](https://github.com/borgbackup/borg/issues) | 13.9k | 2 | 0 | [📘 guide](https://github.com/borgbackup/borg/blob/HEAD/CONTRIBUTING.md) | Deduplicating archiver with compression and authenticated encryption. |
 | [BasedHardware/omi](https://github.com/BasedHardware/omi/issues) | 13.8k | 11 | 0 | [📘 guide](https://github.com/BasedHardware/omi/blob/HEAD/CONTRIBUTING.md) | AI that sees your screen, listens to your conversations and tells you what to do |
 | [instaloader/instaloader](https://github.com/instaloader/instaloader/issues) | 13.7k | 1 | 1 |  | Download pictures (or videos) along with their captions and other metadata from Instagram. |
-| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent/issues) | 13.6k | 4 | 0 | 🤖 disclose AI use · [📘 guide](https://github.com/The-PR-Agent/pr-agent/blob/HEAD/CONTRIBUTING.md) | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. |
-
-## Java
-
-74 projects · [open issues](../issues/by-language/java.md)
-
-| Project | Stars | Open issues | Beginner | Rules | What it is |
-| --- | ---: | ---: | ---: | --- | --- |
-| [elastic/elasticsearch](https://github.com/elastic/elasticsearch/issues) | 78.3k | 3 | 0 | ✍️ CLA · [📘 guide](https://github.com/elastic/elasticsearch/blob/HEAD/CONTRIBUTING.md) | Free and Open Source, Distributed, RESTful Search Engine |
-| [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver/issues) | 52.2k | 4 | 0 | 🤖 disclose AI use · [📘 guide](https://github.com/dbeaver/dbeaver/blob/HEAD/.github/CONTRIBUTING.md) | Free universal database tool and SQL client |
-| [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot/issues) | 48.3k | 1 | 0 |  | 【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。 |
-| [apache/dubbo](https://github.com/apache/dubbo/issues) | 41.6k | 5 | 1 | ✍️ CLA · [📘 guide](https://github.com/apache/dubbo/blob/HEAD/CONTRIBUTING.md) | The java implementation of Apache Dubbo. An RPC and microservice framework. |
-| [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe/issues) | 40.3k | 19 | 10 | 📄 AI policy · [📘 guide](https://github.com/TeamNewPipe/NewPipe/blob/HEAD/.github/CONTRIBUTING.md) | A libre lightweight streaming front-end for Android. |
-| [keycloak/keycloak](https://github.com/keycloak/keycloak/issues) | 37.5k | 3 | 0 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/keycloak/keycloak/blob/HEAD/CONTRIBUTING.md) | Open Source Identity and Access Management For Modern Applications and Services |
-| [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube/issues) | 35.4k | 1 | 0 |  | Browse media content with your own rules on Android TV |
-| [alibaba/nacos](https://github.com/alibaba/nacos/issues) | 33.5k | 1 | 1 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/alibaba/nacos/blob/HEAD/CONTRIBUTING.md) | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native app |
-| [kestra-io/kestra](https://github.com/kestra-io/kestra/issues) | 30k | 11 | 11 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
-| [apolloconfig/apollo](https://github.com/apolloconfig/apollo/issues) | 29.8k | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/apolloconfig/apollo/blob/HEAD/CONTRIBUTING.md) | Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. |
-| [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba/issues) | 29.2k | 5 | 5 |  | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba m |
-| [floci-io/floci](https://github.com/floci-io/floci/issues) | 27k | 1 | 0 | [📘 guide](https://github.com/floci-io/floci/blob/HEAD/CONTRIBUTING.md) | Light, fluffy, and always free - The AWS Local Emulator alternative |
-| [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins/issues) | 26.7k | 2 | 1 | ✍️ CLA · [📘 guide](https://github.com/jenkinsci/jenkins/blob/HEAD/CONTRIBUTING.md) | Jenkins automation server |
-| [bazelbuild/bazel](https://github.com/bazelbuild/bazel/issues) | 26k | 6 | 0 | ✍️ CLA · [📘 guide](https://github.com/bazelbuild/bazel/blob/HEAD/CONTRIBUTING.md) | a fast, scalable, multi-language and extensible build system |
-| [libgdx/libgdx](https://github.com/libgdx/libgdx/issues) | 25.5k | 1 | 1 | ✍️ CLA · [📘 guide](https://github.com/libgdx/libgdx/blob/HEAD/.github/CONTRIBUTING.md) | Desktop/Android/HTML5/iOS Java game development framework |
-| [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator/issues) | 16.3k | 2 | 2 | [📘 guide](https://github.com/cryptomator/cryptomator/blob/HEAD/.github/CONTRIBUTING.md) | Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and co |
-| [apache/doris](https://github.com/apache/doris/issues) | 16.1k | 1 | 1 | ✍️ CLA · [📘 guide](https://github.com/apache/doris/blob/HEAD/CONTRIBUTING.md) | Apache Doris is a real-time analytics and hybrid search database for AI agents. |
-| [quarkusio/quarkus](https://github.com/quarkusio/quarkus/issues) | 16k | 2 | 2 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/quarkusio/quarkus/blob/HEAD/CONTRIBUTING.md) | Quarkus: Supersonic Subatomic Java. |
-| [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x/issues) | 14.7k | 2 | 0 | 🤖 disclose AI use · ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/eclipse-vertx/vert.x/blob/HEAD/CONTRIBUTING.md) | Vert.x is a tool-kit for building reactive applications on the JVM |
-| [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler/issues) | 14.5k | 10 | 1 | [📘 guide](https://github.com/apache/dolphinscheduler/blob/HEAD/CONTRIBUTING.md) | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-co |
-| [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch/issues) | 13.9k | 2 | 1 | 🔏 DCO · [📘 guide](https://github.com/opensearch-project/OpenSearch/blob/HEAD/CONTRIBUTING.md) | 🔎 Open source distributed and RESTful search engine. |
-| [trinodb/trino](https://github.com/trinodb/trino/issues) | 13.4k | 3 | 3 | ✍️ CLA · [📘 guide](https://github.com/trinodb/trino/blob/HEAD/.github/CONTRIBUTING.md) | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino. |
-| [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine/issues) | 12.1k | 9 | 0 | [📘 guide](https://github.com/OpenRefine/OpenRefine/blob/HEAD/CONTRIBUTING.md) | OpenRefine is a free, open source power tool for working with messy data and improving it |
-| [OpenFeign/feign](https://github.com/OpenFeign/feign/issues) | 9.8k | 1 | 0 | [📘 guide](https://github.com/OpenFeign/feign/blob/HEAD/CONTRIBUTING.md) | Feign makes writing java http clients easier |
-| [apache/seatunnel](https://github.com/apache/seatunnel/issues) | 9.7k | 4 | 1 | ✍️ CLA | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
-| [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai/issues) | 9.6k | 1 | 0 | 🤖 disclose AI use · ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/spring-projects/spring-ai/blob/HEAD/CONTRIBUTING.md) | An Application Framework for AI Engineering |
-| [Justson/AgentWeb](https://github.com/Justson/AgentWeb/issues) | 9.4k | 1 | 0 |  | AgentWeb is a powerful library based on Android WebView. |
-| [apache/iceberg](https://github.com/apache/iceberg/issues) | 9.4k | 1 | 1 | ⚠️ AI restricted · ✍️ CLA · [📘 guide](https://github.com/apache/iceberg/blob/HEAD/CONTRIBUTING.md) | Apache Iceberg |
-| [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager/issues) | 9.3k | 5 | 2 | 🔏 DCO · [📘 guide](https://github.com/MuntashirAkon/AppManager/blob/HEAD/CONTRIBUTING.rst) | A full-featured package manager and viewer for Android |
-| [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java/issues) | 8.8k | 1 | 1 | [📘 guide](https://github.com/testcontainers/testcontainers-java/blob/HEAD/CONTRIBUTING.md) | Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databas |
-| [apache/beam](https://github.com/apache/beam/issues) | 8.7k | 2 | 2 | ✍️ CLA · [📘 guide](https://github.com/apache/beam/blob/HEAD/CONTRIBUTING.md) | Apache Beam is a unified programming model for Batch and Streaming data processing. |
-| [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport/issues) | 8.5k | 2 | 0 |  | 一款真正的 AI 报表诞生了！JimuChatBI —— 首款免费开源对话式智能数据分析产品（Chat2BI）。 一句话生成报表和数据大屏，支持对话式 AI 修改优化；类 Excel 在线报表设计，兼容国产信创数据源。 对着 AI 说句话， |
-| [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server/issues) | 8.2k | 3 | 3 | [📘 guide](https://github.com/Graylog2/graylog2-server/blob/HEAD/CONTRIBUTING.md) | Free and open log management |
-| [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution/issues) | 7.8k | 12 | 2 | [📘 guide](https://github.com/logisim-evolution/logisim-evolution/blob/HEAD/.github/CONTRIBUTING.md) | Digital logic design tool and simulator |
-| [Col-E/Recaf](https://github.com/Col-E/Recaf/issues) | 7.4k | 1 | 0 | [📘 guide](https://github.com/Col-E/Recaf/blob/HEAD/CONTRIBUTING.md) | The modern Java bytecode editor |
-| [apache/hertzbeat](https://github.com/apache/hertzbeat/issues) | 7.4k | 1 | 0 | 📄 AI policy · [📘 guide](https://github.com/apache/hertzbeat/blob/HEAD/CONTRIBUTING.md) | An AI-powered next-generation open source real-time observability system. |
-| [wiremock/wiremock](https://github.com/wiremock/wiremock/issues) | 7.4k | 3 | 1 | [📘 guide](https://github.com/wiremock/wiremock/blob/HEAD/CONTRIBUTING.md) | A tool for mocking HTTP services |
-| [vespa-engine/vespa](https://github.com/vespa-engine/vespa/issues) | 7.1k | 1 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/vespa-engine/vespa/blob/HEAD/CONTRIBUTING.md) | The AI search platform |
-| [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper/issues) | 6.7k | 1 | 1 | [📘 guide](https://github.com/graphhopper/graphhopper/blob/HEAD/CONTRIBUTING.md) | Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server. |
-| [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core/issues) | 6.4k | 3 | 0 | [📘 guide](https://github.com/micronaut-projects/micronaut-core/blob/HEAD/CONTRIBUTING.md) | Micronaut Application Framework |
-| [gsantner/markor](https://github.com/gsantner/markor/issues) | 6.3k | 9 | 9 |  | Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, .. |
-| [apache/fesod](https://github.com/apache/fesod/issues) | 6.3k | 16 | 0 | ✍️ CLA · [📘 guide](https://github.com/apache/fesod/blob/HEAD/CONTRIBUTING.md) | Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM. |
-| [apache/pinot](https://github.com/apache/pinot/issues) | 6.2k | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/apache/pinot/blob/HEAD/CONTRIBUTING.md) | Apache Pinot - A realtime distributed OLAP datastore |
-| [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java/issues) | 6.1k | 9 | 0 | [📘 guide](https://github.com/agentscope-ai/agentscope-java/blob/HEAD/CONTRIBUTING.md) | Build distributed, production-grade, long-running agents. |
-| [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser/issues) | 5.9k | 1 | 0 | 📄 AI policy · [📘 guide](https://github.com/GeyserMC/Geyser/blob/HEAD/CONTRIBUTING.md) | A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition. |
-| [alibaba/QLExpress](https://github.com/alibaba/QLExpress/issues) | 5.6k | 2 | 0 |  | QLExpress is a powerful, lightweight, dynamic language for the Java platform aimed at improving developers’ productivity |
-| [liquibase/liquibase](https://github.com/liquibase/liquibase/issues) | 5.6k | 1 | 0 |  | Main Liquibase Source |
-| [rstudio/rstudio](https://github.com/rstudio/rstudio/issues) | 5.1k | 1 | 1 | [📘 guide](https://github.com/rstudio/rstudio/blob/HEAD/CONTRIBUTING.md) | RStudio is an integrated development environment (IDE) for R |
-| [oracle/opengrok](https://github.com/oracle/opengrok/issues) | 5k | 3 | 0 | 🔏 DCO · [📘 guide](https://github.com/oracle/opengrok/blob/HEAD/CONTRIBUTING.md) | OpenGrok is a fast and usable source code search and cross reference engine, written in Java |
-| [spring-cloud/spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway/issues) | 4.9k | 2 | 0 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/spring-cloud/spring-cloud-gateway/blob/HEAD/.github/CONTRIBUTING.md) | An API Gateway built on Spring Framework and Spring Boot providing routing and more. |
-| [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer/issues) | 4.9k | 3 | 0 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/micrometer-metrics/micrometer/blob/HEAD/CONTRIBUTING.md) | An application observability facade for the most popular observability tools. Think SLF4J, but for observability. |
-| [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory/issues) | 4.6k | 2 | 2 | 🤖 disclose AI use · [📘 guide](https://github.com/grimmory-tools/grimmory/blob/HEAD/CONTRIBUTING.md) | A self-hosted library for your ebooks, comics, and audiobooks |
-| [crate/crate](https://github.com/crate/crate/issues) | 4.4k | 2 | 0 | ⚠️ AI restricted · ✍️ CLA · [📘 guide](https://github.com/crate/crate/blob/HEAD/CONTRIBUTING.rst) | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
-| [camunda/camunda](https://github.com/camunda/camunda/issues) | 4.3k | 11 | 11 | ✍️ CLA · [📘 guide](https://github.com/camunda/camunda/blob/HEAD/CONTRIBUTING.md) | Process Orchestration Framework |
-| [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track/issues) | 4.3k | 14 | 7 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/DependencyTrack/dependency-track/blob/HEAD/CONTRIBUTING.md) | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in  |
-| [jetty/jetty.project](https://github.com/jetty/jetty.project/issues) | 4.1k | 3 | 0 | [📘 guide](https://github.com/jetty/jetty.project/blob/HEAD/CONTRIBUTING.md) | Eclipse Jetty® - Web Container & Clients - supports HTTP/3, HTTP/2, HTTP/1, websocket, servlets, and more |
-| [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server/issues) | 4.1k | 1 | 1 | [📘 guide](https://github.com/yacy/yacy_search_server/blob/HEAD/CONTRIBUTING.md) | Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance |
-| [tchiotludo/akhq](https://github.com/tchiotludo/akhq/issues) | 3.9k | 1 | 1 |  | Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... |
-| [helidon-io/helidon](https://github.com/helidon-io/helidon/issues) | 3.8k | 1 | 0 | [📘 guide](https://github.com/helidon-io/helidon/blob/HEAD/CONTRIBUTING.md) | Java libraries for writing microservices |
-| [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk/issues) | 3.7k | 1 | 0 | 🤖 disclose AI use · [📘 guide](https://github.com/modelcontextprotocol/java-sdk/blob/HEAD/CONTRIBUTING.md) | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
-| [dtinit/data-transfer-project](https://github.com/dtinit/data-transfer-project/issues) | 3.6k | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/dtinit/data-transfer-project/blob/HEAD/CONTRIBUTING.md) | The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are esta |
-| [apache/lucene](https://github.com/apache/lucene/issues) | 3.6k | 1 | 1 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/lucene/blob/HEAD/CONTRIBUTING.md) | Apache Lucene open-source search software |
-| [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9/issues) | 3.5k | 1 | 1 | 🤖 disclose AI use · ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/eclipse-openj9/openj9/blob/HEAD/CONTRIBUTING.md) | Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high through |
-| [apache/paimon](https://github.com/apache/paimon/issues) | 3.4k | 1 | 1 |  | Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both str |
-| [apache/gravitino](https://github.com/apache/gravitino/issues) | 3.3k | 1 | 0 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/gravitino/blob/HEAD/CONTRIBUTING.md) | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
-| [Minestom/Minestom](https://github.com/Minestom/Minestom/issues) | 3.3k | 1 | 1 | [📘 guide](https://github.com/Minestom/Minestom/blob/HEAD/.github/CONTRIBUTING.md) | 26.2 Lightweight Minecraft server |
-| [openrocket/openrocket](https://github.com/openrocket/openrocket/issues) | 3.2k | 8 | 8 | 📄 AI policy · [📘 guide](https://github.com/openrocket/openrocket/blob/HEAD/CONTRIBUTING.md) | Model-rocketry aerodynamics and trajectory simulation software |
-| [apache/netbeans](https://github.com/apache/netbeans/issues) | 3.1k | 1 | 1 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/netbeans/blob/HEAD/.github/CONTRIBUTING.md) | Apache NetBeans |
-| [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus/issues) | 3.1k | 3 | 1 | 🔏 DCO · [📘 guide](https://github.com/tlaplus/tlaplus/blob/HEAD/CONTRIBUTING.md) | TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+. |
-| [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED/issues) | 3.1k | 1 | 0 |  | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, ofte |
-| [cruise-control-for-kafka/cruise-control](https://github.com/cruise-control-for-kafka/cruise-control/issues) | 3.1k | 1 | 1 | 🔏 DCO · [📘 guide](https://github.com/cruise-control-for-kafka/cruise-control/blob/HEAD/CONTRIBUTING.md) | Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka clu |
-| [anonfaded/FadCam](https://github.com/anonfaded/FadCam/issues) | 2.9k | 7 | 7 |  | Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and  |
-| [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets/issues) | 2.8k | 18 | 0 |  | The missing Java distribution of native C++ libraries |
-| [federicoiosue/Omni-Notes](https://github.com/federicoiosue/Omni-Notes/issues) | 2.8k | 1 | 1 | [📘 guide](https://github.com/federicoiosue/Omni-Notes/blob/HEAD/CONTRIBUTING.md) | Open source note-taking application for Android |
 
 ## Kotlin
 
-73 projects · [open issues](../issues/by-language/kotlin.md)
+74 projects · [open issues](../issues/by-language/kotlin.md)
 
 | Project | Stars | Open issues | Beginner | Rules | What it is |
 | --- | ---: | ---: | ---: | --- | --- |
@@ -658,11 +572,11 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [ktorio/ktor](https://github.com/ktorio/ktor/issues) | 14.6k | 1 | 0 | 🤖 disclose AI use · [📘 guide](https://github.com/ktorio/ktor/blob/HEAD/CONTRIBUTING.md) | Framework for quickly creating connected applications in Kotlin with minimal effort |
 | [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android/issues) | 14.1k | 17 | 7 | 🤖 disclose AI use · [📘 guide](https://github.com/thunderbird/thunderbird-android/blob/HEAD/docs/CONTRIBUTING.md) | Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail) |
 | [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube/issues) | 12.9k | 2 | 0 | [📘 guide](https://github.com/libre-tube/LibreTube/blob/HEAD/CONTRIBUTING.md) | An alternative frontend for YouTube, for Android. |
-| [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay/issues) | 12.1k | 1 | 0 |  | Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview. |
-| [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android/issues) | 12.1k | 6 | 0 | 🤖 disclose AI use · [📘 guide](https://github.com/ankidroid/Anki-Android/blob/HEAD/CONTRIBUTING.md) | AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention. |
+| [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay/issues) | 12.2k | 1 | 0 |  | Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview. |
+| [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android/issues) | 12.1k | 13 | 4 | 🤖 disclose AI use · [📘 guide](https://github.com/ankidroid/Anki-Android/blob/HEAD/CONTRIBUTING.md) | AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention. |
 | [yairm210/Unciv](https://github.com/yairm210/Unciv/issues) | 11.5k | 2 | 0 |  | Open-source Android/Desktop remake of Civ V |
 | [AAswordman/Operit](https://github.com/AAswordman/Operit/issues) | 8.9k | 4 | 3 |  | The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent |
-| [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android/issues) | 7.8k | 1 | 0 | 🤖 disclose AI use | decentralized mesh chat |
+| [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android/issues) | 7.9k | 1 | 0 | 🤖 disclose AI use | decentralized mesh chat |
 | [detekt/detekt](https://github.com/detekt/detekt/issues) | 7.1k | 1 | 0 | 📄 AI policy · [📘 guide](https://github.com/detekt/detekt/blob/HEAD/.github/CONTRIBUTING.md) | Static code analysis for Kotlin |
 | [PixelPlayerHQ/PixelPlayer](https://github.com/PixelPlayerHQ/PixelPlayer/issues) | 6.8k | 1 | 1 |  | privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer |
 | [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot/issues) | 6.6k | 1 | 0 |  | Share your VPN connection over hotspot or repeater! (root required) |
@@ -694,7 +608,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [intellij-elixir/intellij-elixir](https://github.com/intellij-elixir/intellij-elixir/issues) | 1.9k | 1 | 0 | [📘 guide](https://github.com/intellij-elixir/intellij-elixir/blob/HEAD/CONTRIBUTING.md) | Elixir plugin for JetBrain's IntelliJ Platform (including Rubymine) |
 | [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault/issues) | 1.9k | 2 | 1 |  | A backup application for the Android Open Source Project. |
 | [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask/issues) | 1.9k | 2 | 0 |  | 自动打卡（无人值守方案，非目标应用数据修改方案！） |
-| [doyensec/inql](https://github.com/doyensec/inql/issues) | 1.8k | 2 | 1 | [📘 guide](https://github.com/doyensec/inql/blob/HEAD/CONTRIBUTING.md) | InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detect |
+| [doyensec/inql](https://github.com/doyensec/inql/issues) | 1.8k | 1 | 0 | [📘 guide](https://github.com/doyensec/inql/blob/HEAD/CONTRIBUTING.md) | InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detect |
 | [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder/issues) | 1.8k | 7 | 0 | 🤖 disclose AI use · [📘 guide](https://github.com/kitsumed/ShizuCallRecorder/blob/HEAD/CONTRIBUTING.md) | ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device! |
 | [Aliothmoon/MAA-Meow](https://github.com/Aliothmoon/MAA-Meow/issues) | 1.7k | 1 | 0 |  | 《明日方舟》小助手Android版，全日常一键长草！\| A one-click tool for the daily tasks of Arknights, supporting all clients. |
 | [DicioTeam/dicio-android](https://github.com/DicioTeam/dicio-android/issues) | 1.5k | 1 | 1 |  | Dicio assistant app for Android |
@@ -707,23 +621,105 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll/issues) | 1.4k | 1 | 0 |  | Check updates for Android apps, Magisk modules and more! |
 | [hushenghao/AndroidEasterEggs](https://github.com/hushenghao/AndroidEasterEggs/issues) | 1.3k | 2 | 0 | [📘 guide](https://github.com/hushenghao/AndroidEasterEggs/blob/HEAD/.github/CONTRIBUTING.md) | Android Easter Egg Collections |
 | [T31n/Geto](https://github.com/T31n/Geto/issues) | 1.3k | 1 | 0 |  | Apply device settings to your apps. |
-| [commons-app/apps-android-commons](https://github.com/commons-app/apps-android-commons/issues) | 1.2k | 5 | 5 | [📘 guide](https://github.com/commons-app/apps-android-commons/blob/HEAD/CONTRIBUTING.md) | The Wikimedia Commons Android app allows users to upload pictures from their Android phone/tablet to Wikimedia Commons |
+| [commons-app/apps-android-commons](https://github.com/commons-app/apps-android-commons/issues) | 1.2k | 4 | 4 | [📘 guide](https://github.com/commons-app/apps-android-commons/blob/HEAD/CONTRIBUTING.md) | The Wikimedia Commons Android app allows users to upload pictures from their Android phone/tablet to Wikimedia Commons |
+| [ssalggnikool/Navic](https://github.com/ssalggnikool/Navic/issues) | 1.2k | 1 | 1 | ⚠️ AI restricted | Subsonic music streaming app for Android |
 | [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived/issues) | 1.1k | 1 | 1 |  | Outliner for taking notes and managing to-do lists |
 | [alexch33/super-video-downloader](https://github.com/alexch33/super-video-downloader/issues) | 970 | 1 | 0 |  | Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using y |
-| [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer/issues) | 958 | 1 | 0 | [📘 guide](https://github.com/MuwMx/YumaPlayer/blob/HEAD/CONTRIBUTING.md) | 🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming wit |
-| [wangzhishou/OneBox](https://github.com/wangzhishou/OneBox/issues) | 868 | 2 | 1 | [📘 guide](https://github.com/wangzhishou/OneBox/blob/HEAD/CONTRIBUTING.md) | A free AI agent & toolbox for Android \| 一站式安卓 AI 智能体 & 工具箱 |
-| [aquamarine5/ChaoxingSignFaker](https://github.com/aquamarine5/ChaoxingSignFaker/issues) | 848 | 1 | 1 | [📘 guide](https://github.com/aquamarine5/ChaoxingSignFaker/blob/HEAD/CONTRIBUTING.md) | 伪造学习通的签到活动🙋学习通签到神器。支持滑动验证码签到、签退、人脸识别功能，支持自定义位置签到、动态二维码签到、自选照片进行拍照签到等全部签到形式以及给其他用户无限代签的功能 Falsifying the signing activity |
+| [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer/issues) | 966 | 1 | 0 | [📘 guide](https://github.com/MuwMx/YumaPlayer/blob/HEAD/CONTRIBUTING.md) | 🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming wit |
+| [wangzhishou/OneBox](https://github.com/wangzhishou/OneBox/issues) | 870 | 2 | 1 | [📘 guide](https://github.com/wangzhishou/OneBox/blob/HEAD/CONTRIBUTING.md) | A free AI agent & toolbox for Android \| 一站式安卓 AI 智能体 & 工具箱 |
+| [aquamarine5/ChaoxingSignFaker](https://github.com/aquamarine5/ChaoxingSignFaker/issues) | 849 | 1 | 1 | [📘 guide](https://github.com/aquamarine5/ChaoxingSignFaker/blob/HEAD/CONTRIBUTING.md) | 伪造学习通的签到活动🙋学习通签到神器。支持滑动验证码签到、签退、人脸识别功能，支持自定义位置签到、动态二维码签到、自选照片进行拍照签到等全部签到形式以及给其他用户无限代签的功能 Falsifying the signing activity |
 | [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues) | 806 | 18 | 5 | [📘 guide](https://github.com/openfoodfacts/openfoodfacts-androidapp/blob/HEAD/CONTRIBUTING.md) | (Legacy) Native version of Open Food Facts on Android - Coders & Decoders welcome 🤳🥫 |
 | [getodk/collect](https://github.com/getodk/collect/issues) | 796 | 2 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/getodk/collect/blob/HEAD/docs/CONTRIBUTING.md) | ODK Collect is an Android app for filling out forms. It's been used to collect billions of data points in challenging en |
-| [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player/issues) | 791 | 1 | 0 | [📘 guide](https://github.com/mpvRex/REX-Player/blob/HEAD/CONTRIBUTING.md) | A modern Android video player powered by libmpv, built with Jetpack Compose. |
+| [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player/issues) | 792 | 1 | 0 | [📘 guide](https://github.com/mpvRex/REX-Player/blob/HEAD/CONTRIBUTING.md) | A modern Android video player powered by libmpv, built with Jetpack Compose. |
 | [ProdigyV21/ARVIO](https://github.com/ProdigyV21/ARVIO/issues) | 778 | 1 | 0 |  | ARVIO - A media hub application with a modern, beautiful interface. |
-| [music-assistant/mobile-app](https://github.com/music-assistant/mobile-app/issues) | 689 | 6 | 6 | 📄 AI policy · [📘 guide](https://github.com/music-assistant/mobile-app/blob/HEAD/docs/CONTRIBUTING.md) | The (official) Music Assistant Mobile app is a cross-platform client application designed for Android and iOS. Developed |
+| [music-assistant/mobile-app](https://github.com/music-assistant/mobile-app/issues) | 690 | 4 | 4 | 📄 AI policy · [📘 guide](https://github.com/music-assistant/mobile-app/blob/HEAD/docs/CONTRIBUTING.md) | The (official) Music Assistant Mobile app is a cross-platform client application designed for Android and iOS. Developed |
 | [you-apps/ClockYou](https://github.com/you-apps/ClockYou/issues) | 685 | 1 | 0 |  | Privacy focused clock app built with MD3 |
-| [T31n/YagniLauncher](https://github.com/T31n/YagniLauncher/issues) | 681 | 1 | 1 |  | Stock Android Launcher From Scratch |
-| [kododake/AABrowser](https://github.com/kododake/AABrowser/issues) | 648 | 1 | 0 |  | Android Auto WEB Browser |
+| [T31n/YagniLauncher](https://github.com/T31n/YagniLauncher/issues) | 682 | 1 | 1 |  | Stock Android Launcher From Scratch |
+| [kododake/AABrowser](https://github.com/kododake/AABrowser/issues) | 650 | 1 | 0 |  | Android Auto WEB Browser |
 | [dekusms/DekuSMS-Android](https://github.com/dekusms/DekuSMS-Android/issues) | 604 | 1 | 0 |  | Android SMS app ~ Featuring E2EE, Cloud Forwarding, RMQ integrations |
 | [premnirmal/StockTicker](https://github.com/premnirmal/StockTicker/issues) | 581 | 1 | 0 | [📘 guide](https://github.com/premnirmal/StockTicker/blob/HEAD/CONTRIBUTING.md) | A resizable widget that shows your financial portfolio on your iOS or Android home screen |
-| [sk2andy/candy-browser](https://github.com/sk2andy/candy-browser/issues) | 580 | 2 | 0 |  | Gesture-first Android browser with Material 3 Expressive design and local privacy tools |
+| [sk2andy/candy-browser](https://github.com/sk2andy/candy-browser/issues) | 581 | 2 | 0 |  | Gesture-first Android browser with Material 3 Expressive design and local privacy tools |
+
+## Java
+
+74 projects · [open issues](../issues/by-language/java.md)
+
+| Project | Stars | Open issues | Beginner | Rules | What it is |
+| --- | ---: | ---: | ---: | --- | --- |
+| [elastic/elasticsearch](https://github.com/elastic/elasticsearch/issues) | 78.3k | 3 | 0 | ✍️ CLA · [📘 guide](https://github.com/elastic/elasticsearch/blob/HEAD/CONTRIBUTING.md) | Free and Open Source, Distributed, RESTful Search Engine |
+| [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver/issues) | 52.2k | 4 | 0 | 🤖 disclose AI use · [📘 guide](https://github.com/dbeaver/dbeaver/blob/HEAD/.github/CONTRIBUTING.md) | Free universal database tool and SQL client |
+| [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot/issues) | 48.3k | 1 | 0 |  | 【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。 |
+| [apache/dubbo](https://github.com/apache/dubbo/issues) | 41.6k | 5 | 1 | ✍️ CLA · [📘 guide](https://github.com/apache/dubbo/blob/HEAD/CONTRIBUTING.md) | The java implementation of Apache Dubbo. An RPC and microservice framework. |
+| [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe/issues) | 40.3k | 19 | 10 | 📄 AI policy · [📘 guide](https://github.com/TeamNewPipe/NewPipe/blob/HEAD/.github/CONTRIBUTING.md) | A libre lightweight streaming front-end for Android. |
+| [keycloak/keycloak](https://github.com/keycloak/keycloak/issues) | 37.5k | 3 | 0 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/keycloak/keycloak/blob/HEAD/CONTRIBUTING.md) | Open Source Identity and Access Management For Modern Applications and Services |
+| [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube/issues) | 35.4k | 1 | 0 |  | Browse media content with your own rules on Android TV |
+| [alibaba/nacos](https://github.com/alibaba/nacos/issues) | 33.5k | 1 | 1 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/alibaba/nacos/blob/HEAD/CONTRIBUTING.md) | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native app |
+| [kestra-io/kestra](https://github.com/kestra-io/kestra/issues) | 30k | 4 | 4 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| [apolloconfig/apollo](https://github.com/apolloconfig/apollo/issues) | 29.8k | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/apolloconfig/apollo/blob/HEAD/CONTRIBUTING.md) | Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. |
+| [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba/issues) | 29.2k | 5 | 5 |  | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba m |
+| [floci-io/floci](https://github.com/floci-io/floci/issues) | 27.1k | 1 | 0 | [📘 guide](https://github.com/floci-io/floci/blob/HEAD/CONTRIBUTING.md) | Light, fluffy, and always free - The AWS Local Emulator alternative |
+| [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins/issues) | 26.7k | 2 | 1 | ✍️ CLA · [📘 guide](https://github.com/jenkinsci/jenkins/blob/HEAD/CONTRIBUTING.md) | Jenkins automation server |
+| [bazelbuild/bazel](https://github.com/bazelbuild/bazel/issues) | 26k | 6 | 0 | ✍️ CLA · [📘 guide](https://github.com/bazelbuild/bazel/blob/HEAD/CONTRIBUTING.md) | a fast, scalable, multi-language and extensible build system |
+| [libgdx/libgdx](https://github.com/libgdx/libgdx/issues) | 25.5k | 1 | 1 | ✍️ CLA · [📘 guide](https://github.com/libgdx/libgdx/blob/HEAD/.github/CONTRIBUTING.md) | Desktop/Android/HTML5/iOS Java game development framework |
+| [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator/issues) | 16.3k | 2 | 2 | [📘 guide](https://github.com/cryptomator/cryptomator/blob/HEAD/.github/CONTRIBUTING.md) | Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and co |
+| [apache/doris](https://github.com/apache/doris/issues) | 16.1k | 1 | 1 | ✍️ CLA · [📘 guide](https://github.com/apache/doris/blob/HEAD/CONTRIBUTING.md) | Apache Doris is a real-time analytics and hybrid search database for AI agents. |
+| [quarkusio/quarkus](https://github.com/quarkusio/quarkus/issues) | 16k | 2 | 2 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/quarkusio/quarkus/blob/HEAD/CONTRIBUTING.md) | Quarkus: Supersonic Subatomic Java. |
+| [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x/issues) | 14.7k | 2 | 0 | 🤖 disclose AI use · ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/eclipse-vertx/vert.x/blob/HEAD/CONTRIBUTING.md) | Vert.x is a tool-kit for building reactive applications on the JVM |
+| [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler/issues) | 14.5k | 10 | 1 | [📘 guide](https://github.com/apache/dolphinscheduler/blob/HEAD/CONTRIBUTING.md) | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-co |
+| [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch/issues) | 13.9k | 2 | 1 | 🔏 DCO · [📘 guide](https://github.com/opensearch-project/OpenSearch/blob/HEAD/CONTRIBUTING.md) | 🔎 Open source distributed and RESTful search engine. |
+| [trinodb/trino](https://github.com/trinodb/trino/issues) | 13.4k | 4 | 4 | ✍️ CLA · [📘 guide](https://github.com/trinodb/trino/blob/HEAD/.github/CONTRIBUTING.md) | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino. |
+| [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine/issues) | 12.1k | 9 | 0 | [📘 guide](https://github.com/OpenRefine/OpenRefine/blob/HEAD/CONTRIBUTING.md) | OpenRefine is a free, open source power tool for working with messy data and improving it |
+| [OpenFeign/feign](https://github.com/OpenFeign/feign/issues) | 9.8k | 1 | 0 | [📘 guide](https://github.com/OpenFeign/feign/blob/HEAD/CONTRIBUTING.md) | Feign makes writing java http clients easier |
+| [apache/seatunnel](https://github.com/apache/seatunnel/issues) | 9.8k | 4 | 1 | ✍️ CLA | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
+| [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai/issues) | 9.6k | 1 | 0 | 🤖 disclose AI use · ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/spring-projects/spring-ai/blob/HEAD/CONTRIBUTING.md) | An Application Framework for AI Engineering |
+| [Justson/AgentWeb](https://github.com/Justson/AgentWeb/issues) | 9.4k | 1 | 0 |  | AgentWeb is a powerful library based on Android WebView. |
+| [apache/iceberg](https://github.com/apache/iceberg/issues) | 9.4k | 1 | 1 | ⚠️ AI restricted · ✍️ CLA · [📘 guide](https://github.com/apache/iceberg/blob/HEAD/CONTRIBUTING.md) | Apache Iceberg |
+| [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager/issues) | 9.3k | 5 | 2 | 🔏 DCO · [📘 guide](https://github.com/MuntashirAkon/AppManager/blob/HEAD/CONTRIBUTING.rst) | A full-featured package manager and viewer for Android |
+| [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java/issues) | 8.8k | 1 | 1 | [📘 guide](https://github.com/testcontainers/testcontainers-java/blob/HEAD/CONTRIBUTING.md) | Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databas |
+| [apache/beam](https://github.com/apache/beam/issues) | 8.7k | 2 | 2 | ✍️ CLA · [📘 guide](https://github.com/apache/beam/blob/HEAD/CONTRIBUTING.md) | Apache Beam is a unified programming model for Batch and Streaming data processing. |
+| [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport/issues) | 8.5k | 2 | 0 |  | 一款真正的 AI 报表诞生了！JimuChatBI —— 首款免费开源对话式智能数据分析产品（Chat2BI）。 一句话生成报表和数据大屏，支持对话式 AI 修改优化；类 Excel 在线报表设计，兼容国产信创数据源。 对着 AI 说句话， |
+| [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server/issues) | 8.2k | 3 | 3 | [📘 guide](https://github.com/Graylog2/graylog2-server/blob/HEAD/CONTRIBUTING.md) | Free and open log management |
+| [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution/issues) | 7.8k | 12 | 2 | [📘 guide](https://github.com/logisim-evolution/logisim-evolution/blob/HEAD/.github/CONTRIBUTING.md) | Digital logic design tool and simulator |
+| [Col-E/Recaf](https://github.com/Col-E/Recaf/issues) | 7.4k | 1 | 0 | [📘 guide](https://github.com/Col-E/Recaf/blob/HEAD/CONTRIBUTING.md) | The modern Java bytecode editor |
+| [apache/hertzbeat](https://github.com/apache/hertzbeat/issues) | 7.4k | 1 | 0 | 📄 AI policy · [📘 guide](https://github.com/apache/hertzbeat/blob/HEAD/CONTRIBUTING.md) | An AI-powered next-generation open source real-time observability system. |
+| [wiremock/wiremock](https://github.com/wiremock/wiremock/issues) | 7.4k | 3 | 1 | [📘 guide](https://github.com/wiremock/wiremock/blob/HEAD/CONTRIBUTING.md) | A tool for mocking HTTP services |
+| [vespa-engine/vespa](https://github.com/vespa-engine/vespa/issues) | 7.1k | 1 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/vespa-engine/vespa/blob/HEAD/CONTRIBUTING.md) | The AI search platform |
+| [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper/issues) | 6.7k | 1 | 1 | [📘 guide](https://github.com/graphhopper/graphhopper/blob/HEAD/CONTRIBUTING.md) | Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server. |
+| [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core/issues) | 6.4k | 3 | 0 | [📘 guide](https://github.com/micronaut-projects/micronaut-core/blob/HEAD/CONTRIBUTING.md) | Micronaut Application Framework |
+| [gsantner/markor](https://github.com/gsantner/markor/issues) | 6.3k | 9 | 9 |  | Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, .. |
+| [apache/fesod](https://github.com/apache/fesod/issues) | 6.3k | 16 | 0 | ✍️ CLA · [📘 guide](https://github.com/apache/fesod/blob/HEAD/CONTRIBUTING.md) | Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM. |
+| [apache/pinot](https://github.com/apache/pinot/issues) | 6.2k | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/apache/pinot/blob/HEAD/CONTRIBUTING.md) | Apache Pinot - A realtime distributed OLAP datastore |
+| [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java/issues) | 6.1k | 9 | 0 | [📘 guide](https://github.com/agentscope-ai/agentscope-java/blob/HEAD/CONTRIBUTING.md) | Build distributed, production-grade, long-running agents. |
+| [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser/issues) | 5.9k | 1 | 0 | 📄 AI policy · [📘 guide](https://github.com/GeyserMC/Geyser/blob/HEAD/CONTRIBUTING.md) | A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition. |
+| [alibaba/QLExpress](https://github.com/alibaba/QLExpress/issues) | 5.6k | 2 | 0 |  | QLExpress is a powerful, lightweight, dynamic language for the Java platform aimed at improving developers’ productivity |
+| [liquibase/liquibase](https://github.com/liquibase/liquibase/issues) | 5.6k | 1 | 0 |  | Main Liquibase Source |
+| [rstudio/rstudio](https://github.com/rstudio/rstudio/issues) | 5.1k | 1 | 1 | [📘 guide](https://github.com/rstudio/rstudio/blob/HEAD/CONTRIBUTING.md) | RStudio is an integrated development environment (IDE) for R |
+| [oracle/opengrok](https://github.com/oracle/opengrok/issues) | 5k | 3 | 0 | 🔏 DCO · [📘 guide](https://github.com/oracle/opengrok/blob/HEAD/CONTRIBUTING.md) | OpenGrok is a fast and usable source code search and cross reference engine, written in Java |
+| [spring-cloud/spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway/issues) | 4.9k | 2 | 0 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/spring-cloud/spring-cloud-gateway/blob/HEAD/.github/CONTRIBUTING.md) | An API Gateway built on Spring Framework and Spring Boot providing routing and more. |
+| [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer/issues) | 4.9k | 3 | 0 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/micrometer-metrics/micrometer/blob/HEAD/CONTRIBUTING.md) | An application observability facade for the most popular observability tools. Think SLF4J, but for observability. |
+| [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory/issues) | 4.6k | 2 | 2 | 🤖 disclose AI use · [📘 guide](https://github.com/grimmory-tools/grimmory/blob/HEAD/CONTRIBUTING.md) | A self-hosted library for your ebooks, comics, and audiobooks |
+| [crate/crate](https://github.com/crate/crate/issues) | 4.4k | 2 | 0 | ⚠️ AI restricted · ✍️ CLA · [📘 guide](https://github.com/crate/crate/blob/HEAD/CONTRIBUTING.rst) | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
+| [camunda/camunda](https://github.com/camunda/camunda/issues) | 4.3k | 11 | 11 | ✍️ CLA · [📘 guide](https://github.com/camunda/camunda/blob/HEAD/CONTRIBUTING.md) | Process Orchestration Framework |
+| [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track/issues) | 4.3k | 16 | 8 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/DependencyTrack/dependency-track/blob/HEAD/CONTRIBUTING.md) | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in  |
+| [jetty/jetty.project](https://github.com/jetty/jetty.project/issues) | 4.1k | 3 | 0 | [📘 guide](https://github.com/jetty/jetty.project/blob/HEAD/CONTRIBUTING.md) | Eclipse Jetty® - Web Container & Clients - supports HTTP/3, HTTP/2, HTTP/1, websocket, servlets, and more |
+| [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server/issues) | 4.1k | 1 | 1 | [📘 guide](https://github.com/yacy/yacy_search_server/blob/HEAD/CONTRIBUTING.md) | Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance |
+| [tchiotludo/akhq](https://github.com/tchiotludo/akhq/issues) | 3.9k | 1 | 1 |  | Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... |
+| [helidon-io/helidon](https://github.com/helidon-io/helidon/issues) | 3.8k | 1 | 0 | [📘 guide](https://github.com/helidon-io/helidon/blob/HEAD/CONTRIBUTING.md) | Java libraries for writing microservices |
+| [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk/issues) | 3.7k | 1 | 0 | 🤖 disclose AI use · [📘 guide](https://github.com/modelcontextprotocol/java-sdk/blob/HEAD/CONTRIBUTING.md) | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
+| [dtinit/data-transfer-project](https://github.com/dtinit/data-transfer-project/issues) | 3.6k | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/dtinit/data-transfer-project/blob/HEAD/CONTRIBUTING.md) | The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are esta |
+| [apache/lucene](https://github.com/apache/lucene/issues) | 3.6k | 1 | 1 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/lucene/blob/HEAD/CONTRIBUTING.md) | Apache Lucene open-source search software |
+| [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9/issues) | 3.5k | 1 | 1 | 🤖 disclose AI use · ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/eclipse-openj9/openj9/blob/HEAD/CONTRIBUTING.md) | Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high through |
+| [apache/paimon](https://github.com/apache/paimon/issues) | 3.4k | 1 | 1 |  | Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both str |
+| [apache/gravitino](https://github.com/apache/gravitino/issues) | 3.3k | 1 | 0 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/gravitino/blob/HEAD/CONTRIBUTING.md) | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
+| [Minestom/Minestom](https://github.com/Minestom/Minestom/issues) | 3.3k | 1 | 1 | [📘 guide](https://github.com/Minestom/Minestom/blob/HEAD/.github/CONTRIBUTING.md) | 26.2 Lightweight Minecraft server |
+| [openrocket/openrocket](https://github.com/openrocket/openrocket/issues) | 3.2k | 8 | 8 | 📄 AI policy · [📘 guide](https://github.com/openrocket/openrocket/blob/HEAD/CONTRIBUTING.md) | Model-rocketry aerodynamics and trajectory simulation software |
+| [apache/netbeans](https://github.com/apache/netbeans/issues) | 3.1k | 1 | 1 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/netbeans/blob/HEAD/.github/CONTRIBUTING.md) | Apache NetBeans |
+| [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus/issues) | 3.1k | 3 | 1 | 🔏 DCO · [📘 guide](https://github.com/tlaplus/tlaplus/blob/HEAD/CONTRIBUTING.md) | TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+. |
+| [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED/issues) | 3.1k | 1 | 0 |  | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, ofte |
+| [cruise-control-for-kafka/cruise-control](https://github.com/cruise-control-for-kafka/cruise-control/issues) | 3.1k | 1 | 1 | 🔏 DCO · [📘 guide](https://github.com/cruise-control-for-kafka/cruise-control/blob/HEAD/CONTRIBUTING.md) | Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka clu |
+| [anonfaded/FadCam](https://github.com/anonfaded/FadCam/issues) | 2.9k | 8 | 8 |  | Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and  |
+| [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets/issues) | 2.8k | 18 | 0 |  | The missing Java distribution of native C++ libraries |
+| [federicoiosue/Omni-Notes](https://github.com/federicoiosue/Omni-Notes/issues) | 2.8k | 1 | 1 | [📘 guide](https://github.com/federicoiosue/Omni-Notes/blob/HEAD/CONTRIBUTING.md) | Open source note-taking application for Android |
 
 ## JavaScript
 
@@ -732,18 +728,18 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | Project | Stars | Open issues | Beginner | Rules | What it is |
 | --- | ---: | ---: | ---: | --- | --- |
 | [react/react](https://github.com/react/react/issues) | 251.7k | 1 | 1 | ✍️ CLA · [📘 guide](https://github.com/react/react/blob/HEAD/CONTRIBUTING.md) | The library for web and native user interfaces. |
-| [nodejs/node](https://github.com/nodejs/node/issues) | 122.6k | 4 | 0 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nodejs/node/blob/HEAD/CONTRIBUTING.md) | Node.js JavaScript runtime ✨🐢🚀✨ |
+| [nodejs/node](https://github.com/nodejs/node/issues) | 122.8k | 4 | 0 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nodejs/node/blob/HEAD/CONTRIBUTING.md) | Node.js JavaScript runtime ✨🐢🚀✨ |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma/issues) | 92.8k | 4 | 0 | ⚠️ AI restricted · [📘 guide](https://github.com/louislam/uptime-kuma/blob/HEAD/CONTRIBUTING.md) | A fancy self-hosted monitoring tool |
-| [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops/issues) | 76.7k | 2 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/career-ops-hq/career-ops/blob/HEAD/CONTRIBUTING.md) | Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, ta |
+| [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops/issues) | 76.8k | 2 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/career-ops-hq/career-ops/blob/HEAD/CONTRIBUTING.md) | Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, ta |
 | [webpack/webpack](https://github.com/webpack/webpack/issues) | 66k | 2 | 0 | [📘 guide](https://github.com/webpack/webpack/blob/HEAD/CONTRIBUTING.md) | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading pa |
 | [jquery/jquery](https://github.com/jquery/jquery/issues) | 59.9k | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/jquery/jquery/blob/HEAD/CONTRIBUTING.md) | jQuery JavaScript Library |
 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby/issues) | 55.9k | 3 | 0 | [📘 guide](https://github.com/gatsbyjs/gatsby/blob/HEAD/CONTRIBUTING.md) | React-based framework with performance, scalability, and security built in. |
 | [prettier/prettier](https://github.com/prettier/prettier/issues) | 52.4k | 1 | 0 | 📄 AI policy · [📘 guide](https://github.com/prettier/prettier/blob/HEAD/CONTRIBUTING.md) | Prettier is an opinionated code formatter. |
 | [usebruno/bruno](https://github.com/usebruno/bruno/issues) | 47.8k | 1 | 1 |  | Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) |
 | [serverless/serverless](https://github.com/serverless/serverless/issues) | 46.9k | 1 | 1 | [📘 guide](https://github.com/serverless/serverless/blob/HEAD/CONTRIBUTING.md) | ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal mainte |
-| [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor/issues) | 46.9k | 4 | 0 | [📘 guide](https://github.com/microsoft/monaco-editor/blob/HEAD/CONTRIBUTING.md) | A browser based code editor |
+| [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor/issues) | 46.9k | 1 | 0 | [📘 guide](https://github.com/microsoft/monaco-editor/blob/HEAD/CONTRIBUTING.md) | A browser based code editor |
 | [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet/issues) | 45.8k | 1 | 0 | [📘 guide](https://github.com/Leaflet/Leaflet/blob/HEAD/CONTRIBUTING.md) | 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦 |
-| [meteor/meteor](https://github.com/meteor/meteor/issues) | 44.8k | 2 | 2 | ✍️ CLA · [📘 guide](https://github.com/meteor/meteor/blob/HEAD/CONTRIBUTING.md) | Meteor, the JavaScript App Platform |
+| [meteor/meteor](https://github.com/meteor/meteor/issues) | 44.8k | 1 | 1 | ✍️ CLA · [📘 guide](https://github.com/meteor/meteor/blob/HEAD/CONTRIBUTING.md) | Meteor, the JavaScript App Platform |
 | [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook/issues) | 44k | 2 | 0 | [📘 guide](https://github.com/yangshun/front-end-interview-handbook/blob/HEAD/CONTRIBUTING.md) | Front End interview preparation materials for busy engineers (updated for 2026) |
 | [gchq/CyberChef](https://github.com/gchq/CyberChef/issues) | 36.2k | 2 | 1 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/gchq/CyberChef/blob/HEAD/CONTRIBUTING.md) | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis |
 | [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter/issues) | 35.3k | 1 | 0 |  | A boilerplate for Node.js web applications |
@@ -764,7 +760,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [plankanban/planka](https://github.com/plankanban/planka/issues) | 12.6k | 2 | 1 | [📘 guide](https://github.com/plankanban/planka/blob/HEAD/CONTRIBUTING.md) | Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organis |
 | [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor/issues) | 12.3k | 3 | 0 | [📘 guide](https://github.com/josdejong/jsoneditor/blob/HEAD/CONTRIBUTING.md) | A web-based tool to view, edit, format, and validate JSON |
 | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP/issues) | 12.2k | 5 | 5 | [📘 guide](https://github.com/jason5ng32/MyIP/blob/HEAD/CONTRIBUTING.md) | The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check,  |
-| [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy/issues) | 12.1k | 3 | 0 |  | 📱 Display and control your Android device graphically with scrcpy. |
+| [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy/issues) | 12.2k | 3 | 0 |  | 📱 Display and control your Android device graphically with scrcpy. |
 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/issues) | 11.8k | 13 | 13 | [📘 guide](https://github.com/PipedreamHQ/pipedream/blob/HEAD/CONTRIBUTING.md) | Connect APIs, remarkably fast. Free for developers. |
 | [beefproject/beef](https://github.com/beefproject/beef/issues) | 11.1k | 3 | 3 | [📘 guide](https://github.com/beefproject/beef/blob/HEAD/.github/CONTRIBUTING.md) | The Browser Exploitation Framework Project |
 | [Automattic/node-canvas](https://github.com/Automattic/node-canvas/issues) | 10.7k | 2 | 1 |  | Node canvas is a Cairo backed Canvas implementation for NodeJS. |
@@ -773,9 +769,9 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat/issues) | 9.4k | 1 | 0 | [📘 guide](https://github.com/WebGoat/WebGoat/blob/HEAD/CONTRIBUTING.md) | WebGoat is a deliberately insecure application |
 | [beautifier/js-beautify](https://github.com/beautifier/js-beautify/issues) | 9k | 5 | 4 | [📘 guide](https://github.com/beautifier/js-beautify/blob/HEAD/CONTRIBUTING.md) | Beautifier for javascript |
 | [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API/issues) | 8.9k | 1 | 1 |  | Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Suppor |
+| [porsager/postgres](https://github.com/porsager/postgres/issues) | 8.7k | 1 | 0 |  | Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare |
 | [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git/issues) | 8.4k | 1 | 0 | [📘 guide](https://github.com/isomorphic-git/isomorphic-git/blob/HEAD/CONTRIBUTING.md) | A pure JavaScript implementation of git for node and browsers! |
 | [nativewind/nativewind](https://github.com/nativewind/nativewind/issues) | 8.1k | 1 | 0 |  | The utility-first workflow you love from Tailwind CSS in your React Native applications. |
-| [sindresorhus/np](https://github.com/sindresorhus/np/issues) | 7.7k | 1 | 0 |  | A better 'npm publish' |
 | [google/closure-compiler](https://github.com/google/closure-compiler/issues) | 7.7k | 1 | 0 |  | A JavaScript checker and optimizer. |
 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode/issues) | 7.5k | 1 | 1 | [📘 guide](https://github.com/Acode-Foundation/Acode/blob/HEAD/CONTRIBUTING.md) | Acode - powerful text/code editor for android/ios |
 | [AlaSQL/alasql](https://github.com/AlaSQL/alasql/issues) | 7.3k | 19 | 6 | [📘 guide](https://github.com/AlaSQL/alasql/blob/HEAD/CONTRIBUTING.md) | AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON  |
@@ -803,9 +799,9 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 
 | Project | Stars | Open issues | Beginner | Rules | What it is |
 | --- | ---: | ---: | ---: | --- | --- |
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys/issues) | 139.6k | 14 | 0 | [📘 guide](https://github.com/microsoft/PowerToys/blob/HEAD/CONTRIBUTING.md) | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
-| [JustVugg/colibri](https://github.com/JustVugg/colibri/issues) | 43.5k | 1 | 0 | [📘 guide](https://github.com/JustVugg/colibri/blob/HEAD/CONTRIBUTING.md) | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immens |
-| [openssl/openssl](https://github.com/openssl/openssl/issues) | 31k | 14 | 0 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) | General purpose TLS and crypto library |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys/issues) | 139.7k | 14 | 0 | [📘 guide](https://github.com/microsoft/PowerToys/blob/HEAD/CONTRIBUTING.md) | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri/issues) | 43.6k | 1 | 0 | [📘 guide](https://github.com/JustVugg/colibri/blob/HEAD/CONTRIBUTING.md) | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immens |
+| [openssl/openssl](https://github.com/openssl/openssl/issues) | 31k | 12 | 0 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) | General purpose TLS and crypto library |
 | [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ/issues) | 28.1k | 1 | 0 |  | ehviewer，用爱发电，快乐前行 |
 | [facebook/zstd](https://github.com/facebook/zstd/issues) | 28.1k | 1 | 0 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/facebook/zstd/blob/HEAD/CONTRIBUTING.md) | Zstandard - Fast real-time compression algorithm |
 | [valkey-io/valkey](https://github.com/valkey-io/valkey/issues) | 27.5k | 1 | 0 | 🔏 DCO · [📘 guide](https://github.com/valkey-io/valkey/blob/HEAD/CONTRIBUTING.md) | A flexible distributed key-value database that is optimized for caching and other realtime workloads. |
@@ -866,7 +862,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 
 ## Swift
 
-58 projects · [open issues](../issues/by-language/swift.md)
+59 projects · [open issues](../issues/by-language/swift.md)
 
 | Project | Stars | Open issues | Beginner | Rules | What it is |
 | --- | ---: | ---: | ---: | --- | --- |
@@ -878,17 +874,18 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit/issues) | 23.1k | 1 | 1 | [📘 guide](https://github.com/CodeEditApp/CodeEdit/blob/HEAD/CONTRIBUTING.md) | 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
 | [ianyh/Amethyst](https://github.com/ianyh/Amethyst/issues) | 16.3k | 3 | 2 |  | Automatic tiling window manager for macOS à la xmonad. |
 | [dwarvesf/hidden](https://github.com/dwarvesf/hidden/issues) | 15.2k | 1 | 0 | [📘 guide](https://github.com/dwarvesf/hidden/blob/HEAD/CONTRIBUTING.md) | An ultra-light MacOS utility that helps hide menu bar icons |
-| [tisfeng/Easydict](https://github.com/tisfeng/Easydict/issues) | 15k | 2 | 1 | [📘 guide](https://github.com/tisfeng/Easydict/blob/HEAD/CONTRIBUTING.md) | 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A co |
+| [tisfeng/Easydict](https://github.com/tisfeng/Easydict/issues) | 15.1k | 2 | 1 | [📘 guide](https://github.com/tisfeng/Easydict/blob/HEAD/CONTRIBUTING.md) | 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A co |
 | [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios/issues) | 13.1k | 6 | 6 | [📘 guide](https://github.com/mozilla-mobile/firefox-ios/blob/HEAD/CONTRIBUTING.md) | Firefox for iOS |
 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice/issues) | 12.4k | 1 | 0 | [📘 guide](https://github.com/altic-dev/FluidVoice/blob/HEAD/CONTRIBUTING.md) | Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight |
 | [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover/issues) | 12k | 7 | 7 |  | Community fork of PlayCover |
 | [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager/issues) | 10.2k | 1 | 1 | [📘 guide](https://github.com/swiftlang/swift-package-manager/blob/HEAD/CONTRIBUTING.md) | The Package Manager for the Swift Programming Language |
 | [apple/swift-nio](https://github.com/apple/swift-nio/issues) | 8.5k | 1 | 1 | [📘 guide](https://github.com/apple/swift-nio/blob/HEAD/CONTRIBUTING.md) | Event-driven network application framework for high performance protocol servers & clients, non-blocking. |
-| [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse/issues) | 7k | 2 | 0 | [📘 guide](https://github.com/linearmouse/linearmouse/blob/HEAD/CONTRIBUTING.md) | The mouse and trackpad utility for Mac. |
-| [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo/issues) | 6.4k | 1 | 1 |  | Free Weather Forecast API for non-commercial use |
+| [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse/issues) | 7.1k | 2 | 0 | [📘 guide](https://github.com/linearmouse/linearmouse/blob/HEAD/CONTRIBUTING.md) | The mouse and trackpad utility for Mac. |
+| [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo/issues) | 6.5k | 1 | 1 |  | Free Weather Forecast API for non-commercial use |
+| [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou/issues) | 6.3k | 1 | 0 | [📘 guide](https://github.com/Louis-CFM/coucou/blob/HEAD/CONTRIBUTING.md) | A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cur |
 | [twostraws/ControlRoom](https://github.com/twostraws/ControlRoom/issues) | 6.1k | 1 | 0 |  | A macOS app to control the Xcode Simulator. |
-| [ARahim3/DigUp](https://github.com/ARahim3/DigUp/issues) | 5.6k | 1 | 1 | [📘 guide](https://github.com/ARahim3/DigUp/blob/HEAD/CONTRIBUTING.md) | Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Wi |
-| [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI/issues) | 5.2k | 3 | 0 | [📘 guide](https://github.com/omlahore/RemoveMacAI/blob/HEAD/CONTRIBUTING.md) | Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be un |
+| [ARahim3/DigUp](https://github.com/ARahim3/DigUp/issues) | 5.7k | 1 | 1 | [📘 guide](https://github.com/ARahim3/DigUp/blob/HEAD/CONTRIBUTING.md) | Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Wi |
+| [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI/issues) | 5.2k | 14 | 12 | [📘 guide](https://github.com/omlahore/RemoveMacAI/blob/HEAD/CONTRIBUTING.md) | Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be un |
 | [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll/issues) | 5k | 4 | 1 | [📘 guide](https://github.com/Ebullioscopic/Atoll/blob/HEAD/CONTRIBUTING.md) | Dynamic Island for macOS |
 | [claration/feather](https://github.com/claration/feather/issues) | 4.9k | 1 | 0 | 📄 AI policy · [📘 guide](https://github.com/claration/feather/blob/HEAD/.github/CONTRIBUTING.md) | Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program. |
 | [quoid/userscripts](https://github.com/quoid/userscripts/issues) | 4.9k | 2 | 0 |  | An open-source userscript manager for Safari |
@@ -899,7 +896,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock/issues) | 3.1k | 1 | 0 |  | The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, |
 | [nalexn/ViewInspector](https://github.com/nalexn/ViewInspector/issues) | 2.6k | 1 | 0 |  | Runtime introspection and unit testing of SwiftUI views |
 | [superhighfives/pika](https://github.com/superhighfives/pika/issues) | 2.6k | 1 | 0 |  | An open-source colour picker app for macOS |
-| [TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer/issues) | 2.3k | 1 | 0 | [📘 guide](https://github.com/TortugaPower/BookPlayer/blob/HEAD/CONTRIBUTING.md) | Player for your DRM-free audiobooks |
+| [TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer/issues) | 2.3k | 2 | 0 | [📘 guide](https://github.com/TortugaPower/BookPlayer/blob/HEAD/CONTRIBUTING.md) | Player for your DRM-free audiobooks |
 | [swiftlang/swift-testing](https://github.com/swiftlang/swift-testing/issues) | 2.2k | 2 | 0 | [📘 guide](https://github.com/swiftlang/swift-testing/blob/HEAD/CONTRIBUTING.md) | A modern, expressive testing package for Swift |
 | [wzh4869/AppPorts](https://github.com/wzh4869/AppPorts/issues) | 2.1k | 1 | 1 | [📘 guide](https://github.com/wzh4869/AppPorts/blob/HEAD/CONTRIBUTING.md) | 📦 A macOS utility to seamlessly migrate applications to external storage and reclaim local disk space.【一款 macOS 工具，无缝迁移应 |
 | [iliyami/MacSai](https://github.com/iliyami/MacSai/issues) | 2k | 2 | 2 | [📘 guide](https://github.com/iliyami/MacSai/blob/HEAD/CONTRIBUTING.md) | Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, |
@@ -914,12 +911,12 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [azooKey/azooKey-Desktop](https://github.com/azooKey/azooKey-Desktop/issues) | 1.1k | 1 | 1 |  | azooKey-Desktop is an open-source Japanese input method for macOS, written in Swift and powered by the Zenzai neural kan |
 | [swiftlang/swiftly](https://github.com/swiftlang/swiftly/issues) | 973 | 1 | 1 |  | A Swift toolchain installer and manager, written in Swift. |
 | [idawnlight/ShichiZip](https://github.com/idawnlight/ShichiZip/issues) | 968 | 3 | 0 |  | The 7-Zip derivative intended for macOS |
-| [awaseem/foqos](https://github.com/awaseem/foqos/issues) | 887 | 1 | 0 | [📘 guide](https://github.com/awaseem/foqos/blob/HEAD/CONTRIBUTING.md) | Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Bric |
-| [lab421/forel](https://github.com/lab421/forel/issues) | 883 | 1 | 0 | 🤖 disclose AI use | File automation for macOS. The open source Hazel alternative for macOS. |
+| [awaseem/foqos](https://github.com/awaseem/foqos/issues) | 888 | 1 | 0 | [📘 guide](https://github.com/awaseem/foqos/blob/HEAD/CONTRIBUTING.md) | Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Bric |
+| [lab421/forel](https://github.com/lab421/forel/issues) | 888 | 1 | 0 | 🤖 disclose AI use | File automation for macOS. The open source Hazel alternative for macOS. |
 | [bylinxx/MacCalendar](https://github.com/bylinxx/MacCalendar/issues) | 865 | 1 | 0 |  | 完全免费&开源的小而美 macOS 菜单栏日历App(带小组件)，支持中国农历、节假日、放假安排、系统日程、个性化配置等 |
 | [apple/swift-configuration](https://github.com/apple/swift-configuration/issues) | 815 | 4 | 4 | [📘 guide](https://github.com/apple/swift-configuration/blob/HEAD/CONTRIBUTING.md) | API package for reading configuration. |
 | [freeotp/freeotp-ios](https://github.com/freeotp/freeotp-ios/issues) | 768 | 1 | 1 | [📘 guide](https://github.com/freeotp/freeotp-ios/blob/HEAD/CONTRIBUTING.md) |  |
-| [bysiber/cleardisk](https://github.com/bysiber/cleardisk/issues) | 741 | 1 | 1 | [📘 guide](https://github.com/bysiber/cleardisk/blob/HEAD/CONTRIBUTING.md) | Free macOS menu bar app to visualize and clean developer caches (Xcode, node_modules, CocoaPods, SPM, Docker, pip, Cargo |
+| [bysiber/cleardisk](https://github.com/bysiber/cleardisk/issues) | 744 | 1 | 1 | [📘 guide](https://github.com/bysiber/cleardisk/blob/HEAD/CONTRIBUTING.md) | Free macOS menu bar app to visualize and clean developer caches (Xcode, node_modules, CocoaPods, SPM, Docker, pip, Cargo |
 | [vinhnx/Clendar](https://github.com/vinhnx/Clendar/issues) | 739 | 1 | 1 |  | Clendar - Minimal Calendar app. Written in SwiftUI. |
 | [pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift/issues) | 659 | 1 | 1 |  | Sweet window management for macOS |
 | [Fabric-Project/Fabric](https://github.com/Fabric-Project/Fabric/issues) | 604 | 1 | 0 |  | Node Creative Coding / 3D / Image Processing tool inspired by Quartz Composer |
@@ -927,68 +924,11 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [termio-sh/termio](https://github.com/termio-sh/termio/issues) | 581 | 3 | 0 | [📘 guide](https://github.com/termio-sh/termio/blob/HEAD/CONTRIBUTING.md) | A terminal-first agentic development environment for agentic coding. Build for CLI/TUI agent. Runtime for Coding Agent,  |
 | [karansinghgit/speaktype](https://github.com/karansinghgit/speaktype/issues) | 559 | 3 | 1 | [📘 guide](https://github.com/karansinghgit/speaktype/blob/HEAD/CONTRIBUTING.md) | 100% offline, open-source, Voice Dictation app on any OS |
 | [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit/issues) | 514 | 1 | 1 |  | WebAssembly Runtime written in Swift |
-| [nikgrbn/finder-menu](https://github.com/nikgrbn/finder-menu/issues) | 501 | 1 | 0 |  | Right-click menu for macOS Finder: New File, Open Terminal Here, Copy Path, Go to Parent Folder |
-
-## PHP
-
-50 projects · [open issues](../issues/by-language/php.md)
-
-| Project | Stars | Open issues | Beginner | Rules | What it is |
-| --- | ---: | ---: | ---: | --- | --- |
-| [nextcloud/server](https://github.com/nextcloud/server/issues) | 37.2k | 5 | 5 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nextcloud/server/blob/HEAD/.github/CONTRIBUTING.md) | ☁️ Nextcloud server, a safe home for all your data |
-| [laravel/framework](https://github.com/laravel/framework/issues) | 35k | 2 | 0 | [📘 guide](https://github.com/laravel/framework/blob/HEAD/.github/CONTRIBUTING.md) | Laravel is a web application framework with expressive, elegant syntax. |
-| [symfony/symfony](https://github.com/symfony/symfony/issues) | 31.2k | 26 | 26 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) | The Symfony PHP framework |
-| [monicahq/monica](https://github.com/monicahq/monica/issues) | 25.5k | 1 | 0 |  | Personal CRM. Remember everything about your friends, family and business relationships. |
-| [matomo-org/matomo](https://github.com/matomo-org/matomo/issues) | 22k | 5 | 0 | [📘 guide](https://github.com/matomo-org/matomo/blob/HEAD/CONTRIBUTING.md) | Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source al |
-| [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS/issues) | 16.4k | 8 | 2 | [📘 guide](https://github.com/FreshRSS/FreshRSS/blob/HEAD/CONTRIBUTING.md) | A free, self-hostable news aggregator… |
-| [yiisoft/yii2](https://github.com/yiisoft/yii2/issues) | 14.3k | 1 | 0 | [📘 guide](https://github.com/yiisoft/yii2/blob/HEAD/.github/CONTRIBUTING.md) | Yii 2: The Fast, Secure and Professional PHP Framework |
-| [ramsey/uuid](https://github.com/ramsey/uuid/issues) | 12.6k | 1 | 0 | [📘 guide](https://github.com/ramsey/uuid/blob/HEAD/CONTRIBUTING.md) | :snowflake: A PHP library for generating universally unique identifiers (UUIDs). |
-| [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS/issues) | 12.3k | 1 | 0 |  | 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP |
-| [Leantime/leantime](https://github.com/Leantime/leantime/issues) | 11.9k | 6 | 2 | ✍️ CLA · [📘 guide](https://github.com/Leantime/leantime/blob/HEAD/CONTRIBUTING.md) | Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia |
-| [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce/issues) | 10.6k | 1 | 1 | ⚠️ AI restricted · [📘 guide](https://github.com/woocommerce/woocommerce/blob/HEAD/CONTRIBUTING.md) | A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine. |
-| [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja/issues) | 10.3k | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/invoiceninja/invoiceninja/blob/HEAD/CONTRIBUTING.md) | A source-available invoice, quote, project and time-tracking app built with Laravel |
-| [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop/issues) | 9.2k | 2 | 0 | [📘 guide](https://github.com/PrestaShop/PrestaShop/blob/HEAD/CONTRIBUTING.md) | PrestaShop is the universal open-source software platform to build your e-commerce solution. |
-| [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin/issues) | 8.7k | 2 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/PrivateBin/PrivateBin/blob/HEAD/.github/CONTRIBUTING.md) | A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypte |
-| [Sylius/Sylius](https://github.com/Sylius/Sylius/issues) | 8.6k | 1 | 0 | 📄 AI policy · [📘 guide](https://github.com/Sylius/Sylius/blob/HEAD/.github/CONTRIBUTING.md) | Headless open-source eCommerce platform on top of PHP/Symfony/API Platform |
-| [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin/issues) | 8k | 6 | 4 | 🔏 DCO · [📘 guide](https://github.com/phpmyadmin/phpmyadmin/blob/HEAD/CONTRIBUTING.md) | A web interface for MySQL and MariaDB |
-| [MISP/MISP](https://github.com/MISP/MISP/issues) | 6.6k | 5 | 4 | ✍️ CLA · [📘 guide](https://github.com/MISP/MISP/blob/HEAD/CONTRIBUTING.md) | MISP (core software) - Open Source Threat Intelligence and Sharing Platform |
-| [glpi-project/glpi](https://github.com/glpi-project/glpi/issues) | 6.5k | 3 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/glpi-project/glpi/blob/HEAD/CONTRIBUTING.md) | GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking an |
-| [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM/issues) | 5.8k | 2 | 0 | [📘 guide](https://github.com/SuiteCRM/SuiteCRM/blob/HEAD/.github/CONTRIBUTING.md) | SuiteCRM - Open source CRM for the world |
-| [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui/issues) | 5.2k | 1 | 1 | [📘 guide](https://github.com/RaspAP/raspap-webgui/blob/HEAD/CONTRIBUTING.md) | The easiest, full-featured wireless router setup for Debian-based devices. Period. |
-| [mpdf/mpdf](https://github.com/mpdf/mpdf/issues) | 4.7k | 1 | 0 | [📘 guide](https://github.com/mpdf/mpdf/blob/HEAD/.github/CONTRIBUTING.md) | PHP library generating PDF files from UTF-8 encoded HTML |
-| [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout/issues) | 4.6k | 1 | 0 |  | FreeScout — Free self-hosted omnichannel AI-powered helpdesk & shared mailbox |
-| [laravel/horizon](https://github.com/laravel/horizon/issues) | 4.2k | 2 | 0 | [📘 guide](https://github.com/laravel/horizon/blob/HEAD/.github/CONTRIBUTING.md) | Dashboard and code-driven configuration for Laravel queues. |
-| [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack/issues) | 3.9k | 1 | 1 | [📘 guide](https://github.com/LinkStackOrg/LinkStack/blob/HEAD/CONTRIBUTING.md) | LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important l |
-| [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql/issues) | 3.8k | 3 | 3 | [📘 guide](https://github.com/wp-graphql/wp-graphql/blob/HEAD/.github/CONTRIBUTING.md) | :rocket: GraphQL API for WordPress |
-| [Kovah/LinkAce](https://github.com/Kovah/LinkAce/issues) | 3.3k | 1 | 0 | [📘 guide](https://github.com/Kovah/LinkAce/blob/HEAD/CONTRIBUTING.md) | LinkAce is a self-hosted archive to collect links of your favorite websites. |
-| [erikdubbelboer/phpRedisAdmin](https://github.com/erikdubbelboer/phpRedisAdmin/issues) | 3.2k | 1 | 0 |  | Simple web interface to manage Redis databases. |
-| [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint/issues) | 3.1k | 1 | 1 |  | A code generation tool for Laravel developers. |
-| [api-platform/core](https://github.com/api-platform/core/issues) | 2.6k | 3 | 0 | [📘 guide](https://github.com/api-platform/core/blob/HEAD/CONTRIBUTING.md) | The server component of API Platform: hypermedia and GraphQL APIs in minutes |
-| [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe/issues) | 2.5k | 4 | 0 | [📘 guide](https://github.com/laravel/cashier-stripe/blob/HEAD/.github/CONTRIBUTING.md) | Laravel Cashier provides an expressive, fluent interface to Stripe's subscription billing services. |
-| [infection/infection](https://github.com/infection/infection/issues) | 2.3k | 4 | 0 | [📘 guide](https://github.com/infection/infection/blob/HEAD/.github/CONTRIBUTING.md) | PHP Mutation Testing library |
-| [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine/issues) | 2.2k | 2 | 2 | [📘 guide](https://github.com/EasyEngine/easyengine/blob/HEAD/.github/CONTRIBUTING.md) | Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt |
-| [maennchen/ZipStream-PHP](https://github.com/maennchen/ZipStream-PHP/issues) | 1.9k | 1 | 0 | [📘 guide](https://github.com/maennchen/ZipStream-PHP/blob/HEAD/.github/CONTRIBUTING.md) | :floppy_disk: PHP ZIP Streaming Library |
-| [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID/issues) | 1.8k | 3 | 0 | [📘 guide](https://github.com/MiczFlor/RPi-Jukebox-RFID/blob/HEAD/CONTRIBUTING.md) | A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home au |
-| [cypht-org/cypht](https://github.com/cypht-org/cypht/issues) | 1.8k | 1 | 0 | [📘 guide](https://github.com/cypht-org/cypht/blob/HEAD/CONTRIBUTING.md) | Cypht: Lightweight Open Source webmail aggregator \[PHP, JS\]. Supports IMAP/SMTP, JMAP and EWS (Exchange Web Services) |
-| [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant/issues) | 1.7k | 1 | 0 | [📘 guide](https://github.com/LLPhant/LLPhant/blob/HEAD/CONTRIBUTING.md) | LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain |
-| [elabftw/elabftw](https://github.com/elabftw/elabftw/issues) | 1.5k | 3 | 3 | [📘 guide](https://github.com/elabftw/elabftw/blob/HEAD/CONTRIBUTING.md) | :notebook: eLabFTW is the most popular open source electronic lab notebook for research labs. |
-| [jez500/pricebuddy](https://github.com/jez500/pricebuddy/issues) | 1.4k | 2 | 1 |  | A self hostable app that tracks prices and sends you notifications when prices match your preferences |
-| [getsentry/sentry-laravel](https://github.com/getsentry/sentry-laravel/issues) | 1.4k | 1 | 1 | [📘 guide](https://github.com/getsentry/sentry-laravel/blob/HEAD/CONTRIBUTING.md) | The official Laravel SDK for Sentry (sentry.io) |
-| [symfony/ux](https://github.com/symfony/ux/issues) | 1.1k | 1 | 0 | [📘 guide](https://github.com/symfony/ux/blob/HEAD/CONTRIBUTING.md) | Symfony UX initiative: a JavaScript ecosystem for Symfony |
-| [tpetry/laravel-postgresql-enhanced](https://github.com/tpetry/laravel-postgresql-enhanced/issues) | 1k | 1 | 0 |  | Support for many missing PostgreSQL specific features |
-| [chamilo/chamilo-lms](https://github.com/chamilo/chamilo-lms/issues) | 1k | 1 | 0 | [📘 guide](https://github.com/chamilo/chamilo-lms/blob/HEAD/CONTRIBUTING.md) | Chamilo is a learning management system focused on ease of use and accessibility |
-| [nextcloud/news](https://github.com/nextcloud/news/issues) | 1k | 2 | 0 | 🔏 DCO · [📘 guide](https://github.com/nextcloud/news/blob/HEAD/CONTRIBUTING.md) | 📰 RSS/Atom feed reader |
-| [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare/issues) | 950 | 1 | 0 |  | :camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you |
-| [netz98/n98-magerun2](https://github.com/netz98/n98-magerun2/issues) | 925 | 3 | 0 | [📘 guide](https://github.com/netz98/n98-magerun2/blob/HEAD/CONTRIBUTING.md) | The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command l |
-| [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php/issues) | 918 | 5 | 0 | [📘 guide](https://github.com/open-telemetry/opentelemetry-php/blob/HEAD/CONTRIBUTING.md) | The OpenTelemetry PHP Library |
-| [LibreSign/libresign](https://github.com/LibreSign/libresign/issues) | 835 | 4 | 4 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) | Control how your documents get signed |
-| [wapmorgan/Morphos](https://github.com/wapmorgan/Morphos/issues) | 831 | 1 | 0 | [📘 guide](https://github.com/wapmorgan/Morphos/blob/HEAD/CONTRIBUTING.md) | A morphological solution for Russian and English language written completely in PHP. Provides classes to inflect persona |
-| [WordPress/two-factor](https://github.com/WordPress/two-factor/issues) | 824 | 1 | 0 | 🤖 disclose AI use | Two-Factor Authentication for WordPress. |
-| [Submitty/Submitty](https://github.com/Submitty/Submitty/issues) | 804 | 9 | 9 | [📘 guide](https://github.com/Submitty/Submitty/blob/HEAD/CONTRIBUTING.md) | Homework Submission, Automated Grading, and TA grading system. |
+| [nikgrbn/finder-menu](https://github.com/nikgrbn/finder-menu/issues) | 502 | 1 | 0 |  | Right-click menu for macOS Finder: New File, Open Terminal Here, Copy Path, Go to Parent Folder |
 
 ## Shell
 
-49 projects · [open issues](../issues/by-language/shell.md)
+50 projects · [open issues](../issues/by-language/shell.md)
 
 | Project | Stars | Open issues | Beginner | Rules | What it is |
 | --- | ---: | ---: | ---: | --- | --- |
@@ -1012,6 +952,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [e-m-b-a/emba](https://github.com/e-m-b-a/emba/issues) | 3.7k | 1 | 1 | [📘 guide](https://github.com/e-m-b-a/emba/blob/HEAD/CONTRIBUTING.md) | EMBA - The firmware security analyzer |
 | [Winetricks/winetricks](https://github.com/Winetricks/winetricks/issues) | 3.6k | 1 | 0 |  | Winetricks is an easy way to work around problems in Wine |
 | [CollaboraOnline/online](https://github.com/CollaboraOnline/online/issues) | 3.4k | 1 | 1 | 📄 AI policy · 🔏 DCO · [📘 guide](https://github.com/CollaboraOnline/online/blob/HEAD/CONTRIBUTING.md) | Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/. |
+| [sublimehq/Packages](https://github.com/sublimehq/Packages/issues) | 3k | 1 | 0 |  | Syntax highlighting files shipped with Sublime Text and Sublime Merge |
 | [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser/issues) | 3k | 1 | 0 |  | Secure open-source Android browser with support for extensions |
 | [Botspot/pi-apps](https://github.com/Botspot/pi-apps/issues) | 2.8k | 1 | 0 | [📘 guide](https://github.com/Botspot/pi-apps/blob/HEAD/CONTRIBUTING.md) | Raspberry Pi App Store for Open Source Projects |
 | [go-nv/goenv](https://github.com/go-nv/goenv/issues) | 2.5k | 1 | 0 | [📘 guide](https://github.com/go-nv/goenv/blob/HEAD/CONTRIBUTING.md) | :blue_car: Like pyenv and rbenv, but for Go. |
@@ -1032,15 +973,72 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [winesapOS/winesapOS](https://github.com/winesapOS/winesapOS/issues) | 1.1k | 1 | 0 | [📘 guide](https://github.com/winesapOS/winesapOS/blob/HEAD/CONTRIBUTING.md) | winesapOS - Game with Linux anywhere, no installation required! |
 | [zelikos/davincibox](https://github.com/zelikos/davincibox/issues) | 1k | 1 | 0 |  | Container for DaVinci Resolve installation and runtime dependencies on Linux. Mirrored to https://codeberg.org/zelikos/d |
 | [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches/issues) | 993 | 2 | 0 |  | Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness. |
-| [Macjutsu/super](https://github.com/Macjutsu/super/issues) | 905 | 1 | 0 |  | S.U.P.E.R.M.A.N. optimizes the macOS software update experience. |
+| [Macjutsu/super](https://github.com/Macjutsu/super/issues) | 906 | 1 | 0 |  | S.U.P.E.R.M.A.N. optimizes the macOS software update experience. |
 | [dkms-project/dkms](https://github.com/dkms-project/dkms/issues) | 874 | 1 | 0 |  | Dynamic Kernel Module System |
 | [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge/issues) | 862 | 7 | 7 | [📘 guide](https://github.com/sangrokjung/claude-forge/blob/HEAD/CONTRIBUTING.md) | oh-my-zsh for Claude Code — 16 agents, 35 commands, 32 skills, 21 safety hooks in one install. v4.0 adds an adversarial  |
 | [SylEleuth/gruvbox-plus-icon-pack](https://github.com/SylEleuth/gruvbox-plus-icon-pack/issues) | 815 | 3 | 0 |  | Gruvbox Plus icon pack for Linux desktops based on Gruvbox color theme. |
-| [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker/issues) | 784 | 2 | 0 | [📘 guide](https://github.com/amoghmunikote/cmpunlocker/blob/HEAD/docs/CONTRIBUTING.md) | A tool to unlobotomize your NVIDIA card! |
-| [shibco/ableton-linux](https://github.com/shibco/ableton-linux/issues) | 753 | 5 | 0 |  | Run Ableton 12 and Push on Linux |
+| [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker/issues) | 786 | 2 | 0 | [📘 guide](https://github.com/amoghmunikote/cmpunlocker/blob/HEAD/docs/CONTRIBUTING.md) | A tool to unlobotomize your NVIDIA card! |
+| [shibco/ableton-linux](https://github.com/shibco/ableton-linux/issues) | 756 | 6 | 0 |  | Run Ableton 12 and Push on Linux |
 | [OpenNeptune3D/OpenNept4une](https://github.com/OpenNeptune3D/OpenNept4une/issues) | 683 | 3 | 0 |  | Transform your Neptune 4 3D printer with OpenNept4une, a collection of scripts designed to replace the manufacturer's so |
 | [luainkernel/lunatik](https://github.com/luainkernel/lunatik/issues) | 608 | 2 | 2 |  | Lunatik is a framework for scripting the Linux kernel with Lua. |
 | [kyverno/policies](https://github.com/kyverno/policies/issues) | 502 | 1 | 1 |  | Kyverno policies for security and best practices |
+
+## PHP
+
+50 projects · [open issues](../issues/by-language/php.md)
+
+| Project | Stars | Open issues | Beginner | Rules | What it is |
+| --- | ---: | ---: | ---: | --- | --- |
+| [nextcloud/server](https://github.com/nextcloud/server/issues) | 37.3k | 5 | 5 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nextcloud/server/blob/HEAD/.github/CONTRIBUTING.md) | ☁️ Nextcloud server, a safe home for all your data |
+| [laravel/framework](https://github.com/laravel/framework/issues) | 35k | 2 | 0 | [📘 guide](https://github.com/laravel/framework/blob/HEAD/.github/CONTRIBUTING.md) | Laravel is a web application framework with expressive, elegant syntax. |
+| [symfony/symfony](https://github.com/symfony/symfony/issues) | 31.2k | 26 | 26 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) | The Symfony PHP framework |
+| [monicahq/monica](https://github.com/monicahq/monica/issues) | 25.5k | 1 | 0 |  | Personal CRM. Remember everything about your friends, family and business relationships. |
+| [matomo-org/matomo](https://github.com/matomo-org/matomo/issues) | 22k | 5 | 0 | [📘 guide](https://github.com/matomo-org/matomo/blob/HEAD/CONTRIBUTING.md) | Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source al |
+| [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS/issues) | 16.4k | 8 | 2 | [📘 guide](https://github.com/FreshRSS/FreshRSS/blob/HEAD/CONTRIBUTING.md) | A free, self-hostable news aggregator… |
+| [yiisoft/yii2](https://github.com/yiisoft/yii2/issues) | 14.3k | 1 | 0 | [📘 guide](https://github.com/yiisoft/yii2/blob/HEAD/.github/CONTRIBUTING.md) | Yii 2: The Fast, Secure and Professional PHP Framework |
+| [ramsey/uuid](https://github.com/ramsey/uuid/issues) | 12.6k | 1 | 0 | [📘 guide](https://github.com/ramsey/uuid/blob/HEAD/CONTRIBUTING.md) | :snowflake: A PHP library for generating universally unique identifiers (UUIDs). |
+| [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS/issues) | 12.3k | 1 | 0 |  | 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP |
+| [Leantime/leantime](https://github.com/Leantime/leantime/issues) | 11.9k | 6 | 2 | ✍️ CLA · [📘 guide](https://github.com/Leantime/leantime/blob/HEAD/CONTRIBUTING.md) | Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia |
+| [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce/issues) | 10.6k | 2 | 2 | ⚠️ AI restricted · [📘 guide](https://github.com/woocommerce/woocommerce/blob/HEAD/CONTRIBUTING.md) | A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine. |
+| [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja/issues) | 10.3k | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/invoiceninja/invoiceninja/blob/HEAD/CONTRIBUTING.md) | A source-available invoice, quote, project and time-tracking app built with Laravel |
+| [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop/issues) | 9.2k | 2 | 0 | [📘 guide](https://github.com/PrestaShop/PrestaShop/blob/HEAD/CONTRIBUTING.md) | PrestaShop is the universal open-source software platform to build your e-commerce solution. |
+| [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin/issues) | 8.7k | 2 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/PrivateBin/PrivateBin/blob/HEAD/.github/CONTRIBUTING.md) | A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypte |
+| [Sylius/Sylius](https://github.com/Sylius/Sylius/issues) | 8.6k | 1 | 0 | 📄 AI policy · [📘 guide](https://github.com/Sylius/Sylius/blob/HEAD/.github/CONTRIBUTING.md) | Headless open-source eCommerce platform on top of PHP/Symfony/API Platform |
+| [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin/issues) | 8k | 6 | 4 | 🔏 DCO · [📘 guide](https://github.com/phpmyadmin/phpmyadmin/blob/HEAD/CONTRIBUTING.md) | A web interface for MySQL and MariaDB |
+| [MISP/MISP](https://github.com/MISP/MISP/issues) | 6.6k | 5 | 4 | ✍️ CLA · [📘 guide](https://github.com/MISP/MISP/blob/HEAD/CONTRIBUTING.md) | MISP (core software) - Open Source Threat Intelligence and Sharing Platform |
+| [glpi-project/glpi](https://github.com/glpi-project/glpi/issues) | 6.5k | 3 | 1 | 🤖 disclose AI use · [📘 guide](https://github.com/glpi-project/glpi/blob/HEAD/CONTRIBUTING.md) | GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking an |
+| [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM/issues) | 5.8k | 2 | 0 | [📘 guide](https://github.com/SuiteCRM/SuiteCRM/blob/HEAD/.github/CONTRIBUTING.md) | SuiteCRM - Open source CRM for the world |
+| [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui/issues) | 5.2k | 1 | 1 | [📘 guide](https://github.com/RaspAP/raspap-webgui/blob/HEAD/CONTRIBUTING.md) | The easiest, full-featured wireless router setup for Debian-based devices. Period. |
+| [mpdf/mpdf](https://github.com/mpdf/mpdf/issues) | 4.7k | 1 | 0 | [📘 guide](https://github.com/mpdf/mpdf/blob/HEAD/.github/CONTRIBUTING.md) | PHP library generating PDF files from UTF-8 encoded HTML |
+| [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout/issues) | 4.6k | 1 | 0 |  | FreeScout — Free self-hosted omnichannel AI-powered helpdesk & shared mailbox |
+| [laravel/horizon](https://github.com/laravel/horizon/issues) | 4.2k | 2 | 0 | [📘 guide](https://github.com/laravel/horizon/blob/HEAD/.github/CONTRIBUTING.md) | Dashboard and code-driven configuration for Laravel queues. |
+| [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack/issues) | 3.9k | 1 | 1 | [📘 guide](https://github.com/LinkStackOrg/LinkStack/blob/HEAD/CONTRIBUTING.md) | LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important l |
+| [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql/issues) | 3.8k | 4 | 3 | [📘 guide](https://github.com/wp-graphql/wp-graphql/blob/HEAD/.github/CONTRIBUTING.md) | :rocket: GraphQL API for WordPress |
+| [Kovah/LinkAce](https://github.com/Kovah/LinkAce/issues) | 3.3k | 1 | 0 | [📘 guide](https://github.com/Kovah/LinkAce/blob/HEAD/CONTRIBUTING.md) | LinkAce is a self-hosted archive to collect links of your favorite websites. |
+| [erikdubbelboer/phpRedisAdmin](https://github.com/erikdubbelboer/phpRedisAdmin/issues) | 3.2k | 1 | 0 |  | Simple web interface to manage Redis databases. |
+| [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint/issues) | 3.1k | 1 | 1 |  | A code generation tool for Laravel developers. |
+| [api-platform/core](https://github.com/api-platform/core/issues) | 2.6k | 3 | 0 | [📘 guide](https://github.com/api-platform/core/blob/HEAD/CONTRIBUTING.md) | The server component of API Platform: hypermedia and GraphQL APIs in minutes |
+| [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe/issues) | 2.5k | 4 | 0 | [📘 guide](https://github.com/laravel/cashier-stripe/blob/HEAD/.github/CONTRIBUTING.md) | Laravel Cashier provides an expressive, fluent interface to Stripe's subscription billing services. |
+| [infection/infection](https://github.com/infection/infection/issues) | 2.3k | 4 | 0 | [📘 guide](https://github.com/infection/infection/blob/HEAD/.github/CONTRIBUTING.md) | PHP Mutation Testing library |
+| [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine/issues) | 2.2k | 2 | 2 | [📘 guide](https://github.com/EasyEngine/easyengine/blob/HEAD/.github/CONTRIBUTING.md) | Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt |
+| [maennchen/ZipStream-PHP](https://github.com/maennchen/ZipStream-PHP/issues) | 1.9k | 1 | 0 | [📘 guide](https://github.com/maennchen/ZipStream-PHP/blob/HEAD/.github/CONTRIBUTING.md) | :floppy_disk: PHP ZIP Streaming Library |
+| [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID/issues) | 1.8k | 3 | 0 | [📘 guide](https://github.com/MiczFlor/RPi-Jukebox-RFID/blob/HEAD/CONTRIBUTING.md) | A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home au |
+| [cypht-org/cypht](https://github.com/cypht-org/cypht/issues) | 1.8k | 1 | 0 | [📘 guide](https://github.com/cypht-org/cypht/blob/HEAD/CONTRIBUTING.md) | Cypht: Lightweight Open Source webmail aggregator \[PHP, JS\]. Supports IMAP/SMTP, JMAP and EWS (Exchange Web Services) |
+| [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant/issues) | 1.7k | 1 | 0 | [📘 guide](https://github.com/LLPhant/LLPhant/blob/HEAD/CONTRIBUTING.md) | LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain |
+| [elabftw/elabftw](https://github.com/elabftw/elabftw/issues) | 1.5k | 4 | 4 | [📘 guide](https://github.com/elabftw/elabftw/blob/HEAD/CONTRIBUTING.md) | :notebook: eLabFTW is the most popular open source electronic lab notebook for research labs. |
+| [jez500/pricebuddy](https://github.com/jez500/pricebuddy/issues) | 1.4k | 2 | 1 |  | A self hostable app that tracks prices and sends you notifications when prices match your preferences |
+| [getsentry/sentry-laravel](https://github.com/getsentry/sentry-laravel/issues) | 1.4k | 1 | 1 | [📘 guide](https://github.com/getsentry/sentry-laravel/blob/HEAD/CONTRIBUTING.md) | The official Laravel SDK for Sentry (sentry.io) |
+| [symfony/ux](https://github.com/symfony/ux/issues) | 1.1k | 1 | 0 | [📘 guide](https://github.com/symfony/ux/blob/HEAD/CONTRIBUTING.md) | Symfony UX initiative: a JavaScript ecosystem for Symfony |
+| [tpetry/laravel-postgresql-enhanced](https://github.com/tpetry/laravel-postgresql-enhanced/issues) | 1k | 1 | 0 |  | Support for many missing PostgreSQL specific features |
+| [chamilo/chamilo-lms](https://github.com/chamilo/chamilo-lms/issues) | 1k | 1 | 0 | [📘 guide](https://github.com/chamilo/chamilo-lms/blob/HEAD/CONTRIBUTING.md) | Chamilo is a learning management system focused on ease of use and accessibility |
+| [nextcloud/news](https://github.com/nextcloud/news/issues) | 1k | 2 | 0 | 🔏 DCO · [📘 guide](https://github.com/nextcloud/news/blob/HEAD/CONTRIBUTING.md) | 📰 RSS/Atom feed reader |
+| [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare/issues) | 950 | 1 | 0 |  | :camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you |
+| [netz98/n98-magerun2](https://github.com/netz98/n98-magerun2/issues) | 925 | 3 | 0 | [📘 guide](https://github.com/netz98/n98-magerun2/blob/HEAD/CONTRIBUTING.md) | The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command l |
+| [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php/issues) | 918 | 5 | 0 | [📘 guide](https://github.com/open-telemetry/opentelemetry-php/blob/HEAD/CONTRIBUTING.md) | The OpenTelemetry PHP Library |
+| [LibreSign/libresign](https://github.com/LibreSign/libresign/issues) | 835 | 5 | 5 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) | Control how your documents get signed |
+| [wapmorgan/Morphos](https://github.com/wapmorgan/Morphos/issues) | 831 | 1 | 0 | [📘 guide](https://github.com/wapmorgan/Morphos/blob/HEAD/CONTRIBUTING.md) | A morphological solution for Russian and English language written completely in PHP. Provides classes to inflect persona |
+| [WordPress/two-factor](https://github.com/WordPress/two-factor/issues) | 824 | 1 | 0 | 🤖 disclose AI use | Two-Factor Authentication for WordPress. |
+| [Submitty/Submitty](https://github.com/Submitty/Submitty/issues) | 804 | 10 | 10 | [📘 guide](https://github.com/Submitty/Submitty/blob/HEAD/CONTRIBUTING.md) | Homework Submission, Automated Grading, and TA grading system. |
 
 ## Dart
 
@@ -1050,8 +1048,8 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | --- | ---: | ---: | ---: | --- | --- |
 | [localsend/localsend](https://github.com/localsend/localsend/issues) | 95.3k | 1 | 0 | [📘 guide](https://github.com/localsend/localsend/blob/HEAD/CONTRIBUTING.md) | An open-source cross-platform alternative to AirDrop |
 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy/issues) | 77.7k | 1 | 0 |  | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more wit |
-| [Predidit/Kazumi](https://github.com/Predidit/Kazumi/issues) | 39k | 1 | 0 |  | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 |
-| [ente/ente](https://github.com/ente/ente/issues) | 29.5k | 2 | 1 | [📘 guide](https://github.com/ente/ente/blob/HEAD/CONTRIBUTING.md) | 💚 End-to-end encrypted cloud for everything. |
+| [Predidit/Kazumi](https://github.com/Predidit/Kazumi/issues) | 39.1k | 1 | 0 |  | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 |
+| [ente/ente](https://github.com/ente/ente/issues) | 29.6k | 2 | 1 | [📘 guide](https://github.com/ente/ente/blob/HEAD/CONTRIBUTING.md) | 💚 End-to-end encrypted cloud for everything. |
 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium/issues) | 20.8k | 4 | 2 | 📄 AI policy · [📘 guide](https://github.com/ImranR98/Obtainium/blob/HEAD/docs/CONTRIBUTING.md) | Get Android app updates straight from the source. |
 | [felangel/bloc](https://github.com/felangel/bloc/issues) | 12.5k | 1 | 1 | [📘 guide](https://github.com/felangel/bloc/blob/HEAD/CONTRIBUTING.md) | A predictable state management library that helps implement the BLoC design pattern |
 | [flame-engine/flame](https://github.com/flame-engine/flame/issues) | 10.8k | 1 | 0 | [📘 guide](https://github.com/flame-engine/flame/blob/HEAD/CONTRIBUTING.md) | A Flutter based game engine. |
@@ -1072,7 +1070,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload/issues) | 1.8k | 2 | 0 |  | NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin |
 | [flutter/devtools](https://github.com/flutter/devtools/issues) | 1.7k | 20 | 1 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) | Developer tools for Flutter & Dart |
 | [fregie/pho](https://github.com/fregie/pho/issues) | 1.2k | 3 | 3 | [📘 guide](https://github.com/fregie/pho/blob/HEAD/CONTRIBUTING.md) | A serverless application for viewing and synchronizing photos to cloud storage |
-| [ubuntu/app-center](https://github.com/ubuntu/app-center/issues) | 935 | 1 | 1 | ✍️ CLA · [📘 guide](https://github.com/ubuntu/app-center/blob/HEAD/CONTRIBUTING.md) | App Store for Ubuntu made with Flutter 🧡 💙 |
+| [ubuntu/app-center](https://github.com/ubuntu/app-center/issues) | 936 | 1 | 1 | ✍️ CLA · [📘 guide](https://github.com/ubuntu/app-center/blob/HEAD/CONTRIBUTING.md) | App Store for Ubuntu made with Flutter 🧡 💙 |
 | [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages/issues) | 865 | 2 | 0 | [📘 guide](https://github.com/material-foundation/flutter-packages/blob/HEAD/CONTRIBUTING.md) | A collection of useful Material Design packages |
 | [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod/issues) | 673 | 1 | 0 |  | Music, radio, television and podcast player for Ubuntu, MacOs and maybe soon Android |
 | [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter/issues) | 660 | 1 | 1 |  | A multi-platform (Flutter) application for reading your emails, with your favorite devices, using the JMAP protocol! |
@@ -1082,11 +1080,11 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [Zverik/every_door](https://github.com/Zverik/every_door/issues) | 564 | 2 | 0 |  | A dedicated app for collecting thousands of POI for OpenStreetMap |
 | [osociety/vernet](https://github.com/osociety/vernet/issues) | 557 | 1 | 1 | 📄 AI policy | Cross platform network analysis and monitoring tool |
 | [google/dart-neats](https://github.com/google/dart-neats/issues) | 512 | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/google/dart-neats/blob/HEAD/CONTRIBUTING.md) | neat dart packages. |
-| [JustLookAtNow/pt_mate](https://github.com/JustLookAtNow/pt_mate/issues) | 510 | 1 | 0 |  | 基于 Flutter（Material Design 3）开发的私有种子站点客户端，支持多种PT站点的种子浏览、搜索和下载管理。目前支持M-Team和NexusPHP类型的站点。 |
+| [JustLookAtNow/pt_mate](https://github.com/JustLookAtNow/pt_mate/issues) | 509 | 1 | 0 |  | 基于 Flutter（Material Design 3）开发的私有种子站点客户端，支持多种PT站点的种子浏览、搜索和下载管理。目前支持M-Team和NexusPHP类型的站点。 |
 
 ## HTML
 
-35 projects · [open issues](../issues/by-language/html.md)
+34 projects · [open issues](../issues/by-language/html.md)
 
 | Project | Stars | Open issues | Beginner | Rules | What it is |
 | --- | ---: | ---: | ---: | --- | --- |
@@ -1096,7 +1094,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover/issues) | 9.7k | 1 | 0 | [📘 guide](https://github.com/nasa-jpl/open-source-rover/blob/HEAD/.github/CONTRIBUTING.md) | A build-it-yourself, 6-wheel rover based on the rovers on Mars! |
 | [whatwg/html](https://github.com/whatwg/html/issues) | 9.4k | 1 | 1 | [📘 guide](https://github.com/whatwg/html/blob/HEAD/.github/CONTRIBUTING.md) | HTML Standard |
 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything/issues) | 9.2k | 6 | 0 | ✍️ CLA · [📘 guide](https://github.com/nexu-io/html-anything/blob/HEAD/CONTRIBUTING.md) | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck  |
-| [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes/issues) | 8.7k | 1 | 1 |  | Application for managing recipes, planning meals, building shopping lists and much much more! |
+| [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes/issues) | 8.7k | 2 | 1 |  | Application for managing recipes, planning meals, building shopping lists and much much more! |
 | [dequelabs/axe-core](https://github.com/dequelabs/axe-core/issues) | 7.7k | 2 | 0 | ✍️ CLA · [📘 guide](https://github.com/dequelabs/axe-core/blob/HEAD/CONTRIBUTING.md) | Accessibility engine for automated Web UI testing |
 | [tobychui/zoraxy](https://github.com/tobychui/zoraxy/issues) | 5.5k | 2 | 0 |  | A general purpose HTTP reverse proxy and forwarding tool. Now written in Go! |
 | [kubernetes/website](https://github.com/kubernetes/website/issues) | 5.4k | 8 | 0 | [📘 guide](https://github.com/kubernetes/website/blob/HEAD/CONTRIBUTING.md) | Kubernetes website and documentation repo: |
@@ -1107,7 +1105,6 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [imfing/hextra](https://github.com/imfing/hextra/issues) | 2.4k | 2 | 2 | [📘 guide](https://github.com/imfing/hextra/blob/HEAD/.github/CONTRIBUTING.md) | 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites |
 | [cncf/toc](https://github.com/cncf/toc/issues) | 1.9k | 4 | 0 | [📘 guide](https://github.com/cncf/toc/blob/HEAD/CONTRIBUTING.md) | ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation. |
 | [NuGet/Home](https://github.com/NuGet/Home/issues) | 1.6k | 4 | 0 | [📘 guide](https://github.com/NuGet/Home/blob/HEAD/CONTRIBUTING.md) | Repo for NuGet Client issues |
-| [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills/issues) | 1.5k | 1 | 0 | [📘 guide](https://github.com/mohitagw15856/pm-claude-skills/blob/HEAD/CONTRIBUTING.md) | 1255 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — PRDs, postmortems, leases, medical bills, l |
 | [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets/issues) | 1.5k | 1 | 0 | [📘 guide](https://github.com/OWASP/wrongsecrets/blob/HEAD/CONTRIBUTING.md) | Vulnerable app with examples showing how to not use secrets |
 | [SeleniumHQ/seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io/issues) | 1.4k | 1 | 0 | [📘 guide](https://github.com/SeleniumHQ/seleniumhq.github.io/blob/HEAD/CONTRIBUTING.md) | Official Selenium website and documentation |
 | [w3c/aria-practices](https://github.com/w3c/aria-practices/issues) | 1.4k | 2 | 1 | [📘 guide](https://github.com/w3c/aria-practices/blob/HEAD/CONTRIBUTING.md) | WAI-ARIA Authoring Practices Guide (APG) |
@@ -1120,7 +1117,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome/issues) | 812 | 1 | 1 | [📘 guide](https://github.com/hugo-sid/hugo-blog-awesome/blob/HEAD/CONTRIBUTING.md) | Fast, minimal blog with dark mode support. |
 | [mgaudet/CompilerJobs](https://github.com/mgaudet/CompilerJobs/issues) | 782 | 1 | 1 |  | A listing of compiler, language and runtime teams for people looking for jobs in this area |
 | [w3c/aria](https://github.com/w3c/aria/issues) | 755 | 1 | 1 | [📘 guide](https://github.com/w3c/aria/blob/HEAD/CONTRIBUTING.md) | Accessible Rich Internet Applications (WAI-ARIA) |
-| [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues) | 706 | 2 | 2 | [📘 guide](https://github.com/Weiss-UltimateSavior/Tyranor-Next/blob/HEAD/CONTRIBUTING.md) | 多引擎视觉小说（Galgame）聚合启动器，面向 Android 平台。内置 Kirikiri / ONScripter / Tyrano / Artemis / Siglus / FVP 六套引擎运行环境，并支持 Ren'Py、RPG M |
+| [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues) | 710 | 2 | 2 | [📘 guide](https://github.com/Weiss-UltimateSavior/Tyranor-Next/blob/HEAD/CONTRIBUTING.md) | 多引擎视觉小说（Galgame）聚合启动器，面向 Android 平台。内置 Kirikiri / ONScripter / Tyrano / Artemis / Siglus / FVP 六套引擎运行环境，并支持 Ren'Py、RPG M |
 | [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org/issues) | 694 | 2 | 2 | [📘 guide](https://github.com/HTTPArchive/almanac.httparchive.org/blob/HEAD/CONTRIBUTING.md) | HTTP Archive's annual "State of the Web" report made by the web community |
 | [chipzoller/hugo-clarity](https://github.com/chipzoller/hugo-clarity/issues) | 652 | 1 | 0 | 🔏 DCO · [📘 guide](https://github.com/chipzoller/hugo-clarity/blob/HEAD/CONTRIBUTING.md) | A theme for Hugo based on VMware Clarity |
 | [nirholas/XActions](https://github.com/nirholas/XActions/issues) | 616 | 1 | 0 | [📘 guide](https://github.com/nirholas/XActions/blob/HEAD/CONTRIBUTING.md) | ⚡ The Complete X/Twitter Automation Toolkit — Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No  |
@@ -1128,7 +1125,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 
 ## Ruby
 
-29 projects · [open issues](../issues/by-language/ruby.md)
+28 projects · [open issues](../issues/by-language/ruby.md)
 
 | Project | Stars | Open issues | Beginner | Rules | What it is |
 | --- | ---: | ---: | ---: | --- | --- |
@@ -1150,7 +1147,6 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [consuldemocracy/consuldemocracy](https://github.com/consuldemocracy/consuldemocracy/issues) | 1.6k | 1 | 0 | [📘 guide](https://github.com/consuldemocracy/consuldemocracy/blob/HEAD/CONTRIBUTING.md) | Consul Democracy - Open Government and E-Participation Web Software |
 | [dry-rb/dry-validation](https://github.com/dry-rb/dry-validation/issues) | 1.4k | 2 | 0 | [📘 guide](https://github.com/dry-rb/dry-validation/blob/HEAD/CONTRIBUTING.md) | Validation library with type-safe schemas and rules |
 | [ManageIQ/manageiq](https://github.com/ManageIQ/manageiq/issues) | 1.4k | 1 | 0 | [📘 guide](https://github.com/ManageIQ/manageiq/blob/HEAD/CONTRIBUTING.md) | ManageIQ Open-Source Management Platform |
-| [NARKOZ/gitlab](https://github.com/NARKOZ/gitlab/issues) | 1.1k | 1 | 0 | [📘 guide](https://github.com/NARKOZ/gitlab/blob/HEAD/CONTRIBUTING.md) | Ruby wrapper and CLI for the GitLab REST API |
 | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library/issues) | 1.1k | 1 | 0 |  | A comprehensive collection of Quran resources |
 | [getsentry/sentry-ruby](https://github.com/getsentry/sentry-ruby/issues) | 989 | 1 | 1 | [📘 guide](https://github.com/getsentry/sentry-ruby/blob/HEAD/CONTRIBUTING.md) | Sentry SDK for Ruby |
 | [activeagents/activeagent](https://github.com/activeagents/activeagent/issues) | 985 | 1 | 0 |  | ActiveAgent Rails framework for Agent Apps |
@@ -1160,7 +1156,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [rubyevents/rubyevents](https://github.com/rubyevents/rubyevents/issues) | 570 | 1 | 1 | [📘 guide](https://github.com/rubyevents/rubyevents/blob/HEAD/CONTRIBUTING.md) | On a mission to index all Ruby events. |
 | [rubytoolbox/rubytoolbox](https://github.com/rubytoolbox/rubytoolbox/issues) | 550 | 1 | 0 |  | Find actively maintained & popular open source software libraries for the Ruby programming language |
 | [brettchalupa/graphql-docs](https://github.com/brettchalupa/graphql-docs/issues) | 521 | 1 | 1 | [📘 guide](https://github.com/brettchalupa/graphql-docs/blob/HEAD/CONTRIBUTING.md) | Easily generate beautiful documentation from your GraphQL schema. |
-| [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt/issues) | 513 | 5 | 5 | [📘 guide](https://github.com/AllYourBot/hostedgpt/blob/HEAD/CONTRIBUTING.md) | An open version of ChatGPT you can host anywhere or run locally. |
+| [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt/issues) | 513 | 2 | 2 | [📘 guide](https://github.com/AllYourBot/hostedgpt/blob/HEAD/CONTRIBUTING.md) | An open version of ChatGPT you can host anywhere or run locally. |
 
 ## Scala
 
@@ -1194,7 +1190,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | Project | Stars | Open issues | Beginner | Rules | What it is |
 | --- | ---: | ---: | ---: | --- | --- |
 | [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim/issues) | 18.2k | 2 | 2 | [📘 guide](https://github.com/avante-corp/avante.nvim/blob/HEAD/CONTRIBUTING.md) | Use your Neovim like using Cursor AI IDE! |
-| [apache/apisix](https://github.com/apache/apisix/issues) | 17.2k | 2 | 2 | ✍️ CLA · [📘 guide](https://github.com/apache/apisix/blob/HEAD/CONTRIBUTING.md) | The Cloud-Native API Gateway and AI Gateway |
+| [apache/apisix](https://github.com/apache/apisix/issues) | 17.3k | 2 | 2 | ✍️ CLA · [📘 guide](https://github.com/apache/apisix/blob/HEAD/CONTRIBUTING.md) | The Cloud-Native API Gateway and AI Gateway |
 | [PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding/issues) | 5.5k | 1 | 1 | [📘 guide](https://github.com/PathOfBuildingCommunity/PathOfBuilding/blob/HEAD/CONTRIBUTING.md) | Offline build planner for Path of Exile. |
 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH/issues) | 4.6k | 4 | 0 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) | Open source clone of Theme Hospital |
 | [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason/issues) | 4.3k | 2 | 2 | 🤖 disclose AI use · [📘 guide](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/HEAD/CONTRIBUTING.md) | Main game repository for Beyond All Reason. |
@@ -1203,10 +1199,10 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [teal-language/tl](https://github.com/teal-language/tl/issues) | 3k | 1 | 0 |  | The compiler for Teal, a typed dialect of Lua |
 | [luanti-org/minetest_game](https://github.com/luanti-org/minetest_game/issues) | 1.6k | 1 | 1 |  | Minetest Game - A lightweight and well-maintained base for Luanti, intended for modding |
 | [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim/issues) | 1k | 1 | 0 |  | Fancy code outline sidebar to visualize and navigate code symbols in a tree hierarchy |
-| [finlater/weread.koplugin](https://github.com/finlater/weread.koplugin/issues) | 950 | 1 | 0 | [📘 guide](https://github.com/finlater/weread.koplugin/blob/HEAD/CONTRIBUTING.md) | 微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等所有能安装 koreader 的设备。 |
+| [finlater/weread.koplugin](https://github.com/finlater/weread.koplugin/issues) | 951 | 1 | 0 | [📘 guide](https://github.com/finlater/weread.koplugin/blob/HEAD/CONTRIBUTING.md) | 微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等所有能安装 koreader 的设备。 |
 | [aserowy/tmux.nvim](https://github.com/aserowy/tmux.nvim/issues) | 812 | 1 | 0 |  | tmux integration for nvim features pane movement and resizing from within nvim. |
-| [zjeffer/split-monitor-workspaces](https://github.com/zjeffer/split-monitor-workspaces/issues) | 802 | 2 | 0 | 📄 AI policy · [📘 guide](https://github.com/zjeffer/split-monitor-workspaces/blob/HEAD/CONTRIBUTING.md) | A small lua package for Hyprland to provide awesome-like workspace behavior |
-| [public-transport/transitous](https://github.com/public-transport/transitous/issues) | 738 | 5 | 5 | 📄 AI policy | Free and open public transport routing. |
+| [zjeffer/split-monitor-workspaces](https://github.com/zjeffer/split-monitor-workspaces/issues) | 803 | 2 | 0 | 📄 AI policy · [📘 guide](https://github.com/zjeffer/split-monitor-workspaces/blob/HEAD/CONTRIBUTING.md) | A small lua package for Hyprland to provide awesome-like workspace behavior |
+| [public-transport/transitous](https://github.com/public-transport/transitous/issues) | 739 | 5 | 5 | 📄 AI policy | Free and open public transport routing. |
 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim/issues) | 641 | 4 | 2 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) | Agentic Chat Interface directly in Neovim with ACP providers from Claude-Code, Gemini, Codex, OpenCode, and Cursor-agent |
 | [overextended/ox_inventory](https://github.com/overextended/ox_inventory/issues) | 561 | 1 | 0 | ✍️ CLA · [📘 guide](https://github.com/overextended/ox_inventory/blob/HEAD/CONTRIBUTING.md) | Slot-based inventory with metadata. |
 | [LandSandBoat/server](https://github.com/LandSandBoat/server/issues) | 513 | 1 | 1 | [📘 guide](https://github.com/LandSandBoat/server/blob/HEAD/CONTRIBUTING.md) | :sailboat: LandSandBoat - a server emulator for Final Fantasy XI |
@@ -1223,9 +1219,9 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl/issues) | 1.4k | 26 | 21 |  | CUDA programming in Julia. |
 | [JuliaDynamics/DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl/issues) | 956 | 1 | 1 | [📘 guide](https://github.com/JuliaDynamics/DynamicalSystems.jl/blob/HEAD/CONTRIBUTING.md) | Award winning software library for nonlinear dynamics and nonlinear timeseries analysis |
 | [JuliaDocs/Documenter.jl](https://github.com/JuliaDocs/Documenter.jl/issues) | 924 | 2 | 1 | 🤖 disclose AI use | A documentation generator for Julia. |
-| [gridap/Gridap.jl](https://github.com/gridap/Gridap.jl/issues) | 886 | 1 | 0 | 🔏 DCO · [📘 guide](https://github.com/gridap/Gridap.jl/blob/HEAD/CONTRIBUTING.md) | Grid-based approximation of partial differential equations in Julia |
+| [gridap/Gridap.jl](https://github.com/gridap/Gridap.jl/issues) | 887 | 1 | 0 | 🔏 DCO · [📘 guide](https://github.com/gridap/Gridap.jl/blob/HEAD/CONTRIBUTING.md) | Grid-based approximation of partial differential equations in Julia |
 | [WaterLily-jl/WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl/issues) | 853 | 1 | 0 |  | Fast and simple fluid simulator in Julia |
-| [trixi-framework/Trixi.jl](https://github.com/trixi-framework/Trixi.jl/issues) | 737 | 1 | 1 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/trixi-framework/Trixi.jl/blob/HEAD/CONTRIBUTING.md) | Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia |
+| [trixi-framework/Trixi.jl](https://github.com/trixi-framework/Trixi.jl/issues) | 736 | 1 | 1 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/trixi-framework/Trixi.jl/blob/HEAD/CONTRIBUTING.md) | Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia |
 | [JuliaLang/Pkg.jl](https://github.com/JuliaLang/Pkg.jl/issues) | 677 | 1 | 0 |  | Pkg - Package manager for the Julia programming language |
 | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues) | 646 | 6 | 6 |  | An opinionated code formatter for Julia. Plot twist - the opinion is your own. |
 | [JuliaEarth/GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl/issues) | 592 | 1 | 0 | [📘 guide](https://github.com/JuliaEarth/GeoStats.jl/blob/HEAD/CONTRIBUTING.md) | An extensible framework for geospatial data science and geostatistical modeling fully written in Julia |
@@ -1235,10 +1231,11 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 
 ## Vue
 
-12 projects · [open issues](../issues/by-language/vue.md)
+13 projects · [open issues](../issues/by-language/vue.md)
 
 | Project | Stars | Open issues | Beginner | Rules | What it is |
 | --- | ---: | ---: | ---: | --- | --- |
+| [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar/issues) | 24.7k | 1 | 1 |  | 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速 |
 | [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube/issues) | 22.1k | 8 | 6 | [📘 guide](https://github.com/FreeTubeApp/FreeTube/blob/HEAD/CONTRIBUTING.md) | An Open Source YouTube app for privacy |
 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer/issues) | 17.1k | 5 | 2 |  | 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制 |
 | [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist/issues) | 9.4k | 1 | 0 |  | PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features o |
@@ -1251,6 +1248,23 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [stark81/VutronMusic](https://github.com/stark81/VutronMusic/issues) | 1.6k | 1 | 0 |  | 高颜值的第三方网易云播放器；通过自写插件可支持其他线上音乐服务；支持流媒体音乐，如navidrome、jellyfin、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gn |
 | [Bronya0/Kafka-King](https://github.com/Bronya0/Kafka-King/issues) | 1.3k | 1 | 1 |  | A modern and practical kafka GUI client 💕🎉Kafka-King 是一款现代化、实用的 Kafka GUI 客户端，旨在通过直观的桌面界面简化 Apache Kafka 管理。作为一款跨平台应用程序， |
 | [zerotrac/leetcode_problem_rating](https://github.com/zerotrac/leetcode_problem_rating/issues) | 700 | 1 | 1 |  | Self-calculated rating of problems in leetcode weekly/biweekly contests. |
+
+## Clojure
+
+10 projects · [open issues](../issues/by-language/clojure.md)
+
+| Project | Stars | Open issues | Beginner | Rules | What it is |
+| --- | ---: | ---: | ---: | --- | --- |
+| [penpot/penpot](https://github.com/penpot/penpot/issues) | 61.5k | 2 | 2 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/penpot/penpot/blob/HEAD/CONTRIBUTING.md) | Penpot: The open-source design platform for Product teams that need scalable collaboration. |
+| [metabase/metabase](https://github.com/metabase/metabase/issues) | 49.8k | 6 | 6 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_cha |
+| [logseq/logseq](https://github.com/logseq/logseq/issues) | 45.3k | 3 | 3 | ✍️ CLA · [📘 guide](https://github.com/logseq/logseq/blob/HEAD/CONTRIBUTING.md) | A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logse |
+| [xtdb/xtdb](https://github.com/xtdb/xtdb/issues) | 3.1k | 1 | 1 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/xtdb/xtdb/blob/HEAD/CONTRIBUTING.md) | An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt |
+| [clj-kondo/clj-kondo](https://github.com/clj-kondo/clj-kondo/issues) | 1.9k | 1 | 0 | [📘 guide](https://github.com/clj-kondo/clj-kondo/blob/HEAD/CONTRIBUTING.md) | Static analyzer and linter for Clojure code that sparks joy |
+| [metosin/malli](https://github.com/metosin/malli/issues) | 1.8k | 1 | 0 | [📘 guide](https://github.com/metosin/malli/blob/HEAD/CONTRIBUTING.md) | High-performance data-driven data specification library for Clojure/Script. |
+| [datalevin/datalevin](https://github.com/datalevin/datalevin/issues) | 1.5k | 1 | 0 |  | A simple, fast and versatile Datalog database |
+| [clojure-lsp/clojure-lsp](https://github.com/clojure-lsp/clojure-lsp/issues) | 1.3k | 1 | 1 |  | Clojure & ClojureScript Language Server (LSP) implementation |
+| [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca/issues) | 1k | 1 | 1 |  | Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor |
+| [mtgred/netrunner](https://github.com/mtgred/netrunner/issues) | 985 | 2 | 2 | [📘 guide](https://github.com/mtgred/netrunner/blob/HEAD/CONTRIBUTING.md) |  |
 
 ## Jupyter Notebook
 
@@ -1266,7 +1280,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [onestardao/WFGY](https://github.com/onestardao/WFGY/issues) | 1.8k | 2 | 2 | [📘 guide](https://github.com/onestardao/WFGY/blob/HEAD/CONTRIBUTING.md) | WFGY is heading toward WFGY 5.0 Polaris Protocol, a major open-source release for AI reasoning, RAG, agents, and real-wo |
 | [peterdsharpe/AeroSandbox](https://github.com/peterdsharpe/AeroSandbox/issues) | 1.4k | 1 | 1 | [📘 guide](https://github.com/peterdsharpe/AeroSandbox/blob/HEAD/CONTRIBUTING.md) | Aircraft design optimization made fast through computational graph transformations (e.g., automatic differentiation). Co |
 | [awslabs/python-deequ](https://github.com/awslabs/python-deequ/issues) | 827 | 3 | 1 | ✍️ CLA · [📘 guide](https://github.com/awslabs/python-deequ/blob/HEAD/CONTRIBUTING.md) | Python API for Deequ |
-| [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule/issues) | 685 | 2 | 0 | [📘 guide](https://github.com/Niketkumardheeryan/ML-CaPsule/blob/HEAD/CONTRIBUTING.md) | ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and w |
+| [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule/issues) | 684 | 2 | 0 | [📘 guide](https://github.com/Niketkumardheeryan/ML-CaPsule/blob/HEAD/CONTRIBUTING.md) | ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and w |
 
 ## Nix
 
@@ -1283,22 +1297,6 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra/issues) | 1.4k | 1 | 1 | [📘 guide](https://github.com/kamadorueda/alejandra/blob/HEAD/CONTRIBUTING.md) | The Uncompromising Nix Code Formatter |
 | [catppuccin/nix](https://github.com/catppuccin/nix/issues) | 772 | 1 | 0 |  | ❄️ Soothing pastel theme for Nix |
 | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix/issues) | 607 | 4 | 4 |  | NixOS Media Server Configuration |
-
-## Clojure
-
-9 projects · [open issues](../issues/by-language/clojure.md)
-
-| Project | Stars | Open issues | Beginner | Rules | What it is |
-| --- | ---: | ---: | ---: | --- | --- |
-| [penpot/penpot](https://github.com/penpot/penpot/issues) | 61.5k | 2 | 2 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/penpot/penpot/blob/HEAD/CONTRIBUTING.md) | Penpot: The open-source design platform for Product teams that need scalable collaboration. |
-| [metabase/metabase](https://github.com/metabase/metabase/issues) | 49.8k | 5 | 5 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_cha |
-| [logseq/logseq](https://github.com/logseq/logseq/issues) | 45.3k | 3 | 3 | ✍️ CLA · [📘 guide](https://github.com/logseq/logseq/blob/HEAD/CONTRIBUTING.md) | A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logse |
-| [clj-kondo/clj-kondo](https://github.com/clj-kondo/clj-kondo/issues) | 1.9k | 1 | 0 | [📘 guide](https://github.com/clj-kondo/clj-kondo/blob/HEAD/CONTRIBUTING.md) | Static analyzer and linter for Clojure code that sparks joy |
-| [metosin/malli](https://github.com/metosin/malli/issues) | 1.8k | 1 | 0 | [📘 guide](https://github.com/metosin/malli/blob/HEAD/CONTRIBUTING.md) | High-performance data-driven data specification library for Clojure/Script. |
-| [datalevin/datalevin](https://github.com/datalevin/datalevin/issues) | 1.5k | 1 | 0 |  | A simple, fast and versatile Datalog database |
-| [clojure-lsp/clojure-lsp](https://github.com/clojure-lsp/clojure-lsp/issues) | 1.3k | 1 | 1 |  | Clojure & ClojureScript Language Server (LSP) implementation |
-| [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca/issues) | 1k | 1 | 1 |  | Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor |
-| [mtgred/netrunner](https://github.com/mtgred/netrunner/issues) | 985 | 2 | 2 | [📘 guide](https://github.com/mtgred/netrunner/blob/HEAD/CONTRIBUTING.md) |  |
 
 ## Zig
 
@@ -1336,7 +1334,7 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | Project | Stars | Open issues | Beginner | Rules | What it is |
 | --- | ---: | ---: | ---: | --- | --- |
 | [hadolint/hadolint](https://github.com/hadolint/hadolint/issues) | 12.5k | 3 | 0 |  | Dockerfile linter, validate inline bash, written in Haskell |
-| [agda/agda](https://github.com/agda/agda/issues) | 2.9k | 6 | 2 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) | Agda is a dependently typed programming language / interactive theorem prover. |
+| [agda/agda](https://github.com/agda/agda/issues) | 3k | 6 | 2 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) | Agda is a dependently typed programming language / interactive theorem prover. |
 | [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor/issues) | 1.7k | 1 | 0 |  | Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. |
 | [IntersectMBO/plutus](https://github.com/IntersectMBO/plutus/issues) | 1.6k | 3 | 3 |  | The Plutus language implementation and tools |
 | [haskell-beam/beam](https://github.com/haskell-beam/beam/issues) | 637 | 3 | 1 |  | A type-safe Haskell SQL library |
@@ -1380,4 +1378,4 @@ Use this page to find a project first, then pick an issue in it. Before contribu
 | Project | Stars | Open issues | Beginner | Rules | What it is |
 | --- | ---: | ---: | ---: | --- | --- |
 | [emqx/emqx](https://github.com/emqx/emqx/issues) | 16.9k | 1 | 0 | [📘 guide](https://github.com/emqx/emqx/blob/HEAD/CONTRIBUTING.md) | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
-| [erlang/otp](https://github.com/erlang/otp/issues) | 12.4k | 29 | 0 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) | Erlang/OTP |
+| [erlang/otp](https://github.com/erlang/otp/issues) | 12.4k | 28 | 0 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) | Erlang/OTP |
