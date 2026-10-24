@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**55** open issues (24 labeled for beginners) across **16** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
+**56** open issues (25 labeled for beginners) across **17** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
 
-> Updated automatically on **2026-10-23 21:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-24 10:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -31,6 +31,7 @@
 | [\[Bug\]: Spending Analysis in Tracking Budget uses wrong amount.](https://github.com/actualbudget/actual/issues/7419) 💬 5 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟢 beginner | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Error when linking account with pluggy.ai](https://github.com/actualbudget/actual/issues/6345) 💬 12 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟢 beginner | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Transactions not merged when applying rules to existing transactions](https://github.com/actualbudget/actual/issues/1331) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟡 help wanted | 2026-10-13 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
+| [\[Bug\]\[Rust SDK\] Integer Overflow in expiration_timestamp_secs](https://github.com/aptos-labs/aptos-core/issues/10440) 💬 2 | [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core) | 6.4k | 🟢 beginner | 2026-10-12 | [📘 guide](https://github.com/aptos-labs/aptos-core/blob/HEAD/CONTRIBUTING.md) |
 | [\[WEB-SDK\] - Add Payment Method with Dynamic Field Rendering - BniVa](https://github.com/juspay/hyperswitch/issues/6067) 💬 4 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 45.4k | 🟢 beginner | 2026-10-08 | [📘 guide](https://github.com/juspay/hyperswitch/blob/HEAD/docs/CONTRIBUTING.md) |
 | [\[WEB-SDK\] - Add Payment Method with Dynamic Field Rendering - Online Banking Poland](https://github.com/juspay/hyperswitch/issues/6079) 💬 5 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 45.4k | 🟢 beginner | 2026-10-08 | [📘 guide](https://github.com/juspay/hyperswitch/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Make Wycheproof CI (network) failure resistant](https://github.com/open-quantum-safe/liboqs/issues/2495) 💬 5 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-07 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |

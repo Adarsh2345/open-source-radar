@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/zig.xml)
 
-> Updated automatically on **2026-10-23 21:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-24 10:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,9 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Logarithm builtins for F32, F64, Dec](https://github.com/roc-lang/roc/issues/5107) 💬 3 | [roc-lang/roc](https://github.com/roc-lang/roc) | 6.1k | 🟢 beginner | 2026-10-24 |  |
 | [Rich markdown rendering/highlighting for docs on hover](https://github.com/neurocyte/flow/issues/43) 💬 5 | [neurocyte/flow](https://github.com/neurocyte/flow) | 2.5k | 🟢 beginner | 2026-10-22 |  |
 | [Session persistence on machine restart](https://github.com/neurosnap/zmx/issues/76) 💬 11 | [neurosnap/zmx](https://github.com/neurosnap/zmx) | 2.2k | 🟡 help wanted | 2026-10-12 |  |
-| [Logarithm builtins for F32, F64, Dec](https://github.com/roc-lang/roc/issues/5107) 💬 2 | [roc-lang/roc](https://github.com/roc-lang/roc) | 6.1k | 🟢 beginner | 2026-09-25 |  |
 | [\[Feature Request\] MLX Core: Auto-restart the server after an unexpected crash (with backoff)](https://github.com/ddalcu/mlx-serve/issues/265) 💬 3 | [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) | 2.1k | 🟡 help wanted | 2026-09-13 | [📘 guide](https://github.com/ddalcu/mlx-serve/blob/HEAD/CONTRIBUTING.md) |
 | [H3: is there a supported way to chain windows with REF2VA references? (chained windows + ref_images are mutual](https://github.com/ddalcu/mlx-serve/issues/316) 💬 4 | [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) | 2.1k | 🟡 help wanted | 2026-09-13 | [📘 guide](https://github.com/ddalcu/mlx-serve/blob/HEAD/CONTRIBUTING.md) |
 | [Support all of WASI preview1 functions](https://github.com/mewz-project/mewz/issues/1) | [mewz-project/mewz](https://github.com/mewz-project/mewz) | 690 | 🟢 beginner | 2026-09-05 |  |

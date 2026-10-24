@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/csharp.xml)
 
-> Updated automatically on **2026-10-23 21:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-24 10:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,8 +12,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Address race in PerformanceCounterLib](https://github.com/dotnet/runtime/issues/90803) 💬 20 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟡 help wanted | 2026-10-23 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
-| [Circuit breaker keeps the ExecutionContext of whoever builds the pipeline alive for the pipeline's lifetime](https://github.com/App-vNext/Polly/issues/3275) | [App-vNext/Polly](https://github.com/App-vNext/Polly) | 14.3k | 🟡 help wanted | 2026-10-23 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/App-vNext/Polly/blob/HEAD/CONTRIBUTING.md) |
+| [Address race in PerformanceCounterLib](https://github.com/dotnet/runtime/issues/90803) 💬 20 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟡 help wanted | 2026-10-24 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
+| [make a AUR for arch user](https://github.com/KnifeLemon/Filee/issues/347) 💬 1 | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | 11.3k | 🟡 help wanted | 2026-10-24 | [📘 guide](https://github.com/KnifeLemon/Filee/blob/HEAD/CONTRIBUTING.md) |
 | [Save IDataView to a database table](https://github.com/dotnet/machinelearning/issues/6260) 💬 2 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-10-23 | ✍️ CLA · [📘 guide](https://github.com/dotnet/machinelearning/blob/HEAD/CONTRIBUTING.md) |
 | [Cannot successfully assign a ListViewItem to a specified group in PropertyGrid](https://github.com/dotnet/winforms/issues/3439) 💬 4 | [dotnet/winforms](https://github.com/dotnet/winforms) | 4.9k | 🟡 help wanted | 2026-10-23 | [📘 guide](https://github.com/dotnet/winforms/blob/HEAD/CONTRIBUTING.md) |
 | [Stabilize OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES](https://github.com/open-telemetry/opentelemetry-dotnet/issues/5462) 💬 5 | [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) | 3.8k | 🟡 help wanted | 2026-10-23 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/open-telemetry/opentelemetry-dotnet/blob/HEAD/CONTRIBUTING.md) |
