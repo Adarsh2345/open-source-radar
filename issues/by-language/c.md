@@ -1,10 +1,10 @@
 # C issues
 
-**143** open issues (34 labeled for beginners) across **57** active C projects.
+**142** open issues (34 labeled for beginners) across **57** active C projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/c.xml)
 
-> Updated automatically on **2026-10-25 10:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-25 20:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [\[Peek\] Allow preview of unknown file endings when file is text-encoded](https://github.com/microsoft/PowerToys/issues/26760) 💬 4 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.9k | 🟡 help wanted | 2026-10-25 | [📘 guide](https://github.com/microsoft/PowerToys/blob/HEAD/CONTRIBUTING.md) |
+| [test/dtlsv1listentest.c -- collision of symbol GOOD](https://github.com/openssl/openssl/issues/33367) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.1k | 🟢 beginner | 2026-10-25 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
+| [FreeRTOS support](https://github.com/nanomsg/nng/issues/15) 💬 12 | [nanomsg/nng](https://github.com/nanomsg/nng) | 4.7k | 🟡 help wanted | 2026-10-25 |  |
+| [Macros are not serialized on 'Ps' to the project](https://github.com/rizinorg/rizin/issues/6908) 💬 1 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 4k | 🟢 beginner | 2026-10-25 | 🤖 disclose AI use · [📘 guide](https://github.com/rizinorg/rizin/blob/HEAD/CONTRIBUTING.md) |
 | [AES-GCM: consider a 256-bit VAES/VPCLMULQDQ path for AMD EPYC Milan without AVX-512](https://github.com/openssl/openssl/issues/33345) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 31.1k | 🟡 help wanted | 2026-10-24 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature Request\] Full Desktop Zoom](https://github.com/yshui/picom/issues/43) 💬 33 | [yshui/picom](https://github.com/yshui/picom) | 4.8k | 🟡 help wanted | 2026-10-24 |  |
 | [CONF_modules_unload() loses module ownership on allocation failure](https://github.com/openssl/openssl/issues/33307) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 31.1k | 🟡 help wanted | 2026-10-23 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
@@ -30,13 +32,10 @@
 | [OpenSSL accepts non-DER TRUE encoding in the CRL Number extension](https://github.com/openssl/openssl/issues/33239) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.1k | 🟡 help wanted | 2026-10-19 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [WAL log entries incomplete in range \[211, 4673\], aligned with snaphotVer:610](https://github.com/taosdata/TDengine/issues/23321) 💬 4 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-10-19 |  |
 | [\[Bug\] ChibiOS linker script fails on Windows (QMK MSYS 3.0.0 / Make 4.4.1) when STARTUPLD_CONTRIB is empty ('c](https://github.com/qmk/qmk_firmware/issues/26527) 💬 1 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-10-19 |  |
-| [Macros are not serialized on 'Ps' to the project](https://github.com/rizinorg/rizin/issues/6908) 💬 2 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 4k | 🟢 beginner | 2026-10-19 | 🤖 disclose AI use · [📘 guide](https://github.com/rizinorg/rizin/blob/HEAD/CONTRIBUTING.md) |
 | [Bump SensorLib once the QMI8658 reset fix is released](https://github.com/HermannBjorgvin/Clawdmeter/issues/235) 💬 4 | [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) | 2.3k | 🟢 beginner | 2026-10-19 |  |
 | [Allow all system tray icons to be displayed on the dock.](https://github.com/microsoft/PowerToys/issues/46232) 💬 20 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.9k | 🟡 help wanted | 2026-10-17 | [📘 guide](https://github.com/microsoft/PowerToys/blob/HEAD/CONTRIBUTING.md) |
-| [Update GLSL swizzles dealing with color to use 'rgba' instead of 'xyzw'](https://github.com/xemu-project/xemu/issues/3115) | [xemu-project/xemu](https://github.com/xemu-project/xemu) | 4.2k | 🟢 beginner | 2026-10-17 | [📘 guide](https://github.com/xemu-project/xemu/blob/HEAD/CONTRIBUTING.md) |
 | [xemutest and related ISO repos should be part of the main xemu tree](https://github.com/xemu-project/xemu/issues/3116) | [xemu-project/xemu](https://github.com/xemu-project/xemu) | 4.2k | 🟢 beginner | 2026-10-17 | [📘 guide](https://github.com/xemu-project/xemu/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] B104 lock LEDs go dark until reboot (Leyden Jar firmware) - patch attached](https://github.com/qmk/qmk_firmware/issues/26496) 💬 1 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-10-16 |  |
-| [FreeRTOS support](https://github.com/nanomsg/nng/issues/15) 💬 11 | [nanomsg/nng](https://github.com/nanomsg/nng) | 4.7k | 🟡 help wanted | 2026-10-16 |  |
 | [myloader connection failures with MariaDB 11.8.6](https://github.com/mydumper/mydumper/issues/2365) 💬 10 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.2k | 🟡 help wanted | 2026-10-16 |  |
 | [\[BUG\] Concurrent --exec workers can abort with "pid not found"](https://github.com/mydumper/mydumper/issues/2366) 💬 3 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.2k | 🟡 help wanted | 2026-10-15 |  |
 | [Failing to use close-on-exec](https://github.com/microsoft/msquic/issues/4980) 💬 7 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟢 beginner | 2026-10-13 | ✍️ CLA · [📘 guide](https://github.com/microsoft/msquic/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -61,7 +60,7 @@
 | [Adding FAEST](https://github.com/open-quantum-safe/liboqs/issues/2101) 💬 14 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-01 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] GMMK Pro rev1 ANSI: LEDs on first AW20216S driver stay dark on master; fixed by lowering SPI speed](https://github.com/qmk/qmk_firmware/issues/26492) | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-09-30 |  |
 | [Bank MSB shouldn't always be ignored in XG mode](https://github.com/FluidSynth/fluidsynth/issues/1378) 💬 26 | [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) | 2.5k | 🟡 help wanted | 2026-09-29 | [📘 guide](https://github.com/FluidSynth/fluidsynth/blob/HEAD/CONTRIBUTING.md) |
-| [\[Experiment\] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 43.8k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/JustVugg/colibri/blob/HEAD/CONTRIBUTING.md) |
+| [\[Experiment\] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 43.9k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/JustVugg/colibri/blob/HEAD/CONTRIBUTING.md) |
 | [Extensions for browser support monitoring](https://github.com/axel-download-accelerator/axel/issues/346) 💬 5 | [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) | 3.4k | 🟡 help wanted | 2026-09-26 | [📘 guide](https://github.com/axel-download-accelerator/axel/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] Unable to restore the database](https://github.com/mydumper/mydumper/issues/2355) 💬 3 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.2k | 🟡 help wanted | 2026-09-24 |  |
 | [Investigate AddressSanitizer-like diagnostics for ThreadX](https://github.com/eclipse-threadx/threadx/issues/764) | [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) | 3.5k | 🟡 help wanted | 2026-09-22 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/eclipse-threadx/threadx/blob/HEAD/CONTRIBUTING.md) |

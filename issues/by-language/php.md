@@ -1,10 +1,10 @@
 # PHP issues
 
-**138** open issues (65 labeled for beginners) across **49** active PHP projects.
+**139** open issues (66 labeled for beginners) across **49** active PHP projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-10-25 10:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-25 20:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,13 +12,13 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-25 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Welsh (cy)](https://github.com/symfony/symfony/issues/51903) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Vietnamese (vi)](https://github.com/symfony/symfony/issues/53309) 💬 4 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Uzbek (uz)](https://github.com/symfony/symfony/issues/65569) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Ukrainian (uk)](https://github.com/symfony/symfony/issues/65567) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Tagalog (tl)](https://github.com/symfony/symfony/issues/67434) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Swedish (sv)](https://github.com/symfony/symfony/issues/67433) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
-| [Missing translations for Spanish (es)](https://github.com/symfony/symfony/issues/67432) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Slovenian (sl)](https://github.com/symfony/symfony/issues/64516) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Slovak (sk)](https://github.com/symfony/symfony/issues/65563) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Serbian (sr_Latn)](https://github.com/symfony/symfony/issues/67431) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
@@ -39,12 +39,13 @@
 | [Missing translations for Italian (it)](https://github.com/symfony/symfony/issues/67424) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Indonesian (id)](https://github.com/symfony/symfony/issues/67423) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Hungarian (hu)](https://github.com/symfony/symfony/issues/66100) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
+| [Missing translations for Hebrew (he)](https://github.com/symfony/symfony/issues/64499) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [\[Enhancement\]: Activate/Deactivate Webhook in bulk editing](https://github.com/woocommerce/woocommerce/issues/66827) 💬 1 | [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) | 10.6k | 🟢 beginner | 2026-10-23 | ⚠️ AI restricted · [📘 guide](https://github.com/woocommerce/woocommerce/blob/HEAD/CONTRIBUTING.md) |
 | [RepeaterFieldTest::testFieldOnAcfBlock is stubbed out because it fails when run with the full wpunit suite](https://github.com/wp-graphql/wp-graphql/issues/4555) 💬 1 | [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql) | 3.8k | 🟡 help wanted | 2026-10-23 | [📘 guide](https://github.com/wp-graphql/wp-graphql/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Embedded links in PDF output do not work when page numbering is enabled](https://github.com/invoiceninja/invoiceninja/issues/7543) 💬 5 | [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) | 10.3k | 🟡 help wanted | 2026-10-22 | ✍️ CLA · [📘 guide](https://github.com/invoiceninja/invoiceninja/blob/HEAD/CONTRIBUTING.md) |
-| [Porting command: dev:setup:script:attribute](https://github.com/netz98/n98-magerun2/issues/89) | [netz98/n98-magerun2](https://github.com/netz98/n98-magerun2) | 925 | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/netz98/n98-magerun2/blob/HEAD/CONTRIBUTING.md) |
-| [Porting command: dev:log:db](https://github.com/netz98/n98-magerun2/issues/75) | [netz98/n98-magerun2](https://github.com/netz98/n98-magerun2) | 925 | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/netz98/n98-magerun2/blob/HEAD/CONTRIBUTING.md) |
-| [Porting command: dev:log](https://github.com/netz98/n98-magerun2/issues/74) | [netz98/n98-magerun2](https://github.com/netz98/n98-magerun2) | 925 | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/netz98/n98-magerun2/blob/HEAD/CONTRIBUTING.md) |
+| [Porting command: dev:setup:script:attribute](https://github.com/netz98/n98-magerun2/issues/89) | [netz98/n98-magerun2](https://github.com/netz98/n98-magerun2) | 926 | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/netz98/n98-magerun2/blob/HEAD/CONTRIBUTING.md) |
+| [Porting command: dev:log:db](https://github.com/netz98/n98-magerun2/issues/75) | [netz98/n98-magerun2](https://github.com/netz98/n98-magerun2) | 926 | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/netz98/n98-magerun2/blob/HEAD/CONTRIBUTING.md) |
+| [Porting command: dev:log](https://github.com/netz98/n98-magerun2/issues/74) | [netz98/n98-magerun2](https://github.com/netz98/n98-magerun2) | 926 | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/netz98/n98-magerun2/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\] Notification to Admin when an update is actually ready for installation](https://github.com/FreshRSS/FreshRSS/issues/6487) 💬 5 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.4k | 🟡 help wanted | 2026-10-20 | [📘 guide](https://github.com/FreshRSS/FreshRSS/blob/HEAD/CONTRIBUTING.md) |
 | [Failed locked jobs never clear.](https://github.com/laravel/horizon/issues/1678) 💬 7 | [laravel/horizon](https://github.com/laravel/horizon) | 4.2k | 🟡 help wanted | 2026-10-17 | [📘 guide](https://github.com/laravel/horizon/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Feature - Request\] Add test feature for Notifications Setup.](https://github.com/jez500/pricebuddy/issues/39) 💬 6 | [jez500/pricebuddy](https://github.com/jez500/pricebuddy) | 1.4k | 🟢 beginner | 2026-10-14 |  |

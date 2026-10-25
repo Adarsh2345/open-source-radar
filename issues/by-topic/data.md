@@ -1,8 +1,8 @@
 # Data and databases issues
 
-**314** open issues (167 labeled for beginners) across **91** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
+**313** open issues (168 labeled for beginners) across **91** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
 
-> Updated automatically on **2026-10-25 10:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-25 20:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,13 +10,14 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Default to listening on ::](https://github.com/dragonflydb/dragonfly/issues/8266) 💬 5 | [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) | 31.8k | 🟢 beginner | 2026-10-25 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/dragonflydb/dragonfly/blob/HEAD/CONTRIBUTING.md) |
+| [Default to listening on ::](https://github.com/dragonflydb/dragonfly/issues/8266) 💬 6 | [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) | 31.8k | 🟢 beginner | 2026-10-25 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/dragonflydb/dragonfly/blob/HEAD/CONTRIBUTING.md) |
+| [NOT_EQUALS and NOT_IN filters leave out executions and logs where the field is empty](https://github.com/kestra-io/kestra/issues/21736) 💬 7 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-25 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [DistinctFilter returns String "null" instead of null, causing falsy values to evaluate as truthy](https://github.com/kestra-io/kestra/issues/21643) 💬 9 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-25 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Replace Bootstrap utility classes in 'MainFilter.vue'](https://github.com/kestra-io/kestra/issues/21021) 💬 12 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-25 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Cleanup migration guide](https://github.com/lancedb/lancedb/issues/1513) 💬 2 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11.8k | 🟢 beginner | 2026-10-25 | [📘 guide](https://github.com/lancedb/lancedb/blob/HEAD/CONTRIBUTING.md) |
 | [测试模型里面的地址，点击某一个都进行测试了](https://github.com/deeplethe/utopia/issues/1424) 💬 1 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | 8.5k | 🟢 beginner | 2026-10-25 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/deeplethe/utopia/blob/HEAD/CONTRIBUTING.md) |
 | [Settings time-zone offsets stay stale when another region enters daylight saving time](https://github.com/kestra-io/kestra/issues/21731) 💬 7 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [cURL command in Execute dialog fills current date/time for empty optional DATE/TIME inputs](https://github.com/kestra-io/kestra/issues/21735) 💬 10 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
-| [NOT_EQUALS and NOT_IN filters leave out executions and logs where the field is empty](https://github.com/kestra-io/kestra/issues/21736) 💬 6 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Backfill "Execute backfill" button stays disabled when the flow has an optional input with a value](https://github.com/kestra-io/kestra/issues/21483) 💬 11 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Show when a subscription or alert was skipped because it was empty](https://github.com/metabase/metabase/issues/80736) 💬 4 | [metabase/metabase](https://github.com/metabase/metabase) | 49.8k | 🟢 beginner | 2026-10-23 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Mark a future task instance to success including downstream tasks using CLI](https://github.com/apache/airflow/issues/9327) 💬 15 | [apache/airflow](https://github.com/apache/airflow) | 47.3k | 🟢 beginner | 2026-10-23 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/airflow/blob/HEAD/CONTRIBUTING.rst) |
@@ -146,7 +147,6 @@
 | [\\echo and \\warn -n problem on interactive](https://github.com/xo/usql/issues/215) 💬 1 | [xo/usql](https://github.com/xo/usql) | 10.2k | 🟡 help wanted | 2026-09-23 | [📘 guide](https://github.com/xo/usql/blob/HEAD/CONTRIBUTING.md) |
 | [feature: support vi key bindings (ala readline/bash/psql vi modes)](https://github.com/xo/usql/issues/236) 💬 5 | [xo/usql](https://github.com/xo/usql) | 10.2k | 🟡 help wanted | 2026-09-23 | [📘 guide](https://github.com/xo/usql/blob/HEAD/CONTRIBUTING.md) |
 | ['\\ss' without arguments lists columns for all tables](https://github.com/xo/usql/issues/363) 💬 2 | [xo/usql](https://github.com/xo/usql) | 10.2k | 🟡 help wanted | 2026-09-23 | [📘 guide](https://github.com/xo/usql/blob/HEAD/CONTRIBUTING.md) |
-| [Implement privilege related \\d commands](https://github.com/xo/usql/issues/172) | [xo/usql](https://github.com/xo/usql) | 10.2k | 🟡 help wanted | 2026-09-23 | [📘 guide](https://github.com/xo/usql/blob/HEAD/CONTRIBUTING.md) |
 | [Unit test stub autogenerator](https://github.com/apache/hamilton/issues/74) 💬 6 | [apache/hamilton](https://github.com/apache/hamilton) | 2.6k | 🟢 beginner | 2026-09-23 | ✍️ CLA · [📘 guide](https://github.com/apache/hamilton/blob/HEAD/CONTRIBUTING.md) |
 | [\[YSQL\] Indexes created on Numeric type are inconsistent](https://github.com/yugabyte/yugabyte-db/issues/28967) 💬 2 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.6k | 🟢 beginner | 2026-09-21 |  |
 | [How servicegraph in grafana tempo filters applications](https://github.com/grafana/grafana/issues/105147) 💬 5 | [grafana/grafana](https://github.com/grafana/grafana) | 77.5k | 🟡 help wanted | 2026-09-20 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/grafana/grafana/blob/HEAD/CONTRIBUTING.md) |
@@ -211,4 +211,4 @@
 | [SQL Server CDC: silent data loss when upstream disables CDC on a captured table](https://github.com/risingwavelabs/risingwave/issues/25828) 💬 6 | [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) | 9.4k | 🟢 beginner | 2026-08-21 | ✍️ CLA · [📘 guide](https://github.com/risingwavelabs/risingwave/blob/HEAD/CONTRIBUTING.md) |
 | [Add play store promo](https://github.com/openfoodfacts/openfoodfacts-server/issues/604) 💬 6 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-08-21 | 🤖 disclose AI use · [📘 guide](https://github.com/openfoodfacts/openfoodfacts-server/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 314 on the website.
+Showing the 200 most recently updated. See all 313 on the website.
