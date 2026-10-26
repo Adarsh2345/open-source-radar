@@ -1,10 +1,10 @@
 # PHP issues
 
-**139** open issues (66 labeled for beginners) across **49** active PHP projects.
+**139** open issues (65 labeled for beginners) across **50** active PHP projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-10-26 11:56 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-26 22:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,14 +12,14 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-26 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
+| [Permissions in Laratrust panel don't acknowledge teams](https://github.com/santigarcor/laratrust/issues/572) 💬 6 | [santigarcor/laratrust](https://github.com/santigarcor/laratrust) | 2.3k | 🟡 help wanted | 2026-10-26 |  |
 | [UX: Button Show archived do not work](https://github.com/elabftw/elabftw/issues/7647) | [elabftw/elabftw](https://github.com/elabftw/elabftw) | 1.5k | 🟢 beginner | 2026-10-26 | [📘 guide](https://github.com/elabftw/elabftw/blob/HEAD/CONTRIBUTING.md) |
-| [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-25 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Welsh (cy)](https://github.com/symfony/symfony/issues/51903) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Vietnamese (vi)](https://github.com/symfony/symfony/issues/53309) 💬 4 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Uzbek (uz)](https://github.com/symfony/symfony/issues/65569) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Ukrainian (uk)](https://github.com/symfony/symfony/issues/65567) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Tagalog (tl)](https://github.com/symfony/symfony/issues/67434) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
-| [Missing translations for Swedish (sv)](https://github.com/symfony/symfony/issues/67433) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Slovenian (sl)](https://github.com/symfony/symfony/issues/64516) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Slovak (sk)](https://github.com/symfony/symfony/issues/65563) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Serbian (sr_Latn)](https://github.com/symfony/symfony/issues/67431) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
@@ -41,6 +41,7 @@
 | [Missing translations for Hungarian (hu)](https://github.com/symfony/symfony/issues/66100) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Hebrew (he)](https://github.com/symfony/symfony/issues/64499) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Greek (el)](https://github.com/symfony/symfony/issues/67422) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
+| [Missing translations for German (de)](https://github.com/symfony/symfony/issues/66099) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [\[Enhancement\]: Activate/Deactivate Webhook in bulk editing](https://github.com/woocommerce/woocommerce/issues/66827) 💬 1 | [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) | 10.6k | 🟢 beginner | 2026-10-23 | ⚠️ AI restricted · [📘 guide](https://github.com/woocommerce/woocommerce/blob/HEAD/CONTRIBUTING.md) |
 | [RepeaterFieldTest::testFieldOnAcfBlock is stubbed out because it fails when run with the full wpunit suite](https://github.com/wp-graphql/wp-graphql/issues/4555) 💬 1 | [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql) | 3.8k | 🟡 help wanted | 2026-10-23 | [📘 guide](https://github.com/wp-graphql/wp-graphql/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Embedded links in PDF output do not work when page numbering is enabled](https://github.com/invoiceninja/invoiceninja/issues/7543) 💬 5 | [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) | 10.3k | 🟡 help wanted | 2026-10-22 | ✍️ CLA · [📘 guide](https://github.com/invoiceninja/invoiceninja/blob/HEAD/CONTRIBUTING.md) |
@@ -150,4 +151,3 @@
 | [Add moderation contact information or button? (report content feature)](https://github.com/PrivateBin/PrivateBin/issues/674) 💬 8 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | 8.7k | 🟢 beginner | 2026-05-03 | 🤖 disclose AI use · [📘 guide](https://github.com/PrivateBin/PrivateBin/blob/HEAD/.github/CONTRIBUTING.md) |
 | [swapAndInvoice - Broken State/Free upgrade](https://github.com/laravel/cashier-stripe/issues/1817) 💬 16 | [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe) | 2.5k | 🟡 help wanted | 2026-05-03 | [📘 guide](https://github.com/laravel/cashier-stripe/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Inconsistent orWhere behavior after upgrade from Laravel 10.x to 13.x](https://github.com/laravel/framework/issues/59516) 💬 4 | [laravel/framework](https://github.com/laravel/framework) | 35k | 🟡 help wanted | 2026-05-01 | [📘 guide](https://github.com/laravel/framework/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Ability to set default_phone_region to none / E.164 only](https://github.com/nextcloud/server/issues/49460) 💬 6 | [nextcloud/server](https://github.com/nextcloud/server) | 37.3k | 🟢 beginner | 2026-04-29 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nextcloud/server/blob/HEAD/.github/CONTRIBUTING.md) |

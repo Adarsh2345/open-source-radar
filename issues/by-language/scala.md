@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-10-26 11:56 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-26 22:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -17,7 +17,7 @@
 | [Deduplicate field-major struct append paths in shuffle spark_unsafe/row.rs](https://github.com/apache/datafusion-comet/issues/6977) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟡 help wanted | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [Deduplicate Legacy/Ansi/Try integer SUM accumulators in sum_int.rs](https://github.com/apache/datafusion-comet/issues/6976) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟡 help wanted | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [Deduplicate spark_ceil and spark_floor and port floor's decimal boundary tests to ceil](https://github.com/apache/datafusion-comet/issues/6974) 💬 1 | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟡 help wanted | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
-| [Internal error on Scala 2.13 given generic JsonValueCodec to be used transitively](https://github.com/plokhotnyuk/jsoniter-scala/issues/1245) 💬 2 | [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) | 820 | 🟡 help wanted | 2026-10-12 |  |
+| [Internal error on Scala 2.13 given generic JsonValueCodec to be used transitively](https://github.com/plokhotnyuk/jsoniter-scala/issues/1245) 💬 2 | [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) | 819 | 🟡 help wanted | 2026-10-12 |  |
 | [\[4.x\] Atomic reference types should use new Java features, if possible](https://github.com/monix/monix/issues/1560) 💬 6 | [monix/monix](https://github.com/monix/monix) | 1.9k | 🟡 help wanted | 2026-10-11 | [📘 guide](https://github.com/monix/monix/blob/HEAD/CONTRIBUTING.md) |
 | [Support Typst raw blocks](https://github.com/scalameta/scalafmt/issues/5245) 💬 3 | [scalameta/scalafmt](https://github.com/scalameta/scalafmt) | 1.5k | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/scalameta/scalafmt/blob/HEAD/CONTRIBUTING.md) |
 | [\[Improvement\] Update Spark Ranger plugin to 2.7.0](https://github.com/apache/kyuubi/issues/7234) 💬 2 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/kyuubi/blob/HEAD/CONTRIBUTING.md) |

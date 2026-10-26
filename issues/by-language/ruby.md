@@ -1,10 +1,10 @@
 # Ruby issues
 
-**72** open issues (50 labeled for beginners) across **27** active Ruby projects.
+**66** open issues (48 labeled for beginners) across **26** active Ruby projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-10-26 11:56 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-26 22:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,8 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Support setting cron monitor tolerances](https://github.com/getsentry/sentry-ruby/issues/2668) 💬 1 | [getsentry/sentry-ruby](https://github.com/getsentry/sentry-ruby) | 989 | 🟢 beginner | 2026-10-25 | [📘 guide](https://github.com/getsentry/sentry-ruby/blob/HEAD/CONTRIBUTING.md) |
-| [Add type to API Services](https://github.com/AllYourBot/hostedgpt/issues/849) 💬 2 | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 513 | 🟢 beginner | 2026-10-25 | [📘 guide](https://github.com/AllYourBot/hostedgpt/blob/HEAD/CONTRIBUTING.md) |
+| [Support setting cron monitor tolerances](https://github.com/getsentry/sentry-ruby/issues/2668) 💬 1 | [getsentry/sentry-ruby](https://github.com/getsentry/sentry-ruby) | 990 | 🟢 beginner | 2026-10-25 | [📘 guide](https://github.com/getsentry/sentry-ruby/blob/HEAD/CONTRIBUTING.md) |
 | [Adding Action Args to agent actions](https://github.com/activeagents/activeagent/issues/295) 💬 1 | [activeagents/activeagent](https://github.com/activeagents/activeagent) | 985 | 🟡 help wanted | 2026-10-24 |  |
 | [Current page's table of contents](https://github.com/freeCodeCamp/devdocs/issues/6) 💬 21 | [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) | 39.6k | 🟡 help wanted | 2026-10-20 | [📘 guide](https://github.com/freeCodeCamp/devdocs/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Mod deleting a comment removes the visual indication of upvoted](https://github.com/lobsters/lobsters/issues/2201) | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-10-19 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
@@ -21,12 +20,11 @@
 | [Please revisit the comma separated header collapsing decision.](https://github.com/lostisland/faraday/issues/1120) 💬 6 | [lostisland/faraday](https://github.com/lostisland/faraday) | 6k | 🟡 help wanted | 2026-10-11 | [📘 guide](https://github.com/lostisland/faraday/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Faraday Adapter Parallel Requests On Multiple Domains / Connections](https://github.com/lostisland/faraday/issues/805) 💬 6 | [lostisland/faraday](https://github.com/lostisland/faraday) | 6k | 🟡 help wanted | 2026-10-11 | [📘 guide](https://github.com/lostisland/faraday/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Thread::Backtrace::Location#label for top-level blocks includes filename instead of &lt;main&gt;](https://github.com/jruby/jruby/issues/5166) 💬 5 | [jruby/jruby](https://github.com/jruby/jruby) | 3.9k | 🟢 beginner | 2026-10-10 | [📘 guide](https://github.com/jruby/jruby/blob/HEAD/CONTRIBUTING.md) |
-| [Add Hokuriku RubyKaigi 02](https://github.com/rubyevents/rubyevents/issues/2178) | [rubyevents/rubyevents](https://github.com/rubyevents/rubyevents) | 570 | 🟢 beginner | 2026-10-09 | [📘 guide](https://github.com/rubyevents/rubyevents/blob/HEAD/CONTRIBUTING.md) |
 | [Canceling comment edit triggers a JS exception and doesn't cancel](https://github.com/lobsters/lobsters/issues/2215) 💬 2 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-10-05 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Mark actions as destructive](https://github.com/avo-hq/avo/issues/2082) 💬 1 | [avo-hq/avo](https://github.com/avo-hq/avo) | 1.8k | 🟡 help wanted | 2026-09-28 | ✍️ CLA |
 | [Add support for Salam](https://github.com/github-linguist/linguist/issues/8206) 💬 3 | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.8k | 🟢 beginner | 2026-09-25 | [📘 guide](https://github.com/github-linguist/linguist/blob/HEAD/CONTRIBUTING.md) |
-| [\[CW-2868\] Integration for Microsoft Teams](https://github.com/chatwoot/chatwoot/issues/1655) 💬 12 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 38.3k | 🟢 beginner | 2026-09-19 | [📘 guide](https://github.com/chatwoot/chatwoot/blob/HEAD/CONTRIBUTING.md) |
-| [Feature Request to add chatwoot directly install in plesk apps](https://github.com/chatwoot/chatwoot/issues/6911) 💬 6 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 38.3k | 🟢 beginner | 2026-09-19 | [📘 guide](https://github.com/chatwoot/chatwoot/blob/HEAD/CONTRIBUTING.md) |
+| [\[CW-2868\] Integration for Microsoft Teams](https://github.com/chatwoot/chatwoot/issues/1655) 💬 12 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 38.4k | 🟢 beginner | 2026-09-19 | [📘 guide](https://github.com/chatwoot/chatwoot/blob/HEAD/CONTRIBUTING.md) |
+| [Feature Request to add chatwoot directly install in plesk apps](https://github.com/chatwoot/chatwoot/issues/6911) 💬 6 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 38.4k | 🟢 beginner | 2026-09-19 | [📘 guide](https://github.com/chatwoot/chatwoot/blob/HEAD/CONTRIBUTING.md) |
 | [Python: implement full-unlock so security updates can bump a parent to fix a vulnerable transitive dependency](https://github.com/dependabot/dependabot-core/issues/16337) | [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) | 5.8k | 🟡 help wanted | 2026-09-18 | [📘 guide](https://github.com/dependabot/dependabot-core/blob/HEAD/CONTRIBUTING.md) |
 | [Normalize and provide automatic metadata for arXiv links](https://github.com/lobsters/lobsters/issues/1165) 💬 5 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-09-18 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [raise exception on full table scans](https://github.com/lobsters/lobsters/issues/2150) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-09-17 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
@@ -63,7 +61,7 @@
 | [Links in Description](https://github.com/manyfold3d/manyfold/issues/4944) 💬 3 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-07-08 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Upload form missing a number of options](https://github.com/e621ng/e621ng/issues/1794) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 585 | 🟢 beginner | 2026-06-30 |  |
 | [Disown CTA has unique focus and hover effect](https://github.com/lobsters/lobsters/issues/2099) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-06-24 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
-| [Create Huginn iPhone / Android app](https://github.com/huginn/huginn/issues/166) 💬 19 | [huginn/huginn](https://github.com/huginn/huginn) | 50.1k | 🟡 help wanted | 2026-06-20 | [📘 guide](https://github.com/huginn/huginn/blob/HEAD/CONTRIBUTING.md) |
+| [Create Huginn iPhone / Android app](https://github.com/huginn/huginn/issues/166) 💬 19 | [huginn/huginn](https://github.com/huginn/huginn) | 50.2k | 🟡 help wanted | 2026-06-20 | [📘 guide](https://github.com/huginn/huginn/blob/HEAD/CONTRIBUTING.md) |
 | [add also "open in Anycubic Slicer Next"](https://github.com/manyfold3d/manyfold/issues/5823) 💬 2 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-06-19 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Print via FDM Monster](https://github.com/manyfold3d/manyfold/issues/6444) | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-06-19 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Print via Bambuddy](https://github.com/manyfold3d/manyfold/issues/6443) | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-06-19 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -80,7 +78,3 @@
 | [multiple favicon versions, some ugly](https://github.com/lobsters/lobsters/issues/1921) 💬 3 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-05-07 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Add SNOBOL](https://github.com/github-linguist/linguist/issues/7950) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.8k | 🟢 beginner | 2026-05-06 | [📘 guide](https://github.com/github-linguist/linguist/blob/HEAD/CONTRIBUTING.md) |
 | [Commenting Double-Posted](https://github.com/lobsters/lobsters/issues/1987) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-05-04 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
-| [\[Tooling\] Support VSCode breakpoints for Ruby (standard running)](https://github.com/e621ng/e621ng/issues/1940) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 585 | 🟡 help wanted | 2026-04-29 |  |
-| [\[Users\] Onboarding process](https://github.com/e621ng/e621ng/issues/1770) 💬 3 | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 585 | 🟡 help wanted | 2026-04-29 |  |
-| [Pools in upload form](https://github.com/e621ng/e621ng/issues/1882) 💬 1 | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 585 | 🟡 help wanted | 2026-04-29 |  |
-| [\[Tests\] Add client-side Playwright testing](https://github.com/e621ng/e621ng/issues/1936) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 585 | 🟡 help wanted | 2026-04-29 |  |
