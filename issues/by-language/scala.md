@@ -1,10 +1,10 @@
 # Scala issues
 
-**34** open issues (16 labeled for beginners) across **18** active Scala projects.
+**30** open issues (12 labeled for beginners) across **14** active Scala projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-10-26 22:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-27 22:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -21,16 +21,12 @@
 | [\[4.x\] Atomic reference types should use new Java features, if possible](https://github.com/monix/monix/issues/1560) 💬 6 | [monix/monix](https://github.com/monix/monix) | 1.9k | 🟡 help wanted | 2026-10-11 | [📘 guide](https://github.com/monix/monix/blob/HEAD/CONTRIBUTING.md) |
 | [Support Typst raw blocks](https://github.com/scalameta/scalafmt/issues/5245) 💬 3 | [scalameta/scalafmt](https://github.com/scalameta/scalafmt) | 1.5k | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/scalameta/scalafmt/blob/HEAD/CONTRIBUTING.md) |
 | [\[Improvement\] Update Spark Ranger plugin to 2.7.0](https://github.com/apache/kyuubi/issues/7234) 💬 2 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/kyuubi/blob/HEAD/CONTRIBUTING.md) |
-| [\[BUG\] rounding doubles floats can result in -0.0 result](https://github.com/NVIDIA/cudf-spark/issues/9349) 💬 1 | [NVIDIA/cudf-spark](https://github.com/NVIDIA/cudf-spark) | 1k | 🟢 beginner | 2026-09-19 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/NVIDIA/cudf-spark/blob/HEAD/CONTRIBUTING.md) |
 | [Unable to create a routes file with same name as a method in Predef](https://github.com/playframework/playframework/issues/10204) 💬 7 | [playframework/playframework](https://github.com/playframework/playframework) | 12.6k | 🟡 help wanted | 2026-09-18 |  |
-| [EntityDecoder MediaRange translation](https://github.com/http4s/http4s/issues/4973) 💬 11 | [http4s/http4s](https://github.com/http4s/http4s) | 2.6k | 🟢 beginner | 2026-09-05 | [📘 guide](https://github.com/http4s/http4s/blob/HEAD/CONTRIBUTING.md) |
 | [\[FEATURE\] Extract kyuubiClientPrincipal/kyuubiClientKeytab from JDBC connection properties](https://github.com/apache/kyuubi/issues/6689) 💬 1 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-08-31 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/kyuubi/blob/HEAD/CONTRIBUTING.md) |
 | [\[feature\]: Make methods like 'Kyo.collectAll' available in objects like 'Sync'](https://github.com/getkyo/kyo/issues/1640) 💬 2 | [getkyo/kyo](https://github.com/getkyo/kyo) | 822 | 🟢 beginner | 2026-08-28 | [📘 guide](https://github.com/getkyo/kyo/blob/HEAD/CONTRIBUTING.md) |
 | [\[actor\] Opt-in per-actor dead-letter queue for unprocessed messages on shutdown](https://github.com/getkyo/kyo/issues/1690) | [getkyo/kyo](https://github.com/getkyo/kyo) | 822 | 🟡 help wanted | 2026-08-28 | [📘 guide](https://github.com/getkyo/kyo/blob/HEAD/CONTRIBUTING.md) |
 | [\[feature\]: Kerberos auth for kyo-sql-postgres](https://github.com/getkyo/kyo/issues/1841) | [getkyo/kyo](https://github.com/getkyo/kyo) | 822 | 🟡 help wanted | 2026-08-28 | [📘 guide](https://github.com/getkyo/kyo/blob/HEAD/CONTRIBUTING.md) |
 | [OrganizeImports: regex alternation (\|) in groups config doesn't match imports correctly](https://github.com/scalacenter/scalafix/issues/2477) 💬 4 | [scalacenter/scalafix](https://github.com/scalacenter/scalafix) | 877 | 🟢 beginner | 2026-08-27 | [📘 guide](https://github.com/scalacenter/scalafix/blob/HEAD/CONTRIBUTING.md) |
-| [Board editor: possibly disable 960 Castling in standard](https://github.com/lichess-org/lila/issues/12926) 💬 9 | [lichess-org/lila](https://github.com/lichess-org/lila) | 18.9k | 🟢 beginner | 2026-08-15 | 🤖 disclose AI use · [📘 guide](https://github.com/lichess-org/lila/blob/HEAD/CONTRIBUTING.md) |
-| [Clean constructor parameters for 'Indexer' and 'ScalaCli'](https://github.com/scalameta/metals/issues/4788) 💬 6 | [scalameta/metals](https://github.com/scalameta/metals) | 2.3k | 🟢 beginner | 2026-08-12 | [📘 guide](https://github.com/scalameta/metals/blob/HEAD/CONTRIBUTING.md) |
 | [Add chicken-bit support to BOOM](https://github.com/riscv-boom/riscv-boom/issues/36) 💬 5 | [riscv-boom/riscv-boom](https://github.com/riscv-boom/riscv-boom) | 2.3k | 🟢 beginner | 2026-08-03 |  |
 | [\[EPIC\] Replace hand-rolled native code with existing arrow-rs kernels](https://github.com/apache/datafusion-comet/issues/5104) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-08-03 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [\[FEATURE\] Interval analysis to improve a..b](https://github.com/apalache-mc/apalache/issues/446) | [apalache-mc/apalache](https://github.com/apalache-mc/apalache) | 616 | 🟡 help wanted | 2026-08-02 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/apalache-mc/apalache/blob/HEAD/CONTRIBUTING.md) |
