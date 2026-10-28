@@ -1,10 +1,10 @@
 # Haskell issues
 
-**19** open issues (9 labeled for beginners) across **6** active Haskell projects.
+**16** open issues (6 labeled for beginners) across **5** active Haskell projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/haskell.xml)
 
-> Updated automatically on **2026-10-27 22:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-28 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -28,6 +28,3 @@
 | [Environment variables values are ignored when executing rules](https://github.com/hadolint/hadolint/issues/341) 💬 4 | [hadolint/hadolint](https://github.com/hadolint/hadolint) | 12.5k | 🟡 help wanted | 2026-06-22 |  |
 | [How to use Postgres Functions?](https://github.com/haskell-beam/beam/issues/758) 💬 2 | [haskell-beam/beam](https://github.com/haskell-beam/beam) | 637 | 🟢 beginner | 2026-06-07 |  |
 | [add nom run](https://github.com/maralorn/nix-output-monitor/issues/110) 💬 5 | [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) | 1.7k | 🟡 help wanted | 2026-05-29 |  |
-| [Add benchmarks for compilation](https://github.com/IntersectMBO/plutus/issues/6113) 💬 1 | [IntersectMBO/plutus](https://github.com/IntersectMBO/plutus) | 1.6k | 🟢 beginner | 2026-05-01 |  |
-| [Reduce code duplication between regular and data-backed constitution tests](https://github.com/IntersectMBO/plutus/issues/6787) | [IntersectMBO/plutus](https://github.com/IntersectMBO/plutus) | 1.6k | 🟢 beginner | 2026-05-01 |  |
-| [Add golden tests for the validation benchmarks](https://github.com/IntersectMBO/plutus/issues/6828) | [IntersectMBO/plutus](https://github.com/IntersectMBO/plutus) | 1.6k | 🟢 beginner | 2026-05-01 |  |

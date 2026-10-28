@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ocaml.xml)
 
-> Updated automatically on **2026-10-27 22:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-28 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -17,7 +17,7 @@
 | [Incorrect value when installing a relocatable binary with dune-site](https://github.com/ocaml/dune/issues/5749) 💬 3 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟢 beginner | 2026-10-02 | 🔏 DCO · [📘 guide](https://github.com/ocaml/dune/blob/HEAD/CONTRIBUTING.md) |
 | [\[FEATURE REQUEST\] Allow to pass flags to Binaryen](https://github.com/ocsigen/js_of_ocaml/issues/1956) 💬 1 | [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) | 1.1k | 🟢 beginner | 2026-10-02 | [📘 guide](https://github.com/ocsigen/js_of_ocaml/blob/HEAD/CONTRIBUTING.md) |
 | [Support for early returns inside loops that can be replaced with breaks](https://github.com/AeneasVerif/aeneas/issues/822) 💬 2 | [AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas) | 1.1k | 🟢 beginner | 2026-09-26 |  |
-| [Improve '--experimental' output](https://github.com/opengrep/opengrep/issues/134) 💬 1 | [opengrep/opengrep](https://github.com/opengrep/opengrep) | 3.2k | 🟢 beginner | 2026-09-17 | [📘 guide](https://github.com/opengrep/opengrep/blob/HEAD/CONTRIBUTING.md) |
+| [Improve '--experimental' output](https://github.com/opengrep/opengrep/issues/134) 💬 1 | [opengrep/opengrep](https://github.com/opengrep/opengrep) | 3.3k | 🟢 beginner | 2026-09-17 | [📘 guide](https://github.com/opengrep/opengrep/blob/HEAD/CONTRIBUTING.md) |
 | [Declare axiom compatibility and axiom classification](https://github.com/rocq-prover/rocq/issues/10617) 💬 8 | [rocq-prover/rocq](https://github.com/rocq-prover/rocq) | 5.6k | 🟢 beginner | 2026-09-14 | [📘 guide](https://github.com/rocq-prover/rocq/blob/HEAD/CONTRIBUTING.md) |
 | [Allow tracing kernel threads](https://github.com/janestreet/magic-trace/issues/226) 💬 5 | [janestreet/magic-trace](https://github.com/janestreet/magic-trace) | 6.3k | 🟢 beginner | 2026-08-07 | 🔏 DCO · [📘 guide](https://github.com/janestreet/magic-trace/blob/HEAD/CONTRIBUTING.md) |
 | [Preprocess using both cppo and PPXs](https://github.com/ocaml/dune/issues/171) 💬 14 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟡 help wanted | 2026-06-05 | 🔏 DCO · [📘 guide](https://github.com/ocaml/dune/blob/HEAD/CONTRIBUTING.md) |
