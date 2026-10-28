@@ -1,8 +1,8 @@
 # Science and research issues
 
-**58** open issues (35 labeled for beginners) across **19** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
+**57** open issues (34 labeled for beginners) across **19** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
 
-> Updated automatically on **2026-10-28 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-28 22:24 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,7 +10,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16332) 💬 1 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6k | 🟢 beginner | 2026-10-28 | 🤖 disclose AI use · [📘 guide](https://github.com/stdlib-js/stdlib/blob/HEAD/CONTRIBUTING.md) |
 | [Switch to PyDSSP](https://github.com/a-r-j/graphein/issues/243) 💬 2 | [a-r-j/graphein](https://github.com/a-r-j/graphein) | 1.2k | 🟢 beginner | 2026-10-27 |  |
 | [Allow batch based metrics calculation of sklearn.metrics](https://github.com/scikit-learn/scikit-learn/issues/31554) 💬 24 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 68k | 🟡 help wanted | 2026-10-23 | 🤖 disclose AI use · [📘 guide](https://github.com/scikit-learn/scikit-learn/blob/HEAD/CONTRIBUTING.md) |
 | [Add a keybinding for the macroscopic editor camera rotation mode (currently always middle mouse)](https://github.com/Revolutionary-Games/Thrive/issues/7419) | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.8k | 🟢 beginner | 2026-10-21 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |

@@ -1,8 +1,8 @@
 # Games and graphics issues
 
-**142** open issues (76 labeled for beginners) across **46** projects tagged with topics like `game`, `game-engine`, `gamedev`, `graphics`, `opengl`, `vulkan`.
+**142** open issues (77 labeled for beginners) across **46** projects tagged with topics like `game`, `game-engine`, `gamedev`, `graphics`, `opengl`, `vulkan`.
 
-> Updated automatically on **2026-10-28 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-28 22:24 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,7 +10,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Segmented capture always fails with '--format mov'](https://github.com/heygen-com/hyperframes/issues/6481) 💬 2 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 74.3k | 🟢 beginner | 2026-10-28 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/heygen-com/hyperframes/blob/HEAD/CONTRIBUTING.md) |
+| [Segmented capture always fails with '--format mov'](https://github.com/heygen-com/hyperframes/issues/6481) 💬 2 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 74.7k | 🟢 beginner | 2026-10-28 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/heygen-com/hyperframes/blob/HEAD/CONTRIBUTING.md) |
+| [UI/UX: Surface workbench Surface_Filling tool has incorrect tooltips when mouse hover](https://github.com/FreeCAD/FreeCAD/issues/23158) 💬 3 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.9k | 🟢 beginner | 2026-10-28 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [Core: Ability for Backups for each project be stored in their own designated directory to avoid directory bloa](https://github.com/FreeCAD/FreeCAD/issues/6697) 💬 25 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.9k | 🟢 beginner | 2026-10-28 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [Unexpected Geometry (was: Crash) when creating sweep (OCC Related)](https://github.com/FreeCAD/FreeCAD/issues/6319) 💬 5 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.9k | 🟡 help wanted | 2026-10-27 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [UI: 'H' key shortcut is double assigned (due to navigation shortcut being hardcoded)](https://github.com/FreeCAD/FreeCAD/issues/18564) 💬 8 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.9k | 🟡 help wanted | 2026-10-26 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
@@ -48,7 +49,6 @@
 | [Sketcher: Carbon copying a non-parallel sketch has incorrect help text on macOS](https://github.com/FreeCAD/FreeCAD/issues/19935) 💬 8 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.9k | 🟢 beginner | 2026-10-14 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [Is there a way to disable thumbnail generation for specific filetypes?](https://github.com/f3d-app/f3d/issues/2917) 💬 4 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.9k | 🟡 help wanted | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/f3d-app/f3d/blob/HEAD/CONTRIBUTING.md) |
 | [🐛 migration needed: mobs speed enhancements](https://github.com/LandSandBoat/server/issues/4757) 💬 1 | [LandSandBoat/server](https://github.com/LandSandBoat/server) | 514 | 🟢 beginner | 2026-10-14 | [📘 guide](https://github.com/LandSandBoat/server/blob/HEAD/CONTRIBUTING.md) |
-| [SVG: geometry import can break open closed paths](https://github.com/FreeCAD/FreeCAD/issues/16935) 💬 17 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.9k | 🟡 help wanted | 2026-10-13 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [RAM Search's defaults mean the Changes column appears to never increment](https://github.com/TASEmulators/BizHawk/issues/3020) 💬 2 | [TASEmulators/BizHawk](https://github.com/TASEmulators/BizHawk) | 2.8k | 🟢 beginner | 2026-10-13 | 📄 AI policy |
 | [\[Enhancement Proposal\] Fix badly rendered shadows on common objects.](https://github.com/diasurgical/DevilutionX/issues/2451) 💬 16 | [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) | 10k | 🟢 beginner | 2026-10-11 | [📘 guide](https://github.com/diasurgical/DevilutionX/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Projects cannot be removed from the project list.](https://github.com/Redot-Engine/redot-engine/issues/1240) 💬 7 | [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) | 6.2k | 🟡 help wanted | 2026-10-11 | ⚠️ AI restricted · [📘 guide](https://github.com/Redot-Engine/redot-engine/blob/HEAD/CONTRIBUTING.md) |

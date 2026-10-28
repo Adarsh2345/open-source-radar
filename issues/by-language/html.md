@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/html.xml)
 
-> Updated automatically on **2026-10-28 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-28 22:24 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -20,7 +20,7 @@
 | [JWKS Async Fetch](https://github.com/projectcontour/contour/issues/6524) 💬 5 | [projectcontour/contour](https://github.com/projectcontour/contour) | 4k | 🟡 help wanted | 2026-10-27 | 🔏 DCO · [📘 guide](https://github.com/projectcontour/contour/blob/HEAD/CONTRIBUTING.md) |
 | [\[Initiative\]: Cloud Native Observability Personas](https://github.com/cncf/toc/issues/2037) 💬 19 | [cncf/toc](https://github.com/cncf/toc) | 1.9k | 🟡 help wanted | 2026-10-27 | [📘 guide](https://github.com/cncf/toc/blob/HEAD/CONTRIBUTING.md) |
 | [\[ja\] Translate docs/reference/access-authn-authz/webhook.md into Japanese](https://github.com/kubernetes/website/issues/58150) 💬 6 | [kubernetes/website](https://github.com/kubernetes/website) | 5.4k | 🟡 help wanted | 2026-10-25 | [📘 guide](https://github.com/kubernetes/website/blob/HEAD/CONTRIBUTING.md) |
-| [\[功能增强\]增加首次启动的引导指示页](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/134) | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 749 | 🟢 beginner | 2026-10-25 | [📘 guide](https://github.com/Weiss-UltimateSavior/Tyranor-Next/blob/HEAD/CONTRIBUTING.md) |
+| [\[功能增强\]增加首次启动的引导指示页](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/134) | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 751 | 🟢 beginner | 2026-10-25 | [📘 guide](https://github.com/Weiss-UltimateSavior/Tyranor-Next/blob/HEAD/CONTRIBUTING.md) |
 | [\[Marketplace\] Add Paddle plugin](https://github.com/ToolJet/ToolJet/issues/18235) 💬 2 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41.1k | 🟡 help wanted | 2026-10-23 | 🤖 disclose AI use · [📘 guide](https://github.com/ToolJet/ToolJet/blob/HEAD/CONTRIBUTING.md) |
 | [Service Worker Offline](https://github.com/TandoorRecipes/recipes/issues/621) 💬 6 | [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) | 8.7k | 🟢 beginner | 2026-10-23 |  |
 | [Allow Exporting as Markdown](https://github.com/TandoorRecipes/recipes/issues/3245) 💬 3 | [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) | 8.7k | 🟡 help wanted | 2026-10-23 |  |
@@ -56,8 +56,8 @@
 | [Check for obsoletes](https://github.com/mgaudet/CompilerJobs/issues/83) 💬 5 | [mgaudet/CompilerJobs](https://github.com/mgaudet/CompilerJobs) | 782 | 🟢 beginner | 2026-09-08 |  |
 | [update HTTPProxy status reporting documentation](https://github.com/projectcontour/contour/issues/3144) 💬 2 | [projectcontour/contour](https://github.com/projectcontour/contour) | 4k | 🟢 beginner | 2026-08-30 | 🔏 DCO · [📘 guide](https://github.com/projectcontour/contour/blob/HEAD/CONTRIBUTING.md) |
 | [Translation needed for existing languages](https://github.com/sumn2u/learn-javascript/issues/346) 💬 2 | [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript) | 1k | 🟢 beginner | 2026-08-29 | [📘 guide](https://github.com/sumn2u/learn-javascript/blob/HEAD/CONTRIBUTING.md) |
-| [功能增强：为RPG MV 和 RPG MZ增加汉化功能](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/36) 💬 1 | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 749 | 🟢 beginner | 2026-08-27 | [📘 guide](https://github.com/Weiss-UltimateSavior/Tyranor-Next/blob/HEAD/CONTRIBUTING.md) |
-| [功能增强：添加外置显式跳转的支持](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/28) | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 749 | 🟢 beginner | 2026-08-25 | [📘 guide](https://github.com/Weiss-UltimateSavior/Tyranor-Next/blob/HEAD/CONTRIBUTING.md) |
+| [功能增强：为RPG MV 和 RPG MZ增加汉化功能](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/36) 💬 1 | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 751 | 🟢 beginner | 2026-08-27 | [📘 guide](https://github.com/Weiss-UltimateSavior/Tyranor-Next/blob/HEAD/CONTRIBUTING.md) |
+| [功能增强：添加外置显式跳转的支持](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/28) | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 751 | 🟢 beginner | 2026-08-25 | [📘 guide](https://github.com/Weiss-UltimateSavior/Tyranor-Next/blob/HEAD/CONTRIBUTING.md) |
 | [Add play store promo](https://github.com/openfoodfacts/openfoodfacts-server/issues/604) 💬 6 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-08-21 | 🤖 disclose AI use · [📘 guide](https://github.com/openfoodfacts/openfoodfacts-server/blob/HEAD/CONTRIBUTING.md) |
 | [addTagOnEnter setting](https://github.com/yairEO/tagify/issues/1500) 💬 5 | [yairEO/tagify](https://github.com/yairEO/tagify) | 3.9k | 🟡 help wanted | 2026-08-17 |  |
 | [\[HELP\] Access control by Cloudflare IPs](https://github.com/tobychui/zoraxy/issues/761) 💬 7 | [tobychui/zoraxy](https://github.com/tobychui/zoraxy) | 5.5k | 🟡 help wanted | 2026-08-16 |  |
