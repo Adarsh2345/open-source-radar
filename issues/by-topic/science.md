@@ -2,7 +2,7 @@
 
 **57** open issues (35 labeled for beginners) across **19** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
 
-> Updated automatically on **2026-10-30 12:10 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-30 22:15 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -31,7 +31,7 @@
 | [Mean Standardized Log Loss (MSLL) for uncertainty aware regression models](https://github.com/scikit-learn/scikit-learn/issues/21665) 💬 16 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 67.9k | 🟡 help wanted | 2026-09-12 | 🤖 disclose AI use · [📘 guide](https://github.com/scikit-learn/scikit-learn/blob/HEAD/CONTRIBUTING.md) |
 | [When you change the objective in a scenario that you have already failed it does not remove the failed objecti](https://github.com/OpenRCT2/OpenRCT2/issues/16510) 💬 4 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.5k | 🟢 beginner | 2026-09-09 | [📘 guide](https://github.com/OpenRCT2/OpenRCT2/blob/HEAD/CONTRIBUTING.md) |
 | [train_test_split with stratify causing integer overflow (32bit version)](https://github.com/scikit-learn/scikit-learn/issues/13794) 💬 5 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 67.9k | 🟡 help wanted | 2026-09-02 | 🤖 disclose AI use · [📘 guide](https://github.com/scikit-learn/scikit-learn/blob/HEAD/CONTRIBUTING.md) |
-| [Improve wording when "continuing onto" motorways..](https://github.com/graphhopper/graphhopper/issues/1287) 💬 16 | [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) | 6.7k | 🟢 beginner | 2026-08-31 | [📘 guide](https://github.com/graphhopper/graphhopper/blob/HEAD/CONTRIBUTING.md) |
+| [Improve wording when "continuing onto" motorways..](https://github.com/graphhopper/graphhopper/issues/1287) 💬 16 | [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) | 6.8k | 🟢 beginner | 2026-08-31 | [📘 guide](https://github.com/graphhopper/graphhopper/blob/HEAD/CONTRIBUTING.md) |
 | [Different alpha selection strategies in LinearModelCV](https://github.com/scikit-learn/scikit-learn/issues/6630) 💬 8 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 67.9k | 🟡 help wanted | 2026-08-25 | 🤖 disclose AI use · [📘 guide](https://github.com/scikit-learn/scikit-learn/blob/HEAD/CONTRIBUTING.md) |
 | [enhancement: sklearn.utils.shuffle consume 2x memory, better do it in-place](https://github.com/scikit-learn/scikit-learn/issues/7754) 💬 11 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 67.9k | 🟡 help wanted | 2026-08-25 | 🤖 disclose AI use · [📘 guide](https://github.com/scikit-learn/scikit-learn/blob/HEAD/CONTRIBUTING.md) |
 | [Add prompt for the delete keybinding controller button in the keybindings menu](https://github.com/Revolutionary-Games/Thrive/issues/4049) 💬 17 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.8k | 🟢 beginner | 2026-08-25 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
