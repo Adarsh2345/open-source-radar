@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**52** open issues (22 labeled for beginners) across **11** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
+**53** open issues (22 labeled for beginners) across **11** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
 
-> Updated automatically on **2026-10-29 22:33 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-30 12:10 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +10,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Supported TLS groups returned not always correct](https://github.com/openssl/openssl/issues/33387) | [openssl/openssl](https://github.com/openssl/openssl) | 31.1k | 🟡 help wanted | 2026-10-30 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [RFC 9973 - Using Certificates with an External Pre-Shared Key](https://github.com/openssl/openssl/issues/33395) | [openssl/openssl](https://github.com/openssl/openssl) | 31.1k | 🟡 help wanted | 2026-10-29 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [NULL pointer dereference in EC_GROUP_cmp() when comparing groups without generators](https://github.com/openssl/openssl/issues/33450) | [openssl/openssl](https://github.com/openssl/openssl) | 31.1k | 🟡 help wanted | 2026-10-29 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [Implement TD Sequential Candlestick Indicator](https://github.com/QuantConnect/Lean/issues/6620) 💬 3 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 22.3k | 🟢 beginner | 2026-10-28 | [📘 guide](https://github.com/QuantConnect/Lean/blob/HEAD/CONTRIBUTING.md) |
@@ -38,7 +39,7 @@
 | [\[FEATURE\] : \[TRUSTPAY\] Add Integrity Check Support for Authorize, PSync, Refund and RSync Flows](https://github.com/juspay/hyperswitch/issues/9228) 💬 9 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 45.6k | 🟢 beginner | 2026-10-05 | [📘 guide](https://github.com/juspay/hyperswitch/blob/HEAD/docs/CONTRIBUTING.md) |
 | [\[FEATURE\] : \[DATATRANS\] Add Integrity Check Support for Authorize, PSync, Refund and RSync Flows](https://github.com/juspay/hyperswitch/issues/9166) 💬 3 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 45.6k | 🟢 beginner | 2026-10-05 | [📘 guide](https://github.com/juspay/hyperswitch/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Adding FAEST](https://github.com/open-quantum-safe/liboqs/issues/2101) 💬 14 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-01 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
-| [Syncing archive node from era files](https://github.com/ethereum/go-ethereum/issues/35354) 💬 4 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51.5k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/ethereum/go-ethereum/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Syncing archive node from era files](https://github.com/ethereum/go-ethereum/issues/35354) 💬 4 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51.4k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/ethereum/go-ethereum/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Bug\]: Enable Banking with "imagin / CaixaBank" bank linking fails on desktop but works on mobile browser](https://github.com/actualbudget/actual/issues/8326) 💬 9 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.9k | 🟡 help wanted | 2026-09-13 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: All Accounts totals do not match when a closed account has a balance](https://github.com/actualbudget/actual/issues/5413) 💬 6 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.9k | 🟢 beginner | 2026-09-13 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [Consider bounded CBMC proofs for liboqs-owned code](https://github.com/open-quantum-safe/liboqs/issues/2504) 💬 1 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-08-21 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
