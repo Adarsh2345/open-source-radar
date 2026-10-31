@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-10-31 11:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-31 21:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Add Ollama setup](https://github.com/AllYourBot/hostedgpt/issues/884) | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 513 | 🟢 beginner | 2026-10-31 | [📘 guide](https://github.com/AllYourBot/hostedgpt/blob/HEAD/CONTRIBUTING.md) |
 | [Search does not find article with all keywords in its title](https://github.com/lobsters/lobsters/issues/2220) 💬 3 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-10-30 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Add Missing Table Translation Test Case](https://github.com/ManageIQ/manageiq/issues/22736) 💬 2 | [ManageIQ/manageiq](https://github.com/ManageIQ/manageiq) | 1.4k | 🟢 beginner | 2026-10-26 | [📘 guide](https://github.com/ManageIQ/manageiq/blob/HEAD/CONTRIBUTING.md) |
 | [\[RFE\] Add support for relative paths to evm:export:service_dialogs](https://github.com/ManageIQ/manageiq/issues/20488) 💬 5 | [ManageIQ/manageiq](https://github.com/ManageIQ/manageiq) | 1.4k | 🟢 beginner | 2026-10-26 | [📘 guide](https://github.com/ManageIQ/manageiq/blob/HEAD/CONTRIBUTING.md) |
@@ -82,4 +83,3 @@
 | [Ractor incompatibility: contracts, schemas, types, and results cannot be used from non-main Ractors on Ruby 4.](https://github.com/dry-rb/dry-validation/issues/749) 💬 1 | [dry-rb/dry-validation](https://github.com/dry-rb/dry-validation) | 1.4k | 🟡 help wanted | 2026-05-12 | [📘 guide](https://github.com/dry-rb/dry-validation/blob/HEAD/CONTRIBUTING.md) |
 | [multiple favicon versions, some ugly](https://github.com/lobsters/lobsters/issues/1921) 💬 3 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-05-07 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Add SNOBOL](https://github.com/github-linguist/linguist/issues/7950) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.8k | 🟢 beginner | 2026-05-06 | [📘 guide](https://github.com/github-linguist/linguist/blob/HEAD/CONTRIBUTING.md) |
-| [Commenting Double-Posted](https://github.com/lobsters/lobsters/issues/1987) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-05-04 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
