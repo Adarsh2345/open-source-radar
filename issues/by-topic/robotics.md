@@ -1,8 +1,8 @@
 # Robotics issues
 
-**9** open issues (3 labeled for beginners) across **6** projects tagged with topics like `robotics`, `ros`, `ros2`, `drones`, `autonomous-vehicles`, `slam`.
+**10** open issues (4 labeled for beginners) across **6** projects tagged with topics like `robotics`, `ros`, `ros2`, `drones`, `autonomous-vehicles`, `slam`.
 
-> Updated automatically on **2026-10-30 22:15 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-31 11:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +10,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Copter: vehicle may backup if mission with takeoff as first command is initiated](https://github.com/ArduPilot/ardupilot/issues/6322) 💬 6 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 16.3k | 🟢 beginner | 2026-10-30 | 🤖 disclose AI use · [📘 guide](https://github.com/ArduPilot/ardupilot/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Geospatial types and GIS support](https://github.com/questdb/questdb/issues/4899) 💬 2 | [questdb/questdb](https://github.com/questdb/questdb) | 17.5k | 🟡 help wanted | 2026-10-28 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/questdb/questdb/blob/HEAD/CONTRIBUTING.md) |
 | [switch cutout for back body plate doesn't fit switch](https://github.com/nasa-jpl/open-source-rover/issues/499) 💬 3 | [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) | 9.7k | 🟡 help wanted | 2026-10-28 | [📘 guide](https://github.com/nasa-jpl/open-source-rover/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Plane: BUG with auto_state.checked_for_autoland](https://github.com/ArduPilot/ardupilot/issues/12996) 💬 3 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 16.3k | 🟢 beginner | 2026-10-18 | 🤖 disclose AI use · [📘 guide](https://github.com/ArduPilot/ardupilot/blob/HEAD/.github/CONTRIBUTING.md) |

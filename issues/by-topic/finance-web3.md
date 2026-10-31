@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**48** open issues (17 labeled for beginners) across **10** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
+**47** open issues (16 labeled for beginners) across **10** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
 
-> Updated automatically on **2026-10-30 22:15 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-31 11:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -57,4 +57,3 @@
 | [Cropped button label in "Remove vault" dialog](https://github.com/cryptomator/cryptomator/issues/3338) 💬 5 | [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) | 16.4k | 🟢 beginner | 2026-05-26 | [📘 guide](https://github.com/cryptomator/cryptomator/blob/HEAD/.github/CONTRIBUTING.md) |
 | [api_version as large unsigned int causes exception instead of clean rejection](https://github.com/XRPLF/rippled/issues/6776) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-05-15 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
 | [checkTxJsonFields calls asString() on tx_json.Account without type check](https://github.com/XRPLF/rippled/issues/6771) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-05-08 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
-| [Add moderation contact information or button? (report content feature)](https://github.com/PrivateBin/PrivateBin/issues/674) 💬 8 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | 8.7k | 🟢 beginner | 2026-05-03 | 🤖 disclose AI use · [📘 guide](https://github.com/PrivateBin/PrivateBin/blob/HEAD/.github/CONTRIBUTING.md) |

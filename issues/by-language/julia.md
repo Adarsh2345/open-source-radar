@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/julia.xml)
 
-> Updated automatically on **2026-10-30 22:15 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-31 11:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -62,7 +62,7 @@
 | [Implement '@formula' support in 'Kriging' model](https://github.com/JuliaEarth/GeoStats.jl/issues/573) 💬 2 | [JuliaEarth/GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) | 592 | 🟡 help wanted | 2026-07-04 | [📘 guide](https://github.com/JuliaEarth/GeoStats.jl/blob/HEAD/CONTRIBUTING.md) |
 | [Space between unary prefix operator and operand is not removed](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/281) 💬 5 | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 646 | 🟢 beginner | 2026-07-01 |  |
 | [Option for whitespace surrounding parenthesis/brackets?](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/1084) 💬 1 | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 646 | 🟢 beginner | 2026-06-17 |  |
-| [Error with quadrilateral mesh generated from Gmsh + Lowest-order Nedelec FEs](https://github.com/gridap/Gridap.jl/issues/811) 💬 10 | [gridap/Gridap.jl](https://github.com/gridap/Gridap.jl) | 887 | 🟡 help wanted | 2026-06-10 | 🔏 DCO · [📘 guide](https://github.com/gridap/Gridap.jl/blob/HEAD/CONTRIBUTING.md) |
+| [Error with quadrilateral mesh generated from Gmsh + Lowest-order Nedelec FEs](https://github.com/gridap/Gridap.jl/issues/811) 💬 10 | [gridap/Gridap.jl](https://github.com/gridap/Gridap.jl) | 888 | 🟡 help wanted | 2026-06-10 | 🔏 DCO · [📘 guide](https://github.com/gridap/Gridap.jl/blob/HEAD/CONTRIBUTING.md) |
 | [make this repo's pre-commit hook use 'julia --project=. -e'](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/1028) | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 646 | 🟢 beginner | 2026-06-08 |  |
 | [Whitespace removed outside of indices](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/651) | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 646 | 🟢 beginner | 2026-06-07 |  |
 | [Cannot combine @simd and @threads on a loop](https://github.com/JuliaLang/julia/issues/32684) 💬 5 | [JuliaLang/julia](https://github.com/JuliaLang/julia) | 49.2k | 🟢 beginner | 2026-06-06 | 🤖 disclose AI use · [📘 guide](https://github.com/JuliaLang/julia/blob/HEAD/CONTRIBUTING.md) |

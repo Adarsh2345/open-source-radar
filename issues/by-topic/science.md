@@ -1,8 +1,8 @@
 # Science and research issues
 
-**57** open issues (35 labeled for beginners) across **19** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
+**58** open issues (36 labeled for beginners) across **20** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
 
-> Updated automatically on **2026-10-30 22:15 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-31 11:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +10,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [\[Bug\]: Refit in stations can fail if leading articulated part has 0 capacity](https://github.com/OpenTTD/OpenTTD/issues/11034) 💬 3 | [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) | 8.4k | 🟢 beginner | 2026-10-31 | [📘 guide](https://github.com/OpenTTD/OpenTTD/blob/HEAD/CONTRIBUTING.md) |
 | [Auto-evo exploring tool should list happened patch events for future reference](https://github.com/Revolutionary-Games/Thrive/issues/5667) 💬 6 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.8k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
 | [Switch to PyDSSP](https://github.com/a-r-j/graphein/issues/243) 💬 2 | [a-r-j/graphein](https://github.com/a-r-j/graphein) | 1.2k | 🟢 beginner | 2026-10-27 |  |
 | [Allow batch based metrics calculation of sklearn.metrics](https://github.com/scikit-learn/scikit-learn/issues/31554) 💬 24 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 67.9k | 🟡 help wanted | 2026-10-23 | 🤖 disclose AI use · [📘 guide](https://github.com/scikit-learn/scikit-learn/blob/HEAD/CONTRIBUTING.md) |
