@@ -1,10 +1,10 @@
 # OCaml issues
 
-**23** open issues (14 labeled for beginners) across **7** active OCaml projects.
+**24** open issues (15 labeled for beginners) across **7** active OCaml projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ocaml.xml)
 
-> Updated automatically on **2026-10-31 21:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-01 12:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [\[wish\] coq_makefile flag -findlib-package dep](https://github.com/rocq-prover/rocq/issues/15660) 💬 2 | [rocq-prover/rocq](https://github.com/rocq-prover/rocq) | 5.7k | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/rocq-prover/rocq/blob/HEAD/CONTRIBUTING.md) |
 | [Named targets](https://github.com/ocaml/dune/issues/3309) 💬 6 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟢 beginner | 2026-10-02 | 🔏 DCO · [📘 guide](https://github.com/ocaml/dune/blob/HEAD/CONTRIBUTING.md) |
 | [dune fmt should be able to format single files](https://github.com/ocaml/dune/issues/7287) 💬 8 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟢 beginner | 2026-10-02 | 🔏 DCO · [📘 guide](https://github.com/ocaml/dune/blob/HEAD/CONTRIBUTING.md) |
 | [Incorrect value when installing a relocatable binary with dune-site](https://github.com/ocaml/dune/issues/5749) 💬 3 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟢 beginner | 2026-10-02 | 🔏 DCO · [📘 guide](https://github.com/ocaml/dune/blob/HEAD/CONTRIBUTING.md) |

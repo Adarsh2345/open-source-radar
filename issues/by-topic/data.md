@@ -1,8 +1,8 @@
 # Data and databases issues
 
-**315** open issues (169 labeled for beginners) across **90** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
+**312** open issues (168 labeled for beginners) across **89** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
 
-> Updated automatically on **2026-10-31 21:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-01 12:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -159,7 +159,6 @@
 | [\\echo and \\warn -n problem on interactive](https://github.com/xo/usql/issues/215) 💬 1 | [xo/usql](https://github.com/xo/usql) | 10.2k | 🟡 help wanted | 2026-09-23 | [📘 guide](https://github.com/xo/usql/blob/HEAD/CONTRIBUTING.md) |
 | [feature: support vi key bindings (ala readline/bash/psql vi modes)](https://github.com/xo/usql/issues/236) 💬 5 | [xo/usql](https://github.com/xo/usql) | 10.2k | 🟡 help wanted | 2026-09-23 | [📘 guide](https://github.com/xo/usql/blob/HEAD/CONTRIBUTING.md) |
 | ['\\ss' without arguments lists columns for all tables](https://github.com/xo/usql/issues/363) 💬 2 | [xo/usql](https://github.com/xo/usql) | 10.2k | 🟡 help wanted | 2026-09-23 | [📘 guide](https://github.com/xo/usql/blob/HEAD/CONTRIBUTING.md) |
-| [Unit test stub autogenerator](https://github.com/apache/hamilton/issues/74) 💬 6 | [apache/hamilton](https://github.com/apache/hamilton) | 2.6k | 🟢 beginner | 2026-09-23 | ✍️ CLA · [📘 guide](https://github.com/apache/hamilton/blob/HEAD/CONTRIBUTING.md) |
 | [\[YSQL\] Indexes created on Numeric type are inconsistent](https://github.com/yugabyte/yugabyte-db/issues/28967) 💬 2 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.6k | 🟢 beginner | 2026-09-21 |  |
 | [How servicegraph in grafana tempo filters applications](https://github.com/grafana/grafana/issues/105147) 💬 5 | [grafana/grafana](https://github.com/grafana/grafana) | 77.6k | 🟡 help wanted | 2026-09-20 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/grafana/grafana/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] rounding doubles floats can result in -0.0 result](https://github.com/NVIDIA/cudf-spark/issues/9349) 💬 1 | [NVIDIA/cudf-spark](https://github.com/NVIDIA/cudf-spark) | 1k | 🟢 beginner | 2026-09-19 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/NVIDIA/cudf-spark/blob/HEAD/CONTRIBUTING.md) |
@@ -210,5 +209,6 @@
 | [Separate windows for editor and results](https://github.com/dbeaver/dbeaver/issues/34959) 💬 10 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 52.3k | 🟡 help wanted | 2026-08-27 | 🤖 disclose AI use · [📘 guide](https://github.com/dbeaver/dbeaver/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Make the Document binary serialization format more compact.](https://github.com/quickwit-oss/tantivy/issues/903) 💬 6 | [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) | 16.4k | 🟢 beginner | 2026-08-26 |  |
 | [Support ADBC reads and writes from databases](https://github.com/Eventual-Inc/Daft/issues/7347) 💬 3 | [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) | 5.8k | 🟡 help wanted | 2026-08-26 | 🤖 disclose AI use · [📘 guide](https://github.com/Eventual-Inc/Daft/blob/HEAD/CONTRIBUTING.md) |
+| [Major lack of documentation in codebase](https://github.com/meilisearch/meilisearch/issues/3206) 💬 7 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 59.7k | 🟢 beginner | 2026-08-25 | 🤖 disclose AI use · [📘 guide](https://github.com/meilisearch/meilisearch/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 315 on the website.
+Showing the 200 most recently updated. See all 312 on the website.

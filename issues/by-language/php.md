@@ -1,10 +1,10 @@
 # PHP issues
 
-**144** open issues (67 labeled for beginners) across **51** active PHP projects.
+**145** open issues (69 labeled for beginners) across **52** active PHP projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-10-31 21:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-01 12:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -14,6 +14,7 @@
 | --- | --- | ---: | --- | --- | --- |
 | [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-31 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Armenian (hy)](https://github.com/symfony/symfony/issues/64481) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-31 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
+| [Performance percentage not visible for holdings with long name](https://github.com/investbrainapp/investbrain/issues/206) 💬 1 | [investbrainapp/investbrain](https://github.com/investbrainapp/investbrain) | 940 | 🟢 beginner | 2026-10-31 |  |
 | [Support for rotating rotating master key used for server-side encryption](https://github.com/nextcloud/server/issues/2964) 💬 7 | [nextcloud/server](https://github.com/nextcloud/server) | 37.4k | 🟡 help wanted | 2026-10-30 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nextcloud/server/blob/HEAD/.github/CONTRIBUTING.md) |
 | [usort by nested array values doesn't work](https://github.com/vimeo/psalm/issues/7601) 💬 5 | [vimeo/psalm](https://github.com/vimeo/psalm) | 5.9k | 🟡 help wanted | 2026-10-30 | [📘 guide](https://github.com/vimeo/psalm/blob/HEAD/CONTRIBUTING.md) |
 | [Is it possible to disable automatic detection of simple pure methods?](https://github.com/vimeo/psalm/issues/9665) 💬 6 | [vimeo/psalm](https://github.com/vimeo/psalm) | 5.9k | 🟡 help wanted | 2026-10-30 | [📘 guide](https://github.com/vimeo/psalm/blob/HEAD/CONTRIBUTING.md) |
@@ -43,6 +44,8 @@
 | [Missing translations for Hungarian (hu)](https://github.com/symfony/symfony/issues/66100) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Greek (el)](https://github.com/symfony/symfony/issues/67422) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Croatian (hr)](https://github.com/symfony/symfony/issues/67420) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
+| [Missing translations for Bulgarian (bg)](https://github.com/symfony/symfony/issues/67419) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
+| [Missing translations for Albanian (sq)](https://github.com/symfony/symfony/issues/67416) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [RepeaterFieldTest::testFieldOnAcfBlock is stubbed out because it fails when run with the full wpunit suite](https://github.com/wp-graphql/wp-graphql/issues/4555) 💬 1 | [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql) | 3.8k | 🟡 help wanted | 2026-10-23 | [📘 guide](https://github.com/wp-graphql/wp-graphql/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Porting command: dev:setup:script:attribute](https://github.com/netz98/n98-magerun2/issues/89) | [netz98/n98-magerun2](https://github.com/netz98/n98-magerun2) | 926 | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/netz98/n98-magerun2/blob/HEAD/CONTRIBUTING.md) |
 | [Porting command: dev:log:db](https://github.com/netz98/n98-magerun2/issues/75) | [netz98/n98-magerun2](https://github.com/netz98/n98-magerun2) | 926 | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/netz98/n98-magerun2/blob/HEAD/CONTRIBUTING.md) |
@@ -55,7 +58,6 @@
 | [Make CHUNKED_READ_BLOCK_SIZE configurable](https://github.com/maennchen/ZipStream-PHP/issues/436) 💬 2 | [maennchen/ZipStream-PHP](https://github.com/maennchen/ZipStream-PHP) | 1.9k | 🟡 help wanted | 2026-10-12 | [📘 guide](https://github.com/maennchen/ZipStream-PHP/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Artisan Console Components should use STDERR for auxiliary output](https://github.com/laravel/framework/issues/56602) 💬 8 | [laravel/framework](https://github.com/laravel/framework) | 35k | 🟡 help wanted | 2026-10-11 | [📘 guide](https://github.com/laravel/framework/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[HLAPI\] Need a way to filter ticket actors](https://github.com/glpi-project/glpi/issues/20743) 💬 7 | [glpi-project/glpi](https://github.com/glpi-project/glpi) | 6.5k | 🟡 help wanted | 2026-10-09 | 🤖 disclose AI use · [📘 guide](https://github.com/glpi-project/glpi/blob/HEAD/CONTRIBUTING.md) |
-| [\[Bug\] Postgres as DB results in 500 Server Error](https://github.com/jez500/pricebuddy/issues/48) 💬 7 | [jez500/pricebuddy](https://github.com/jez500/pricebuddy) | 1.5k | 🟡 help wanted | 2026-10-09 |  |
 | [Support rich text formatting (bold, etc.) in "mass email" (Sysadmin)](https://github.com/elabftw/elabftw/issues/7576) 💬 3 | [elabftw/elabftw](https://github.com/elabftw/elabftw) | 1.5k | 🟢 beginner | 2026-10-09 | [📘 guide](https://github.com/elabftw/elabftw/blob/HEAD/CONTRIBUTING.md) |
 | [Testing using official postgresql docker images](https://github.com/tpetry/laravel-postgresql-enhanced/issues/70) 💬 4 | [tpetry/laravel-postgresql-enhanced](https://github.com/tpetry/laravel-postgresql-enhanced) | 1k | 🟡 help wanted | 2026-10-09 |  |
 | [Add a default limit to the results of the 'occ taskprocessing:list' command](https://github.com/nextcloud/server/issues/65243) | [nextcloud/server](https://github.com/nextcloud/server) | 37.4k | 🟢 beginner | 2026-10-07 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nextcloud/server/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -139,7 +141,6 @@
 | [Give activities multi-day capabilities](https://github.com/monicahq/monica/issues/2113) 💬 1 | [monicahq/monica](https://github.com/monicahq/monica) | 25.6k | 🟡 help wanted | 2026-06-14 |  |
 | [\[3.x-migration\] ApiController](https://github.com/MISP/MISP/issues/9382) 💬 2 | [MISP/MISP](https://github.com/MISP/MISP) | 6.6k | 🟢 beginner | 2026-06-12 | ✍️ CLA · [📘 guide](https://github.com/MISP/MISP/blob/HEAD/CONTRIBUTING.md) |
 | [CommentAuthor should have RootQuery entry points in the Graph](https://github.com/wp-graphql/wp-graphql/issues/1757) 💬 13 | [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql) | 3.8k | 🟢 beginner | 2026-06-12 | [📘 guide](https://github.com/wp-graphql/wp-graphql/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Add graphql_term_object_mutation_update_additional_data hook](https://github.com/wp-graphql/wp-graphql/issues/1429) 💬 7 | [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql) | 3.8k | 🟢 beginner | 2026-06-12 | [📘 guide](https://github.com/wp-graphql/wp-graphql/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Add phpcs rule to ensure one line is left empty after function declaration](https://github.com/EasyEngine/easyengine/issues/1222) 💬 2 | [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) | 2.2k | 🟢 beginner | 2026-06-12 | [📘 guide](https://github.com/EasyEngine/easyengine/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Undefined array key "scheme" at /var/www/html/nextcloud/apps/news/lib/Vendor/FeedIo/Feed/Node.php#159](https://github.com/nextcloud/news/issues/3787) 💬 2 | [nextcloud/news](https://github.com/nextcloud/news) | 1k | 🟡 help wanted | 2026-06-11 | 🔏 DCO · [📘 guide](https://github.com/nextcloud/news/blob/HEAD/CONTRIBUTING.md) |
 | [Heading display issue using 'use_kwt' with floated DIVs](https://github.com/mpdf/mpdf/issues/2143) 💬 2 | [mpdf/mpdf](https://github.com/mpdf/mpdf) | 4.7k | 🟡 help wanted | 2026-06-10 | [📘 guide](https://github.com/mpdf/mpdf/blob/HEAD/.github/CONTRIBUTING.md) |

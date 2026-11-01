@@ -1,10 +1,10 @@
 # C++ issues
 
-**331** open issues (107 labeled for beginners) across **101** active C++ projects.
+**330** open issues (107 labeled for beginners) across **101** active C++ projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/cpp.xml)
 
-> Updated automatically on **2026-10-31 21:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-01 12:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,8 +12,10 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [CAM: Simulator (new) artifacts showing on complex body due to an edgecase (algorithm lacks complexity for cert](https://github.com/FreeCAD/FreeCAD/issues/19368) 💬 14 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35k | 🟡 help wanted | 2026-11-01 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
+| [Link: Selected file loses focus after manual link creation](https://github.com/FreeCAD/FreeCAD/issues/19783) | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35k | 🟢 beginner | 2026-10-31 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
+| [Sketcher: just opening a sketch sets "modified" status for a project](https://github.com/FreeCAD/FreeCAD/issues/34015) | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35k | 🟢 beginner | 2026-10-31 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [Wayland: Copy and paste issue](https://github.com/FreeCAD/FreeCAD/issues/15198) 💬 31 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35k | 🟡 help wanted | 2026-10-31 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
-| [CAM: Simulator (new) artifacts showing on complex body due to an edgecase (algorithm lacks complexity for cert](https://github.com/FreeCAD/FreeCAD/issues/19368) 💬 14 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35k | 🟡 help wanted | 2026-10-31 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature Request\] Screen sharing is of somewhat low quality](https://github.com/telegramdesktop/tdesktop/issues/16487) 💬 62 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 33.4k | 🟡 help wanted | 2026-10-31 | [📘 guide](https://github.com/telegramdesktop/tdesktop/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Turn STREAM_SEEK_* into 'enum class'](https://github.com/OpenRCT2/OpenRCT2/issues/27356) | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.5k | 🟢 beginner | 2026-10-31 | [📘 guide](https://github.com/OpenRCT2/OpenRCT2/blob/HEAD/CONTRIBUTING.md) |
 | [blank screen on desktop on Windows 11 PRO](https://github.com/hluk/CopyQ/issues/3736) 💬 4 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.6k | 🟡 help wanted | 2026-10-31 |  |
@@ -78,7 +80,6 @@
 | [Don't Pause/Play when clicking to Jellyfin from another application](https://github.com/jellyfin/jellyfin-desktop/issues/513) 💬 6 | [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | 5.9k | 🟡 help wanted | 2026-10-17 | [📘 guide](https://github.com/jellyfin/jellyfin-desktop/blob/HEAD/CONTRIBUTING.md) |
 | [Converging toward a principal Unreal Engine backend/binding for Dear ImGui?](https://github.com/ocornut/imgui/issues/9122) 💬 49 | [ocornut/imgui](https://github.com/ocornut/imgui) | 76.9k | 🟡 help wanted | 2026-10-16 | ✍️ CLA · [📘 guide](https://github.com/ocornut/imgui/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Fillet can not round a face (Fixed in OCC 8.1.0)](https://github.com/FreeCAD/FreeCAD/issues/5561) 💬 21 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35k | 🟡 help wanted | 2026-10-16 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
-| [TechDraw: Inserted SVG symbols default to bottom of layer stack](https://github.com/FreeCAD/FreeCAD/issues/24820) 💬 5 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35k | 🟢 beginner | 2026-10-16 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [Git submodule directories disappear in dirty directories](https://github.com/NixOS/nix/issues/6247) 💬 2 | [NixOS/nix](https://github.com/NixOS/nix) | 18k | 🟢 beginner | 2026-10-15 | 🤖 disclose AI use · [📘 guide](https://github.com/NixOS/nix/blob/HEAD/CONTRIBUTING.md) |
 | [Flatpak 17.0.0 exits when opening Preferences on Ubuntu 22.04 GNOME/X11](https://github.com/hluk/CopyQ/issues/3748) 💬 1 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.6k | 🟡 help wanted | 2026-10-15 |  |
 | [Allow to use SVG as icons](https://github.com/Alexays/Waybar/issues/1330) 💬 16 | [Alexays/Waybar](https://github.com/Alexays/Waybar) | 12.1k | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/Alexays/Waybar/blob/HEAD/CONTRIBUTING.md) |
@@ -157,7 +158,6 @@
 | [Feature request: Add overload action to restart Envoy when it gets stuck](https://github.com/envoyproxy/envoy/issues/41492) 💬 15 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29.2k | 🟡 help wanted | 2026-09-19 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/envoyproxy/envoy/blob/HEAD/CONTRIBUTING.md) |
 | [Fallback value should be close to original value](https://github.com/microsoft/microsoft-ui-xaml/issues/5707) 💬 2 | [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) | 8.6k | 🟡 help wanted | 2026-09-18 | ✍️ CLA · [📘 guide](https://github.com/microsoft/microsoft-ui-xaml/blob/HEAD/CONTRIBUTING.md) |
 | [Icon on MenuFlyoutItem within a dark container turns black on pointer exit (with OS in light mode theme color)](https://github.com/microsoft/microsoft-ui-xaml/issues/5381) 💬 11 | [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) | 8.6k | 🟡 help wanted | 2026-09-18 | ✍️ CLA · [📘 guide](https://github.com/microsoft/microsoft-ui-xaml/blob/HEAD/CONTRIBUTING.md) |
-| [Drag&Drop does not work with within Elevated Apps](https://github.com/microsoft/microsoft-ui-xaml/issues/7690) 💬 42 | [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) | 8.6k | 🟡 help wanted | 2026-09-18 | ✍️ CLA · [📘 guide](https://github.com/microsoft/microsoft-ui-xaml/blob/HEAD/CONTRIBUTING.md) |
 | [Proposal: C++/WinRT basic example for each control](https://github.com/microsoft/microsoft-ui-xaml/issues/1946) 💬 11 | [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) | 8.6k | 🟡 help wanted | 2026-09-18 | ✍️ CLA · [📘 guide](https://github.com/microsoft/microsoft-ui-xaml/blob/HEAD/CONTRIBUTING.md) |
 | [The welcome message and brand text renders over content, when the “Loading Results…” window is 1⁄8 of the tota](https://github.com/KDAB/hotspot/issues/713) 💬 15 | [KDAB/hotspot](https://github.com/KDAB/hotspot) | 5.2k | 🟡 help wanted | 2026-09-18 | [📘 guide](https://github.com/KDAB/hotspot/blob/HEAD/CONTRIBUTING.md) |
 | [Support for cursors change](https://github.com/f3d-app/f3d/issues/3492) | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 5k | 🟡 help wanted | 2026-09-18 | 🤖 disclose AI use · [📘 guide](https://github.com/f3d-app/f3d/blob/HEAD/CONTRIBUTING.md) |
@@ -213,4 +213,4 @@
 | [How to import proto files between different files using cmake](https://github.com/protocolbuffers/protobuf/issues/9643) 💬 1 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 72.1k | 🟡 help wanted | 2026-09-03 | ✍️ CLA · [📘 guide](https://github.com/protocolbuffers/protobuf/blob/HEAD/CONTRIBUTING.md) |
 | [Ruby class documentation barely exists](https://github.com/protocolbuffers/protobuf/issues/21092) 💬 7 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 72.1k | 🟡 help wanted | 2026-09-03 | ✍️ CLA · [📘 guide](https://github.com/protocolbuffers/protobuf/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 331 on the website.
+Showing the 200 most recently updated. See all 330 on the website.

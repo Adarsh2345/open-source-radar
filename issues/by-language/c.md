@@ -1,10 +1,10 @@
 # C issues
 
-**153** open issues (33 labeled for beginners) across **56** active C projects.
+**148** open issues (31 labeled for beginners) across **58** active C projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/c.xml)
 
-> Updated automatically on **2026-10-31 21:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-01 12:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,9 +12,11 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [kew roadmap: "Project Joy"](https://github.com/ravachol/kew/issues/575) 💬 92 | [ravachol/kew](https://github.com/ravachol/kew) | 3.2k | 🟡 help wanted | 2026-11-01 |  |
+| [Performance or graphical issues on older GPUs/iGPUs? Please attach your log here](https://github.com/Revivedx/SavageWindRecomp/issues/332) 💬 2 | [Revivedx/SavageWindRecomp](https://github.com/Revivedx/SavageWindRecomp) | 2.6k | 🟡 help wanted | 2026-11-01 | [📘 guide](https://github.com/Revivedx/SavageWindRecomp/blob/HEAD/CONTRIBUTING.md) |
+| [Gamma correction functions should take vectors](https://github.com/bjornbytes/lovr/issues/1034) | [bjornbytes/lovr](https://github.com/bjornbytes/lovr) | 2.6k | 🟢 beginner | 2026-11-01 |  |
 | [Secp224R1 Help Wanted](https://github.com/hashcat/hashcat/issues/4168) | [hashcat/hashcat](https://github.com/hashcat/hashcat) | 27.2k | 🟡 help wanted | 2026-10-31 | [📘 guide](https://github.com/hashcat/hashcat/blob/HEAD/CONTRIBUTING.md) |
 | [Support for algorithm - lookup8.c / lookup2 / Jenkins](https://github.com/hashcat/hashcat/issues/524) 💬 24 | [hashcat/hashcat](https://github.com/hashcat/hashcat) | 27.2k | 🟡 help wanted | 2026-10-31 | [📘 guide](https://github.com/hashcat/hashcat/blob/HEAD/CONTRIBUTING.md) |
-| [kew roadmap: "Project Joy"](https://github.com/ravachol/kew/issues/575) 💬 78 | [ravachol/kew](https://github.com/ravachol/kew) | 3.2k | 🟡 help wanted | 2026-10-31 |  |
 | [Logitech G502 Profile Names](https://github.com/libratbag/libratbag/issues/680) 💬 6 | [libratbag/libratbag](https://github.com/libratbag/libratbag) | 2.6k | 🟡 help wanted | 2026-10-31 |  |
 | [Supported TLS groups returned not always correct](https://github.com/openssl/openssl/issues/33387) | [openssl/openssl](https://github.com/openssl/openssl) | 31.1k | 🟡 help wanted | 2026-10-30 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [CmdPal not finding a extension (winget)](https://github.com/microsoft/PowerToys/issues/38718) 💬 4 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 140.4k | 🟡 help wanted | 2026-10-29 | [📘 guide](https://github.com/microsoft/PowerToys/blob/HEAD/CONTRIBUTING.md) |
@@ -52,9 +54,6 @@
 | [\[Bug\] B104 lock LEDs go dark until reboot (Leyden Jar firmware) - patch attached](https://github.com/qmk/qmk_firmware/issues/26496) 💬 1 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-10-16 |  |
 | [myloader connection failures with MariaDB 11.8.6](https://github.com/mydumper/mydumper/issues/2365) 💬 10 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.2k | 🟡 help wanted | 2026-10-16 |  |
 | [\[BUG\] Concurrent --exec workers can abort with "pid not found"](https://github.com/mydumper/mydumper/issues/2366) 💬 3 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.2k | 🟡 help wanted | 2026-10-15 |  |
-| [Failing to use close-on-exec](https://github.com/microsoft/msquic/issues/4980) 💬 7 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟢 beginner | 2026-10-13 | ✍️ CLA · [📘 guide](https://github.com/microsoft/msquic/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Listener close does not release the UDP endpoint synchronously: deferred socket close on kqueue/epoll, and bin](https://github.com/microsoft/msquic/issues/6374) 💬 1 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-10-13 | ✍️ CLA · [📘 guide](https://github.com/microsoft/msquic/blob/HEAD/.github/CONTRIBUTING.md) |
-| [\[Crates.IO\] When will you be restarting publishing updates on crates.io](https://github.com/microsoft/msquic/issues/6366) 💬 1 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-10-13 | ✍️ CLA · [📘 guide](https://github.com/microsoft/msquic/blob/HEAD/.github/CONTRIBUTING.md) |
 | [GPO to disable the "awake indefinitely" feature & screen on](https://github.com/microsoft/PowerToys/issues/40546) 💬 20 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 140.4k | 🟡 help wanted | 2026-10-12 | [📘 guide](https://github.com/microsoft/PowerToys/blob/HEAD/CONTRIBUTING.md) |
 | [Investigate 'Numpad Enter' vs 'Enter' for remaping keys in Keyboard Manager](https://github.com/microsoft/PowerToys/issues/5703) 💬 10 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 140.4k | 🟡 help wanted | 2026-10-11 | [📘 guide](https://github.com/microsoft/PowerToys/blob/HEAD/CONTRIBUTING.md) |
 | [\[KBM\] Adding exceptions to "All Apps", or defining a list of apps for a same shortcut](https://github.com/microsoft/PowerToys/issues/6276) 💬 14 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 140.4k | 🟡 help wanted | 2026-10-11 | [📘 guide](https://github.com/microsoft/PowerToys/blob/HEAD/CONTRIBUTING.md) |
@@ -74,8 +73,7 @@
 | [Adding FAEST](https://github.com/open-quantum-safe/liboqs/issues/2101) 💬 14 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-01 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] GMMK Pro rev1 ANSI: LEDs on first AW20216S driver stay dark on master; fixed by lowering SPI speed](https://github.com/qmk/qmk_firmware/issues/26492) | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-09-30 |  |
 | [Bank MSB shouldn't always be ignored in XG mode](https://github.com/FluidSynth/fluidsynth/issues/1378) 💬 26 | [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) | 2.5k | 🟡 help wanted | 2026-09-29 | [📘 guide](https://github.com/FluidSynth/fluidsynth/blob/HEAD/CONTRIBUTING.md) |
-| [\[Experiment\] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 45.4k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/JustVugg/colibri/blob/HEAD/CONTRIBUTING.md) |
-| [macOS: intermittent CONNECTION_IDLE during handshake on loopback under sustained connect load](https://github.com/microsoft/msquic/issues/6265) 💬 2 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-09-26 | ✍️ CLA · [📘 guide](https://github.com/microsoft/msquic/blob/HEAD/.github/CONTRIBUTING.md) |
+| [\[Experiment\] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 45.5k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/JustVugg/colibri/blob/HEAD/CONTRIBUTING.md) |
 | [Extensions for browser support monitoring](https://github.com/axel-download-accelerator/axel/issues/346) 💬 5 | [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) | 3.4k | 🟡 help wanted | 2026-09-26 | [📘 guide](https://github.com/axel-download-accelerator/axel/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] Unable to restore the database](https://github.com/mydumper/mydumper/issues/2355) 💬 3 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.2k | 🟡 help wanted | 2026-09-24 |  |
 | [Investigate AddressSanitizer-like diagnostics for ThreadX](https://github.com/eclipse-threadx/threadx/issues/764) | [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) | 3.6k | 🟡 help wanted | 2026-09-22 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/eclipse-threadx/threadx/blob/HEAD/CONTRIBUTING.md) |
@@ -134,7 +132,6 @@
 | [OSX compatibility](https://github.com/cboxdoerfer/fsearch/issues/7) 💬 14 | [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) | 4.5k | 🟡 help wanted | 2026-07-14 | [📘 guide](https://github.com/cboxdoerfer/fsearch/blob/HEAD/CONTRIBUTING.md) |
 | [Tap to change page](https://github.com/pwmt/zathura/issues/938) 💬 4 | [pwmt/zathura](https://github.com/pwmt/zathura) | 3.4k | 🟡 help wanted | 2026-07-10 |  |
 | [Sioyek does not start](https://github.com/ahrm/sioyek/issues/1283) 💬 18 | [ahrm/sioyek](https://github.com/ahrm/sioyek) | 10k | 🟡 help wanted | 2026-07-09 |  |
-| [Support Client Migration (Client Side)](https://github.com/microsoft/msquic/issues/1946) 💬 5 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-07-09 | ✍️ CLA · [📘 guide](https://github.com/microsoft/msquic/blob/HEAD/.github/CONTRIBUTING.md) |
 | [External datagram I/O for the connection state machine](https://github.com/microsoft/msquic/issues/6132) 💬 2 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-07-07 | ✍️ CLA · [📘 guide](https://github.com/microsoft/msquic/blob/HEAD/.github/CONTRIBUTING.md) |
 | [minor security issue: file descriptor leakage](https://github.com/DynamoRIO/dynamorio/issues/2884) 💬 1 | [DynamoRIO/dynamorio](https://github.com/DynamoRIO/dynamorio) | 3.2k | 🟢 beginner | 2026-07-07 | ✍️ CLA · [📘 guide](https://github.com/DynamoRIO/dynamorio/blob/HEAD/CONTRIBUTING.md) |
 | [\[YSQL\] Investigate point-lookup path for fully-bound hash PK IN queries](https://github.com/yugabyte/yugabyte-db/issues/32026) 💬 1 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.6k | 🟢 beginner | 2026-07-06 |  |
@@ -163,5 +160,3 @@
 | [\[BUG\] \[24.10.5\] ShadoWRT有时会导致主系统卡死，无法进入web管理页面](https://github.com/istoreos/istoreos/issues/2950) 💬 4 | [istoreos/istoreos](https://github.com/istoreos/istoreos) | 8.2k | 🟢 beginner | 2026-05-13 |  |
 | [Benchmark Mode: Recording FPS and MSPF values and providing Averages](https://github.com/xemu-project/xemu/issues/465) 💬 2 | [xemu-project/xemu](https://github.com/xemu-project/xemu) | 4.2k | 🟢 beginner | 2026-05-09 | [📘 guide](https://github.com/xemu-project/xemu/blob/HEAD/CONTRIBUTING.md) |
 | [Make required file paths relative to xemu.toml file so they are portable across machines](https://github.com/xemu-project/xemu/issues/2730) 💬 3 | [xemu-project/xemu](https://github.com/xemu-project/xemu) | 4.2k | 🟢 beginner | 2026-05-09 | [📘 guide](https://github.com/xemu-project/xemu/blob/HEAD/CONTRIBUTING.md) |
-| [Use lmdb for shader cache](https://github.com/xemu-project/xemu/issues/2746) 💬 1 | [xemu-project/xemu](https://github.com/xemu-project/xemu) | 4.2k | 🟢 beginner | 2026-05-05 | [📘 guide](https://github.com/xemu-project/xemu/blob/HEAD/CONTRIBUTING.md) |
-| [Plugging in a joystick after the game starts.](https://github.com/chocolate-doom/chocolate-doom/issues/653) 💬 3 | [chocolate-doom/chocolate-doom](https://github.com/chocolate-doom/chocolate-doom) | 2.5k | 🟢 beginner | 2026-05-05 | [📘 guide](https://github.com/chocolate-doom/chocolate-doom/blob/HEAD/.github/CONTRIBUTING.md) |
