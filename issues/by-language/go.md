@@ -1,10 +1,10 @@
 # Go issues
 
-**304** open issues (75 labeled for beginners) across **77** active Go projects.
+**302** open issues (75 labeled for beginners) across **77** active Go projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/go.xml)
 
-> Updated automatically on **2026-11-01 12:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-01 21:57 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,12 +12,12 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [all: flaky failures on netbsd/arm](https://github.com/golang/go/issues/73820) 💬 811 | [golang/go](https://github.com/golang/go) | 139.7k | 🟡 help wanted | 2026-11-01 | [📘 guide](https://github.com/golang/go/blob/HEAD/CONTRIBUTING.md) |
-| [runtime: flaky failures on NetBSD since CL 526118](https://github.com/golang/go/issues/62524) 💬 213 | [golang/go](https://github.com/golang/go) | 139.7k | 🟡 help wanted | 2026-11-01 | [📘 guide](https://github.com/golang/go/blob/HEAD/CONTRIBUTING.md) |
+| [all: flaky failures on netbsd/arm](https://github.com/golang/go/issues/73820) 💬 812 | [golang/go](https://github.com/golang/go) | 139.7k | 🟡 help wanted | 2026-11-01 | [📘 guide](https://github.com/golang/go/blob/HEAD/CONTRIBUTING.md) |
+| [runtime: flaky failures on NetBSD since CL 526118](https://github.com/golang/go/issues/62524) 💬 214 | [golang/go](https://github.com/golang/go) | 139.7k | 🟡 help wanted | 2026-11-01 | [📘 guide](https://github.com/golang/go/blob/HEAD/CONTRIBUTING.md) |
+| [cmd/pprof: TestDisasm failures](https://github.com/golang/go/issues/56574) 💬 77 | [golang/go](https://github.com/golang/go) | 139.7k | 🟡 help wanted | 2026-11-01 | [📘 guide](https://github.com/golang/go/blob/HEAD/CONTRIBUTING.md) |
 | [runtime: "unexpected signal during runtime execution" during bgscavenge on plan9](https://github.com/golang/go/issues/35456) 💬 105 | [golang/go](https://github.com/golang/go) | 139.7k | 🟡 help wanted | 2026-10-31 | [📘 guide](https://github.com/golang/go/blob/HEAD/CONTRIBUTING.md) |
 | [runtime: linux/s390x test timeout](https://github.com/golang/go/issues/60413) 💬 896 | [golang/go](https://github.com/golang/go) | 139.7k | 🟡 help wanted | 2026-10-31 | [📘 guide](https://github.com/golang/go/blob/HEAD/CONTRIBUTING.md) |
 | [Rootless docker failing with 'error setting rlimit type 7: operation not permitted: unknown'](https://github.com/kubernetes/minikube/issues/21547) 💬 13 | [kubernetes/minikube](https://github.com/kubernetes/minikube) | 32.2k | 🟡 help wanted | 2026-10-30 | [📘 guide](https://github.com/kubernetes/minikube/blob/HEAD/CONTRIBUTING.md) |
-| [cmd/pprof: TestDisasm failures](https://github.com/golang/go/issues/56574) 💬 76 | [golang/go](https://github.com/golang/go) | 139.7k | 🟡 help wanted | 2026-10-29 | [📘 guide](https://github.com/golang/go/blob/HEAD/CONTRIBUTING.md) |
 | [encoding/ascii85: Decode is wrong when the source is 1 or 5 bytes long](https://github.com/golang/go/issues/75590) 💬 9 | [golang/go](https://github.com/golang/go) | 139.7k | 🟡 help wanted | 2026-10-29 | [📘 guide](https://github.com/golang/go/blob/HEAD/CONTRIBUTING.md) |
 | [runtime:cpu1: TestPreemptionAfterSyscall/10µs failures](https://github.com/golang/go/issues/72138) 💬 132 | [golang/go](https://github.com/golang/go) | 139.7k | 🟡 help wanted | 2026-10-29 | [📘 guide](https://github.com/golang/go/blob/HEAD/CONTRIBUTING.md) |
 | [runtime/race: TestRace failures in RaceWaitGroupWrongAdd](https://github.com/golang/go/issues/64038) 💬 50 | [golang/go](https://github.com/golang/go) | 139.7k | 🟡 help wanted | 2026-10-29 | [📘 guide](https://github.com/golang/go/blob/HEAD/CONTRIBUTING.md) |
@@ -49,7 +49,7 @@
 | [Better metrics about sleep and group](https://github.com/grafana/k6/issues/921) 💬 2 | [grafana/k6](https://github.com/grafana/k6) | 32.1k | 🟡 help wanted | 2026-10-19 | ✍️ CLA · [📘 guide](https://github.com/grafana/k6/blob/HEAD/CONTRIBUTING.md) |
 | [Allow replication without auto-creating repositories on target registry (ECR templates support)](https://github.com/goharbor/harbor/issues/22842) 💬 4 | [goharbor/harbor](https://github.com/goharbor/harbor) | 29.7k | 🟡 help wanted | 2026-10-19 | 🔏 DCO · [📘 guide](https://github.com/goharbor/harbor/blob/HEAD/CONTRIBUTING.md) |
 | [move viper calls from packages into cmd to improve testability/resusablitily](https://github.com/kubernetes/minikube/issues/21670) 💬 5 | [kubernetes/minikube](https://github.com/kubernetes/minikube) | 32.2k | 🟡 help wanted | 2026-10-18 | [📘 guide](https://github.com/kubernetes/minikube/blob/HEAD/CONTRIBUTING.md) |
-| [Support for Network Flow Logging?](https://github.com/juanfont/headscale/issues/1687) 💬 12 | [juanfont/headscale](https://github.com/juanfont/headscale) | 45.2k | 🟡 help wanted | 2026-10-17 | ⚠️ AI restricted · [📘 guide](https://github.com/juanfont/headscale/blob/HEAD/CONTRIBUTING.md) |
+| [Support for Network Flow Logging?](https://github.com/juanfont/headscale/issues/1687) 💬 12 | [juanfont/headscale](https://github.com/juanfont/headscale) | 45.3k | 🟡 help wanted | 2026-10-17 | ⚠️ AI restricted · [📘 guide](https://github.com/juanfont/headscale/blob/HEAD/CONTRIBUTING.md) |
 | [StartHost failed : container addresses should have 2 values, got 3 values](https://github.com/kubernetes/minikube/issues/10079) 💬 22 | [kubernetes/minikube](https://github.com/kubernetes/minikube) | 32.2k | 🟡 help wanted | 2026-10-16 | [📘 guide](https://github.com/kubernetes/minikube/blob/HEAD/CONTRIBUTING.md) |
 | [Minikube start fails for nvidia gpus in compute only/ headless mode](https://github.com/kubernetes/minikube/issues/20934) 💬 5 | [kubernetes/minikube](https://github.com/kubernetes/minikube) | 32.2k | 🟡 help wanted | 2026-10-16 | [📘 guide](https://github.com/kubernetes/minikube/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: CSRF validation not working for parallel requests](https://github.com/oauth2-proxy/oauth2-proxy/issues/3258) 💬 11 | [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) | 15.3k | 🟡 help wanted | 2026-10-16 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/oauth2-proxy/oauth2-proxy/blob/HEAD/CONTRIBUTING.md) |
@@ -102,7 +102,7 @@
 | [Provide support for authentication with SPIFFE](https://github.com/kedacore/keda/issues/672) 💬 7 | [kedacore/keda](https://github.com/kedacore/keda) | 10.7k | 🟡 help wanted | 2026-10-04 | 🔏 DCO · [📘 guide](https://github.com/kedacore/keda/blob/HEAD/CONTRIBUTING.md) |
 | [Contributor guide for naming and conventions](https://github.com/kedacore/keda/issues/592) 💬 7 | [kedacore/keda](https://github.com/kedacore/keda) | 10.7k | 🟡 help wanted | 2026-10-04 | 🔏 DCO · [📘 guide](https://github.com/kedacore/keda/blob/HEAD/CONTRIBUTING.md) |
 | [\[Support\]: How to use allowed_groups query parameter when groups themselves contain commas?](https://github.com/oauth2-proxy/oauth2-proxy/issues/3528) 💬 1 | [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) | 15.3k | 🟡 help wanted | 2026-10-03 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/oauth2-proxy/oauth2-proxy/blob/HEAD/CONTRIBUTING.md) |
-| [Feature request: Webhooks](https://github.com/juanfont/headscale/issues/1543) 💬 14 | [juanfont/headscale](https://github.com/juanfont/headscale) | 45.2k | 🟡 help wanted | 2026-10-01 | ⚠️ AI restricted · [📘 guide](https://github.com/juanfont/headscale/blob/HEAD/CONTRIBUTING.md) |
+| [Feature request: Webhooks](https://github.com/juanfont/headscale/issues/1543) 💬 14 | [juanfont/headscale](https://github.com/juanfont/headscale) | 45.3k | 🟡 help wanted | 2026-10-01 | ⚠️ AI restricted · [📘 guide](https://github.com/juanfont/headscale/blob/HEAD/CONTRIBUTING.md) |
 | [Prometheus agent mode using more heap memory than regular mode.](https://github.com/prometheus/prometheus/issues/10431) 💬 29 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 66.9k | 🟡 help wanted | 2026-09-30 | 🔏 DCO · [📘 guide](https://github.com/prometheus/prometheus/blob/HEAD/CONTRIBUTING.md) |
 | [Old binaries are not available](https://github.com/goharbor/harbor/issues/22168) 💬 15 | [goharbor/harbor](https://github.com/goharbor/harbor) | 29.7k | 🟡 help wanted | 2026-09-30 | 🔏 DCO · [📘 guide](https://github.com/goharbor/harbor/blob/HEAD/CONTRIBUTING.md) |
 | [Feature Request: Add official support for PostgreSQL 16, 17, and 18 in Harbor Helm Chart](https://github.com/goharbor/harbor/issues/23562) 💬 6 | [goharbor/harbor](https://github.com/goharbor/harbor) | 29.7k | 🟡 help wanted | 2026-09-30 | 🔏 DCO · [📘 guide](https://github.com/goharbor/harbor/blob/HEAD/CONTRIBUTING.md) |
@@ -213,4 +213,4 @@
 | ["Multifactor Init Lifetime" should default to 0 when configuring external IdPs](https://github.com/zitadel/zitadel/issues/6595) 💬 6 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.5k | 🟢 beginner | 2026-07-30 | [📘 guide](https://github.com/zitadel/zitadel/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Manager on instance level organization context unclear](https://github.com/zitadel/zitadel/issues/6805) 💬 6 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.5k | 🟢 beginner | 2026-07-30 | [📘 guide](https://github.com/zitadel/zitadel/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 304 on the website.
+Showing the 200 most recently updated. See all 302 on the website.

@@ -1,10 +1,10 @@
 # Julia issues
 
-**55** open issues (42 labeled for beginners) across **16** active Julia projects.
+**54** open issues (41 labeled for beginners) across **16** active Julia projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/julia.xml)
 
-> Updated automatically on **2026-11-01 12:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-01 21:57 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -34,7 +34,6 @@
 | [ComplexF32 eigen can return 'NaN' unexpectedly](https://github.com/JuliaGPU/CUDA.jl/issues/2186) 💬 2 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟡 help wanted | 2026-10-19 |  |
 | [CUSPARSE: Float16 sparse arrays fail on arithmetic of opposite transpositions](https://github.com/JuliaGPU/CUDA.jl/issues/2284) | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟡 help wanted | 2026-10-19 |  |
 | [Wrong source paths in debug info](https://github.com/JuliaGPU/CUDA.jl/issues/2460) | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
-| [Naming inconsistencies in generic dense cuSOLVER functions](https://github.com/JuliaGPU/CUDA.jl/issues/3085) | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
 | [Document Mem.pin more explicitly to make it more findable](https://github.com/JuliaGPU/CUDA.jl/issues/1570) | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
 | [Base.stack is underperforming.](https://github.com/JuliaGPU/CUDA.jl/issues/2248) 💬 2 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
 | [Support CuDeviceArray construction with non-Int dims](https://github.com/JuliaGPU/CUDA.jl/issues/2846) 💬 1 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
