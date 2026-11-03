@@ -1,10 +1,10 @@
 # Lua issues
 
-**33** open issues (19 labeled for beginners) across **16** active Lua projects.
+**32** open issues (19 labeled for beginners) across **15** active Lua projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/lua.xml)
 
-> Updated automatically on **2026-11-03 00:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-03 13:36 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -20,8 +20,7 @@
 | [structured configuration for password retreival](https://github.com/avante-corp/avante.nvim/issues/3323) | [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) | 18.2k | 🟢 beginner | 2026-10-20 | [📘 guide](https://github.com/avante-corp/avante.nvim/blob/HEAD/CONTRIBUTING.md) |
 | [Implement LAN Multiplayer System And Mode](https://github.com/CorsixTH/CorsixTH/issues/386) 💬 54 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.6k | 🟡 help wanted | 2026-10-19 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
 | [feature: Apply session_cwd to session restore](https://github.com/carlos-algms/agentic.nvim/issues/325) 💬 1 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 645 | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
-| [🐛 migration needed: mobs speed enhancements](https://github.com/LandSandBoat/server/issues/4757) 💬 1 | [LandSandBoat/server](https://github.com/LandSandBoat/server) | 520 | 🟢 beginner | 2026-10-14 | [📘 guide](https://github.com/LandSandBoat/server/blob/HEAD/CONTRIBUTING.md) |
-| [\[GTAV Enhanced\] Reproducible client crash when consuming water/burger with ox_core](https://github.com/overextended/ox_inventory/issues/1977) 💬 2 | [overextended/ox_inventory](https://github.com/overextended/ox_inventory) | 563 | 🟡 help wanted | 2026-10-11 | ✍️ CLA · [📘 guide](https://github.com/overextended/ox_inventory/blob/HEAD/CONTRIBUTING.md) |
+| [🐛 migration needed: mobs speed enhancements](https://github.com/LandSandBoat/server/issues/4757) 💬 1 | [LandSandBoat/server](https://github.com/LandSandBoat/server) | 521 | 🟢 beginner | 2026-10-14 | [📘 guide](https://github.com/LandSandBoat/server/blob/HEAD/CONTRIBUTING.md) |
 | [\[Minor\] Ctrl+A Does not Highlight all text in entry box](https://github.com/PathOfBuildingCommunity/PathOfBuilding/issues/7147) 💬 4 | [PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) | 5.5k | 🟢 beginner | 2026-10-10 | [📘 guide](https://github.com/PathOfBuildingCommunity/PathOfBuilding/blob/HEAD/CONTRIBUTING.md) |
 | [Recipe for some icons / symbols configuration](https://github.com/hedyhli/outline.nvim/issues/164) 💬 1 | [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) | 1.1k | 🟡 help wanted | 2026-10-10 |  |
 | [\[Bug\] Missing room explosion animation](https://github.com/CorsixTH/CorsixTH/issues/2556) 💬 7 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.6k | 🟡 help wanted | 2026-10-08 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |

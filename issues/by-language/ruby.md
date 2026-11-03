@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-11-03 00:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-03 13:36 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Reconfigure Settings sidebar](https://github.com/AllYourBot/hostedgpt/issues/882) | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 513 | 🟢 beginner | 2026-11-02 | [📘 guide](https://github.com/AllYourBot/hostedgpt/blob/HEAD/CONTRIBUTING.md) |
+| [Add Blueprint markup language](https://github.com/github-linguist/linguist/issues/7270) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.8k | 🟢 beginner | 2026-11-03 | [📘 guide](https://github.com/github-linguist/linguist/blob/HEAD/CONTRIBUTING.md) |
 | [Add more Learning activities](https://github.com/TarteelAI/quranic-universal-library/issues/250) | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) | 1.1k | 🟡 help wanted | 2026-11-01 |  |
 | [Add Qalun data](https://github.com/TarteelAI/quranic-universal-library/issues/245) 💬 1 | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) | 1.1k | 🟡 help wanted | 2026-11-01 |  |
 | [Add Qumbul data](https://github.com/TarteelAI/quranic-universal-library/issues/246) | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) | 1.1k | 🟡 help wanted | 2026-11-01 |  |

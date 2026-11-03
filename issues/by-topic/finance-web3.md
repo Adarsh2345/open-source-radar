@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**45** open issues (18 labeled for beginners) across **11** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
+**44** open issues (18 labeled for beginners) across **10** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
 
-> Updated automatically on **2026-11-03 00:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-03 13:36 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,8 +10,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [\[Bug\]: Enable Banking with "imagin / CaixaBank" bank linking fails on desktop but works on mobile browser](https://github.com/actualbudget/actual/issues/8326) 💬 8 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.9k | 🟡 help wanted | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
+| [\[Serialize the transaction in ApplyStateTable::apply only when it is written\] (Version: \[xrpld 3.5.0\])](https://github.com/XRPLF/rippled/issues/8671) | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-11-03 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
 | [SIGSEGV in OSSL_PROVIDER_get0_provider_ctx while decoding a system CA public key](https://github.com/openssl/openssl/issues/33399) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 31.2k | 🟡 help wanted | 2026-11-02 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
-| [x_attrib: INTEGER value in subjectDirectoryAttributes printed as hex with a 'wrong integer type' error](https://github.com/openssl/openssl/issues/33425) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.2k | 🟡 help wanted | 2026-11-02 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [Outer ALPN without an ECH configuration is checked against the wrong list](https://github.com/openssl/openssl/issues/33428) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 31.2k | 🟡 help wanted | 2026-11-02 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: All Accounts totals do not match when a closed account has a balance](https://github.com/actualbudget/actual/issues/5413) 💬 7 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.9k | 🟢 beginner | 2026-11-02 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [Support ledger parameters in tx command and deprecate/remove transaction_entry](https://github.com/XRPLF/rippled/issues/2598) 💬 5 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-11-02 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
@@ -34,8 +35,6 @@
 | [Adds Futures Fill Model](https://github.com/QuantConnect/Lean/issues/4605) 💬 1 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 22.4k | 🟢 beginner | 2026-10-06 | [📘 guide](https://github.com/QuantConnect/Lean/blob/HEAD/CONTRIBUTING.md) |
 | [Adding FAEST](https://github.com/open-quantum-safe/liboqs/issues/2101) 💬 14 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-01 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
 | [Syncing archive node from era files](https://github.com/ethereum/go-ethereum/issues/35354) 💬 4 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51.5k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/ethereum/go-ethereum/blob/HEAD/.github/CONTRIBUTING.md) |
-| [\[Bug\]: Enable Banking with "imagin / CaixaBank" bank linking fails on desktop but works on mobile browser](https://github.com/actualbudget/actual/issues/8326) 💬 9 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.9k | 🟡 help wanted | 2026-09-13 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
-| [Add CI for jupyter notebook example 'workflow_by_code.ipynb'](https://github.com/microsoft/qlib/issues/1278) 💬 8 | [microsoft/qlib](https://github.com/microsoft/qlib) | 49.9k | 🟢 beginner | 2026-09-01 |  |
 | [Consider bounded CBMC proofs for liboqs-owned code](https://github.com/open-quantum-safe/liboqs/issues/2504) 💬 1 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-08-21 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Account linking process with Gocardless times out before completion](https://github.com/actualbudget/actual/issues/4460) 💬 21 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.9k | 🟢 beginner | 2026-08-04 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [TypeError: 'NoneType' object is not iterable](https://github.com/saleor/saleor/issues/17891) 💬 1 | [saleor/saleor](https://github.com/saleor/saleor) | 23.5k | 🟡 help wanted | 2026-08-04 | [📘 guide](https://github.com/saleor/saleor/blob/HEAD/CONTRIBUTING.md) |

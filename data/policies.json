@@ -8147,7 +8147,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-01T21:23:21+00:00"
+    "scanned_at": "2026-11-03T13:01:06+00:00"
   },
   "StylishThemes/GitHub-Dark": {
     "ai": "none",
@@ -8157,7 +8157,7 @@
     "files": [
       "AGENTS.md"
     ],
-    "scanned_at": "2026-10-28T21:53:01+00:00"
+    "scanned_at": "2026-11-03T13:01:06+00:00"
   },
   "Submitty/Submitty": {
     "ai": "none",
@@ -8168,7 +8168,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-28T21:53:01+00:00"
+    "scanned_at": "2026-11-03T13:01:06+00:00"
   },
   "SuiteCRM/SuiteCRM": {
     "ai": "none",
@@ -8179,7 +8179,7 @@
       ".github/CONTRIBUTING.md",
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-10-28T21:53:01+00:00"
+    "scanned_at": "2026-11-03T13:01:06+00:00"
   },
   "SuperManito/LinuxMirrors": {
     "ai": "none",
@@ -8189,7 +8189,15 @@
     "files": [
       ".github/CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-28T21:53:01+00:00"
+    "scanned_at": "2026-11-03T13:01:06+00:00"
+  },
+  "SuperMonster003/AutoJs6": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [],
+    "scanned_at": "2026-11-03T13:01:06+00:00"
   },
   "Superalgos/Superalgos": {
     "ai": "none",
@@ -13765,7 +13773,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-29T11:58:11+00:00"
+    "scanned_at": "2026-11-03T13:06:01+00:00"
   },
   "canopy-network/canopy": {
     "ai": "none",
@@ -13775,7 +13783,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-27T21:38:09+00:00"
+    "scanned_at": "2026-11-03T13:06:01+00:00"
   },
   "cantino/mcfly": {
     "ai": "none",
@@ -13791,7 +13799,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-27T21:38:09+00:00"
+    "scanned_at": "2026-11-03T13:06:01+00:00"
   },
   "capcom6/android-sms-gateway": {
     "ai": "none",
@@ -13810,7 +13818,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-13T01:15:03+00:00"
+    "scanned_at": "2026-11-03T13:06:01+00:00"
   },
   "capistrano/sshkit": {
     "ai": "none",
@@ -13831,7 +13839,7 @@
       ".github/CONTRIBUTING.md",
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-10-27T21:38:09+00:00"
+    "scanned_at": "2026-11-03T13:06:01+00:00"
   },
   "carbon-design-system/carbon": {
     "ai": "none",
@@ -13855,7 +13863,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-27T21:38:09+00:00"
+    "scanned_at": "2026-11-03T13:06:01+00:00"
   },
   "career-ops-hq/career-ops": {
     "ai": "disclose",
@@ -14407,7 +14415,7 @@
     "files": [
       ".github/CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-03T00:10:14+00:00"
+    "scanned_at": "2026-11-03T13:06:42+00:00"
   },
   "chroma-core/chroma": {
     "ai": "none",
@@ -14417,7 +14425,7 @@
     "files": [
       "AGENTS.md"
     ],
-    "scanned_at": "2026-11-03T00:10:14+00:00"
+    "scanned_at": "2026-11-03T13:06:42+00:00"
   },
   "chromebrew/chromebrew": {
     "ai": "none",
@@ -14428,7 +14436,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-03T00:10:14+00:00"
+    "scanned_at": "2026-11-03T13:06:42+00:00"
   },
   "chromedp/chromedp": {
     "ai": "none",
@@ -14450,7 +14458,7 @@
       "AI_POLICY.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-26T11:27:03+00:00"
+    "scanned_at": "2026-11-03T13:06:42+00:00"
   },
   "chubin/cheat.sh": {
     "ai": "none",
@@ -14460,7 +14468,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-03T00:10:14+00:00"
+    "scanned_at": "2026-11-03T13:06:42+00:00"
   },
   "chubin/wttr.in": {
     "ai": "none",
@@ -14468,7 +14476,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-29T11:58:52+00:00"
+    "scanned_at": "2026-11-03T13:06:42+00:00"
   },
   "chummer5a/chummer5a": {
     "ai": "none",
@@ -18310,7 +18318,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-01T21:33:59+00:00"
+    "scanned_at": "2026-11-03T13:10:56+00:00"
   },
   "erupts/erupt": {
     "ai": "none",
@@ -18319,9 +18327,10 @@
     "dco": false,
     "files": [
       ".github/CONTRIBUTING.md",
-      ".github/pull_request_template.md"
+      ".github/pull_request_template.md",
+      "AGENTS.md"
     ],
-    "scanned_at": "2026-11-01T21:33:59+00:00"
+    "scanned_at": "2026-11-03T13:10:56+00:00"
   },
   "esengine/DeepSeek-Reasonix": {
     "ai": "disclose",
@@ -18333,7 +18342,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-01T21:33:59+00:00"
+    "scanned_at": "2026-11-03T13:10:56+00:00"
   },
   "eslint/eslint": {
     "ai": "disclose",
@@ -18345,7 +18354,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-01T21:33:59+00:00"
+    "scanned_at": "2026-11-03T13:10:56+00:00"
   },
   "esnet/iperf": {
     "ai": "none",
@@ -18356,7 +18365,7 @@
       ".github/CONTRIBUTING.md",
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-11-01T21:34:04+00:00"
+    "scanned_at": "2026-11-03T13:10:56+00:00"
   },
   "esp8266/Arduino": {
     "ai": "none",
@@ -18364,7 +18373,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-25T20:04:34+00:00"
+    "scanned_at": "2026-11-03T13:10:56+00:00"
   },
   "espanso/espanso": {
     "ai": "none",
@@ -26044,7 +26053,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-29T12:11:17+00:00"
+    "scanned_at": "2026-11-03T13:18:54+00:00"
   },
   "libp2p/go-libp2p": {
     "ai": "none",
@@ -26063,7 +26072,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-19T22:02:58+00:00"
+    "scanned_at": "2026-11-03T13:18:54+00:00"
   },
   "librariesio/libraries.io": {
     "ai": "none",
@@ -26074,7 +26083,7 @@
       ".github/CONTRIBUTING.md",
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-10-27T21:51:20+00:00"
+    "scanned_at": "2026-11-03T13:18:54+00:00"
   },
   "libratbag/libratbag": {
     "ai": "none",
@@ -26082,7 +26091,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-27T21:51:20+00:00"
+    "scanned_at": "2026-11-03T13:18:54+00:00"
   },
   "libre-tube/LibreTube": {
     "ai": "none",
@@ -26092,7 +26101,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-28T11:51:34+00:00"
+    "scanned_at": "2026-11-03T13:18:54+00:00"
   },
   "librenms/librenms": {
     "ai": "none",
@@ -26111,7 +26120,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-28T11:51:34+00:00"
+    "scanned_at": "2026-11-03T13:18:54+00:00"
   },
   "libretime/libretime": {
     "ai": "none",
@@ -40412,7 +40421,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-29T22:30:34+00:00"
+    "scanned_at": "2026-11-03T13:33:49+00:00"
   },
   "ubicloud/ubicloud": {
     "ai": "none",
@@ -40420,7 +40429,17 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-29T22:30:34+00:00"
+    "scanned_at": "2026-11-03T13:33:49+00:00"
+  },
+  "ublue-os/bazzite": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [
+      ".github/pull_request_template.md"
+    ],
+    "scanned_at": "2026-11-03T13:33:49+00:00"
   },
   "ublue-os/bluefin": {
     "ai": "disclose",
@@ -40432,7 +40451,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-29T22:30:34+00:00"
+    "scanned_at": "2026-11-03T13:33:49+00:00"
   },
   "ublue-os/ucore": {
     "ai": "none",
@@ -40440,7 +40459,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-29T22:30:34+00:00"
+    "scanned_at": "2026-11-03T13:33:49+00:00"
   },
   "ubuntu-flutter-community/musicpod": {
     "ai": "none",
@@ -40448,7 +40467,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-29T22:30:34+00:00"
+    "scanned_at": "2026-11-03T13:33:49+00:00"
   },
   "ubuntu/app-center": {
     "ai": "none",
