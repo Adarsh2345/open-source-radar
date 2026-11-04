@@ -1,10 +1,10 @@
 # PHP issues
 
-**134** open issues (59 labeled for beginners) across **51** active PHP projects.
+**135** open issues (60 labeled for beginners) across **51** active PHP projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-11-04 13:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-04 23:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,10 +12,11 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Member sign-in list: group shared emails the way the database matches them](https://github.com/ChurchCRM/CRM/issues/11123) | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 983 | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
-| [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-11-03 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
+| [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
+| [Add all attendees to cart from the event view](https://github.com/ChurchCRM/CRM/issues/11157) | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 985 | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
+| [Family verify email: link to the member portal instead of a PDF](https://github.com/ChurchCRM/CRM/issues/11145) 💬 1 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 985 | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
+| [docs: Update event attendance / Did Not Attend documentation for new email, export, and permission changes](https://github.com/ChurchCRM/CRM/issues/9524) | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 985 | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Hebrew (he)](https://github.com/symfony/symfony/issues/64499) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-11-03 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
-| [Church name text hidden in sidebar but still shown on login page when a custom logo is uploaded](https://github.com/ChurchCRM/CRM/issues/10905) | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 983 | 🟢 beginner | 2026-11-03 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Armenian (hy)](https://github.com/symfony/symfony/issues/64481) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-31 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [\[Enhancement\]: Add timeframe parameters into wc_get_customer_total_spent](https://github.com/woocommerce/woocommerce/issues/32342) 💬 5 | [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) | 10.6k | 🟢 beginner | 2026-10-31 | ⚠️ AI restricted · [📘 guide](https://github.com/woocommerce/woocommerce/blob/HEAD/CONTRIBUTING.md) |
 | [Support for rotating rotating master key used for server-side encryption](https://github.com/nextcloud/server/issues/2964) 💬 7 | [nextcloud/server](https://github.com/nextcloud/server) | 37.4k | 🟡 help wanted | 2026-10-30 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nextcloud/server/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -82,7 +83,7 @@
 | [unnecessary folder in mobile app feed list](https://github.com/FreshRSS/FreshRSS/issues/2742) 💬 8 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.5k | 🟢 beginner | 2026-09-22 | [📘 guide](https://github.com/FreshRSS/FreshRSS/blob/HEAD/CONTRIBUTING.md) |
 | [Feat request: Contact conversations don't include anything they were cced or recipients of](https://github.com/freescout-help-desk/freescout/issues/5656) | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4.6k | 🟡 help wanted | 2026-09-22 |  |
 | [\[Bug\]: Web Updater’s "start update" button unreachable without scroll bar](https://github.com/nextcloud/server/issues/40624) 💬 3 | [nextcloud/server](https://github.com/nextcloud/server) | 37.4k | 🟢 beginner | 2026-09-21 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nextcloud/server/blob/HEAD/.github/CONTRIBUTING.md) |
-| [List LibreSign in beginner-friendly open source directories](https://github.com/LibreSign/libresign/issues/8284) 💬 3 | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 841 | 🟢 beginner | 2026-09-21 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |
+| [List LibreSign in beginner-friendly open source directories](https://github.com/LibreSign/libresign/issues/8284) 💬 3 | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 840 | 🟢 beginner | 2026-09-21 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |
 | [Chamilo automatic deployment - Ansible](https://github.com/chamilo/chamilo-lms/issues/2502) 💬 7 | [chamilo/chamilo-lms](https://github.com/chamilo/chamilo-lms) | 1k | 🟡 help wanted | 2026-09-17 | [📘 guide](https://github.com/chamilo/chamilo-lms/blob/HEAD/CONTRIBUTING.md) |
 | [Ollama cloud and webSearch](https://github.com/LLPhant/LLPhant/issues/421) | [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) | 1.7k | 🟡 help wanted | 2026-09-16 | [📘 guide](https://github.com/LLPhant/LLPhant/blob/HEAD/CONTRIBUTING.md) |
 | [Expand CalDAVRemoveEmptyValue.php to fix additional 'Unsupported VALUE parameter for DTEND property' errors th](https://github.com/nextcloud/server/issues/17554) 💬 7 | [nextcloud/server](https://github.com/nextcloud/server) | 37.4k | 🟢 beginner | 2026-09-15 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nextcloud/server/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -103,7 +104,7 @@
 | [Enhance Blueprint Stubs with PHPDoc to Eliminate PHPStan Warnings](https://github.com/laravel-shift/blueprint/issues/738) 💬 4 | [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) | 3.1k | 🟢 beginner | 2026-08-15 |  |
 | [\[Feature Request/Bug\] reordering feeds within a category](https://github.com/FreshRSS/FreshRSS/issues/3527) 💬 5 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.5k | 🟢 beginner | 2026-08-14 | [📘 guide](https://github.com/FreshRSS/FreshRSS/blob/HEAD/CONTRIBUTING.md) |
 | [Update bundled jQuery version to address older dependency warnings](https://github.com/LinkStackOrg/LinkStack/issues/995) 💬 1 | [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) | 3.9k | 🟢 beginner | 2026-08-11 | [📘 guide](https://github.com/LinkStackOrg/LinkStack/blob/HEAD/CONTRIBUTING.md) |
-| [Setup Onboarding Login-Flow (for Enforce 2FA)](https://github.com/WordPress/two-factor/issues/813) 💬 3 | [WordPress/two-factor](https://github.com/WordPress/two-factor) | 824 | 🟡 help wanted | 2026-08-10 | 🤖 disclose AI use |
+| [Setup Onboarding Login-Flow (for Enforce 2FA)](https://github.com/WordPress/two-factor/issues/813) 💬 3 | [WordPress/two-factor](https://github.com/WordPress/two-factor) | 825 | 🟡 help wanted | 2026-08-10 | 🤖 disclose AI use |
 | [docker UID/GID environment settings?](https://github.com/FreshRSS/FreshRSS/issues/2400) 💬 6 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.5k | 🟡 help wanted | 2026-08-09 | [📘 guide](https://github.com/FreshRSS/FreshRSS/blob/HEAD/CONTRIBUTING.md) |
 | [Scaled instances and the deletion problem](https://github.com/HaschekSolutions/pictshare/issues/80) 💬 8 | [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) | 951 | 🟡 help wanted | 2026-08-09 |  |
 | [Email address InlineEdit not working (Contact, Account, ...) in SuiteCRM 7.x](https://github.com/SuiteCRM/SuiteCRM/issues/9762) 💬 10 | [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) | 5.8k | 🟡 help wanted | 2026-08-04 | [📘 guide](https://github.com/SuiteCRM/SuiteCRM/blob/HEAD/.github/CONTRIBUTING.md) |

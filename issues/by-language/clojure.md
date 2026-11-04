@@ -1,10 +1,10 @@
 # Clojure issues
 
-**16** open issues (13 labeled for beginners) across **10** active Clojure projects.
+**15** open issues (12 labeled for beginners) across **10** active Clojure projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/clojure.xml)
 
-> Updated automatically on **2026-11-04 13:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-04 23:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,7 +13,6 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Zombie chrome-headless processes created on element export](https://github.com/penpot/penpot/issues/10339) 💬 5 | [penpot/penpot](https://github.com/penpot/penpot) | 62.1k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/penpot/penpot/blob/HEAD/CONTRIBUTING.md) |
-| [Context menu item are displayed on two lines when too long](https://github.com/penpot/penpot/issues/12320) 💬 2 | [penpot/penpot](https://github.com/penpot/penpot) | 62.1k | 🟢 beginner | 2026-10-28 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/penpot/penpot/blob/HEAD/CONTRIBUTING.md) |
 | [Show when a subscription or alert was skipped because it was empty](https://github.com/metabase/metabase/issues/80736) 💬 4 | [metabase/metabase](https://github.com/metabase/metabase) | 50.2k | 🟢 beginner | 2026-10-23 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [An authentication rule's remoteAddress should match a CIDR block, as the docs say](https://github.com/xtdb/xtdb/issues/6282) | [xtdb/xtdb](https://github.com/xtdb/xtdb) | 3.1k | 🟢 beginner | 2026-10-23 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/xtdb/xtdb/blob/HEAD/CONTRIBUTING.md) |
 | [Improve the Open Decklists' deckview.](https://github.com/mtgred/netrunner/issues/7890) 💬 1 | [mtgred/netrunner](https://github.com/mtgred/netrunner) | 986 | 🟢 beginner | 2026-10-19 | [📘 guide](https://github.com/mtgred/netrunner/blob/HEAD/CONTRIBUTING.md) |

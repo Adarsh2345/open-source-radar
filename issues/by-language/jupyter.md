@@ -1,10 +1,10 @@
 # Jupyter Notebook issues
 
-**26** open issues (17 labeled for beginners) across **12** active Jupyter Notebook projects.
+**28** open issues (19 labeled for beginners) across **13** active Jupyter Notebook projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/jupyter.xml)
 
-> Updated automatically on **2026-11-04 13:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-04 23:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,13 +12,15 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [UnvibeCode crashes on Windows in two different ways — here's how to fix both](https://github.com/FinanceFlash/unvibecode/issues/53) 💬 4 | [FinanceFlash/unvibecode](https://github.com/FinanceFlash/unvibecode) | 999 | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/FinanceFlash/unvibecode/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Support MultiIndex in the Web App](https://github.com/MAIF/shapash/issues/381) 💬 4 | [MAIF/shapash](https://github.com/MAIF/shapash) | 3.3k | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/MAIF/shapash/blob/HEAD/CONTRIBUTING.md) |
+| [Bug on display of labels of plot.features importances](https://github.com/MAIF/shapash/issues/282) 💬 1 | [MAIF/shapash](https://github.com/MAIF/shapash) | 3.3k | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/MAIF/shapash/blob/HEAD/CONTRIBUTING.md) |
+| [UnvibeCode crashes on Windows in two different ways — here's how to fix both](https://github.com/FinanceFlash/unvibecode/issues/53) 💬 4 | [FinanceFlash/unvibecode](https://github.com/FinanceFlash/unvibecode) | 1.1k | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/FinanceFlash/unvibecode/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Switch to PyDSSP](https://github.com/a-r-j/graphein/issues/243) 💬 2 | [a-r-j/graphein](https://github.com/a-r-j/graphein) | 1.2k | 🟢 beginner | 2026-10-27 |  |
-| [\[Issue\] Business Path Compiler crashes on valid LLM confidence value 'UNSUPPORTED'](https://github.com/FinanceFlash/unvibecode/issues/125) 💬 6 | [FinanceFlash/unvibecode](https://github.com/FinanceFlash/unvibecode) | 999 | 🟢 beginner | 2026-10-19 | [📘 guide](https://github.com/FinanceFlash/unvibecode/blob/HEAD/.github/CONTRIBUTING.md) |
+| [\[Issue\] Business Path Compiler crashes on valid LLM confidence value 'UNSUPPORTED'](https://github.com/FinanceFlash/unvibecode/issues/125) 💬 6 | [FinanceFlash/unvibecode](https://github.com/FinanceFlash/unvibecode) | 1.1k | 🟢 beginner | 2026-10-19 | [📘 guide](https://github.com/FinanceFlash/unvibecode/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Add example integration with Hamilton](https://github.com/evidentlyai/evidently/issues/802) 💬 2 | [evidentlyai/evidently](https://github.com/evidentlyai/evidently) | 8k | 🟡 help wanted | 2026-10-09 | [📘 guide](https://github.com/evidentlyai/evidently/blob/HEAD/CONTRIBUTING.md) |
 | [\[documentation\] show how to get hamilton running on snowpark](https://github.com/apache/hamilton/issues/56) 💬 4 | [apache/hamilton](https://github.com/apache/hamilton) | 2.6k | 🟢 beginner | 2026-10-02 | ✍️ CLA · [📘 guide](https://github.com/apache/hamilton/blob/HEAD/CONTRIBUTING.md) |
-| [\[Challenge 2026\]\[Issue\] Business Risk Findings conflate TYPE_CHECKING-only imports with real runtime dependenc](https://github.com/FinanceFlash/unvibecode/issues/150) | [FinanceFlash/unvibecode](https://github.com/FinanceFlash/unvibecode) | 999 | 🟢 beginner | 2026-09-17 | [📘 guide](https://github.com/FinanceFlash/unvibecode/blob/HEAD/.github/CONTRIBUTING.md) |
-| [\[Challenge 2026\]\[Issue\] Warn when built-in directory filters hide supported source files](https://github.com/FinanceFlash/unvibecode/issues/148) | [FinanceFlash/unvibecode](https://github.com/FinanceFlash/unvibecode) | 999 | 🟢 beginner | 2026-09-17 | [📘 guide](https://github.com/FinanceFlash/unvibecode/blob/HEAD/.github/CONTRIBUTING.md) |
+| [\[Challenge 2026\]\[Issue\] Business Risk Findings conflate TYPE_CHECKING-only imports with real runtime dependenc](https://github.com/FinanceFlash/unvibecode/issues/150) | [FinanceFlash/unvibecode](https://github.com/FinanceFlash/unvibecode) | 1.1k | 🟢 beginner | 2026-09-17 | [📘 guide](https://github.com/FinanceFlash/unvibecode/blob/HEAD/.github/CONTRIBUTING.md) |
+| [\[Challenge 2026\]\[Issue\] Warn when built-in directory filters hide supported source files](https://github.com/FinanceFlash/unvibecode/issues/148) | [FinanceFlash/unvibecode](https://github.com/FinanceFlash/unvibecode) | 1.1k | 🟢 beginner | 2026-09-17 | [📘 guide](https://github.com/FinanceFlash/unvibecode/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Output cells no longer collapse completely](https://github.com/jupyter/notebook/issues/7020) 💬 16 | [jupyter/notebook](https://github.com/jupyter/notebook) | 13.5k | 🟡 help wanted | 2026-09-01 | [📘 guide](https://github.com/jupyter/notebook/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature Request\]: Integrate Automated Data Validation Pipeline using 'Great Expectations' for Dataset Integri](https://github.com/Niketkumardheeryan/ML-CaPsule/issues/1504) 💬 26 | [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule) | 685 | 🟡 help wanted | 2026-08-19 | [📘 guide](https://github.com/Niketkumardheeryan/ML-CaPsule/blob/HEAD/CONTRIBUTING.md) |
 | [More transparent error messages when calling effect functions on un-fitted estimators](https://github.com/py-why/EconML/issues/686) 💬 1 | [py-why/EconML](https://github.com/py-why/EconML) | 4.8k | 🟡 help wanted | 2026-08-18 |  |

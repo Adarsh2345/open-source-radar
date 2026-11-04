@@ -1,10 +1,10 @@
 # CSS issues
 
-**37** open issues (34 labeled for beginners) across **4** active CSS projects.
+**36** open issues (33 labeled for beginners) across **4** active CSS projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/css.xml)
 
-> Updated automatically on **2026-11-04 13:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-04 23:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -40,7 +40,6 @@
 | [Fork, Commit, Merge - Medium Issue (Python)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8550) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 517 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Hard Issue (JavaScript/Jest)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8549) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 517 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Easy Issue (Rust)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8548) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 517 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
-| [\[ICON REQUEST\]: STACKIT](https://github.com/devicons/devicon/issues/2758) | [devicons/devicon](https://github.com/devicons/devicon) | 11.9k | 🟢 beginner | 2026-10-28 | [📘 guide](https://github.com/devicons/devicon/blob/HEAD/CONTRIBUTING.md) |
 | [\[ICON REQUEST\]: API Platform](https://github.com/devicons/devicon/issues/2139) 💬 2 | [devicons/devicon](https://github.com/devicons/devicon) | 11.9k | 🟢 beginner | 2026-10-28 | [📘 guide](https://github.com/devicons/devicon/blob/HEAD/CONTRIBUTING.md) |
 | [\[ICON REQUEST\]: Elysia js](https://github.com/devicons/devicon/issues/2373) 💬 2 | [devicons/devicon](https://github.com/devicons/devicon) | 11.9k | 🟢 beginner | 2026-10-28 | [📘 guide](https://github.com/devicons/devicon/blob/HEAD/CONTRIBUTING.md) |
 | [\[ICON REQUEST\]: Chocolatey](https://github.com/devicons/devicon/issues/2727) 💬 2 | [devicons/devicon](https://github.com/devicons/devicon) | 11.9k | 🟢 beginner | 2026-10-28 | [📘 guide](https://github.com/devicons/devicon/blob/HEAD/CONTRIBUTING.md) |

@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-11-04 13:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-04 23:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,8 +12,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Debug for SMTP on system's tenants](https://github.com/decidim/decidim/issues/6544) 💬 3 | [decidim/decidim](https://github.com/decidim/decidim) | 1.8k | 🟢 beginner | 2026-11-04 |  |
 | [Cortex XQL](https://github.com/github-linguist/linguist/issues/7304) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.8k | 🟢 beginner | 2026-11-03 | [📘 guide](https://github.com/github-linguist/linguist/blob/HEAD/CONTRIBUTING.md) |
-| [Add Blueprint markup language](https://github.com/github-linguist/linguist/issues/7270) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.8k | 🟢 beginner | 2026-11-03 | [📘 guide](https://github.com/github-linguist/linguist/blob/HEAD/CONTRIBUTING.md) |
 | [Add more Learning activities](https://github.com/TarteelAI/quranic-universal-library/issues/250) | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) | 1.1k | 🟡 help wanted | 2026-11-01 |  |
 | [Add Qalun data](https://github.com/TarteelAI/quranic-universal-library/issues/245) 💬 1 | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) | 1.1k | 🟡 help wanted | 2026-11-01 |  |
 | [Add Qumbul data](https://github.com/TarteelAI/quranic-universal-library/issues/246) | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) | 1.1k | 🟡 help wanted | 2026-11-01 |  |
@@ -24,7 +24,7 @@
 | [Adding Action Args to agent actions](https://github.com/activeagents/activeagent/issues/295) 💬 1 | [activeagents/activeagent](https://github.com/activeagents/activeagent) | 986 | 🟡 help wanted | 2026-10-24 |  |
 | [Current page's table of contents](https://github.com/freeCodeCamp/devdocs/issues/6) 💬 21 | [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) | 39.6k | 🟡 help wanted | 2026-10-20 | [📘 guide](https://github.com/freeCodeCamp/devdocs/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Mod deleting a comment removes the visual indication of upvoted](https://github.com/lobsters/lobsters/issues/2201) | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-10-19 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
-| [Rubocop Layout/LineLength](https://github.com/drwl/annotaterb/issues/261) 💬 5 | [drwl/annotaterb](https://github.com/drwl/annotaterb) | 628 | 🟡 help wanted | 2026-10-19 | [📘 guide](https://github.com/drwl/annotaterb/blob/HEAD/CONTRIBUTING.md) |
+| [Rubocop Layout/LineLength](https://github.com/drwl/annotaterb/issues/261) 💬 5 | [drwl/annotaterb](https://github.com/drwl/annotaterb) | 629 | 🟡 help wanted | 2026-10-19 | [📘 guide](https://github.com/drwl/annotaterb/blob/HEAD/CONTRIBUTING.md) |
 | [Please revisit the comma separated header collapsing decision.](https://github.com/lostisland/faraday/issues/1120) 💬 6 | [lostisland/faraday](https://github.com/lostisland/faraday) | 6k | 🟡 help wanted | 2026-10-11 | [📘 guide](https://github.com/lostisland/faraday/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Faraday Adapter Parallel Requests On Multiple Domains / Connections](https://github.com/lostisland/faraday/issues/805) 💬 6 | [lostisland/faraday](https://github.com/lostisland/faraday) | 6k | 🟡 help wanted | 2026-10-11 | [📘 guide](https://github.com/lostisland/faraday/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Thread::Backtrace::Location#label for top-level blocks includes filename instead of &lt;main&gt;](https://github.com/jruby/jruby/issues/5166) 💬 5 | [jruby/jruby](https://github.com/jruby/jruby) | 3.9k | 🟢 beginner | 2026-10-10 | [📘 guide](https://github.com/jruby/jruby/blob/HEAD/CONTRIBUTING.md) |
