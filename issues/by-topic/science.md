@@ -1,8 +1,8 @@
 # Science and research issues
 
-**59** open issues (38 labeled for beginners) across **20** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
+**60** open issues (39 labeled for beginners) across **20** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
 
-> Updated automatically on **2026-11-03 23:04 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-04 13:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,7 +10,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Wrong membrane stretch for main cell when rotated in editor](https://github.com/Revolutionary-Games/Thrive/issues/7468) | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.8k | 🟢 beginner | 2026-11-03 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
+| [Wrong membrane stretch for main cell when rotated in editor](https://github.com/Revolutionary-Games/Thrive/issues/7468) 💬 1 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.8k | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
+| [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16453) 💬 3 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6k | 🟢 beginner | 2026-11-02 | 🤖 disclose AI use · [📘 guide](https://github.com/stdlib-js/stdlib/blob/HEAD/CONTRIBUTING.md) |
 | [Turn STREAM_SEEK_* into 'enum class'](https://github.com/OpenRCT2/OpenRCT2/issues/27356) | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.5k | 🟢 beginner | 2026-10-31 | [📘 guide](https://github.com/OpenRCT2/OpenRCT2/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Refit in stations can fail if leading articulated part has 0 capacity](https://github.com/OpenTTD/OpenTTD/issues/11034) 💬 3 | [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) | 8.5k | 🟢 beginner | 2026-10-31 | [📘 guide](https://github.com/OpenTTD/OpenTTD/blob/HEAD/CONTRIBUTING.md) |
 | [Auto-evo exploring tool should list happened patch events for future reference](https://github.com/Revolutionary-Games/Thrive/issues/5667) 💬 6 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.8k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
@@ -59,7 +60,7 @@
 | [providing sample weights to glm.fit() and glm.fit.sparse()](https://github.com/tensorflow/probability/issues/252) 💬 1 | [tensorflow/probability](https://github.com/tensorflow/probability) | 4.4k | 🟢 beginner | 2026-06-22 | ✍️ CLA · [📘 guide](https://github.com/tensorflow/probability/blob/HEAD/CONTRIBUTING.md) |
 | [Cannot combine @simd and @threads on a loop](https://github.com/JuliaLang/julia/issues/32684) 💬 5 | [JuliaLang/julia](https://github.com/JuliaLang/julia) | 49.2k | 🟢 beginner | 2026-06-06 | 🤖 disclose AI use · [📘 guide](https://github.com/JuliaLang/julia/blob/HEAD/CONTRIBUTING.md) |
 | [Consider if the editor light level (day/night) buttons should default to day](https://github.com/Revolutionary-Games/Thrive/issues/6039) 💬 2 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.8k | 🟢 beginner | 2026-06-04 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
-| [Instruct mount to track objects with non-sidereal motion](https://github.com/Stellarium/stellarium/issues/1154) 💬 7 | [Stellarium/stellarium](https://github.com/Stellarium/stellarium) | 10.1k | 🟡 help wanted | 2026-05-30 | [📘 guide](https://github.com/Stellarium/stellarium/blob/HEAD/CONTRIBUTING.md) |
+| [Instruct mount to track objects with non-sidereal motion](https://github.com/Stellarium/stellarium/issues/1154) 💬 7 | [Stellarium/stellarium](https://github.com/Stellarium/stellarium) | 10.2k | 🟡 help wanted | 2026-05-30 | [📘 guide](https://github.com/Stellarium/stellarium/blob/HEAD/CONTRIBUTING.md) |
 | [Add a tutorial about storage and dangers of low storage causing negative ATP balance](https://github.com/Revolutionary-Games/Thrive/issues/5950) 💬 1 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.8k | 🟢 beginner | 2026-05-24 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
 | [Membrane types should give some macrolide resistance](https://github.com/Revolutionary-Games/Thrive/issues/5194) 💬 1 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.8k | 🟢 beginner | 2026-05-22 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
 | [Make sure that extinct entries aren't shown in the endosymbiosis candidates (verify bug report)](https://github.com/Revolutionary-Games/Thrive/issues/6656) 💬 4 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.8k | 🟢 beginner | 2026-05-22 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |

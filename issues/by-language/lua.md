@@ -1,10 +1,10 @@
 # Lua issues
 
-**32** open issues (19 labeled for beginners) across **15** active Lua projects.
+**33** open issues (20 labeled for beginners) across **15** active Lua projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/lua.xml)
 
-> Updated automatically on **2026-11-03 23:04 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-04 13:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Write a little web tool for encrypting API keys](https://github.com/public-transport/transitous/issues/2661) | [public-transport/transitous](https://github.com/public-transport/transitous) | 748 | 🟢 beginner | 2026-11-04 | 📄 AI policy |
 | [Corroy depth charge issues](https://github.com/beyond-all-reason/Beyond-All-Reason/issues/3845) 💬 3 | [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) | 4.3k | 🟢 beginner | 2026-11-02 | 🤖 disclose AI use · [📘 guide](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/HEAD/CONTRIBUTING.md) |
 | [Nano turrets stay permanently idle if tasked to assist something that's out of range](https://github.com/beyond-all-reason/Beyond-All-Reason/issues/2445) 💬 7 | [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) | 4.3k | 🟢 beginner | 2026-10-27 | 🤖 disclose AI use · [📘 guide](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/HEAD/CONTRIBUTING.md) |
 | [Gamepad/controller support](https://github.com/CorsixTH/CorsixTH/issues/3176) 💬 3 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.6k | 🟡 help wanted | 2026-10-25 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |

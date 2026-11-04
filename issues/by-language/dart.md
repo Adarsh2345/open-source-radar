@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/dart.xml)
 
-> Updated automatically on **2026-11-03 23:04 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-04 13:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -40,7 +40,7 @@
 | [Clean up feature controllers in Performance page](https://github.com/flutter/devtools/issues/5100) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
 | [Exit Offline Mode not restoring previous state](https://github.com/flutter/devtools/issues/5047) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
 | [DevTools, when left overnight, connected to app, causes device unresponsiveness.](https://github.com/flutter/devtools/issues/4995) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
-| [Port to KaiOS](https://github.com/localsend/localsend/issues/1511) 💬 4 | [localsend/localsend](https://github.com/localsend/localsend) | 97.2k | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/localsend/localsend/blob/HEAD/CONTRIBUTING.md) |
+| [Port to KaiOS](https://github.com/localsend/localsend/issues/1511) 💬 4 | [localsend/localsend](https://github.com/localsend/localsend) | 97.3k | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/localsend/localsend/blob/HEAD/CONTRIBUTING.md) |
 | [English translation](https://github.com/bepass-org/oblivion/issues/171) 💬 2 | [bepass-org/oblivion](https://github.com/bepass-org/oblivion) | 4.9k | 🟡 help wanted | 2026-10-09 |  |
 | [\[Feature Request\] implement a flickering method to introduce grayscale](https://github.com/fossasia/badgemagic-app/issues/1671) 💬 5 | [fossasia/badgemagic-app](https://github.com/fossasia/badgemagic-app) | 2k | 🟡 help wanted | 2026-10-08 |  |
 | [New way to show devices distribution](https://github.com/osociety/vernet/issues/36) 💬 1 | [osociety/vernet](https://github.com/osociety/vernet) | 562 | 🟢 beginner | 2026-10-05 | 📄 AI policy |
@@ -66,7 +66,7 @@
 | [gif 动态图打开后不会动态显示](https://github.com/fregie/pho/issues/28) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 | [📘 guide](https://github.com/fregie/pho/blob/HEAD/CONTRIBUTING.md) |
 | [希望可以加入收藏功能](https://github.com/fregie/pho/issues/5) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 | [📘 guide](https://github.com/fregie/pho/blob/HEAD/CONTRIBUTING.md) |
 | [可以支援繁體中文嗎?](https://github.com/fregie/pho/issues/76) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 | [📘 guide](https://github.com/fregie/pho/blob/HEAD/CONTRIBUTING.md) |
-| [Creation of duplicate nodes](https://github.com/Zverik/every_door/issues/605) 💬 24 | [Zverik/every_door](https://github.com/Zverik/every_door) | 566 | 🟡 help wanted | 2026-07-20 |  |
+| [Creation of duplicate nodes](https://github.com/Zverik/every_door/issues/605) 💬 24 | [Zverik/every_door](https://github.com/Zverik/every_door) | 567 | 🟡 help wanted | 2026-07-20 |  |
 | [\[content\] Add more flexible mechanism for 'FilesystemLoader' to ignore paths](https://github.com/schultek/jaspr/issues/789) | [schultek/jaspr](https://github.com/schultek/jaspr) | 2.5k | 🟢 beginner | 2026-07-16 | [📘 guide](https://github.com/schultek/jaspr/blob/HEAD/CONTRIBUTING.md) |
 | [Can you added TV Version armv7 + 64](https://github.com/ImranR98/Obtainium/issues/2924) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 21.2k | 🟡 help wanted | 2026-06-23 | 📄 AI policy · [📘 guide](https://github.com/ImranR98/Obtainium/blob/HEAD/docs/CONTRIBUTING.md) |
 | [\[typed_sql\] MariaDB and MySQL support](https://github.com/google/dart-neats/issues/330) | [google/dart-neats](https://github.com/google/dart-neats) | 512 | 🟡 help wanted | 2026-06-09 | ✍️ CLA · [📘 guide](https://github.com/google/dart-neats/blob/HEAD/CONTRIBUTING.md) |
@@ -74,6 +74,6 @@
 | [Browers plugin? (eg. Firefox)](https://github.com/authpass/authpass/issues/41) 💬 13 | [authpass/authpass](https://github.com/authpass/authpass) | 2.8k | 🟡 help wanted | 2026-05-29 | ✍️ CLA · [📘 guide](https://github.com/authpass/authpass/blob/HEAD/CONTRIBUTING.md) |
 | [allow customizing the quick-access symbol bar.](https://github.com/freeCodeCamp/mobile/issues/1661) 💬 1 | [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile) | 584 | 🟡 help wanted | 2026-05-25 |  |
 | [阅黑色背景右和下边会有一个白边](https://github.com/Anxcye/anx-reader/issues/93) 💬 4 | [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) | 9.2k | 🟡 help wanted | 2026-05-24 | [📘 guide](https://github.com/Anxcye/anx-reader/blob/HEAD/CONTRIBUTING.md) |
-| [Make a better icon](https://github.com/Zverik/every_door/issues/37) 💬 8 | [Zverik/every_door](https://github.com/Zverik/every_door) | 566 | 🟡 help wanted | 2026-05-23 |  |
+| [Make a better icon](https://github.com/Zverik/every_door/issues/37) 💬 8 | [Zverik/every_door](https://github.com/Zverik/every_door) | 567 | 🟡 help wanted | 2026-05-23 |  |
 | [feat: implement podcast sync api](https://github.com/ubuntu-flutter-community/musicpod/issues/36) 💬 6 | [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod) | 674 | 🟡 help wanted | 2026-05-20 |  |
 | [Add advanced repeater settings controls in app UI](https://github.com/zjs81/meshcore-open/issues/237) 💬 1 | [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) | 650 | 🟢 beginner | 2026-05-10 | [📘 guide](https://github.com/zjs81/meshcore-open/blob/HEAD/CONTRIBUTING.md) |

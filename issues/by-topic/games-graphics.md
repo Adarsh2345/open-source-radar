@@ -2,7 +2,7 @@
 
 **152** open issues (84 labeled for beginners) across **47** projects tagged with topics like `game`, `game-engine`, `gamedev`, `graphics`, `opengl`, `vulkan`.
 
-> Updated automatically on **2026-11-03 23:04 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-04 13:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,9 +10,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [PartDesign: Crash won't let me fuse two linked objects together (bug = user is not prevented from doing this)](https://github.com/FreeCAD/FreeCAD/issues/16025) 💬 13 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.1k | 🟡 help wanted | 2026-11-03 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
-| [Wrong membrane stretch for main cell when rotated in editor](https://github.com/Revolutionary-Games/Thrive/issues/7468) | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.8k | 🟢 beginner | 2026-11-03 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
-| [motion-doctrine: seam-gate speed-match is a ±0.1 s window average, so seam-stamp's default durations score 1.7](https://github.com/heygen-com/hyperframes/issues/7021) 💬 1 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 78.3k | 🟢 beginner | 2026-11-02 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/heygen-com/hyperframes/blob/HEAD/CONTRIBUTING.md) |
+| [PartDesign: Crash won't let me fuse two linked objects together (bug = user is not prevented from doing this)](https://github.com/FreeCAD/FreeCAD/issues/16025) 💬 13 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.1k | 🟡 help wanted | 2026-11-04 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
+| [Wrong membrane stretch for main cell when rotated in editor](https://github.com/Revolutionary-Games/Thrive/issues/7468) 💬 1 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.8k | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
+| [motion-doctrine: seam-gate speed-match is a ±0.1 s window average, so seam-stamp's default durations score 1.7](https://github.com/heygen-com/hyperframes/issues/7021) 💬 1 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 78.7k | 🟢 beginner | 2026-11-02 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/heygen-com/hyperframes/blob/HEAD/CONTRIBUTING.md) |
 | [Core: Generic Message '&lt;TopoShape&gt; TopoShapeExpansion.cpp(972): hasher mismatch' needs better wording for end](https://github.com/FreeCAD/FreeCAD/issues/24567) 💬 26 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.1k | 🟢 beginner | 2026-11-02 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [VarSet: Drag-n-drop properties between Groups](https://github.com/FreeCAD/FreeCAD/issues/28578) 💬 3 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.1k | 🟢 beginner | 2026-11-01 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [CAM: Simulator (new) artifacts showing on complex body due to an edgecase (algorithm lacks complexity for cert](https://github.com/FreeCAD/FreeCAD/issues/19368) 💬 14 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.1k | 🟡 help wanted | 2026-11-01 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
