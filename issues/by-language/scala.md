@@ -1,10 +1,10 @@
 # Scala issues
 
-**28** open issues (15 labeled for beginners) across **16** active Scala projects.
+**27** open issues (16 labeled for beginners) across **16** active Scala projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-11-04 23:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-06 13:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,10 +12,10 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [lint.ignore has no effect despite being documented as suppressing diagnostics](https://github.com/scalacenter/scalafix/issues/2521) 💬 1 | [scalacenter/scalafix](https://github.com/scalacenter/scalafix) | 877 | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/scalacenter/scalafix/blob/HEAD/CONTRIBUTING.md) |
+| [:memo: Fix/Add config section of deployment on kubernetes](https://github.com/apache/kyuubi/issues/5085) 💬 3 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-11-05 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/kyuubi/blob/HEAD/CONTRIBUTING.md) |
 | [chore: Improve cast MapType to String](https://github.com/apache/datafusion-comet/issues/4631) 💬 5 | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-11-01 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
-| [Deduplicate field-major struct append paths in shuffle spark_unsafe/row.rs](https://github.com/apache/datafusion-comet/issues/6977) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟡 help wanted | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [Deduplicate Legacy/Ansi/Try integer SUM accumulators in sum_int.rs](https://github.com/apache/datafusion-comet/issues/6976) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟡 help wanted | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
-| [Deduplicate spark_ceil and spark_floor and port floor's decimal boundary tests to ceil](https://github.com/apache/datafusion-comet/issues/6974) 💬 1 | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟡 help wanted | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [\[4.x\] Atomic reference types should use new Java features, if possible](https://github.com/monix/monix/issues/1560) 💬 6 | [monix/monix](https://github.com/monix/monix) | 1.9k | 🟡 help wanted | 2026-10-11 | [📘 guide](https://github.com/monix/monix/blob/HEAD/CONTRIBUTING.md) |
 | [Support Typst raw blocks](https://github.com/scalameta/scalafmt/issues/5245) 💬 3 | [scalameta/scalafmt](https://github.com/scalameta/scalafmt) | 1.5k | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/scalameta/scalafmt/blob/HEAD/CONTRIBUTING.md) |
 | [\[Improvement\] Update Spark Ranger plugin to 2.7.0](https://github.com/apache/kyuubi/issues/7234) 💬 2 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/kyuubi/blob/HEAD/CONTRIBUTING.md) |
@@ -26,7 +26,6 @@
 | [\[feature\]: Make methods like 'Kyo.collectAll' available in objects like 'Sync'](https://github.com/getkyo/kyo/issues/1640) 💬 2 | [getkyo/kyo](https://github.com/getkyo/kyo) | 822 | 🟢 beginner | 2026-08-28 | [📘 guide](https://github.com/getkyo/kyo/blob/HEAD/CONTRIBUTING.md) |
 | [\[actor\] Opt-in per-actor dead-letter queue for unprocessed messages on shutdown](https://github.com/getkyo/kyo/issues/1690) | [getkyo/kyo](https://github.com/getkyo/kyo) | 822 | 🟡 help wanted | 2026-08-28 | [📘 guide](https://github.com/getkyo/kyo/blob/HEAD/CONTRIBUTING.md) |
 | [\[feature\]: Kerberos auth for kyo-sql-postgres](https://github.com/getkyo/kyo/issues/1841) | [getkyo/kyo](https://github.com/getkyo/kyo) | 822 | 🟡 help wanted | 2026-08-28 | [📘 guide](https://github.com/getkyo/kyo/blob/HEAD/CONTRIBUTING.md) |
-| [OrganizeImports: regex alternation (\|) in groups config doesn't match imports correctly](https://github.com/scalacenter/scalafix/issues/2477) 💬 4 | [scalacenter/scalafix](https://github.com/scalacenter/scalafix) | 877 | 🟢 beginner | 2026-08-27 | [📘 guide](https://github.com/scalacenter/scalafix/blob/HEAD/CONTRIBUTING.md) |
 | [Board editor: possibly disable 960 Castling in standard](https://github.com/lichess-org/lila/issues/12926) 💬 9 | [lichess-org/lila](https://github.com/lichess-org/lila) | 18.9k | 🟢 beginner | 2026-08-15 | 🤖 disclose AI use · [📘 guide](https://github.com/lichess-org/lila/blob/HEAD/CONTRIBUTING.md) |
 | [Clean constructor parameters for 'Indexer' and 'ScalaCli'](https://github.com/scalameta/metals/issues/4788) 💬 6 | [scalameta/metals](https://github.com/scalameta/metals) | 2.3k | 🟢 beginner | 2026-08-12 | [📘 guide](https://github.com/scalameta/metals/blob/HEAD/CONTRIBUTING.md) |
 | [Add chicken-bit support to BOOM](https://github.com/riscv-boom/riscv-boom/issues/36) 💬 5 | [riscv-boom/riscv-boom](https://github.com/riscv-boom/riscv-boom) | 2.3k | 🟢 beginner | 2026-08-03 |  |

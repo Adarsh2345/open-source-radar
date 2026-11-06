@@ -1,8 +1,8 @@
 # Robotics issues
 
-**11** open issues (4 labeled for beginners) across **6** projects tagged with topics like `robotics`, `ros`, `ros2`, `drones`, `autonomous-vehicles`, `slam`.
+**10** open issues (4 labeled for beginners) across **5** projects tagged with topics like `robotics`, `ros`, `ros2`, `drones`, `autonomous-vehicles`, `slam`.
 
-> Updated automatically on **2026-11-04 23:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-06 13:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -20,4 +20,3 @@
 | [Run thread/address sanitizers in Nav2 System Tests CI](https://github.com/ros-navigation/navigation2/issues/6349) 💬 4 | [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2) | 5k | 🟡 help wanted | 2026-08-25 | 🔏 DCO · [📘 guide](https://github.com/ros-navigation/navigation2/blob/HEAD/CONTRIBUTING.md) |
 | [Sub: Vaccuum testing mode with RGB feedback](https://github.com/ArduPilot/ardupilot/issues/9828) 💬 5 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 16.3k | 🟢 beginner | 2026-06-05 | 🤖 disclose AI use · [📘 guide](https://github.com/ArduPilot/ardupilot/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Copter: easier test of benchtest the parachute](https://github.com/ArduPilot/ardupilot/issues/2339) 💬 6 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 16.3k | 🟢 beginner | 2026-05-15 | 🤖 disclose AI use · [📘 guide](https://github.com/ArduPilot/ardupilot/blob/HEAD/.github/CONTRIBUTING.md) |
-| [cant connect robot app to python controller](https://github.com/ob-f/OpenBot/issues/486) 💬 2 | [ob-f/OpenBot](https://github.com/ob-f/OpenBot) | 3.6k | 🟡 help wanted | 2026-05-09 | [📘 guide](https://github.com/ob-f/OpenBot/blob/HEAD/CONTRIBUTING.md) |
