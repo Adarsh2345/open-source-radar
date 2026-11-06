@@ -1,10 +1,10 @@
 # Jupyter Notebook issues
 
-**29** open issues (20 labeled for beginners) across **14** active Jupyter Notebook projects.
+**28** open issues (19 labeled for beginners) across **13** active Jupyter Notebook projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/jupyter.xml)
 
-> Updated automatically on **2026-11-06 13:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-06 22:47 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,10 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Bug on display of labels of plot.features importances](https://github.com/MAIF/shapash/issues/282) 💬 2 | [MAIF/shapash](https://github.com/MAIF/shapash) | 3.3k | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/MAIF/shapash/blob/HEAD/CONTRIBUTING.md) |
 | [Support MultiIndex in the Web App](https://github.com/MAIF/shapash/issues/381) 💬 4 | [MAIF/shapash](https://github.com/MAIF/shapash) | 3.3k | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/MAIF/shapash/blob/HEAD/CONTRIBUTING.md) |
-| [Bug on display of labels of plot.features importances](https://github.com/MAIF/shapash/issues/282) 💬 1 | [MAIF/shapash](https://github.com/MAIF/shapash) | 3.3k | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/MAIF/shapash/blob/HEAD/CONTRIBUTING.md) |
 | [UnvibeCode crashes on Windows in two different ways — here's how to fix both](https://github.com/FinanceFlash/unvibecode/issues/53) 💬 4 | [FinanceFlash/unvibecode](https://github.com/FinanceFlash/unvibecode) | 1.3k | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/FinanceFlash/unvibecode/blob/HEAD/.github/CONTRIBUTING.md) |
-| [\[Security patch\] tar.extractall](https://github.com/mlcommons/croissant/issues/1063) | [mlcommons/croissant](https://github.com/mlcommons/croissant) | 919 | 🟢 beginner | 2026-11-04 | ✍️ CLA · [📘 guide](https://github.com/mlcommons/croissant/blob/HEAD/CONTRIBUTING.md) |
 | [Switch to PyDSSP](https://github.com/a-r-j/graphein/issues/243) 💬 2 | [a-r-j/graphein](https://github.com/a-r-j/graphein) | 1.2k | 🟢 beginner | 2026-10-27 |  |
 | [\[Issue\] Business Path Compiler crashes on valid LLM confidence value 'UNSUPPORTED'](https://github.com/FinanceFlash/unvibecode/issues/125) 💬 6 | [FinanceFlash/unvibecode](https://github.com/FinanceFlash/unvibecode) | 1.3k | 🟢 beginner | 2026-10-19 | [📘 guide](https://github.com/FinanceFlash/unvibecode/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Add example integration with Hamilton](https://github.com/evidentlyai/evidently/issues/802) 💬 2 | [evidentlyai/evidently](https://github.com/evidentlyai/evidently) | 8k | 🟡 help wanted | 2026-10-09 | [📘 guide](https://github.com/evidentlyai/evidently/blob/HEAD/CONTRIBUTING.md) |
