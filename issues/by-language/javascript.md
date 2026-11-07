@@ -1,10 +1,10 @@
 # JavaScript issues
 
-**161** open issues (67 labeled for beginners) across **64** active JavaScript projects.
+**163** open issues (65 labeled for beginners) across **65** active JavaScript projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/javascript.xml)
 
-> Updated automatically on **2026-11-07 12:24 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-07 21:29 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Crashes when syncing in Ardia browser](https://github.com/openstyles/stylus/issues/2267) 💬 4 | [openstyles/stylus](https://github.com/openstyles/stylus) | 7k | 🟡 help wanted | 2026-11-07 | [📘 guide](https://github.com/openstyles/stylus/blob/HEAD/CONTRIBUTING.md) |
 | [Type tests for Meteor packages](https://github.com/meteor/meteor/issues/13676) 💬 12 | [meteor/meteor](https://github.com/meteor/meteor) | 44.8k | 🟢 beginner | 2026-11-06 | ✍️ CLA · [📘 guide](https://github.com/meteor/meteor/blob/HEAD/CONTRIBUTING.md) |
 | [Feature request: return a stored source in full ('ctx_get')](https://github.com/mksglu/context-mode/issues/1325) 💬 2 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 33.6k | 🟡 help wanted | 2026-11-06 | [📘 guide](https://github.com/mksglu/context-mode/blob/HEAD/CONTRIBUTING.md) |
 | [Access ECR URI Natively](https://github.com/serverless/serverless/issues/12018) 💬 4 | [serverless/serverless](https://github.com/serverless/serverless) | 46.9k | 🟡 help wanted | 2026-11-05 | [📘 guide](https://github.com/serverless/serverless/blob/HEAD/CONTRIBUTING.md) |
@@ -19,14 +20,13 @@
 | [Simplify sometimes misorders monomials and introduces explicit multiplication](https://github.com/josdejong/mathjs/issues/2055) 💬 4 | [josdejong/mathjs](https://github.com/josdejong/mathjs) | 15.1k | 🟡 help wanted | 2026-11-04 | [📘 guide](https://github.com/josdejong/mathjs/blob/HEAD/CONTRIBUTING.md) |
 | [\[ACTION\] Simplify Notion upload image affordance](https://github.com/PipedreamHQ/pipedream/issues/20537) 💬 3 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.8k | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/PipedreamHQ/pipedream/blob/HEAD/CONTRIBUTING.md) |
 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16470) 💬 3 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6k | 🟢 beginner | 2026-11-04 | 🤖 disclose AI use · [📘 guide](https://github.com/stdlib-js/stdlib/blob/HEAD/CONTRIBUTING.md) |
-| [Fix ordering before keys 0 and empty string](https://github.com/meteor/meteor/issues/14917) 💬 1 | [meteor/meteor](https://github.com/meteor/meteor) | 44.8k | 🟢 beginner | 2026-11-03 | ✍️ CLA · [📘 guide](https://github.com/meteor/meteor/blob/HEAD/CONTRIBUTING.md) |
-| [Keep bundle-visualizer hover effects inside its own SVG](https://github.com/meteor/meteor/issues/14927) 💬 1 | [meteor/meteor](https://github.com/meteor/meteor) | 44.8k | 🟢 beginner | 2026-11-03 | ✍️ CLA · [📘 guide](https://github.com/meteor/meteor/blob/HEAD/CONTRIBUTING.md) |
 | [Create Embedding](https://github.com/PipedreamHQ/pipedream/issues/22400) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.8k | 🟢 beginner | 2026-11-03 | [📘 guide](https://github.com/PipedreamHQ/pipedream/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: macOS 27 DND not detected – breaks still shown while Do Not Disturb is on](https://github.com/hovancik/stretchly/issues/1890) 💬 1 | [hovancik/stretchly](https://github.com/hovancik/stretchly) | 6.6k | 🟡 help wanted | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/hovancik/stretchly/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Click causes black screen and unresponsiveness](https://github.com/hovancik/stretchly/issues/1860) 💬 2 | [hovancik/stretchly](https://github.com/hovancik/stretchly) | 6.6k | 🟡 help wanted | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/hovancik/stretchly/blob/HEAD/CONTRIBUTING.md) |
 | [Adding $props in svelte5 reported an error.](https://github.com/antfu/eslint-config/issues/671) 💬 1 | [antfu/eslint-config](https://github.com/antfu/eslint-config) | 6.3k | 🟡 help wanted | 2026-11-03 |  |
 | [Request: Traffic.cv](https://github.com/simple-icons/simple-icons/issues/15116) 💬 2 | [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) | 26.2k | 🟢 beginner | 2026-11-02 | 🤖 disclose AI use · [📘 guide](https://github.com/simple-icons/simple-icons/blob/HEAD/CONTRIBUTING.md) |
 | [Nested derivatives fail](https://github.com/josdejong/mathjs/issues/3528) 💬 4 | [josdejong/mathjs](https://github.com/josdejong/mathjs) | 15.1k | 🟡 help wanted | 2026-11-02 | [📘 guide](https://github.com/josdejong/mathjs/blob/HEAD/CONTRIBUTING.md) |
+| [Add react-virtual support](https://github.com/downshift-js/downshift/issues/1654) 💬 3 | [downshift-js/downshift](https://github.com/downshift-js/downshift) | 12.3k | 🟡 help wanted | 2026-11-02 | [📘 guide](https://github.com/downshift-js/downshift/blob/HEAD/CONTRIBUTING.md) |
 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16453) 💬 3 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6k | 🟢 beginner | 2026-11-02 | 🤖 disclose AI use · [📘 guide](https://github.com/stdlib-js/stdlib/blob/HEAD/CONTRIBUTING.md) |
 | [🇯🇵 Japanese (ja) UI translation](https://github.com/jason5ng32/MyIP/issues/421) 💬 1 | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.3k | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/jason5ng32/MyIP/blob/HEAD/CONTRIBUTING.md) |
 | [Radar Chart Type](https://github.com/frappe/charts/issues/151) 💬 5 | [frappe/charts](https://github.com/frappe/charts) | 15.1k | 🟡 help wanted | 2026-10-31 |  |
@@ -90,6 +90,8 @@
 | [\[Help\] 值是正确的但是一直显示❌ JWT secret mismatch](https://github.com/maillab/cloud-mail/issues/545) 💬 4 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 15.5k | 🟡 help wanted | 2026-09-28 |  |
 | [\[p5.js 2.0+ Bug Report\]: Floats in strands shaders are always rounded to 4 decimals](https://github.com/processing/p5.js/issues/8884) 💬 16 | [processing/p5.js](https://github.com/processing/p5.js) | 24.3k | 🟡 help wanted | 2026-09-27 | ⚠️ AI restricted · [📘 guide](https://github.com/processing/p5.js/blob/HEAD/CONTRIBUTING.md) |
 | [noiseMode(SIMPLEX) add-on library](https://github.com/processing/p5.js/issues/6152) 💬 20 | [processing/p5.js](https://github.com/processing/p5.js) | 24.3k | 🟡 help wanted | 2026-09-22 | ⚠️ AI restricted · [📘 guide](https://github.com/processing/p5.js/blob/HEAD/CONTRIBUTING.md) |
+| [Keep Markup: the markup is removed if it's the last element](https://github.com/PrismJS/prism/issues/1618) 💬 1 | [PrismJS/prism](https://github.com/PrismJS/prism) | 13.1k | 🟡 help wanted | 2026-09-20 |  |
+| [Keep Markup and zero-length tags](https://github.com/PrismJS/prism/issues/1640) | [PrismJS/prism](https://github.com/PrismJS/prism) | 13.1k | 🟡 help wanted | 2026-09-20 |  |
 | [\[Bug\] Opening popup triggers extension mode flip](https://github.com/openstyles/stylus/issues/1810) 💬 6 | [openstyles/stylus](https://github.com/openstyles/stylus) | 7k | 🟡 help wanted | 2026-09-18 | [📘 guide](https://github.com/openstyles/stylus/blob/HEAD/CONTRIBUTING.md) |
 | [\[Help\] 可以接收邮件，无法发送邮件。](https://github.com/maillab/cloud-mail/issues/581) | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 15.5k | 🟡 help wanted | 2026-09-17 |  |
 | [Ask Me counter counts down as questions are answered (5/5 to 1/5), which reads as questions disappearing](https://github.com/HarnessMD/munder-difflin/issues/267) 💬 2 | [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) | 9.4k | 🟢 beginner | 2026-09-16 | [📘 guide](https://github.com/HarnessMD/munder-difflin/blob/HEAD/CONTRIBUTING.md) |
@@ -102,9 +104,9 @@
 | [\[Help\] worker已经设置admin，但是登录后，还是普通用户，不是管理员？](https://github.com/maillab/cloud-mail/issues/532) 💬 3 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 15.5k | 🟡 help wanted | 2026-09-06 |  |
 | [\[Help\] worker配置了admin，但部署登录后，admin是普通用户，没有系统设置！](https://github.com/maillab/cloud-mail/issues/567) | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 15.5k | 🟡 help wanted | 2026-09-05 |  |
 | [\[Help\] cloudflare里面的电子邮件路由消失了，咋办？](https://github.com/maillab/cloud-mail/issues/563) 💬 3 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 15.5k | 🟡 help wanted | 2026-09-05 |  |
-| [i18n: add a Swedish (sv) market mode](https://github.com/career-ops-hq/career-ops/issues/3847) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 80.8k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use · [📘 guide](https://github.com/career-ops-hq/career-ops/blob/HEAD/CONTRIBUTING.md) |
+| [i18n: add a Swedish (sv) market mode](https://github.com/career-ops-hq/career-ops/issues/3847) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 80.9k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use · [📘 guide](https://github.com/career-ops-hq/career-ops/blob/HEAD/CONTRIBUTING.md) |
 | [Generate PDF/A compliant document](https://github.com/parallax/jsPDF/issues/2882) 💬 6 | [parallax/jsPDF](https://github.com/parallax/jsPDF) | 31.3k | 🟡 help wanted | 2026-09-03 | [📘 guide](https://github.com/parallax/jsPDF/blob/HEAD/CONTRIBUTING.md) |
-| ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/react/react/issues/17355) 💬 154 | [react/react](https://github.com/react/react) | 252.3k | 🟢 beginner | 2026-09-02 | ✍️ CLA · [📘 guide](https://github.com/react/react/blob/HEAD/CONTRIBUTING.md) |
+| ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/react/react/issues/17355) 💬 154 | [react/react](https://github.com/react/react) | 252.4k | 🟢 beginner | 2026-09-02 | ✍️ CLA · [📘 guide](https://github.com/react/react/blob/HEAD/CONTRIBUTING.md) |
 | [Backmerging Module Federation v2](https://github.com/webpack/webpack/issues/18809) 💬 20 | [webpack/webpack](https://github.com/webpack/webpack) | 66k | 🟡 help wanted | 2026-09-02 | [📘 guide](https://github.com/webpack/webpack/blob/HEAD/CONTRIBUTING.md) |
 | [Module Federation Share should support layers/issuerLayer](https://github.com/webpack/webpack/issues/18988) 💬 9 | [webpack/webpack](https://github.com/webpack/webpack) | 66k | 🟡 help wanted | 2026-09-02 | [📘 guide](https://github.com/webpack/webpack/blob/HEAD/CONTRIBUTING.md) |
 | [📝 Docs: Give props to non-OpenCollective sponsors, services](https://github.com/mochajs/mocha/issues/3627) 💬 7 | [mochajs/mocha](https://github.com/mochajs/mocha) | 22.9k | 🟢 beginner | 2026-09-02 | ✍️ CLA · [📘 guide](https://github.com/mochajs/mocha/blob/HEAD/.github/CONTRIBUTING.md) |

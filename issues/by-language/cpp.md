@@ -1,10 +1,10 @@
 # C++ issues
 
-**328** open issues (112 labeled for beginners) across **102** active C++ projects.
+**327** open issues (111 labeled for beginners) across **102** active C++ projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/cpp.xml)
 
-> Updated automatically on **2026-11-07 12:24 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-07 21:29 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -47,8 +47,8 @@
 | [SQLite log writer should sanitize its table name](https://github.com/zeek/zeek/issues/5933) 💬 1 | [zeek/zeek](https://github.com/zeek/zeek) | 8.2k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/zeek/zeek/blob/HEAD/CONTRIBUTING.md) |
 | [NaN quotes/rates are accepted by FlatForward and ZeroCurve and propagate silently to bond NPV (while an empty](https://github.com/lballabio/QuantLib/issues/2995) 💬 9 | [lballabio/QuantLib](https://github.com/lballabio/QuantLib) | 7.7k | 🟡 help wanted | 2026-11-03 | [📘 guide](https://github.com/lballabio/QuantLib/blob/HEAD/CONTRIBUTING.md) |
 | [\[Serialize the transaction in ApplyStateTable::apply only when it is written\] (Version: \[xrpld 3.5.0\])](https://github.com/XRPLF/rippled/issues/8671) | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-11-03 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
-| [Graphics card does not appear available to be selected. Instead, integrated graphics appear twice.](https://github.com/Djihads80/Eglantine/issues/63) 💬 1 | [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) | 5k | 🟡 help wanted | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/Djihads80/Eglantine/blob/HEAD/CONTRIBUTING.md) |
-| [MKW: 0xC0000094 (INT_DIVIDE_BY_ZERO) in the ea33ad1 lineage blocks the sparse/VRAM fixes from working](https://github.com/Djihads80/Eglantine/issues/55) 💬 5 | [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) | 5k | 🟡 help wanted | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/Djihads80/Eglantine/blob/HEAD/CONTRIBUTING.md) |
+| [Graphics card does not appear available to be selected. Instead, integrated graphics appear twice.](https://github.com/Djihads80/Eglantine/issues/63) 💬 1 | [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) | 5.2k | 🟡 help wanted | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/Djihads80/Eglantine/blob/HEAD/CONTRIBUTING.md) |
+| [MKW: 0xC0000094 (INT_DIVIDE_BY_ZERO) in the ea33ad1 lineage blocks the sparse/VRAM fixes from working](https://github.com/Djihads80/Eglantine/issues/55) 💬 5 | [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) | 5.2k | 🟡 help wanted | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/Djihads80/Eglantine/blob/HEAD/CONTRIBUTING.md) |
 | [Clickhouse get lost when multiple CH instances are running on the same host](https://github.com/ClickHouse/ClickHouse/issues/2434) 💬 1 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 50.8k | 🟡 help wanted | 2026-11-02 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/ClickHouse/ClickHouse/blob/HEAD/CONTRIBUTING.md) |
 | [brew services or lanuchctl support in the macOS](https://github.com/ClickHouse/ClickHouse/issues/61756) 💬 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 50.8k | 🟡 help wanted | 2026-11-02 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/ClickHouse/ClickHouse/blob/HEAD/CONTRIBUTING.md) |
 | [using sumMap efficiently](https://github.com/ClickHouse/ClickHouse/issues/62535) 💬 5 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 50.8k | 🟡 help wanted | 2026-11-02 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/ClickHouse/ClickHouse/blob/HEAD/CONTRIBUTING.md) |
@@ -65,7 +65,7 @@
 | [Need reliable commitment for maintainers.](https://github.com/cp-algorithms/cp-algorithms/issues/1489) 💬 14 | [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) | 11.5k | 🟡 help wanted | 2026-10-26 | 🤖 disclose AI use · [📘 guide](https://github.com/cp-algorithms/cp-algorithms/blob/HEAD/CONTRIBUTING.md) |
 | [Better docs/name needed for "multi-threaded" benchmarking](https://github.com/google/benchmark/issues/813) 💬 2 | [google/benchmark](https://github.com/google/benchmark) | 10.5k | 🟡 help wanted | 2026-10-26 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/google/benchmark/blob/HEAD/CONTRIBUTING.md) |
 | [Add testing for special_id/special_type weapon filters](https://github.com/wesnoth/wesnoth/issues/4482) 💬 4 | [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) | 7k | 🟢 beginner | 2026-10-26 | [📘 guide](https://github.com/wesnoth/wesnoth/blob/HEAD/CONTRIBUTING.md) |
-| [Feature Request: support the multi-modal Bagel model](https://github.com/ggml-org/llama.cpp/issues/17861) 💬 3 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 133.6k | 🟡 help wanted | 2026-10-25 | ⚠️ AI restricted · [📘 guide](https://github.com/ggml-org/llama.cpp/blob/HEAD/CONTRIBUTING.md) |
+| [Feature Request: support the multi-modal Bagel model](https://github.com/ggml-org/llama.cpp/issues/17861) 💬 3 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 133.7k | 🟡 help wanted | 2026-10-25 | ⚠️ AI restricted · [📘 guide](https://github.com/ggml-org/llama.cpp/blob/HEAD/CONTRIBUTING.md) |
 | [saved position slowly drifts down](https://github.com/mumble-voip/mumble/issues/7112) 💬 6 | [mumble-voip/mumble](https://github.com/mumble-voip/mumble) | 8.4k | 🟡 help wanted | 2026-10-25 |  |
 | [Continued issues with the shell extension](https://github.com/microsoft/terminal/issues/14185) 💬 47 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105.3k | 🟡 help wanted | 2026-10-24 | 🤖 disclose AI use · [📘 guide](https://github.com/microsoft/terminal/blob/HEAD/CONTRIBUTING.md) |
 | [webdav 删除文件报错，实际已经删除。文件夹和文件按名称排序异常](https://github.com/filecxx/FileCentipede/issues/656) 💬 1 | [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) | 10.9k | 🟢 beginner | 2026-10-24 |  |
@@ -208,9 +208,9 @@
 | [Signed releases](https://github.com/envoyproxy/envoy/issues/14076) 💬 19 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29.2k | 🟡 help wanted | 2026-09-08 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/envoyproxy/envoy/blob/HEAD/CONTRIBUTING.md) |
 | [clang-tidy: enable performance-*](https://github.com/alibaba/zvec/issues/291) 💬 3 | [alibaba/zvec](https://github.com/alibaba/zvec) | 16.2k | 🟡 help wanted | 2026-09-08 | [📘 guide](https://github.com/alibaba/zvec/blob/HEAD/CONTRIBUTING.md) |
 | [clang-tidy: enable clang-analyzer-*](https://github.com/alibaba/zvec/issues/292) | [alibaba/zvec](https://github.com/alibaba/zvec) | 16.2k | 🟡 help wanted | 2026-09-08 | [📘 guide](https://github.com/alibaba/zvec/blob/HEAD/CONTRIBUTING.md) |
-| [llama cpp server cant open to public](https://github.com/ggml-org/llama.cpp/issues/6268) 💬 8 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 133.6k | 🟢 beginner | 2026-09-06 | ⚠️ AI restricted · [📘 guide](https://github.com/ggml-org/llama.cpp/blob/HEAD/CONTRIBUTING.md) |
+| [llama cpp server cant open to public](https://github.com/ggml-org/llama.cpp/issues/6268) 💬 8 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 133.7k | 🟢 beginner | 2026-09-06 | ⚠️ AI restricted · [📘 guide](https://github.com/ggml-org/llama.cpp/blob/HEAD/CONTRIBUTING.md) |
 | [Fallback code paths with "SIMD Everywhere"](https://github.com/simdjson/simdjson/issues/1091) 💬 6 | [simdjson/simdjson](https://github.com/simdjson/simdjson) | 24.5k | 🟢 beginner | 2026-09-06 | 📄 AI policy · [📘 guide](https://github.com/simdjson/simdjson/blob/HEAD/CONTRIBUTING.md) |
 | [Add option for voice over language](https://github.com/diasurgical/DevilutionX/issues/5742) 💬 2 | [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) | 10k | 🟢 beginner | 2026-09-06 | [📘 guide](https://github.com/diasurgical/DevilutionX/blob/HEAD/docs/CONTRIBUTING.md) |
 | [\[BUG\] Python groupby rolling aggregations return index inconsistent with pandas](https://github.com/NVIDIA/cudf/issues/10249) 💬 6 | [NVIDIA/cudf](https://github.com/NVIDIA/cudf) | 9.8k | 🟢 beginner | 2026-09-06 | ⚠️ AI restricted · [📘 guide](https://github.com/NVIDIA/cudf/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 328 on the website.
+Showing the 200 most recently updated. See all 327 on the website.
