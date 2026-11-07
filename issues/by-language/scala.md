@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-11-06 22:47 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-07 12:24 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -26,7 +26,7 @@
 | [\[feature\]: Make methods like 'Kyo.collectAll' available in objects like 'Sync'](https://github.com/getkyo/kyo/issues/1640) 💬 2 | [getkyo/kyo](https://github.com/getkyo/kyo) | 822 | 🟢 beginner | 2026-08-28 | [📘 guide](https://github.com/getkyo/kyo/blob/HEAD/CONTRIBUTING.md) |
 | [\[actor\] Opt-in per-actor dead-letter queue for unprocessed messages on shutdown](https://github.com/getkyo/kyo/issues/1690) | [getkyo/kyo](https://github.com/getkyo/kyo) | 822 | 🟡 help wanted | 2026-08-28 | [📘 guide](https://github.com/getkyo/kyo/blob/HEAD/CONTRIBUTING.md) |
 | [\[feature\]: Kerberos auth for kyo-sql-postgres](https://github.com/getkyo/kyo/issues/1841) | [getkyo/kyo](https://github.com/getkyo/kyo) | 822 | 🟡 help wanted | 2026-08-28 | [📘 guide](https://github.com/getkyo/kyo/blob/HEAD/CONTRIBUTING.md) |
-| [Board editor: possibly disable 960 Castling in standard](https://github.com/lichess-org/lila/issues/12926) 💬 9 | [lichess-org/lila](https://github.com/lichess-org/lila) | 18.9k | 🟢 beginner | 2026-08-15 | 🤖 disclose AI use · [📘 guide](https://github.com/lichess-org/lila/blob/HEAD/CONTRIBUTING.md) |
+| [Board editor: possibly disable 960 Castling in standard](https://github.com/lichess-org/lila/issues/12926) 💬 9 | [lichess-org/lila](https://github.com/lichess-org/lila) | 19k | 🟢 beginner | 2026-08-15 | 🤖 disclose AI use · [📘 guide](https://github.com/lichess-org/lila/blob/HEAD/CONTRIBUTING.md) |
 | [Clean constructor parameters for 'Indexer' and 'ScalaCli'](https://github.com/scalameta/metals/issues/4788) 💬 6 | [scalameta/metals](https://github.com/scalameta/metals) | 2.3k | 🟢 beginner | 2026-08-12 | [📘 guide](https://github.com/scalameta/metals/blob/HEAD/CONTRIBUTING.md) |
 | [Add chicken-bit support to BOOM](https://github.com/riscv-boom/riscv-boom/issues/36) 💬 5 | [riscv-boom/riscv-boom](https://github.com/riscv-boom/riscv-boom) | 2.3k | 🟢 beginner | 2026-08-03 |  |
 | [\[EPIC\] Replace hand-rolled native code with existing arrow-rs kernels](https://github.com/apache/datafusion-comet/issues/5104) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-08-03 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |

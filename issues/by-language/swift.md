@@ -1,10 +1,10 @@
 # Swift issues
 
-**106** open issues (52 labeled for beginners) across **54** active Swift projects.
+**106** open issues (52 labeled for beginners) across **53** active Swift projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/swift.xml)
 
-> Updated automatically on **2026-11-06 22:47 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-07 12:24 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [\[FEATURE REQUEST\] Localization: Chinese (Simplified)](https://github.com/StikDebug/StikDebug/issues/378) 💬 2 | [StikDebug/StikDebug](https://github.com/StikDebug/StikDebug) | 3k | 🟡 help wanted | 2026-11-06 | 🤖 disclose AI use |
+| [Dock restore loses transferred panels when persisted workspace IDs collide](https://github.com/manaflow-ai/cmux/issues/16125) 💬 3 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 28.7k | 🟡 help wanted | 2026-11-07 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manaflow-ai/cmux/blob/HEAD/CONTRIBUTING.md) |
 | [Feature request- how the player will look in the lockscreen](https://github.com/TortugaPower/BookPlayer/issues/864) 💬 7 | [TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer) | 2.3k | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/TortugaPower/BookPlayer/blob/HEAD/CONTRIBUTING.md) |
 | [Workspaces and terminals have no creation time: the daemon never records one, so the sidebar cannot show an ag](https://github.com/manaflow-ai/cmux/issues/15855) 💬 2 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 28.7k | 🟡 help wanted | 2026-11-04 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manaflow-ai/cmux/blob/HEAD/CONTRIBUTING.md) |
 | [Mobile agent chat: define and extend discovery and transcript fallback coverage beyond Claude/Codex](https://github.com/manaflow-ai/cmux/issues/15663) 💬 4 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 28.7k | 🟡 help wanted | 2026-11-04 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manaflow-ai/cmux/blob/HEAD/CONTRIBUTING.md) |
@@ -46,9 +46,9 @@
 | [CFPrefs provider](https://github.com/apple/swift-configuration/issues/33) | [apple/swift-configuration](https://github.com/apple/swift-configuration) | 817 | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/apple/swift-configuration/blob/HEAD/CONTRIBUTING.md) |
 | [Support other Date decoding strategies than ISO8601](https://github.com/apple/swift-configuration/issues/25) | [apple/swift-configuration](https://github.com/apple/swift-configuration) | 817 | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/apple/swift-configuration/blob/HEAD/CONTRIBUTING.md) |
 | [Menu labels may be missing (iOS 16)](https://github.com/mozilla-mobile/firefox-ios/issues/32205) 💬 5 | [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 13.1k | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/mozilla-mobile/firefox-ios/blob/HEAD/CONTRIBUTING.md) |
-| [Context menu items missing inside OneDrive folder on macOS](https://github.com/nikgrbn/finder-menu/issues/29) 💬 1 | [nikgrbn/finder-menu](https://github.com/nikgrbn/finder-menu) | 542 | 🟡 help wanted | 2026-10-13 |  |
-| [Would a version for iPadOS be feasible?](https://github.com/awaseem/foqos/issues/287) 💬 10 | [awaseem/foqos](https://github.com/awaseem/foqos) | 917 | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/awaseem/foqos/blob/HEAD/CONTRIBUTING.md) |
-| [All file names to lower case](https://github.com/lab421/forel/issues/60) 💬 1 | [lab421/forel](https://github.com/lab421/forel) | 924 | 🟡 help wanted | 2026-10-09 | 🤖 disclose AI use |
+| [Context menu items missing inside OneDrive folder on macOS](https://github.com/nikgrbn/finder-menu/issues/29) 💬 1 | [nikgrbn/finder-menu](https://github.com/nikgrbn/finder-menu) | 543 | 🟡 help wanted | 2026-10-13 |  |
+| [Would a version for iPadOS be feasible?](https://github.com/awaseem/foqos/issues/287) 💬 10 | [awaseem/foqos](https://github.com/awaseem/foqos) | 918 | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/awaseem/foqos/blob/HEAD/CONTRIBUTING.md) |
+| [All file names to lower case](https://github.com/lab421/forel/issues/60) 💬 1 | [lab421/forel](https://github.com/lab421/forel) | 925 | 🟡 help wanted | 2026-10-09 | 🤖 disclose AI use |
 | [how do i pin the version of swift in my project?](https://github.com/swiftlang/swiftly/issues/517) 💬 2 | [swiftlang/swiftly](https://github.com/swiftlang/swiftly) | 974 | 🟢 beginner | 2026-10-08 |  |
 | [\[Feature\]: keymapping for Mac appstore apps](https://github.com/PlayCover/PlayCover/issues/2209) | [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) | 12.1k | 🟢 beginner | 2026-10-07 |  |
 | [\[Feature\]: Keymap incompatible warning when aspect ratio isn't 16:10](https://github.com/PlayCover/PlayCover/issues/785) 💬 1 | [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) | 12.1k | 🟢 beginner | 2026-10-07 |  |
@@ -58,6 +58,7 @@
 | [\[Feature\]: Play audio through multiple devices at once](https://github.com/PlayCover/PlayCover/issues/675) 💬 3 | [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) | 12.1k | 🟢 beginner | 2026-10-07 |  |
 | [后台进程在系统睡眠期间被自身 SIGKILL 终止（合盖睡眠后约一小时自动退出）](https://github.com/tisfeng/Easydict/issues/1194) 💬 6 | [tisfeng/Easydict](https://github.com/tisfeng/Easydict) | 15.2k | 🟢 beginner | 2026-10-06 | [📘 guide](https://github.com/tisfeng/Easydict/blob/HEAD/CONTRIBUTING.md) |
 | [Pointer speed has no effect on trackpad on M2 and later Macs](https://github.com/linearmouse/linearmouse/issues/270) 💬 15 | [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) | 7.1k | 🟡 help wanted | 2026-10-03 | [📘 guide](https://github.com/linearmouse/linearmouse/blob/HEAD/CONTRIBUTING.md) |
+| [\[FEATURE\] BYOM Feature for FluidMeet](https://github.com/altic-dev/FluidVoice/issues/1022) 💬 1 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 12.9k | 🟡 help wanted | 2026-10-01 | [📘 guide](https://github.com/altic-dev/FluidVoice/blob/HEAD/CONTRIBUTING.md) |
 | ["Learn from my corrections" doesn't work in terminal apps](https://github.com/altic-dev/FluidVoice/issues/1032) | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 12.9k | 🟡 help wanted | 2026-10-01 | [📘 guide](https://github.com/altic-dev/FluidVoice/blob/HEAD/CONTRIBUTING.md) |
 | [Run with all traits in the API checker CI](https://github.com/apple/swift-configuration/issues/95) 💬 1 | [apple/swift-configuration](https://github.com/apple/swift-configuration) | 817 | 🟢 beginner | 2026-09-29 | [📘 guide](https://github.com/apple/swift-configuration/blob/HEAD/CONTRIBUTING.md) |
 | [🚀 功能建议：支持自定义扩展](https://github.com/tisfeng/Easydict/issues/136) 💬 6 | [tisfeng/Easydict](https://github.com/tisfeng/Easydict) | 15.2k | 🟡 help wanted | 2026-09-28 | [📘 guide](https://github.com/tisfeng/Easydict/blob/HEAD/CONTRIBUTING.md) |
@@ -117,4 +118,3 @@
 | [大佬，可否增加低版本macos的支持](https://github.com/bylinxx/MacCalendar/issues/34) 💬 1 | [bylinxx/MacCalendar](https://github.com/bylinxx/MacCalendar) | 873 | 🟡 help wanted | 2026-05-19 |  |
 | [issue with external monitor DDC control](https://github.com/Ebullioscopic/Atoll/issues/274) 💬 2 | [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) | 5.2k | 🟡 help wanted | 2026-05-16 | [📘 guide](https://github.com/Ebullioscopic/Atoll/blob/HEAD/CONTRIBUTING.md) |
 | [Change code actions to provide functionality through 'SyntaxRefactoringCodeActionProvider'](https://github.com/swiftlang/sourcekit-lsp/issues/2628) 💬 4 | [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp) | 3.9k | 🟢 beginner | 2026-05-12 | [📘 guide](https://github.com/swiftlang/sourcekit-lsp/blob/HEAD/CONTRIBUTING.md) |
-| [When quickly scrolling through a long list of search results, a fuckton of 'ruby' processes get spawned and fr](https://github.com/buresdv/Cork/issues/168) 💬 3 | [buresdv/Cork](https://github.com/buresdv/Cork) | 4.7k | 🟡 help wanted | 2026-05-11 | 📄 AI policy · [📘 guide](https://github.com/buresdv/Cork/blob/HEAD/CONTRIBUTING.md) |
