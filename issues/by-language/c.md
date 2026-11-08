@@ -1,10 +1,10 @@
 # C issues
 
-**139** open issues (28 labeled for beginners) across **58** active C projects.
+**137** open issues (27 labeled for beginners) across **57** active C projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/c.xml)
 
-> Updated automatically on **2026-11-07 21:29 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-08 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,10 +12,10 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Performance or graphical issues on older GPUs/iGPUs? Please attach your log here](https://github.com/Revivedx/SavageWindRecomp/issues/332) 💬 34 | [Revivedx/SavageWindRecomp](https://github.com/Revivedx/SavageWindRecomp) | 3.5k | 🟡 help wanted | 2026-11-08 | [📘 guide](https://github.com/Revivedx/SavageWindRecomp/blob/HEAD/CONTRIBUTING.md) |
 | [\[File Locksmith\] Request confirmation on closing processes](https://github.com/microsoft/PowerToys/issues/21807) 💬 3 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 140.7k | 🟡 help wanted | 2026-11-07 | [📘 guide](https://github.com/microsoft/PowerToys/blob/HEAD/CONTRIBUTING.md) |
 | [Interval of Find My Mouse Shortcut](https://github.com/microsoft/PowerToys/issues/19806) 💬 2 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 140.7k | 🟡 help wanted | 2026-11-07 | [📘 guide](https://github.com/microsoft/PowerToys/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] Potential dropped key under Permissive Hold when re-pressing a key behind an unsettled tap-hold key.](https://github.com/qmk/qmk_firmware/issues/26567) | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-11-07 |  |
-| [Performance or graphical issues on older GPUs/iGPUs? Please attach your log here](https://github.com/Revivedx/SavageWindRecomp/issues/332) 💬 33 | [Revivedx/SavageWindRecomp](https://github.com/Revivedx/SavageWindRecomp) | 3.4k | 🟡 help wanted | 2026-11-07 | [📘 guide](https://github.com/Revivedx/SavageWindRecomp/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] PC not waking up from sleep](https://github.com/qmk/qmk_firmware/issues/26429) 💬 16 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-11-04 |  |
 | [Wayland: could Dunst pass activation tokens when invoking notification actions?](https://github.com/dunst-project/dunst/issues/1569) 💬 2 | [dunst-project/dunst](https://github.com/dunst-project/dunst) | 5.6k | 🟡 help wanted | 2026-11-04 | 🤖 disclose AI use · [📘 guide](https://github.com/dunst-project/dunst/blob/HEAD/CONTRIBUTING.md) |
 | [Filesystem time on stat from 'nftw' not faked](https://github.com/wolfcw/libfaketime/issues/476) 💬 5 | [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) | 3.1k | 🟡 help wanted | 2026-11-04 | [📘 guide](https://github.com/wolfcw/libfaketime/blob/HEAD/CONTRIBUTING.md) |
@@ -49,7 +49,6 @@
 | [Disabling columnstore does not pause columnstore policies](https://github.com/timescale/timescaledb/issues/8960) 💬 4 | [timescale/timescaledb](https://github.com/timescale/timescaledb) | 23.8k | 🟢 beginner | 2026-10-20 | ✍️ CLA · [📘 guide](https://github.com/timescale/timescaledb/blob/HEAD/CONTRIBUTING.md) |
 | [WAL log entries incomplete in range \[211, 4673\], aligned with snaphotVer:610](https://github.com/taosdata/TDengine/issues/23321) 💬 4 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-10-19 |  |
 | [\[Bug\] ChibiOS linker script fails on Windows (QMK MSYS 3.0.0 / Make 4.4.1) when STARTUPLD_CONTRIB is empty ('c](https://github.com/qmk/qmk_firmware/issues/26527) 💬 1 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-10-19 |  |
-| [Bump SensorLib once the QMI8658 reset fix is released](https://github.com/HermannBjorgvin/Clawdmeter/issues/235) 💬 4 | [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) | 2.3k | 🟢 beginner | 2026-10-19 |  |
 | [Allow all system tray icons to be displayed on the dock.](https://github.com/microsoft/PowerToys/issues/46232) 💬 20 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 140.7k | 🟡 help wanted | 2026-10-17 | [📘 guide](https://github.com/microsoft/PowerToys/blob/HEAD/CONTRIBUTING.md) |
 | [xemutest and related ISO repos should be part of the main xemu tree](https://github.com/xemu-project/xemu/issues/3116) | [xemu-project/xemu](https://github.com/xemu-project/xemu) | 4.2k | 🟢 beginner | 2026-10-17 | [📘 guide](https://github.com/xemu-project/xemu/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] B104 lock LEDs go dark until reboot (Leyden Jar firmware) - patch attached](https://github.com/qmk/qmk_firmware/issues/26496) 💬 1 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-10-16 |  |
@@ -73,7 +72,7 @@
 | [Adding FAEST](https://github.com/open-quantum-safe/liboqs/issues/2101) 💬 14 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-01 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] GMMK Pro rev1 ANSI: LEDs on first AW20216S driver stay dark on master; fixed by lowering SPI speed](https://github.com/qmk/qmk_firmware/issues/26492) | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-09-30 |  |
 | [Bank MSB shouldn't always be ignored in XG mode](https://github.com/FluidSynth/fluidsynth/issues/1378) 💬 26 | [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) | 2.5k | 🟡 help wanted | 2026-09-29 | [📘 guide](https://github.com/FluidSynth/fluidsynth/blob/HEAD/CONTRIBUTING.md) |
-| [\[Experiment\] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 48.7k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/JustVugg/colibri/blob/HEAD/CONTRIBUTING.md) |
+| [\[Experiment\] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 48.9k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/JustVugg/colibri/blob/HEAD/CONTRIBUTING.md) |
 | [Extensions for browser support monitoring](https://github.com/axel-download-accelerator/axel/issues/346) 💬 5 | [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) | 3.4k | 🟡 help wanted | 2026-09-26 | [📘 guide](https://github.com/axel-download-accelerator/axel/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] Unable to restore the database](https://github.com/mydumper/mydumper/issues/2355) 💬 3 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.3k | 🟡 help wanted | 2026-09-24 |  |
 | [Investigate AddressSanitizer-like diagnostics for ThreadX](https://github.com/eclipse-threadx/threadx/issues/764) | [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) | 3.6k | 🟡 help wanted | 2026-09-22 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/eclipse-threadx/threadx/blob/HEAD/CONTRIBUTING.md) |
@@ -94,9 +93,8 @@
 | [Support Raw Public Key (RPK) as described in RFC 7250.](https://github.com/microsoft/msquic/issues/6245) | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-08-25 | ✍️ CLA · [📘 guide](https://github.com/microsoft/msquic/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Bug\] '50-qmk.rules' Broken on systemd 258.](https://github.com/qmk/qmk_firmware/issues/25847) 💬 16 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-08-24 |  |
 | [\[BUG\] backup fails with —trx-table](https://github.com/mydumper/mydumper/issues/2301) 💬 13 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.3k | 🟡 help wanted | 2026-08-24 |  |
-| [\[Color Picker\] Long color format names are cut off, including default DECIMAL](https://github.com/microsoft/PowerToys/issues/25063) | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 140.7k | 🟡 help wanted | 2026-08-22 | [📘 guide](https://github.com/microsoft/PowerToys/blob/HEAD/CONTRIBUTING.md) |
 | [Consider bounded CBMC proofs for liboqs-owned code](https://github.com/open-quantum-safe/liboqs/issues/2504) 💬 1 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-08-21 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
-| [arc_summary to be able to show only altered tunables,spl](https://github.com/openzfs/zfs/issues/11685) 💬 5 | [openzfs/zfs](https://github.com/openzfs/zfs) | 12.5k | 🟢 beginner | 2026-08-18 | 🔏 DCO · [📘 guide](https://github.com/openzfs/zfs/blob/HEAD/.github/CONTRIBUTING.md) |
+| [arc_summary to be able to show only altered tunables,spl](https://github.com/openzfs/zfs/issues/11685) 💬 5 | [openzfs/zfs](https://github.com/openzfs/zfs) | 12.6k | 🟢 beginner | 2026-08-18 | 🔏 DCO · [📘 guide](https://github.com/openzfs/zfs/blob/HEAD/.github/CONTRIBUTING.md) |
 | [taosExplorer 服务web接口一直无返回，导致无法进入](https://github.com/taosdata/TDengine/issues/33620) 💬 8 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-08-17 |  |
 | [Multi Port MIDI Support](https://github.com/FluidSynth/fluidsynth/issues/1361) 💬 12 | [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) | 2.5k | 🟡 help wanted | 2026-08-16 | [📘 guide](https://github.com/FluidSynth/fluidsynth/blob/HEAD/CONTRIBUTING.md) |
 | [support pass buffer directly between two modules](https://github.com/wasm-micro-runtime/wasm-micro-runtime/issues/295) 💬 5 | [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) | 6.2k | 🟡 help wanted | 2026-08-15 | [📘 guide](https://github.com/wasm-micro-runtime/wasm-micro-runtime/blob/HEAD/CONTRIBUTING.md) |
@@ -149,5 +147,5 @@
 | [Allow creation of NTFS filesystems on macOS (at least with 3rd party drivers)](https://github.com/veracrypt/VeraCrypt/issues/1355) 💬 1 | [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) | 12.1k | 🟡 help wanted | 2026-05-28 |  |
 | [Rename blacklist -&gt; blocklist, whitelist -&gt; allowlist](https://github.com/yugabyte/yugabyte-db/issues/4847) 💬 1 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.7k | 🟢 beginner | 2026-05-27 |  |
 | [Support in-memory certificate stores](https://github.com/microsoft/msquic/issues/4951) 💬 2 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟢 beginner | 2026-05-26 | ✍️ CLA · [📘 guide](https://github.com/microsoft/msquic/blob/HEAD/.github/CONTRIBUTING.md) |
-| [\[NEW\] Cross cluster replication support](https://github.com/valkey-io/valkey/issues/3066) 💬 10 | [valkey-io/valkey](https://github.com/valkey-io/valkey) | 27.6k | 🟡 help wanted | 2026-05-13 | 🔏 DCO · [📘 guide](https://github.com/valkey-io/valkey/blob/HEAD/CONTRIBUTING.md) |
+| [\[NEW\] Cross cluster replication support](https://github.com/valkey-io/valkey/issues/3066) 💬 10 | [valkey-io/valkey](https://github.com/valkey-io/valkey) | 27.7k | 🟡 help wanted | 2026-05-13 | 🔏 DCO · [📘 guide](https://github.com/valkey-io/valkey/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] \[24.10.5\] ShadoWRT有时会导致主系统卡死，无法进入web管理页面](https://github.com/istoreos/istoreos/issues/2950) 💬 4 | [istoreos/istoreos](https://github.com/istoreos/istoreos) | 8.2k | 🟢 beginner | 2026-05-13 |  |

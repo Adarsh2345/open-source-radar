@@ -1,10 +1,10 @@
 # CSS issues
 
-**35** open issues (32 labeled for beginners) across **4** active CSS projects.
+**36** open issues (32 labeled for beginners) across **5** active CSS projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/css.xml)
 
-> Updated automatically on **2026-11-07 21:29 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-08 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Add the Partitioned (CHIPS) attribute and third-party cookie restrictions to Cookies Attributes](https://github.com/OWASP/wstg/issues/1631) 💬 2 | [OWASP/wstg](https://github.com/OWASP/wstg) | 10.2k | 🟡 help wanted | 2026-11-08 | [📘 guide](https://github.com/OWASP/wstg/blob/HEAD/CONTRIBUTING.md) |
 | [Link Checker Report](https://github.com/data-engineering-community/data-engineering-wiki/issues/179) | [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) | 2.1k | 🟢 beginner | 2026-11-02 | ⚠️ AI restricted · [📘 guide](https://github.com/data-engineering-community/data-engineering-wiki/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Medium Issue 2 (JavaScript)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8576) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 517 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Medium Issue (Docker)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8574) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 517 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |

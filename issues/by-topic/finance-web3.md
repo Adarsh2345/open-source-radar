@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**54** open issues (17 labeled for beginners) across **11** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
+**51** open issues (16 labeled for beginners) across **11** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
 
-> Updated automatically on **2026-11-07 21:29 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-08 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,17 +10,14 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [\[Bug\]: ios - requesting location does not work](https://github.com/actualbudget/actual/issues/9453) | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.1k | 🟡 help wanted | 2026-11-07 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feat\] ios - native keyboard support](https://github.com/actualbudget/actual/issues/9449) | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.1k | 🟡 help wanted | 2026-11-07 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[TechDebt\] ios - ci pipeline for testing](https://github.com/actualbudget/actual/issues/9447) 💬 1 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.1k | 🟡 help wanted | 2026-11-07 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
-| [\[Feat\] ios - "open in actual" functionality is missing](https://github.com/actualbudget/actual/issues/9445) | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.1k | 🟡 help wanted | 2026-11-07 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feat\] ios - faceid / passcode / biometrics](https://github.com/actualbudget/actual/issues/9444) | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.1k | 🟡 help wanted | 2026-11-07 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: ios - bank sync link back to app](https://github.com/actualbudget/actual/issues/9443) | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.1k | 🟡 help wanted | 2026-11-07 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: ios - status bar](https://github.com/actualbudget/actual/issues/9442) 💬 1 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.1k | 🟡 help wanted | 2026-11-07 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: ios - export budget does not work](https://github.com/actualbudget/actual/issues/9441) | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.1k | 🟡 help wanted | 2026-11-07 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Scrolling jitter on mobile](https://github.com/actualbudget/actual/issues/9294) 💬 6 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.1k | 🟡 help wanted | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Enable Banking with "imagin / CaixaBank" bank linking fails on desktop but works on mobile browser](https://github.com/actualbudget/actual/issues/8326) 💬 8 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.1k | 🟡 help wanted | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
-| [\[Serialize the transaction in ApplyStateTable::apply only when it is written\] (Version: \[xrpld 3.5.0\])](https://github.com/XRPLF/rippled/issues/8671) | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-11-03 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
 | [SIGSEGV in OSSL_PROVIDER_get0_provider_ctx while decoding a system CA public key](https://github.com/openssl/openssl/issues/33399) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟡 help wanted | 2026-11-02 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [Outer ALPN without an ECH configuration is checked against the wrong list](https://github.com/openssl/openssl/issues/33428) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟡 help wanted | 2026-11-02 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [Support ledger parameters in tx command and deprecate/remove transaction_entry](https://github.com/XRPLF/rippled/issues/2598) 💬 5 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-11-02 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |

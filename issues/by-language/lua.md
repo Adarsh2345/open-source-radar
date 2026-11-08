@@ -1,10 +1,10 @@
 # Lua issues
 
-**31** open issues (19 labeled for beginners) across **13** active Lua projects.
+**32** open issues (20 labeled for beginners) across **13** active Lua projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/lua.xml)
 
-> Updated automatically on **2026-11-07 21:29 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-08 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,6 +13,7 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [help request: plugins question that cant use grpc-transcode with ext-plugin-post-resp](https://github.com/apache/apisix/issues/10787) 💬 11 | [apache/apisix](https://github.com/apache/apisix) | 17.3k | 🟢 beginner | 2026-11-07 | ✍️ CLA · [📘 guide](https://github.com/apache/apisix/blob/HEAD/CONTRIBUTING.md) |
+| [Good First Issue: Add autodetection support for Steam copies of Theme Hospital](https://github.com/CorsixTH/CorsixTH/issues/3645) | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.7k | 🟢 beginner | 2026-11-07 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
 | [Corroy depth charge issues](https://github.com/beyond-all-reason/Beyond-All-Reason/issues/3845) 💬 3 | [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) | 4.3k | 🟢 beginner | 2026-11-02 | 🤖 disclose AI use · [📘 guide](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/HEAD/CONTRIBUTING.md) |
 | [Nano turrets stay permanently idle if tasked to assist something that's out of range](https://github.com/beyond-all-reason/Beyond-All-Reason/issues/2445) 💬 7 | [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) | 4.3k | 🟢 beginner | 2026-10-27 | 🤖 disclose AI use · [📘 guide](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/HEAD/CONTRIBUTING.md) |
 | [Gamepad/controller support](https://github.com/CorsixTH/CorsixTH/issues/3176) 💬 3 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.7k | 🟡 help wanted | 2026-10-25 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
@@ -22,7 +23,7 @@
 | [Implement LAN Multiplayer System And Mode](https://github.com/CorsixTH/CorsixTH/issues/386) 💬 54 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.7k | 🟡 help wanted | 2026-10-19 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
 | [feature: Apply session_cwd to session restore](https://github.com/carlos-algms/agentic.nvim/issues/325) 💬 1 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 656 | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
 | [🐛 migration needed: mobs speed enhancements](https://github.com/LandSandBoat/server/issues/4757) 💬 1 | [LandSandBoat/server](https://github.com/LandSandBoat/server) | 523 | 🟢 beginner | 2026-10-14 | [📘 guide](https://github.com/LandSandBoat/server/blob/HEAD/CONTRIBUTING.md) |
-| [Recipe for some icons / symbols configuration](https://github.com/hedyhli/outline.nvim/issues/164) 💬 1 | [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) | 1.1k | 🟡 help wanted | 2026-10-10 |  |
+| [Recipe for some icons / symbols configuration](https://github.com/hedyhli/outline.nvim/issues/164) 💬 1 | [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) | 1k | 🟡 help wanted | 2026-10-10 |  |
 | [\[Bug\] Missing room explosion animation](https://github.com/CorsixTH/CorsixTH/issues/2556) 💬 7 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.7k | 🟡 help wanted | 2026-10-08 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
 | [New Feed for NCRTC (Regional train)](https://github.com/public-transport/transitous/issues/1622) 💬 2 | [public-transport/transitous](https://github.com/public-transport/transitous) | 747 | 🟢 beginner | 2026-10-07 | 📄 AI policy |
 | [feature: Prompting through lua](https://github.com/carlos-algms/agentic.nvim/issues/316) 💬 4 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 656 | 🟡 help wanted | 2026-10-05 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
@@ -38,8 +39,8 @@
 | [Integrate Swedish realtime feeds](https://github.com/public-transport/transitous/issues/125) 💬 7 | [public-transport/transitous](https://github.com/public-transport/transitous) | 747 | 🟢 beginner | 2026-08-06 | 📄 AI policy |
 | [Give reason for damage done by tnt](https://github.com/luanti-org/minetest_game/issues/3263) | [luanti-org/minetest_game](https://github.com/luanti-org/minetest_game) | 1.6k | 🟢 beginner | 2026-08-02 |  |
 | [Standalone build for macos](https://github.com/teal-language/tl/issues/530) 💬 4 | [teal-language/tl](https://github.com/teal-language/tl) | 3k | 🟡 help wanted | 2026-07-08 |  |
-| [Home Manager (nix) config is not supported with the lua version](https://github.com/zjeffer/split-monitor-workspaces/issues/293) 💬 6 | [zjeffer/split-monitor-workspaces](https://github.com/zjeffer/split-monitor-workspaces) | 811 | 🟡 help wanted | 2026-07-06 | 📄 AI policy · [📘 guide](https://github.com/zjeffer/split-monitor-workspaces/blob/HEAD/CONTRIBUTING.md) |
+| [Home Manager (nix) config is not supported with the lua version](https://github.com/zjeffer/split-monitor-workspaces/issues/293) 💬 6 | [zjeffer/split-monitor-workspaces](https://github.com/zjeffer/split-monitor-workspaces) | 812 | 🟡 help wanted | 2026-07-06 | 📄 AI policy · [📘 guide](https://github.com/zjeffer/split-monitor-workspaces/blob/HEAD/CONTRIBUTING.md) |
 | [Add feeds from TUMI Datahub](https://github.com/public-transport/transitous/issues/584) 💬 2 | [public-transport/transitous](https://github.com/public-transport/transitous) | 747 | 🟢 beginner | 2026-07-02 | 📄 AI policy |
 | [Add more data for India](https://github.com/public-transport/transitous/issues/2144) 💬 2 | [public-transport/transitous](https://github.com/public-transport/transitous) | 747 | 🟢 beginner | 2026-06-16 | 📄 AI policy |
-| [Support hyprland from nixpkgs](https://github.com/zjeffer/split-monitor-workspaces/issues/275) 💬 9 | [zjeffer/split-monitor-workspaces](https://github.com/zjeffer/split-monitor-workspaces) | 811 | 🟡 help wanted | 2026-06-10 | 📄 AI policy · [📘 guide](https://github.com/zjeffer/split-monitor-workspaces/blob/HEAD/CONTRIBUTING.md) |
+| [Support hyprland from nixpkgs](https://github.com/zjeffer/split-monitor-workspaces/issues/275) 💬 9 | [zjeffer/split-monitor-workspaces](https://github.com/zjeffer/split-monitor-workspaces) | 812 | 🟡 help wanted | 2026-06-10 | 📄 AI policy · [📘 guide](https://github.com/zjeffer/split-monitor-workspaces/blob/HEAD/CONTRIBUTING.md) |
 | [Epic Stormbgringer can't land on air repair pad most of time](https://github.com/beyond-all-reason/Beyond-All-Reason/issues/1346) 💬 6 | [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) | 4.3k | 🟢 beginner | 2026-05-13 | 🤖 disclose AI use · [📘 guide](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/HEAD/CONTRIBUTING.md) |

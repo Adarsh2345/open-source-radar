@@ -1,10 +1,10 @@
 # PHP issues
 
-**140** open issues (70 labeled for beginners) across **49** active PHP projects.
+**139** open issues (68 labeled for beginners) across **49** active PHP projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-11-07 21:29 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-08 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -24,7 +24,6 @@
 | [Deposit Chart Dashboard Split Funds](https://github.com/ChurchCRM/CRM/issues/3688) 💬 4 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 989 | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Use Cart to Set Properties](https://github.com/ChurchCRM/CRM/issues/4355) 💬 2 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 989 | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Setup Wizard DB Prompts](https://github.com/ChurchCRM/CRM/issues/2750) 💬 5 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 989 | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
-| [Replace remaining native confirm() dialogs with bootbox.confirm](https://github.com/ChurchCRM/CRM/issues/1108) 💬 4 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 989 | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Inconsistent Output Format when performing CSV Export by Families](https://github.com/ChurchCRM/CRM/issues/1375) 💬 17 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 989 | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Copy "Birthdays by month" to member dashboard](https://github.com/ChurchCRM/CRM/issues/819) 💬 4 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 989 | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Family verify email: link to the member portal instead of a PDF](https://github.com/ChurchCRM/CRM/issues/11145) 💬 1 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 989 | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
@@ -43,7 +42,6 @@
 | [Missing translations for Lithuanian (lt)](https://github.com/symfony/symfony/issues/65558) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Galician (gl)](https://github.com/symfony/symfony/issues/64496) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Czech (cs)](https://github.com/symfony/symfony/issues/64490) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
-| [Missing translations for Catalan (ca)](https://github.com/symfony/symfony/issues/66093) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Bosnian (bs)](https://github.com/symfony/symfony/issues/66090) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Belarusian (be)](https://github.com/symfony/symfony/issues/64483) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Basque (eu)](https://github.com/symfony/symfony/issues/53012) 💬 4 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
@@ -60,7 +58,7 @@
 | [\[Feature\] Notification to Admin when an update is actually ready for installation](https://github.com/FreshRSS/FreshRSS/issues/6487) 💬 5 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.5k | 🟡 help wanted | 2026-10-20 | [📘 guide](https://github.com/FreshRSS/FreshRSS/blob/HEAD/CONTRIBUTING.md) |
 | [Failed locked jobs never clear.](https://github.com/laravel/horizon/issues/1678) 💬 7 | [laravel/horizon](https://github.com/laravel/horizon) | 4.2k | 🟡 help wanted | 2026-10-17 | [📘 guide](https://github.com/laravel/horizon/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Feature - Request\] Add test feature for Notifications Setup.](https://github.com/jez500/pricebuddy/issues/39) 💬 6 | [jez500/pricebuddy](https://github.com/jez500/pricebuddy) | 1.5k | 🟢 beginner | 2026-10-14 |  |
-| [New tags layout in sentence page](https://github.com/Tatoeba/tatoeba2/issues/3350) 💬 1 | [Tatoeba/tatoeba2](https://github.com/Tatoeba/tatoeba2) | 895 | 🟢 beginner | 2026-10-14 |  |
+| [New tags layout in sentence page](https://github.com/Tatoeba/tatoeba2/issues/3350) 💬 1 | [Tatoeba/tatoeba2](https://github.com/Tatoeba/tatoeba2) | 896 | 🟢 beginner | 2026-10-14 |  |
 | [Feature request: skip to the next folder with card (or button)](https://github.com/MiczFlor/RPi-Jukebox-RFID/issues/574) 💬 9 | [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) | 1.8k | 🟡 help wanted | 2026-10-13 | [📘 guide](https://github.com/MiczFlor/RPi-Jukebox-RFID/blob/HEAD/CONTRIBUTING.md) |
 | [Make CHUNKED_READ_BLOCK_SIZE configurable](https://github.com/maennchen/ZipStream-PHP/issues/436) 💬 2 | [maennchen/ZipStream-PHP](https://github.com/maennchen/ZipStream-PHP) | 1.9k | 🟡 help wanted | 2026-10-12 | [📘 guide](https://github.com/maennchen/ZipStream-PHP/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Artisan Console Components should use STDERR for auxiliary output](https://github.com/laravel/framework/issues/56602) 💬 8 | [laravel/framework](https://github.com/laravel/framework) | 35k | 🟡 help wanted | 2026-10-11 | [📘 guide](https://github.com/laravel/framework/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -105,6 +103,7 @@
 | [\[feature\] Allow per-class mutant coverage thresholds](https://github.com/infection/infection/issues/2290) 💬 11 | [infection/infection](https://github.com/infection/infection) | 2.3k | 🟡 help wanted | 2026-08-30 | 🤖 disclose AI use · [📘 guide](https://github.com/infection/infection/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Alternative Badge SVG File as report for use in Gitlab and private Repositories](https://github.com/infection/infection/issues/1915) 💬 9 | [infection/infection](https://github.com/infection/infection) | 2.3k | 🟡 help wanted | 2026-08-30 | 🤖 disclose AI use · [📘 guide](https://github.com/infection/infection/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Multiple authors not treated properly](https://github.com/nextcloud/news/issues/3898) | [nextcloud/news](https://github.com/nextcloud/news) | 1k | 🟡 help wanted | 2026-08-29 | 🔏 DCO · [📘 guide](https://github.com/nextcloud/news/blob/HEAD/CONTRIBUTING.md) |
+| [suiteP theme in 7.8.2 is ignoring maxColumns](https://github.com/SuiteCRM/SuiteCRM/issues/3310) 💬 2 | [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) | 5.9k | 🟡 help wanted | 2026-08-28 | ✍️ CLA · [📘 guide](https://github.com/SuiteCRM/SuiteCRM/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Incorrect subscription type due to race condition](https://github.com/laravel/cashier-stripe/issues/1773) 💬 2 | [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe) | 2.5k | 🟡 help wanted | 2026-08-27 | [📘 guide](https://github.com/laravel/cashier-stripe/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Feature-Request: Pop-Out SQL Window](https://github.com/phpmyadmin/phpmyadmin/issues/11983) 💬 24 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 8k | 🟡 help wanted | 2026-08-18 | 🔏 DCO · [📘 guide](https://github.com/phpmyadmin/phpmyadmin/blob/HEAD/CONTRIBUTING.md) |
 | [Enhance Blueprint Stubs with PHPDoc to Eliminate PHPStan Warnings](https://github.com/laravel-shift/blueprint/issues/738) 💬 4 | [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) | 3.1k | 🟢 beginner | 2026-08-15 |  |
