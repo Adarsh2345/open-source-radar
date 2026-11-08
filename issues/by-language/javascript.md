@@ -1,10 +1,10 @@
 # JavaScript issues
 
-**164** open issues (65 labeled for beginners) across **65** active JavaScript projects.
+**164** open issues (65 labeled for beginners) across **66** active JavaScript projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/javascript.xml)
 
-> Updated automatically on **2026-11-08 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-08 21:47 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -63,6 +63,7 @@
 | [Columnlookup option not having an effect](https://github.com/AlaSQL/alasql/issues/694) 💬 6 | [AlaSQL/alasql](https://github.com/AlaSQL/alasql) | 7.3k | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/AlaSQL/alasql/blob/HEAD/CONTRIBUTING.md) |
 | [Show detailed history of all received Push status=up events](https://github.com/louislam/uptime-kuma/issues/5949) 💬 4 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 93.4k | 🟡 help wanted | 2026-10-20 | ⚠️ AI restricted · [📘 guide](https://github.com/louislam/uptime-kuma/blob/HEAD/CONTRIBUTING.md) |
 | [WebWolf: add a page to create a response](https://github.com/WebGoat/WebGoat/issues/1545) 💬 1 | [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) | 9.5k | 🟡 help wanted | 2026-10-18 | [📘 guide](https://github.com/WebGoat/WebGoat/blob/HEAD/CONTRIBUTING.md) |
+| [Filter tls options](https://github.com/nodejs/undici/issues/236) 💬 8 | [nodejs/undici](https://github.com/nodejs/undici) | 7.7k | 🟢 beginner | 2026-10-18 | [📘 guide](https://github.com/nodejs/undici/blob/HEAD/CONTRIBUTING.md) |
 | [\[Help Wanted\] Huggingface作为后端，图床删除文件后，仓库扔保留commit历史，占用仓库空间。](https://github.com/MarSeventh/CloudFlare-ImgBed/issues/759) | [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) | 6.9k | 🟡 help wanted | 2026-10-18 | 🤖 disclose AI use · [📘 guide](https://github.com/MarSeventh/CloudFlare-ImgBed/blob/HEAD/CONTRIBUTING.md) |
 | [Deprecate 'aws config credentials' command](https://github.com/serverless/serverless/issues/11763) 💬 12 | [serverless/serverless](https://github.com/serverless/serverless) | 46.9k | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/serverless/serverless/blob/HEAD/CONTRIBUTING.md) |
 | [\[ACTION\]](https://github.com/PipedreamHQ/pipedream/issues/22275) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.8k | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/PipedreamHQ/pipedream/blob/HEAD/CONTRIBUTING.md) |
@@ -105,7 +106,7 @@
 | [\[Help\] worker已经设置admin，但是登录后，还是普通用户，不是管理员？](https://github.com/maillab/cloud-mail/issues/532) 💬 3 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 15.5k | 🟡 help wanted | 2026-09-06 |  |
 | [\[Help\] worker配置了admin，但部署登录后，admin是普通用户，没有系统设置！](https://github.com/maillab/cloud-mail/issues/567) | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 15.5k | 🟡 help wanted | 2026-09-05 |  |
 | [\[Help\] cloudflare里面的电子邮件路由消失了，咋办？](https://github.com/maillab/cloud-mail/issues/563) 💬 3 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 15.5k | 🟡 help wanted | 2026-09-05 |  |
-| [i18n: add a Swedish (sv) market mode](https://github.com/career-ops-hq/career-ops/issues/3847) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 81k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use · [📘 guide](https://github.com/career-ops-hq/career-ops/blob/HEAD/CONTRIBUTING.md) |
+| [i18n: add a Swedish (sv) market mode](https://github.com/career-ops-hq/career-ops/issues/3847) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 81.2k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use · [📘 guide](https://github.com/career-ops-hq/career-ops/blob/HEAD/CONTRIBUTING.md) |
 | [Generate PDF/A compliant document](https://github.com/parallax/jsPDF/issues/2882) 💬 6 | [parallax/jsPDF](https://github.com/parallax/jsPDF) | 31.3k | 🟡 help wanted | 2026-09-03 | [📘 guide](https://github.com/parallax/jsPDF/blob/HEAD/CONTRIBUTING.md) |
 | ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/react/react/issues/17355) 💬 154 | [react/react](https://github.com/react/react) | 252.4k | 🟢 beginner | 2026-09-02 | ✍️ CLA · [📘 guide](https://github.com/react/react/blob/HEAD/CONTRIBUTING.md) |
 | [Backmerging Module Federation v2](https://github.com/webpack/webpack/issues/18809) 💬 20 | [webpack/webpack](https://github.com/webpack/webpack) | 66k | 🟡 help wanted | 2026-09-02 | [📘 guide](https://github.com/webpack/webpack/blob/HEAD/CONTRIBUTING.md) |
@@ -175,4 +176,3 @@
 | [Allow changing the duration of zoom animations](https://github.com/Leaflet/Leaflet/issues/5332) 💬 8 | [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) | 45.9k | 🟡 help wanted | 2026-05-22 | [📘 guide](https://github.com/Leaflet/Leaflet/blob/HEAD/CONTRIBUTING.md) |
 | [Full screen applications disable Stretchly](https://github.com/hovancik/stretchly/issues/355) 💬 32 | [hovancik/stretchly](https://github.com/hovancik/stretchly) | 6.6k | 🟡 help wanted | 2026-05-20 | 🤖 disclose AI use · [📘 guide](https://github.com/hovancik/stretchly/blob/HEAD/CONTRIBUTING.md) |
 | [&amp; TO & amp;](https://github.com/beautifier/js-beautify/issues/880) 💬 2 | [beautifier/js-beautify](https://github.com/beautifier/js-beautify) | 9k | 🟢 beginner | 2026-05-18 | [📘 guide](https://github.com/beautifier/js-beautify/blob/HEAD/CONTRIBUTING.md) |
-| [Demo tests in 'tests/basic.js' are broken.](https://github.com/sandstorm-io/sandstorm/issues/3615) 💬 1 | [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) | 7.1k | 🟢 beginner | 2026-05-12 | [📘 guide](https://github.com/sandstorm-io/sandstorm/blob/HEAD/CONTRIBUTING.md) |

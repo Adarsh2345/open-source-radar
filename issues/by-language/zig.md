@@ -1,10 +1,10 @@
 # Zig issues
 
-**11** open issues (8 labeled for beginners) across **8** active Zig projects.
+**12** open issues (9 labeled for beginners) across **8** active Zig projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/zig.xml)
 
-> Updated automatically on **2026-11-08 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-08 21:47 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [ability to resolve partially known error sets](https://github.com/zigtools/zls/issues/3311) 💬 3 | [zigtools/zls](https://github.com/zigtools/zls) | 5.3k | 🟢 beginner | 2026-11-08 | 📄 AI policy · [📘 guide](https://github.com/zigtools/zls/blob/HEAD/CONTRIBUTING.md) |
 | [Logarithm builtins for F32, F64, Dec](https://github.com/roc-lang/roc/issues/5107) 💬 4 | [roc-lang/roc](https://github.com/roc-lang/roc) | 6.2k | 🟢 beginner | 2026-11-05 |  |
 | [branching type resolution doesn't exclude noreturn and other coercible values](https://github.com/zigtools/zls/issues/3210) 💬 1 | [zigtools/zls](https://github.com/zigtools/zls) | 5.3k | 🟢 beginner | 2026-11-04 | 📄 AI policy · [📘 guide](https://github.com/zigtools/zls/blob/HEAD/CONTRIBUTING.md) |
 | [H3: is there a supported way to chain windows with REF2VA references? (chained windows + ref_images are mutual](https://github.com/ddalcu/mlx-serve/issues/316) 💬 5 | [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) | 2.4k | 🟡 help wanted | 2026-10-26 | [📘 guide](https://github.com/ddalcu/mlx-serve/blob/HEAD/CONTRIBUTING.md) |
