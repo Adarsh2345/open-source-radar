@@ -1,10 +1,10 @@
 # Scala issues
 
-**27** open issues (16 labeled for beginners) across **16** active Scala projects.
+**34** open issues (16 labeled for beginners) across **17** active Scala projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-11-08 21:47 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-09 14:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,13 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Can we provide implicit to make Marshal JsValue =&gt; Message work?](https://github.com/akka/akka-http/issues/2027) 💬 1 | [akka/akka-http](https://github.com/akka/akka-http) | 1.4k | 🟡 help wanted | 2026-11-09 | ✍️ CLA · [📘 guide](https://github.com/akka/akka-http/blob/HEAD/CONTRIBUTING.md) |
+| [Add refreshAfterWrite operation to caching API](https://github.com/akka/akka-http/issues/1537) 💬 1 | [akka/akka-http](https://github.com/akka/akka-http) | 1.4k | 🟡 help wanted | 2026-11-09 | ✍️ CLA · [📘 guide](https://github.com/akka/akka-http/blob/HEAD/CONTRIBUTING.md) |
+| [WebSocket client sample ignores half closed](https://github.com/akka/akka-http/issues/1324) 💬 3 | [akka/akka-http](https://github.com/akka/akka-http) | 1.4k | 🟡 help wanted | 2026-11-09 | ✍️ CLA · [📘 guide](https://github.com/akka/akka-http/blob/HEAD/CONTRIBUTING.md) |
+| [Configuration options could use clarification on dependencies between them.](https://github.com/akka/akka-http/issues/1009) 💬 3 | [akka/akka-http](https://github.com/akka/akka-http) | 1.4k | 🟡 help wanted | 2026-11-09 | ✍️ CLA · [📘 guide](https://github.com/akka/akka-http/blob/HEAD/CONTRIBUTING.md) |
+| [Consider implementing "time to receive request" timeout on server-side](https://github.com/akka/akka-http/issues/813) 💬 7 | [akka/akka-http](https://github.com/akka/akka-http) | 1.4k | 🟡 help wanted | 2026-11-09 | ✍️ CLA · [📘 guide](https://github.com/akka/akka-http/blob/HEAD/CONTRIBUTING.md) |
+| [Fix scaladoc and javadoc references](https://github.com/akka/akka-http/issues/546) 💬 1 | [akka/akka-http](https://github.com/akka/akka-http) | 1.4k | 🟡 help wanted | 2026-11-09 | ✍️ CLA · [📘 guide](https://github.com/akka/akka-http/blob/HEAD/CONTRIBUTING.md) |
+| [Improve spray migration guide on marshallers](https://github.com/akka/akka-http/issues/520) | [akka/akka-http](https://github.com/akka/akka-http) | 1.4k | 🟡 help wanted | 2026-11-09 | ✍️ CLA · [📘 guide](https://github.com/akka/akka-http/blob/HEAD/CONTRIBUTING.md) |
 | [lint.ignore has no effect despite being documented as suppressing diagnostics](https://github.com/scalacenter/scalafix/issues/2521) 💬 1 | [scalacenter/scalafix](https://github.com/scalacenter/scalafix) | 878 | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/scalacenter/scalafix/blob/HEAD/CONTRIBUTING.md) |
 | [:memo: Fix/Add config section of deployment on kubernetes](https://github.com/apache/kyuubi/issues/5085) 💬 3 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-11-05 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/kyuubi/blob/HEAD/CONTRIBUTING.md) |
 | [chore: Improve cast MapType to String](https://github.com/apache/datafusion-comet/issues/4631) 💬 5 | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-11-01 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |

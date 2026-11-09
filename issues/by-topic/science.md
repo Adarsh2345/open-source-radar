@@ -1,8 +1,8 @@
 # Science and research issues
 
-**59** open issues (38 labeled for beginners) across **19** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
+**58** open issues (38 labeled for beginners) across **18** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
 
-> Updated automatically on **2026-11-08 21:47 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-09 14:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -19,7 +19,6 @@
 | [Auto-evo exploring tool should list happened patch events for future reference](https://github.com/Revolutionary-Games/Thrive/issues/5667) 💬 6 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.9k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
 | [Allow batch based metrics calculation of sklearn.metrics](https://github.com/scikit-learn/scikit-learn/issues/31554) 💬 24 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 68.1k | 🟡 help wanted | 2026-10-23 | 🤖 disclose AI use · [📘 guide](https://github.com/scikit-learn/scikit-learn/blob/HEAD/CONTRIBUTING.md) |
 | [Core.bitcast to LLVMPtr from Float64 generates invalid inttoptr, aborts compilation](https://github.com/JuliaLang/julia/issues/63218) 💬 4 | [JuliaLang/julia](https://github.com/JuliaLang/julia) | 49.2k | 🟢 beginner | 2026-10-06 | 🤖 disclose AI use · [📘 guide](https://github.com/JuliaLang/julia/blob/HEAD/CONTRIBUTING.md) |
-| [\[FEATURE\]CPU Scheduling algorithms](https://github.com/TheAlgorithms/C-Plus-Plus/issues/1574) 💬 19 | [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | 34.9k | 🟡 help wanted | 2026-10-05 | [📘 guide](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/CONTRIBUTING.md) |
 | [Do not offer "free entry to park" or "half-price entry to park" if there is no admission fee](https://github.com/OpenRCT2/OpenRCT2/issues/14778) 💬 4 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.6k | 🟢 beginner | 2026-10-05 | [📘 guide](https://github.com/OpenRCT2/OpenRCT2/blob/HEAD/CONTRIBUTING.md) |
 | [Report your benchmark results here!](https://github.com/ProjectPhysX/FluidX3D/issues/8) 💬 278 | [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) | 5.4k | 🟡 help wanted | 2026-09-29 |  |
 | [docs: provide a cargo-generate starter template](https://github.com/tracel-ai/burn/issues/282) 💬 8 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16.3k | 🟢 beginner | 2026-09-28 | 🤖 disclose AI use · [📘 guide](https://github.com/tracel-ai/burn/blob/HEAD/CONTRIBUTING.md) |
