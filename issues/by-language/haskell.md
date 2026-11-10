@@ -1,10 +1,10 @@
 # Haskell issues
 
-**17** open issues (6 labeled for beginners) across **5** active Haskell projects.
+**16** open issues (6 labeled for beginners) across **5** active Haskell projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/haskell.xml)
 
-> Updated automatically on **2026-11-10 14:12 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-10 23:02 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -20,7 +20,6 @@
 | [Encourage using mutual/forward declarations over interleaved mutual](https://github.com/agda/agda/issues/8018) 💬 2 | [agda/agda](https://github.com/agda/agda) | 3k | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) |
 | ['ClashesViaRenaming' too strict](https://github.com/agda/agda/issues/8786) | [agda/agda](https://github.com/agda/agda) | 3k | 🟢 beginner | 2026-10-21 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) |
 | [RepeatedNamesInImportDirective error too strict](https://github.com/agda/agda/issues/8237) 💬 2 | [agda/agda](https://github.com/agda/agda) | 3k | 🟢 beginner | 2026-10-04 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) |
-| [Trusted registries don't work correctly for multi-part repo names](https://github.com/hadolint/hadolint/issues/401) 💬 8 | [hadolint/hadolint](https://github.com/hadolint/hadolint) | 12.5k | 🟡 help wanted | 2026-09-28 |  |
 | [Use github actions' cron to build additional libraries?](https://github.com/agda/agda/issues/4328) 💬 5 | [agda/agda](https://github.com/agda/agda) | 3k | 🟡 help wanted | 2026-09-02 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) |
 | [Installing development version with cabal](https://github.com/agda/agda/issues/6031) 💬 8 | [agda/agda](https://github.com/agda/agda) | 3k | 🟡 help wanted | 2026-09-01 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) |
 | ['withReduceDefs' does not block reduction of record projections](https://github.com/agda/agda/issues/8566) 💬 1 | [agda/agda](https://github.com/agda/agda) | 3k | 🟡 help wanted | 2026-08-19 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) |

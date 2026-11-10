@@ -1,10 +1,10 @@
 # OCaml issues
 
-**26** open issues (16 labeled for beginners) across **7** active OCaml projects.
+**25** open issues (16 labeled for beginners) across **7** active OCaml projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ocaml.xml)
 
-> Updated automatically on **2026-11-10 14:12 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-10 23:02 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -34,7 +34,6 @@
 | [\[RFC\] allow user actions to request direct access to the terminal](https://github.com/ocaml/dune/issues/3464) 💬 10 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟢 beginner | 2026-06-05 | 🔏 DCO · [📘 guide](https://github.com/ocaml/dune/blob/HEAD/CONTRIBUTING.md) |
 | [add 'forbidden_linkall' as an optional field in executable(s) stanza](https://github.com/ocaml/dune/issues/12748) 💬 6 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟡 help wanted | 2026-06-05 | 🔏 DCO · [📘 guide](https://github.com/ocaml/dune/blob/HEAD/CONTRIBUTING.md) |
 | [disable auto formatting for specific dune files](https://github.com/ocaml/dune/issues/10862) 💬 1 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟡 help wanted | 2026-06-05 | 🔏 DCO · [📘 guide](https://github.com/ocaml/dune/blob/HEAD/CONTRIBUTING.md) |
-| [Option to disable documentation (at least for generated opam files)](https://github.com/ocaml/dune/issues/5519) 💬 3 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟡 help wanted | 2026-06-05 | 🔏 DCO · [📘 guide](https://github.com/ocaml/dune/blob/HEAD/CONTRIBUTING.md) |
 | [\[dune-configurator\] PKG_CONFIG_PATH is ignored on macos](https://github.com/ocaml/dune/issues/10805) 💬 3 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟡 help wanted | 2026-06-05 | 🔏 DCO · [📘 guide](https://github.com/ocaml/dune/blob/HEAD/CONTRIBUTING.md) |
 | [Detect common typos in metadata and attempt to guess user's intention (or at least print a hint)](https://github.com/ocaml/dune/issues/11561) 💬 12 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟢 beginner | 2026-06-05 | 🔏 DCO · [📘 guide](https://github.com/ocaml/dune/blob/HEAD/CONTRIBUTING.md) |
 | [Merlin-lib: return the description of a warning based on its identifier](https://github.com/ocaml/merlin/issues/1775) 💬 4 | [ocaml/merlin](https://github.com/ocaml/merlin) | 1.7k | 🟢 beginner | 2026-05-19 | [📘 guide](https://github.com/ocaml/merlin/blob/HEAD/CONTRIBUTING.md) |
