@@ -1,10 +1,10 @@
 # Lua issues
 
-**31** open issues (20 labeled for beginners) across **14** active Lua projects.
+**32** open issues (21 labeled for beginners) across **14** active Lua projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/lua.xml)
 
-> Updated automatically on **2026-11-10 01:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-10 14:12 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [QuestLink hyperlinks need option to toggle on and off](https://github.com/Questie/Questie/issues/8128) | [Questie/Questie](https://github.com/Questie/Questie) | 1.1k | 🟢 beginner | 2026-11-10 |  |
+| [Hide untracked quests, only if they are not completed.](https://github.com/Questie/Questie/issues/8189) | [Questie/Questie](https://github.com/Questie/Questie) | 1.1k | 🟢 beginner | 2026-11-10 |  |
 | [\[Forever\] Questie should insert Blizzard quest links anywhere.](https://github.com/Questie/Questie/issues/8218) 💬 1 | [Questie/Questie](https://github.com/Questie/Questie) | 1.1k | 🟢 beginner | 2026-11-09 |  |
 | [Full quest log is sent to players outside your group (no sender check in QuestieComms)](https://github.com/Questie/Questie/issues/8237) 💬 1 | [Questie/Questie](https://github.com/Questie/Questie) | 1.1k | 🟢 beginner | 2026-11-09 |  |
 | [Target Frame Quest Objectives not shown with EllesmereUI](https://github.com/Questie/Questie/issues/8239) 💬 1 | [Questie/Questie](https://github.com/Questie/Questie) | 1.1k | 🟢 beginner | 2026-11-09 |  |
@@ -20,7 +22,6 @@
 | [Nano turrets stay permanently idle if tasked to assist something that's out of range](https://github.com/beyond-all-reason/Beyond-All-Reason/issues/2445) 💬 7 | [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) | 4.3k | 🟢 beginner | 2026-10-27 | 🤖 disclose AI use · [📘 guide](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/HEAD/CONTRIBUTING.md) |
 | [Gamepad/controller support](https://github.com/CorsixTH/CorsixTH/issues/3176) 💬 3 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.7k | 🟡 help wanted | 2026-10-25 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
 | [Good First Issue: Observe Random Announcements behaviour in regular gameplay](https://github.com/CorsixTH/CorsixTH/issues/3606) | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.7k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
-| [replace __inherited_from with a solution that allows cascading inheritance](https://github.com/avante-corp/avante.nvim/issues/3325) | [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) | 18.2k | 🟢 beginner | 2026-10-20 | [📘 guide](https://github.com/avante-corp/avante.nvim/blob/HEAD/CONTRIBUTING.md) |
 | [structured configuration for password retreival](https://github.com/avante-corp/avante.nvim/issues/3323) | [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) | 18.2k | 🟢 beginner | 2026-10-20 | [📘 guide](https://github.com/avante-corp/avante.nvim/blob/HEAD/CONTRIBUTING.md) |
 | [Implement LAN Multiplayer System And Mode](https://github.com/CorsixTH/CorsixTH/issues/386) 💬 54 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.7k | 🟡 help wanted | 2026-10-19 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
 | [feature: Apply session_cwd to session restore](https://github.com/carlos-algms/agentic.nvim/issues/325) 💬 1 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 658 | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |

@@ -1243,7 +1243,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-09T14:03:38+00:00"
+    "scanned_at": "2026-11-10T13:36:49+00:00"
   },
   "Brainrotlang/brainrot": {
     "ai": "none",
@@ -1266,7 +1266,15 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-09T14:03:38+00:00"
+    "scanned_at": "2026-11-10T13:36:49+00:00"
+  },
+  "BrianLima/UWPHook": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [],
+    "scanned_at": "2026-11-10T13:36:49+00:00"
   },
   "BrighterCommand/Brighter": {
     "ai": "none",
@@ -1278,7 +1286,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-09T14:03:38+00:00"
+    "scanned_at": "2026-11-10T13:36:49+00:00"
   },
   "Brightify/Cuckoo": {
     "ai": "none",
@@ -1294,7 +1302,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-09T14:03:38+00:00"
+    "scanned_at": "2026-11-10T13:36:49+00:00"
   },
   "Bronya0/Kafka-King": {
     "ai": "none",
@@ -1316,7 +1324,7 @@
       "AGENTS.md",
       "docs/CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-09T14:03:38+00:00"
+    "scanned_at": "2026-11-10T13:36:49+00:00"
   },
   "BuilderIO/mitosis": {
     "ai": "none",
@@ -1738,7 +1746,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-08T12:03:30+00:00"
+    "scanned_at": "2026-11-10T13:37:15+00:00"
   },
   "CommunityToolkit/Maui": {
     "ai": "none",
@@ -1749,7 +1757,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-06T13:05:19+00:00"
+    "scanned_at": "2026-11-10T13:37:15+00:00"
   },
   "ComplianceAsCode/content": {
     "ai": "none",
@@ -1760,7 +1768,17 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-07T11:51:17+00:00"
+    "scanned_at": "2026-11-10T13:37:15+00:00"
+  },
+  "ContainerSolutions/kubernetes-examples": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-11-10T13:37:15+00:00"
   },
   "Coolapk-UWP/Coolapk-UWP": {
     "ai": "none",
@@ -1768,7 +1786,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-07T11:51:17+00:00"
+    "scanned_at": "2026-11-10T13:37:15+00:00"
   },
   "CopilotKit/CopilotKit": {
     "ai": "none",
@@ -1780,7 +1798,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-07T11:51:17+00:00"
+    "scanned_at": "2026-11-10T13:37:15+00:00"
   },
   "CoreWCF/CoreWCF": {
     "ai": "none",
@@ -8233,7 +8251,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-09T14:10:25+00:00"
+    "scanned_at": "2026-11-10T13:42:12+00:00"
   },
   "StikDebug/StikDebug": {
     "ai": "disclose",
@@ -8256,7 +8274,7 @@
       ".github/pull_request_template.md",
       "AGENTS.md"
     ],
-    "scanned_at": "2026-11-09T14:10:25+00:00"
+    "scanned_at": "2026-11-10T13:42:12+00:00"
   },
   "Stremio/stremio-web": {
     "ai": "none",
@@ -8266,7 +8284,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-09T14:10:25+00:00"
+    "scanned_at": "2026-11-10T13:42:12+00:00"
   },
   "StylishThemes/GitHub-Dark": {
     "ai": "none",
@@ -8276,7 +8294,7 @@
     "files": [
       "AGENTS.md"
     ],
-    "scanned_at": "2026-11-09T14:10:25+00:00"
+    "scanned_at": "2026-11-10T13:42:12+00:00"
   },
   "Submitty/Submitty": {
     "ai": "none",
@@ -8298,7 +8316,7 @@
       ".github/CONTRIBUTING.md",
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-11-06T13:10:55+00:00"
+    "scanned_at": "2026-11-10T13:42:12+00:00"
   },
   "SuperManito/LinuxMirrors": {
     "ai": "none",
@@ -8308,7 +8326,7 @@
     "files": [
       ".github/CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-03T13:01:06+00:00"
+    "scanned_at": "2026-11-10T13:42:12+00:00"
   },
   "SuperMonster003/AutoJs6": {
     "ai": "none",
@@ -27558,7 +27576,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-03T22:47:17+00:00"
+    "scanned_at": "2026-11-10T13:58:12+00:00"
   },
   "marcocesarato/PHP-Antimalware-Scanner": {
     "ai": "none",
@@ -27566,7 +27584,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-21T21:08:51+00:00"
+    "scanned_at": "2026-11-10T13:58:12+00:00"
   },
   "marimo-team/marimo": {
     "ai": "disclose",
@@ -27578,7 +27596,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-03T22:47:17+00:00"
+    "scanned_at": "2026-11-10T13:58:12+00:00"
   },
   "marionettejs/backbone.marionette": {
     "ai": "none",
@@ -27599,7 +27617,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-03T22:47:17+00:00"
+    "scanned_at": "2026-11-10T13:58:12+00:00"
   },
   "markserv/markserv": {
     "ai": "none",
@@ -27615,7 +27633,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-03T22:47:17+00:00"
+    "scanned_at": "2026-11-10T13:58:12+00:00"
   },
   "marmelab/react-admin": {
     "ai": "none",
@@ -27626,7 +27644,7 @@
       ".github/CONTRIBUTING.md",
       ".github/pull_request_template.md"
     ],
-    "scanned_at": "2026-11-03T22:47:20+00:00"
+    "scanned_at": "2026-11-10T13:58:12+00:00"
   },
   "martanne/vis": {
     "ai": "none",
@@ -40927,7 +40945,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-03T23:01:32+00:00"
+    "scanned_at": "2026-11-10T14:09:58+00:00"
   },
   "ubicloud/ubicloud": {
     "ai": "none",
@@ -40935,7 +40953,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-03T23:01:32+00:00"
+    "scanned_at": "2026-11-10T14:09:58+00:00"
   },
   "ublue-os/bazzite": {
     "ai": "none",
@@ -40945,7 +40963,7 @@
     "files": [
       ".github/pull_request_template.md"
     ],
-    "scanned_at": "2026-11-03T23:01:32+00:00"
+    "scanned_at": "2026-11-10T14:09:58+00:00"
   },
   "ublue-os/bluefin": {
     "ai": "disclose",
@@ -40957,7 +40975,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-03T23:01:32+00:00"
+    "scanned_at": "2026-11-10T14:09:58+00:00"
   },
   "ublue-os/ucore": {
     "ai": "none",
@@ -40965,7 +40983,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-03T23:01:32+00:00"
+    "scanned_at": "2026-11-10T14:09:58+00:00"
   },
   "ubuntu-flutter-community/musicpod": {
     "ai": "none",
@@ -40973,7 +40991,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-03T13:33:49+00:00"
+    "scanned_at": "2026-11-10T14:09:58+00:00"
   },
   "ubuntu/app-center": {
     "ai": "none",
@@ -41834,7 +41852,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "AGENTS.md"
     ],
-    "scanned_at": "2026-11-06T13:43:35+00:00"
+    "scanned_at": "2026-11-10T14:10:53+00:00"
   },
   "vmware/photon": {
     "ai": "none",
@@ -41842,7 +41860,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-09T14:42:52+00:00"
+    "scanned_at": "2026-11-10T14:10:53+00:00"
   },
   "void-linux/void-mklive": {
     "ai": "none",
@@ -41850,7 +41868,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-09T14:42:52+00:00"
+    "scanned_at": "2026-11-10T14:10:53+00:00"
   },
   "void-linux/void-packages": {
     "ai": "none",
@@ -41861,7 +41879,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-09T14:42:52+00:00"
+    "scanned_at": "2026-11-10T14:10:53+00:00"
   },
   "void-linux/xbps": {
     "ai": "none",
@@ -41880,7 +41898,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-01T21:55:52+00:00"
+    "scanned_at": "2026-11-10T14:10:53+00:00"
   },
   "voku/portable-ascii": {
     "ai": "none",
@@ -41902,7 +41920,7 @@
     "files": [
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-11-09T14:42:52+00:00"
+    "scanned_at": "2026-11-10T14:10:53+00:00"
   },
   "vosen/ZLUDA": {
     "ai": "none",

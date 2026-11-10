@@ -1,10 +1,10 @@
 # Zig issues
 
-**11** open issues (8 labeled for beginners) across **8** active Zig projects.
+**12** open issues (8 labeled for beginners) across **8** active Zig projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/zig.xml)
 
-> Updated automatically on **2026-11-10 01:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-10 14:12 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -14,6 +14,7 @@
 | --- | --- | ---: | --- | --- | --- |
 | [branching type resolution doesn't exclude noreturn and other coercible values](https://github.com/zigtools/zls/issues/3210) 💬 3 | [zigtools/zls](https://github.com/zigtools/zls) | 5.3k | 🟢 beginner | 2026-11-09 | 📄 AI policy · [📘 guide](https://github.com/zigtools/zls/blob/HEAD/CONTRIBUTING.md) |
 | [Logarithm builtins for F32, F64, Dec](https://github.com/roc-lang/roc/issues/5107) 💬 4 | [roc-lang/roc](https://github.com/roc-lang/roc) | 6.2k | 🟢 beginner | 2026-11-05 |  |
+| [\[Feature Request\] MLX Core: Auto-restart the server after an unexpected crash (with backoff)](https://github.com/ddalcu/mlx-serve/issues/265) 💬 4 | [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) | 2.4k | 🟡 help wanted | 2026-10-26 | [📘 guide](https://github.com/ddalcu/mlx-serve/blob/HEAD/CONTRIBUTING.md) |
 | [H3: is there a supported way to chain windows with REF2VA references? (chained windows + ref_images are mutual](https://github.com/ddalcu/mlx-serve/issues/316) 💬 5 | [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) | 2.4k | 🟡 help wanted | 2026-10-26 | [📘 guide](https://github.com/ddalcu/mlx-serve/blob/HEAD/CONTRIBUTING.md) |
 | [Session persistence on machine restart](https://github.com/neurosnap/zmx/issues/76) 💬 11 | [neurosnap/zmx](https://github.com/neurosnap/zmx) | 2.3k | 🟡 help wanted | 2026-10-12 | [📘 guide](https://github.com/neurosnap/zmx/blob/HEAD/CONTRIBUTING.md) |
 | [Support all of WASI preview1 functions](https://github.com/mewz-project/mewz/issues/1) | [mewz-project/mewz](https://github.com/mewz-project/mewz) | 693 | 🟢 beginner | 2026-09-05 |  |
