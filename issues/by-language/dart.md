@@ -1,10 +1,10 @@
 # Dart issues
 
-**65** open issues (22 labeled for beginners) across **33** active Dart projects.
+**64** open issues (22 labeled for beginners) across **33** active Dart projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/dart.xml)
 
-> Updated automatically on **2026-11-09 14:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-10 01:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [New way to show devices distribution](https://github.com/osociety/vernet/issues/36) 💬 1 | [osociety/vernet](https://github.com/osociety/vernet) | 567 | 🟢 beginner | 2026-11-08 | 📄 AI policy |
+| [New way to show devices distribution](https://github.com/osociety/vernet/issues/36) 💬 1 | [osociety/vernet](https://github.com/osociety/vernet) | 568 | 🟢 beginner | 2026-11-08 | 📄 AI policy |
 | [Product addition (tracker)](https://github.com/openfoodfacts/smooth-app/issues/1379) 💬 18 | [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) | 1.4k | 🟢 beginner | 2026-11-07 | [📘 guide](https://github.com/openfoodfacts/smooth-app/blob/HEAD/CONTRIBUTING.md) |
 | [Add quick stats on the % of NOVA 4 products in a list](https://github.com/openfoodfacts/smooth-app/issues/6274) 💬 10 | [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) | 1.4k | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/openfoodfacts/smooth-app/blob/HEAD/CONTRIBUTING.md) |
 | [Need process for nightly builds meet requirement of CI support](https://github.com/FriesI23/mhabit/issues/55) | [FriesI23/mhabit](https://github.com/FriesI23/mhabit) | 1.7k | 🟡 help wanted | 2026-11-05 |  |
@@ -25,7 +25,6 @@
 | [DevTools autosubmit label is broken](https://github.com/flutter/devtools/issues/6781) 💬 1 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-21 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
 | [CPU Profiler auto stop timer \[Improvement\]](https://github.com/flutter/devtools/issues/3425) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-21 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
 | [Improve visibility of breakpoints](https://github.com/flutter/devtools/issues/4776) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-21 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
-| [DevTools has errors when used without an internet connection](https://github.com/flutter/devtools/issues/8562) 💬 1 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-21 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
 | [\[User reported\] Click on tags in the log events rows to filter by those tags](https://github.com/flutter/devtools/issues/9558) 💬 4 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-21 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
 | [Add option to disable RSS graph or scale memory chart axis](https://github.com/flutter/devtools/issues/9625) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-21 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
 | [Convert docs site to Jaspr](https://github.com/flame-engine/flame/issues/3733) 💬 13 | [flame-engine/flame](https://github.com/flame-engine/flame) | 10.8k | 🟡 help wanted | 2026-10-18 | [📘 guide](https://github.com/flame-engine/flame/blob/HEAD/CONTRIBUTING.md) |
@@ -57,13 +56,13 @@
 | [\[Bug\] When drag and dropping contact to Bcc, the field isn't highlighted](https://github.com/linagora/tmail-flutter/issues/3074) 💬 1 | [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) | 666 | 🟢 beginner | 2026-08-29 |  |
 | [\[Feature\] New icons set](https://github.com/RIP-Comm/sossoldi/issues/535) 💬 1 | [RIP-Comm/sossoldi](https://github.com/RIP-Comm/sossoldi) | 1.4k | 🟢 beginner | 2026-08-27 |  |
 | [Joplin integration](https://github.com/LinwoodDev/Butterfly/issues/253) 💬 3 | [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) | 2.1k | 🟢 beginner | 2026-08-23 | [📘 guide](https://github.com/LinwoodDev/Butterfly/blob/HEAD/CONTRIBUTING.md) |
-| [Refresh button for manage application page](https://github.com/ubuntu/app-center/issues/2027) | [ubuntu/app-center](https://github.com/ubuntu/app-center) | 938 | 🟢 beginner | 2026-08-17 | ✍️ CLA · [📘 guide](https://github.com/ubuntu/app-center/blob/HEAD/CONTRIBUTING.md) |
+| [Refresh button for manage application page](https://github.com/ubuntu/app-center/issues/2027) | [ubuntu/app-center](https://github.com/ubuntu/app-center) | 939 | 🟢 beginner | 2026-08-17 | ✍️ CLA · [📘 guide](https://github.com/ubuntu/app-center/blob/HEAD/CONTRIBUTING.md) |
 | [Adding a pointer beside the bar rod.](https://github.com/imaNNeo/fl_chart/issues/1480) 💬 6 | [imaNNeo/fl_chart](https://github.com/imaNNeo/fl_chart) | 7.6k | 🟢 beginner | 2026-08-15 | [📘 guide](https://github.com/imaNNeo/fl_chart/blob/HEAD/CONTRIBUTING.md) |
 | [Ente Auth iOS: slow unlock](https://github.com/ente/ente/issues/4749) 💬 10 | [ente/ente](https://github.com/ente/ente) | 30k | 🟢 beginner | 2026-08-11 | [📘 guide](https://github.com/ente/ente/blob/HEAD/CONTRIBUTING.md) |
 | [Change message and flag icons on game page for clarity](https://github.com/lichess-org/mobile/issues/3484) 💬 5 | [lichess-org/mobile](https://github.com/lichess-org/mobile) | 2.7k | 🟢 beginner | 2026-08-08 | 🤖 disclose AI use · [📘 guide](https://github.com/lichess-org/mobile/blob/HEAD/CONTRIBUTING.md) |
 | [Add a method to check whether the platform supports dynamic theming](https://github.com/material-foundation/flutter-packages/issues/390) 💬 7 | [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) | 865 | 🟡 help wanted | 2026-08-07 | [📘 guide](https://github.com/material-foundation/flutter-packages/blob/HEAD/CONTRIBUTING.md) |
 | [Improve development experience](https://github.com/material-foundation/flutter-packages/issues/299) | [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) | 865 | 🟡 help wanted | 2026-08-07 | [📘 guide](https://github.com/material-foundation/flutter-packages/blob/HEAD/CONTRIBUTING.md) |
-| [iOS版本播放界面侧滑返回](https://github.com/Predidit/Kazumi/issues/2427) | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 41.8k | 🟡 help wanted | 2026-08-04 |  |
+| [iOS版本播放界面侧滑返回](https://github.com/Predidit/Kazumi/issues/2427) | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 41.9k | 🟡 help wanted | 2026-08-04 |  |
 | [Storage access to screen source folder only](https://github.com/AnsahMohammad/shots-studio/issues/203) 💬 1 | [AnsahMohammad/shots-studio](https://github.com/AnsahMohammad/shots-studio) | 685 | 🟢 beginner | 2026-08-03 | [📘 guide](https://github.com/AnsahMohammad/shots-studio/blob/HEAD/CONTRIBUTING.md) |
 | [gif 动态图打开后不会动态显示](https://github.com/fregie/pho/issues/28) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 | [📘 guide](https://github.com/fregie/pho/blob/HEAD/CONTRIBUTING.md) |
 | [希望可以加入收藏功能](https://github.com/fregie/pho/issues/5) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 | [📘 guide](https://github.com/fregie/pho/blob/HEAD/CONTRIBUTING.md) |
@@ -73,7 +72,7 @@
 | [\[typed_sql\] MariaDB and MySQL support](https://github.com/google/dart-neats/issues/330) | [google/dart-neats](https://github.com/google/dart-neats) | 512 | 🟡 help wanted | 2026-06-09 | ✍️ CLA · [📘 guide](https://github.com/google/dart-neats/blob/HEAD/CONTRIBUTING.md) |
 | [change the file extension form mp4 to m4a](https://github.com/HemantKArya/BloomeeTunes/issues/38) 💬 4 | [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) | 2.3k | 🟢 beginner | 2026-06-03 | [📘 guide](https://github.com/HemantKArya/BloomeeTunes/blob/HEAD/CONTRIBUTING.md) |
 | [Browers plugin? (eg. Firefox)](https://github.com/authpass/authpass/issues/41) 💬 13 | [authpass/authpass](https://github.com/authpass/authpass) | 2.8k | 🟡 help wanted | 2026-05-29 | ✍️ CLA · [📘 guide](https://github.com/authpass/authpass/blob/HEAD/CONTRIBUTING.md) |
-| [allow customizing the quick-access symbol bar.](https://github.com/freeCodeCamp/mobile/issues/1661) 💬 1 | [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile) | 584 | 🟡 help wanted | 2026-05-25 |  |
+| [allow customizing the quick-access symbol bar.](https://github.com/freeCodeCamp/mobile/issues/1661) 💬 1 | [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile) | 585 | 🟡 help wanted | 2026-05-25 |  |
 | [阅黑色背景右和下边会有一个白边](https://github.com/Anxcye/anx-reader/issues/93) 💬 4 | [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) | 9.2k | 🟡 help wanted | 2026-05-24 | [📘 guide](https://github.com/Anxcye/anx-reader/blob/HEAD/CONTRIBUTING.md) |
 | [Make a better icon](https://github.com/Zverik/every_door/issues/37) 💬 8 | [Zverik/every_door](https://github.com/Zverik/every_door) | 568 | 🟡 help wanted | 2026-05-23 |  |
 | [feat: implement podcast sync api](https://github.com/ubuntu-flutter-community/musicpod/issues/36) 💬 6 | [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod) | 673 | 🟡 help wanted | 2026-05-20 |  |

@@ -1,10 +1,10 @@
 # Vue issues
 
-**31** open issues (20 labeled for beginners) across **11** active Vue projects.
+**30** open issues (19 labeled for beginners) across **11** active Vue projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/vue.xml)
 
-> Updated automatically on **2026-11-09 14:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-10 01:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -40,6 +40,5 @@
 | [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944) 💬 11 | [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) | 22.4k | 🟢 beginner | 2026-08-06 | [📘 guide](https://github.com/FreeTubeApp/FreeTube/blob/HEAD/CONTRIBUTING.md) |
 | [Highlighting comments](https://github.com/FreeTubeApp/FreeTube/issues/783) 💬 10 | [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) | 22.4k | 🟢 beginner | 2026-08-06 | [📘 guide](https://github.com/FreeTubeApp/FreeTube/blob/HEAD/CONTRIBUTING.md) |
 | [Mode to display all digits of Subscribers](https://github.com/FreeTubeApp/FreeTube/issues/726) 💬 2 | [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) | 22.4k | 🟢 beginner | 2026-08-06 | [📘 guide](https://github.com/FreeTubeApp/FreeTube/blob/HEAD/CONTRIBUTING.md) |
-| [\[Feature Request\]: Support the new error state API](https://github.com/VueTorrent/VueTorrent/issues/2319) 💬 3 | [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) | 7k | 🟢 beginner | 2026-08-02 | [📘 guide](https://github.com/VueTorrent/VueTorrent/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Feature Request\]: show "Time Inactive" in torrent "Duration Values" section](https://github.com/VueTorrent/VueTorrent/issues/2207) 💬 4 | [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) | 7k | 🟢 beginner | 2026-06-03 | [📘 guide](https://github.com/VueTorrent/VueTorrent/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Email signature cannot be templated](https://github.com/frappe/helpdesk/issues/3397) 💬 4 | [frappe/helpdesk](https://github.com/frappe/helpdesk) | 3.5k | 🟢 beginner | 2026-05-29 |  |

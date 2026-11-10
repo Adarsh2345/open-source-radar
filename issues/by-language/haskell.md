@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/haskell.xml)
 
-> Updated automatically on **2026-11-09 14:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-10 01:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Resurrecting the MySQL backend](https://github.com/haskell-beam/beam/issues/822) 💬 5 | [haskell-beam/beam](https://github.com/haskell-beam/beam) | 637 | 🟡 help wanted | 2026-11-03 |  |
+| [Resurrecting the MySQL backend](https://github.com/haskell-beam/beam/issues/822) 💬 6 | [haskell-beam/beam](https://github.com/haskell-beam/beam) | 637 | 🟡 help wanted | 2026-11-10 |  |
 | [Warning that has been turned off is reported](https://github.com/agda/agda/issues/8886) 💬 2 | [agda/agda](https://github.com/agda/agda) | 3k | 🟡 help wanted | 2026-11-02 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) |
 | [Output to STDOUT blocks reporting to STDERR](https://github.com/gren-lang/compiler/issues/388) 💬 1 | [gren-lang/compiler](https://github.com/gren-lang/compiler) | 506 | 🟢 beginner | 2026-10-23 | [📘 guide](https://github.com/gren-lang/compiler/blob/HEAD/CONTRIBUTING.md) |
 | ['//' truncates its result to 32 bits when inlined, but not when passed as a function](https://github.com/gren-lang/compiler/issues/383) 💬 1 | [gren-lang/compiler](https://github.com/gren-lang/compiler) | 506 | 🟢 beginner | 2026-10-23 | [📘 guide](https://github.com/gren-lang/compiler/blob/HEAD/CONTRIBUTING.md) |

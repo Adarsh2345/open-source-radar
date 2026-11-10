@@ -1,10 +1,10 @@
 # Julia issues
 
-**53** open issues (40 labeled for beginners) across **16** active Julia projects.
+**54** open issues (40 labeled for beginners) across **16** active Julia projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/julia.xml)
 
-> Updated automatically on **2026-11-09 14:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-10 01:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -14,6 +14,7 @@
 | --- | --- | ---: | --- | --- | --- |
 | [Document Mem.pin more explicitly to make it more findable](https://github.com/JuliaGPU/CUDA.jl/issues/1570) 💬 1 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-11-04 |  |
 | [Roadmap and ideas for Molly.jl development](https://github.com/JuliaMolSim/Molly.jl/issues/2) 💬 53 | [JuliaMolSim/Molly.jl](https://github.com/JuliaMolSim/Molly.jl) | 502 | 🟢 beginner | 2026-10-27 |  |
+| [Improve reinterpret docstring](https://github.com/JuliaLang/julia/issues/47706) 💬 3 | [JuliaLang/julia](https://github.com/JuliaLang/julia) | 49.2k | 🟡 help wanted | 2026-10-19 | 🤖 disclose AI use · [📘 guide](https://github.com/JuliaLang/julia/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature Request\] Determinant Function](https://github.com/JuliaGPU/CUDA.jl/issues/110) 💬 10 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
 | [Support for matrix exp](https://github.com/JuliaGPU/CUDA.jl/issues/168) 💬 1 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
 | [inv or logdet for symmetric matrices](https://github.com/JuliaGPU/CUDA.jl/issues/977) 💬 2 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
@@ -53,7 +54,7 @@
 | [Request: Warning for lack of appropriate compiler](https://github.com/JuliaLang/PackageCompiler.jl/issues/714) 💬 2 | [JuliaLang/PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) | 1.6k | 🟢 beginner | 2026-07-31 |  |
 | [Testing apps should ideally upload the app somewhere and then download it on another machine which doesn't hav](https://github.com/JuliaLang/PackageCompiler.jl/issues/322) 💬 5 | [JuliaLang/PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) | 1.6k | 🟡 help wanted | 2026-07-31 |  |
 | [More refined handling of (top-level) semicolons](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/1239) 💬 1 | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 647 | 🟢 beginner | 2026-07-26 |  |
-| [CI job to push automated fixes to PRs](https://github.com/JuliaDocs/Documenter.jl/issues/2229) 💬 6 | [JuliaDocs/Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) | 925 | 🟢 beginner | 2026-07-23 | 🤖 disclose AI use |
+| [CI job to push automated fixes to PRs](https://github.com/JuliaDocs/Documenter.jl/issues/2229) 💬 6 | [JuliaDocs/Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) | 926 | 🟢 beginner | 2026-07-23 | 🤖 disclose AI use |
 | [API for Hessian](https://github.com/EnzymeAD/Enzyme.jl/issues/1495) 💬 3 | [EnzymeAD/Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl) | 592 | 🟢 beginner | 2026-07-20 | [📘 guide](https://github.com/EnzymeAD/Enzyme.jl/blob/HEAD/CONTRIBUTING.md) |
 | [Some Projects that are Available for Future Work](https://github.com/QuantEcon/QuantEcon.jl/issues/83) 💬 16 | [QuantEcon/QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl) | 555 | 🟡 help wanted | 2026-07-15 |  |
 | [Provide interpolation function 'f(x, y)' for user-driven postprocessing of results](https://github.com/trixi-framework/Trixi.jl/issues/1291) 💬 4 | [trixi-framework/Trixi.jl](https://github.com/trixi-framework/Trixi.jl) | 737 | 🟢 beginner | 2026-07-13 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/trixi-framework/Trixi.jl/blob/HEAD/CONTRIBUTING.md) |

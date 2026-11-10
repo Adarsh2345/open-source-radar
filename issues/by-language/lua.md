@@ -1,10 +1,10 @@
 # Lua issues
 
-**29** open issues (18 labeled for beginners) across **13** active Lua projects.
+**31** open issues (20 labeled for beginners) across **14** active Lua projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/lua.xml)
 
-> Updated automatically on **2026-11-09 14:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-10 01:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [\[Forever\] Questie should insert Blizzard quest links anywhere.](https://github.com/Questie/Questie/issues/8218) 💬 1 | [Questie/Questie](https://github.com/Questie/Questie) | 1.1k | 🟢 beginner | 2026-11-09 |  |
+| [Full quest log is sent to players outside your group (no sender check in QuestieComms)](https://github.com/Questie/Questie/issues/8237) 💬 1 | [Questie/Questie](https://github.com/Questie/Questie) | 1.1k | 🟢 beginner | 2026-11-09 |  |
+| [Target Frame Quest Objectives not shown with EllesmereUI](https://github.com/Questie/Questie/issues/8239) 💬 1 | [Questie/Questie](https://github.com/Questie/Questie) | 1.1k | 🟢 beginner | 2026-11-09 |  |
 | [New Feed for NCRTC (Regional train)](https://github.com/public-transport/transitous/issues/1622) 💬 4 | [public-transport/transitous](https://github.com/public-transport/transitous) | 750 | 🟢 beginner | 2026-11-09 | 📄 AI policy |
 | [Corroy depth charge issues](https://github.com/beyond-all-reason/Beyond-All-Reason/issues/3845) 💬 3 | [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) | 4.3k | 🟢 beginner | 2026-11-02 | 🤖 disclose AI use · [📘 guide](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/HEAD/CONTRIBUTING.md) |
 | [Nano turrets stay permanently idle if tasked to assist something that's out of range](https://github.com/beyond-all-reason/Beyond-All-Reason/issues/2445) 💬 7 | [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) | 4.3k | 🟢 beginner | 2026-10-27 | 🤖 disclose AI use · [📘 guide](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/HEAD/CONTRIBUTING.md) |
@@ -20,13 +23,13 @@
 | [replace __inherited_from with a solution that allows cascading inheritance](https://github.com/avante-corp/avante.nvim/issues/3325) | [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) | 18.2k | 🟢 beginner | 2026-10-20 | [📘 guide](https://github.com/avante-corp/avante.nvim/blob/HEAD/CONTRIBUTING.md) |
 | [structured configuration for password retreival](https://github.com/avante-corp/avante.nvim/issues/3323) | [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) | 18.2k | 🟢 beginner | 2026-10-20 | [📘 guide](https://github.com/avante-corp/avante.nvim/blob/HEAD/CONTRIBUTING.md) |
 | [Implement LAN Multiplayer System And Mode](https://github.com/CorsixTH/CorsixTH/issues/386) 💬 54 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.7k | 🟡 help wanted | 2026-10-19 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
-| [feature: Apply session_cwd to session restore](https://github.com/carlos-algms/agentic.nvim/issues/325) 💬 1 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 657 | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
+| [feature: Apply session_cwd to session restore](https://github.com/carlos-algms/agentic.nvim/issues/325) 💬 1 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 658 | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
 | [🐛 migration needed: mobs speed enhancements](https://github.com/LandSandBoat/server/issues/4757) 💬 1 | [LandSandBoat/server](https://github.com/LandSandBoat/server) | 523 | 🟢 beginner | 2026-10-14 | [📘 guide](https://github.com/LandSandBoat/server/blob/HEAD/CONTRIBUTING.md) |
 | [Recipe for some icons / symbols configuration](https://github.com/hedyhli/outline.nvim/issues/164) 💬 1 | [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) | 1k | 🟡 help wanted | 2026-10-10 |  |
 | [\[Bug\] Missing room explosion animation](https://github.com/CorsixTH/CorsixTH/issues/2556) 💬 7 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.7k | 🟡 help wanted | 2026-10-08 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
-| [feature: Prompting through lua](https://github.com/carlos-algms/agentic.nvim/issues/316) 💬 4 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 657 | 🟡 help wanted | 2026-10-05 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
-| [Support for integrating with ClaudeCode's AskUserQuestion](https://github.com/carlos-algms/agentic.nvim/issues/274) 💬 9 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 657 | 🟡 help wanted | 2026-10-04 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
-| [\[feature\] support rockspec](https://github.com/carlos-algms/agentic.nvim/issues/264) 💬 1 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 657 | 🟢 beginner | 2026-10-04 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
+| [feature: Prompting through lua](https://github.com/carlos-algms/agentic.nvim/issues/316) 💬 4 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 658 | 🟡 help wanted | 2026-10-05 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
+| [Support for integrating with ClaudeCode's AskUserQuestion](https://github.com/carlos-algms/agentic.nvim/issues/274) 💬 9 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 658 | 🟡 help wanted | 2026-10-04 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
+| [\[feature\] support rockspec](https://github.com/carlos-algms/agentic.nvim/issues/264) 💬 1 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 658 | 🟢 beginner | 2026-10-04 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
 | [Long unknown keys are truncated to known keys in some request decoders](https://github.com/tarantool/tarantool/issues/13284) 💬 1 | [tarantool/tarantool](https://github.com/tarantool/tarantool) | 3.7k | 🟢 beginner | 2026-10-02 | [📘 guide](https://github.com/tarantool/tarantool/blob/HEAD/CONTRIBUTING.md) |
 | [docs: make route matching/filtering information more visible](https://github.com/apache/apisix/issues/10735) 💬 5 | [apache/apisix](https://github.com/apache/apisix) | 17.3k | 🟢 beginner | 2026-09-20 | ✍️ CLA · [📘 guide](https://github.com/apache/apisix/blob/HEAD/CONTRIBUTING.md) |
 | [docs: Rework the service discovery documentation in general and Eureka in particular](https://github.com/apache/apisix/issues/7342) 💬 3 | [apache/apisix](https://github.com/apache/apisix) | 17.3k | 🟢 beginner | 2026-09-19 | ✍️ CLA · [📘 guide](https://github.com/apache/apisix/blob/HEAD/CONTRIBUTING.md) |
@@ -40,4 +43,3 @@
 | [Add feeds from TUMI Datahub](https://github.com/public-transport/transitous/issues/584) 💬 2 | [public-transport/transitous](https://github.com/public-transport/transitous) | 750 | 🟢 beginner | 2026-07-02 | 📄 AI policy |
 | [Add more data for India](https://github.com/public-transport/transitous/issues/2144) 💬 2 | [public-transport/transitous](https://github.com/public-transport/transitous) | 750 | 🟢 beginner | 2026-06-16 | 📄 AI policy |
 | [Support hyprland from nixpkgs](https://github.com/zjeffer/split-monitor-workspaces/issues/275) 💬 9 | [zjeffer/split-monitor-workspaces](https://github.com/zjeffer/split-monitor-workspaces) | 812 | 🟡 help wanted | 2026-06-10 | 📄 AI policy · [📘 guide](https://github.com/zjeffer/split-monitor-workspaces/blob/HEAD/CONTRIBUTING.md) |
-| [Epic Stormbgringer can't land on air repair pad most of time](https://github.com/beyond-all-reason/Beyond-All-Reason/issues/1346) 💬 6 | [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) | 4.3k | 🟢 beginner | 2026-05-13 | 🤖 disclose AI use · [📘 guide](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/HEAD/CONTRIBUTING.md) |
