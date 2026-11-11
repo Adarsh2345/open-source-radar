@@ -1,10 +1,10 @@
 # Vue issues
 
-**30** open issues (19 labeled for beginners) across **11** active Vue projects.
+**29** open issues (18 labeled for beginners) across **11** active Vue projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/vue.xml)
 
-> Updated automatically on **2026-11-10 23:02 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-11 13:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -19,7 +19,6 @@
 | [Knowledge base: SEO settings for articles](https://github.com/frappe/helpdesk/issues/3915) 💬 4 | [frappe/helpdesk](https://github.com/frappe/helpdesk) | 3.5k | 🟢 beginner | 2026-10-30 |  |
 | [\[功能建议\]NixOS适配](https://github.com/stark81/VutronMusic/issues/421) 💬 5 | [stark81/VutronMusic](https://github.com/stark81/VutronMusic) | 1.7k | 🟡 help wanted | 2026-10-25 |  |
 | [\[Enhancement\] Android TV Support](https://github.com/advplyr/audiobookshelf-app/issues/606) 💬 31 | [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) | 2.8k | 🟡 help wanted | 2026-10-23 |  |
-| [Regarding language settings](https://github.com/VueTorrent/VueTorrent/issues/1403) 💬 5 | [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) | 7k | 🟢 beginner | 2026-10-22 | [📘 guide](https://github.com/VueTorrent/VueTorrent/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Teams overview: toggle option between wide and narrow mode with tags and content information](https://github.com/Smaug6739/Alexandrie/issues/771) 💬 1 | [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) | 3.9k | 🟢 beginner | 2026-10-20 | [📘 guide](https://github.com/Smaug6739/Alexandrie/blob/HEAD/CONTRIBUTING.md) |
 | [添加音源后卡顿严重，基本点击设置以及歌词等界面都会出现卡顿5秒左右，但是播放一切正常](https://github.com/algerkong/AlgerMusicPlayer/issues/723) 💬 1 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17.5k | 🟡 help wanted | 2026-10-07 |  |
 | [能否增加对外置DAC解码器的支持，支持bit-perfect源码播放，DAC独占支持？谢谢](https://github.com/algerkong/AlgerMusicPlayer/issues/686) | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17.5k | 🟡 help wanted | 2026-10-07 |  |

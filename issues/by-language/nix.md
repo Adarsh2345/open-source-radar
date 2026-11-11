@@ -1,10 +1,10 @@
 # Nix issues
 
-**11** open issues (4 labeled for beginners) across **9** active Nix projects.
+**10** open issues (4 labeled for beginners) across **9** active Nix projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/nix.xml)
 
-> Updated automatically on **2026-11-10 23:02 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-11 13:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -22,4 +22,3 @@
 | [Documentation for the disko configuration format](https://github.com/nix-community/disko/issues/817) 💬 8 | [nix-community/disko](https://github.com/nix-community/disko) | 3.4k | 🟡 help wanted | 2026-07-11 | [📘 guide](https://github.com/nix-community/disko/blob/HEAD/CONTRIBUTING.md) |
 | [Use smbios to pass systemd credentials instead of fw_cfg](https://github.com/microvm-nix/microvm.nix/issues/511) 💬 1 | [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) | 3.1k | 🟢 beginner | 2026-06-30 |  |
 | [Cannot set font with qt5ct](https://github.com/catppuccin/nix/issues/368) 💬 1 | [catppuccin/nix](https://github.com/catppuccin/nix) | 774 | 🟡 help wanted | 2026-05-21 |  |
-| [random failures during script "cannot open /dev/disk/by-partlabel/disk-sda-boot"](https://github.com/nix-community/disko/issues/739) 💬 5 | [nix-community/disko](https://github.com/nix-community/disko) | 3.4k | 🟡 help wanted | 2026-05-15 | [📘 guide](https://github.com/nix-community/disko/blob/HEAD/CONTRIBUTING.md) |

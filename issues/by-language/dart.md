@@ -1,10 +1,10 @@
 # Dart issues
 
-**64** open issues (22 labeled for beginners) across **33** active Dart projects.
+**65** open issues (23 labeled for beginners) across **34** active Dart projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/dart.xml)
 
-> Updated automatically on **2026-11-10 23:02 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-11 13:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Add quick stats on the % of NOVA 4 products in a list](https://github.com/openfoodfacts/smooth-app/issues/6274) 💬 12 | [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) | 1.4k | 🟢 beginner | 2026-11-10 | [📘 guide](https://github.com/openfoodfacts/smooth-app/blob/HEAD/CONTRIBUTING.md) |
+| [Add quick stats on the % of NOVA 4 products in a list](https://github.com/openfoodfacts/smooth-app/issues/6274) 💬 14 | [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) | 1.4k | 🟢 beginner | 2026-11-11 | [📘 guide](https://github.com/openfoodfacts/smooth-app/blob/HEAD/CONTRIBUTING.md) |
+| [Add WiFi password share with QR-Code](https://github.com/cogwheel0/luci-mobile/issues/37) 💬 2 | [cogwheel0/luci-mobile](https://github.com/cogwheel0/luci-mobile) | 728 | 🟢 beginner | 2026-11-11 | [📘 guide](https://github.com/cogwheel0/luci-mobile/blob/HEAD/CONTRIBUTING.md) |
 | [New way to show devices distribution](https://github.com/osociety/vernet/issues/36) 💬 1 | [osociety/vernet](https://github.com/osociety/vernet) | 570 | 🟢 beginner | 2026-11-08 | 📄 AI policy |
 | [Product addition (tracker)](https://github.com/openfoodfacts/smooth-app/issues/1379) 💬 18 | [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) | 1.4k | 🟢 beginner | 2026-11-07 | [📘 guide](https://github.com/openfoodfacts/smooth-app/blob/HEAD/CONTRIBUTING.md) |
 | [Need process for nightly builds meet requirement of CI support](https://github.com/FriesI23/mhabit/issues/55) | [FriesI23/mhabit](https://github.com/FriesI23/mhabit) | 1.7k | 🟡 help wanted | 2026-11-05 |  |
@@ -41,7 +42,7 @@
 | [Clean up feature controllers in Performance page](https://github.com/flutter/devtools/issues/5100) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
 | [Exit Offline Mode not restoring previous state](https://github.com/flutter/devtools/issues/5047) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
 | [DevTools, when left overnight, connected to app, causes device unresponsiveness.](https://github.com/flutter/devtools/issues/4995) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
-| [Port to KaiOS](https://github.com/localsend/localsend/issues/1511) 💬 4 | [localsend/localsend](https://github.com/localsend/localsend) | 98.3k | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/localsend/localsend/blob/HEAD/CONTRIBUTING.md) |
+| [Port to KaiOS](https://github.com/localsend/localsend/issues/1511) 💬 4 | [localsend/localsend](https://github.com/localsend/localsend) | 98.4k | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/localsend/localsend/blob/HEAD/CONTRIBUTING.md) |
 | [English translation](https://github.com/bepass-org/oblivion/issues/171) 💬 2 | [bepass-org/oblivion](https://github.com/bepass-org/oblivion) | 4.9k | 🟡 help wanted | 2026-10-09 |  |
 | [\[Feature Request\] implement a flickering method to introduce grayscale](https://github.com/fossasia/badgemagic-app/issues/1671) 💬 5 | [fossasia/badgemagic-app](https://github.com/fossasia/badgemagic-app) | 2k | 🟡 help wanted | 2026-10-08 |  |
 | [\[FR\] press Enter anywhere in the grid view to add a new row / shift + enter a new line](https://github.com/AppFlowy-IO/AppFlowy/issues/3074) 💬 3 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 78.7k | 🟡 help wanted | 2026-09-29 |  |
@@ -52,13 +53,13 @@
 | [\[Feature Request\] Support range versions](https://github.com/btwld/fvm/issues/751) 💬 1 | [btwld/fvm](https://github.com/btwld/fvm) | 5.5k | 🟡 help wanted | 2026-09-08 |  |
 | [Migration guide Firebase to Serverpod](https://github.com/serverpod/serverpod/issues/3337) 💬 8 | [serverpod/serverpod](https://github.com/serverpod/serverpod) | 3.3k | 🟢 beginner | 2026-09-07 | [📘 guide](https://github.com/serverpod/serverpod/blob/HEAD/CONTRIBUTING.md) |
 | [ci: enable the use of a dependancy bot](https://github.com/ImranR98/Obtainium/issues/3275) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 21.4k | 🟢 beginner | 2026-09-06 | 📄 AI policy · [📘 guide](https://github.com/ImranR98/Obtainium/blob/HEAD/docs/CONTRIBUTING.md) |
-| [\[Flatpak\] Auth: Failed to launch: libsecret_error: Failed to unlock the keyring](https://github.com/ente/ente/issues/6564) 💬 6 | [ente/ente](https://github.com/ente/ente) | 30k | 🟡 help wanted | 2026-09-03 | [📘 guide](https://github.com/ente/ente/blob/HEAD/CONTRIBUTING.md) |
+| [\[Flatpak\] Auth: Failed to launch: libsecret_error: Failed to unlock the keyring](https://github.com/ente/ente/issues/6564) 💬 6 | [ente/ente](https://github.com/ente/ente) | 30.1k | 🟡 help wanted | 2026-09-03 | [📘 guide](https://github.com/ente/ente/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] When drag and dropping contact to Bcc, the field isn't highlighted](https://github.com/linagora/tmail-flutter/issues/3074) 💬 1 | [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) | 666 | 🟢 beginner | 2026-08-29 |  |
 | [\[Feature\] New icons set](https://github.com/RIP-Comm/sossoldi/issues/535) 💬 1 | [RIP-Comm/sossoldi](https://github.com/RIP-Comm/sossoldi) | 1.4k | 🟢 beginner | 2026-08-27 |  |
 | [Joplin integration](https://github.com/LinwoodDev/Butterfly/issues/253) 💬 3 | [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) | 2.1k | 🟢 beginner | 2026-08-23 | [📘 guide](https://github.com/LinwoodDev/Butterfly/blob/HEAD/CONTRIBUTING.md) |
 | [Refresh button for manage application page](https://github.com/ubuntu/app-center/issues/2027) | [ubuntu/app-center](https://github.com/ubuntu/app-center) | 940 | 🟢 beginner | 2026-08-17 | ✍️ CLA · [📘 guide](https://github.com/ubuntu/app-center/blob/HEAD/CONTRIBUTING.md) |
 | [Adding a pointer beside the bar rod.](https://github.com/imaNNeo/fl_chart/issues/1480) 💬 6 | [imaNNeo/fl_chart](https://github.com/imaNNeo/fl_chart) | 7.6k | 🟢 beginner | 2026-08-15 | [📘 guide](https://github.com/imaNNeo/fl_chart/blob/HEAD/CONTRIBUTING.md) |
-| [Ente Auth iOS: slow unlock](https://github.com/ente/ente/issues/4749) 💬 10 | [ente/ente](https://github.com/ente/ente) | 30k | 🟢 beginner | 2026-08-11 | [📘 guide](https://github.com/ente/ente/blob/HEAD/CONTRIBUTING.md) |
+| [Ente Auth iOS: slow unlock](https://github.com/ente/ente/issues/4749) 💬 10 | [ente/ente](https://github.com/ente/ente) | 30.1k | 🟢 beginner | 2026-08-11 | [📘 guide](https://github.com/ente/ente/blob/HEAD/CONTRIBUTING.md) |
 | [Change message and flag icons on game page for clarity](https://github.com/lichess-org/mobile/issues/3484) 💬 5 | [lichess-org/mobile](https://github.com/lichess-org/mobile) | 2.7k | 🟢 beginner | 2026-08-08 | 🤖 disclose AI use · [📘 guide](https://github.com/lichess-org/mobile/blob/HEAD/CONTRIBUTING.md) |
 | [Add a method to check whether the platform supports dynamic theming](https://github.com/material-foundation/flutter-packages/issues/390) 💬 7 | [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) | 865 | 🟡 help wanted | 2026-08-07 | [📘 guide](https://github.com/material-foundation/flutter-packages/blob/HEAD/CONTRIBUTING.md) |
 | [Improve development experience](https://github.com/material-foundation/flutter-packages/issues/299) | [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) | 865 | 🟡 help wanted | 2026-08-07 | [📘 guide](https://github.com/material-foundation/flutter-packages/blob/HEAD/CONTRIBUTING.md) |

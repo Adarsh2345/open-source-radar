@@ -1,10 +1,10 @@
 # PHP issues
 
-**131** open issues (62 labeled for beginners) across **48** active PHP projects.
+**129** open issues (61 labeled for beginners) across **47** active PHP projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-11-10 23:02 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-11 13:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,13 +13,11 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-11-10 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
-| [\[Server\] Handle notifications/cancelled on the handshake era](https://github.com/modelcontextprotocol/php-sdk/issues/732) | [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) | 1.7k | 🟡 help wanted | 2026-11-10 | [📘 guide](https://github.com/modelcontextprotocol/php-sdk/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\] Cart CSV export: field selector for custom column selection](https://github.com/ChurchCRM/CRM/issues/8900) 💬 3 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 992 | 🟢 beginner | 2026-11-10 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\]Subscribe FreshRSS's logs itself as rss](https://github.com/FreshRSS/FreshRSS/issues/6839) 💬 3 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.6k | 🟡 help wanted | 2026-11-09 | [📘 guide](https://github.com/FreshRSS/FreshRSS/blob/HEAD/CONTRIBUTING.md) |
 | [Create New Admin account on successful installation.](https://github.com/ChurchCRM/CRM/issues/5327) 💬 5 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 992 | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Attendance not showing demographics](https://github.com/ChurchCRM/CRM/issues/5619) 💬 3 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 992 | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Feature: Customize home dashboard](https://github.com/ChurchCRM/CRM/issues/8559) 💬 3 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 992 | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
-| [Add dashboard widget to show latest notes](https://github.com/ChurchCRM/CRM/issues/5192) 💬 6 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 992 | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Bulk Reassigning Group Roles is Cumbersome](https://github.com/ChurchCRM/CRM/issues/3850) 💬 4 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 992 | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Feature request: Add additional field to People Directory Report](https://github.com/ChurchCRM/CRM/issues/7286) 💬 13 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 992 | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Deposit Chart Dashboard Split Funds](https://github.com/ChurchCRM/CRM/issues/3688) 💬 4 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 992 | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
@@ -94,7 +92,7 @@
 | [Private comment not available on REST api (webservice)](https://github.com/PrestaShop/PrestaShop/issues/30731) 💬 6 | [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) | 9.3k | 🟡 help wanted | 2026-09-07 | [📘 guide](https://github.com/PrestaShop/PrestaShop/blob/HEAD/CONTRIBUTING.md) |
 | [Active and Canceled both return true](https://github.com/laravel/cashier-stripe/issues/1791) 💬 5 | [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe) | 2.5k | 🟡 help wanted | 2026-09-06 | [📘 guide](https://github.com/laravel/cashier-stripe/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Subscription::currentPeriodStart / currentPeriodEnd causes lazy load error when preventLazyLoad is active](https://github.com/laravel/cashier-stripe/issues/1844) 💬 2 | [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe) | 2.5k | 🟡 help wanted | 2026-09-01 | [📘 guide](https://github.com/laravel/cashier-stripe/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Update Commands to use the Fully Qualified Class Name for the 'Transaction'](https://github.com/getsentry/sentry-laravel/issues/1022) 💬 2 | [getsentry/sentry-laravel](https://github.com/getsentry/sentry-laravel) | 1.3k | 🟢 beginner | 2026-09-01 | [📘 guide](https://github.com/getsentry/sentry-laravel/blob/HEAD/CONTRIBUTING.md) |
+| [Update Commands to use the Fully Qualified Class Name for the 'Transaction'](https://github.com/getsentry/sentry-laravel/issues/1022) 💬 2 | [getsentry/sentry-laravel](https://github.com/getsentry/sentry-laravel) | 1.4k | 🟢 beginner | 2026-09-01 | [📘 guide](https://github.com/getsentry/sentry-laravel/blob/HEAD/CONTRIBUTING.md) |
 | [JUnit report format (compatible with GitLab CI)](https://github.com/infection/infection/issues/1500) 💬 2 | [infection/infection](https://github.com/infection/infection) | 2.3k | 🟡 help wanted | 2026-08-30 | 🤖 disclose AI use · [📘 guide](https://github.com/infection/infection/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[feature\] Allow per-class mutant coverage thresholds](https://github.com/infection/infection/issues/2290) 💬 11 | [infection/infection](https://github.com/infection/infection) | 2.3k | 🟡 help wanted | 2026-08-30 | 🤖 disclose AI use · [📘 guide](https://github.com/infection/infection/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Alternative Badge SVG File as report for use in Gitlab and private Repositories](https://github.com/infection/infection/issues/1915) 💬 9 | [infection/infection](https://github.com/infection/infection) | 2.3k | 🟡 help wanted | 2026-08-30 | 🤖 disclose AI use · [📘 guide](https://github.com/infection/infection/blob/HEAD/.github/CONTRIBUTING.md) |
