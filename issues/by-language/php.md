@@ -1,10 +1,10 @@
 # PHP issues
 
-**127** open issues (59 labeled for beginners) across **46** active PHP projects.
+**126** open issues (59 labeled for beginners) across **45** active PHP projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-11-12 14:32 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-12 23:27 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.4k | 🟢 beginner | 2026-11-11 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
+| [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.4k | 🟢 beginner | 2026-11-12 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\]Subscribe FreshRSS's logs itself as rss](https://github.com/FreshRSS/FreshRSS/issues/6839) 💬 3 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.6k | 🟡 help wanted | 2026-11-09 | [📘 guide](https://github.com/FreshRSS/FreshRSS/blob/HEAD/CONTRIBUTING.md) |
 | [Create New Admin account on successful installation.](https://github.com/ChurchCRM/CRM/issues/5327) 💬 5 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 993 | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Attendance not showing demographics](https://github.com/ChurchCRM/CRM/issues/5619) 💬 3 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 993 | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
@@ -41,7 +41,6 @@
 | [Missing translations for Basque (eu)](https://github.com/symfony/symfony/issues/53012) 💬 4 | [symfony/symfony](https://github.com/symfony/symfony) | 31.4k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Azerbaijani (az)](https://github.com/symfony/symfony/issues/64482) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.4k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Afrikaans (af)](https://github.com/symfony/symfony/issues/64478) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.4k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
-| [Permissions in Laratrust panel don't acknowledge teams](https://github.com/santigarcor/laratrust/issues/572) 💬 6 | [santigarcor/laratrust](https://github.com/santigarcor/laratrust) | 2.3k | 🟡 help wanted | 2026-10-26 |  |
 | [Missing translations for Tagalog (tl)](https://github.com/symfony/symfony/issues/67434) | [symfony/symfony](https://github.com/symfony/symfony) | 31.4k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Norwegian Bokmål (nb)](https://github.com/symfony/symfony/issues/64507) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.4k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [RepeaterFieldTest::testFieldOnAcfBlock is stubbed out because it fails when run with the full wpunit suite](https://github.com/wp-graphql/wp-graphql/issues/4555) 💬 1 | [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql) | 3.8k | 🟡 help wanted | 2026-10-23 | [📘 guide](https://github.com/wp-graphql/wp-graphql/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -80,7 +79,7 @@
 | [unnecessary folder in mobile app feed list](https://github.com/FreshRSS/FreshRSS/issues/2742) 💬 8 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.6k | 🟢 beginner | 2026-09-22 | [📘 guide](https://github.com/FreshRSS/FreshRSS/blob/HEAD/CONTRIBUTING.md) |
 | [Feat request: Contact conversations don't include anything they were cced or recipients of](https://github.com/freescout-help-desk/freescout/issues/5656) | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4.7k | 🟡 help wanted | 2026-09-22 |  |
 | [\[Bug\]: Web Updater’s "start update" button unreachable without scroll bar](https://github.com/nextcloud/server/issues/40624) 💬 3 | [nextcloud/server](https://github.com/nextcloud/server) | 37.5k | 🟢 beginner | 2026-09-21 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nextcloud/server/blob/HEAD/.github/CONTRIBUTING.md) |
-| [List LibreSign in beginner-friendly open source directories](https://github.com/LibreSign/libresign/issues/8284) 💬 3 | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 844 | 🟢 beginner | 2026-09-21 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |
+| [List LibreSign in beginner-friendly open source directories](https://github.com/LibreSign/libresign/issues/8284) 💬 3 | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 845 | 🟢 beginner | 2026-09-21 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |
 | [Chamilo automatic deployment - Ansible](https://github.com/chamilo/chamilo-lms/issues/2502) 💬 7 | [chamilo/chamilo-lms](https://github.com/chamilo/chamilo-lms) | 1k | 🟡 help wanted | 2026-09-17 | [📘 guide](https://github.com/chamilo/chamilo-lms/blob/HEAD/CONTRIBUTING.md) |
 | [Ollama cloud and webSearch](https://github.com/LLPhant/LLPhant/issues/421) | [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) | 1.7k | 🟡 help wanted | 2026-09-16 | [📘 guide](https://github.com/LLPhant/LLPhant/blob/HEAD/CONTRIBUTING.md) |
 | [Expand CalDAVRemoveEmptyValue.php to fix additional 'Unsupported VALUE parameter for DTEND property' errors th](https://github.com/nextcloud/server/issues/17554) 💬 7 | [nextcloud/server](https://github.com/nextcloud/server) | 37.5k | 🟢 beginner | 2026-09-15 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nextcloud/server/blob/HEAD/.github/CONTRIBUTING.md) |

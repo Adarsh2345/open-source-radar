@@ -1,8 +1,8 @@
 # Data and databases issues
 
-**323** open issues (172 labeled for beginners) across **94** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
+**321** open issues (172 labeled for beginners) across **93** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
 
-> Updated automatically on **2026-11-12 14:32 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-12 23:27 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -15,7 +15,7 @@
 | [多个纵向分组列导致报表导出性能很差(大约20多个列需要纵向分组)](https://github.com/jeecgboot/jimureport/issues/4846) 💬 1 | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.6k | 🟡 help wanted | 2026-11-12 |  |
 | [SIGSEGV (exit 134) in bundled 'rightstr()' when the length argument is a large negative number](https://github.com/xerial/sqlite-jdbc/issues/1508) | [xerial/sqlite-jdbc](https://github.com/xerial/sqlite-jdbc) | 3.3k | 🟡 help wanted | 2026-11-12 | [📘 guide](https://github.com/xerial/sqlite-jdbc/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] Concurrent --exec workers can abort with "pid not found"](https://github.com/mydumper/mydumper/issues/2366) 💬 4 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.3k | 🟡 help wanted | 2026-11-12 |  |
-| [Table: Allow pill backgrounds to match configured value mapping colors](https://github.com/grafana/grafana/issues/137608) 💬 1 | [grafana/grafana](https://github.com/grafana/grafana) | 77.9k | 🟡 help wanted | 2026-11-11 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/grafana/grafana/blob/HEAD/CONTRIBUTING.md) |
+| [Hub Contributions Ideas](https://github.com/apache/hamilton/issues/559) 💬 3 | [apache/hamilton](https://github.com/apache/hamilton) | 2.6k | 🟢 beginner | 2026-11-12 | ✍️ CLA · [📘 guide](https://github.com/apache/hamilton/blob/HEAD/CONTRIBUTING.md) |
 | [Text v2: Avoid eager fmt formatting with lazy getters](https://github.com/grafana/grafana/issues/137610) | [grafana/grafana](https://github.com/grafana/grafana) | 77.9k | 🟡 help wanted | 2026-11-11 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/grafana/grafana/blob/HEAD/CONTRIBUTING.md) |
 | [函数计算字段选择优化建议](https://github.com/jeecgboot/jimureport/issues/4842) 💬 1 | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.6k | 🟡 help wanted | 2026-11-11 |  |
 | [Add typing to chronicler](https://github.com/chaoss/grimoirelab/issues/896) | [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab) | 641 | 🟢 beginner | 2026-11-11 | [📘 guide](https://github.com/chaoss/grimoirelab/blob/HEAD/CONTRIBUTING.md) |
@@ -211,4 +211,4 @@
 | [Migration guide Firebase to Serverpod](https://github.com/serverpod/serverpod/issues/3337) 💬 8 | [serverpod/serverpod](https://github.com/serverpod/serverpod) | 3.3k | 🟢 beginner | 2026-09-07 | [📘 guide](https://github.com/serverpod/serverpod/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] Python groupby rolling aggregations return index inconsistent with pandas](https://github.com/NVIDIA/cudf/issues/10249) 💬 6 | [NVIDIA/cudf](https://github.com/NVIDIA/cudf) | 9.8k | 🟢 beginner | 2026-09-06 | ⚠️ AI restricted · [📘 guide](https://github.com/NVIDIA/cudf/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 323 on the website.
+Showing the 200 most recently updated. See all 321 on the website.

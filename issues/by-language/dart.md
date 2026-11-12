@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/dart.xml)
 
-> Updated automatically on **2026-11-12 14:32 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-12 23:27 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [\[Flatpak\] Auth: Failed to launch: libsecret_error: Failed to unlock the keyring](https://github.com/ente/ente/issues/6564) 💬 7 | [ente/ente](https://github.com/ente/ente) | 30.1k | 🟡 help wanted | 2026-11-12 | [📘 guide](https://github.com/ente/ente/blob/HEAD/CONTRIBUTING.md) |
 | [Quick search: semantic search](https://github.com/linagora/tmail-flutter/issues/2364) 💬 4 | [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) | 666 | 🟢 beginner | 2026-11-12 |  |
+| [allow customizing the quick-access symbol bar.](https://github.com/freeCodeCamp/mobile/issues/1661) 💬 2 | [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile) | 587 | 🟡 help wanted | 2026-11-12 |  |
 | [Add quick stats on the % of NOVA 4 products in a list](https://github.com/openfoodfacts/smooth-app/issues/6274) 💬 14 | [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) | 1.5k | 🟢 beginner | 2026-11-11 | [📘 guide](https://github.com/openfoodfacts/smooth-app/blob/HEAD/CONTRIBUTING.md) |
 | [Add WiFi password share with QR-Code](https://github.com/cogwheel0/luci-mobile/issues/37) 💬 2 | [cogwheel0/luci-mobile](https://github.com/cogwheel0/luci-mobile) | 729 | 🟢 beginner | 2026-11-11 | [📘 guide](https://github.com/cogwheel0/luci-mobile/blob/HEAD/CONTRIBUTING.md) |
 | [New way to show devices distribution](https://github.com/osociety/vernet/issues/36) 💬 1 | [osociety/vernet](https://github.com/osociety/vernet) | 571 | 🟢 beginner | 2026-11-08 | 📄 AI policy |
@@ -43,7 +45,7 @@
 | [Clean up feature controllers in Performance page](https://github.com/flutter/devtools/issues/5100) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
 | [Exit Offline Mode not restoring previous state](https://github.com/flutter/devtools/issues/5047) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
 | [DevTools, when left overnight, connected to app, causes device unresponsiveness.](https://github.com/flutter/devtools/issues/4995) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
-| [Port to KaiOS](https://github.com/localsend/localsend/issues/1511) 💬 4 | [localsend/localsend](https://github.com/localsend/localsend) | 98.6k | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/localsend/localsend/blob/HEAD/CONTRIBUTING.md) |
+| [Port to KaiOS](https://github.com/localsend/localsend/issues/1511) 💬 4 | [localsend/localsend](https://github.com/localsend/localsend) | 98.7k | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/localsend/localsend/blob/HEAD/CONTRIBUTING.md) |
 | [English translation](https://github.com/bepass-org/oblivion/issues/171) 💬 2 | [bepass-org/oblivion](https://github.com/bepass-org/oblivion) | 4.9k | 🟡 help wanted | 2026-10-09 |  |
 | [\[Feature Request\] implement a flickering method to introduce grayscale](https://github.com/fossasia/badgemagic-app/issues/1671) 💬 5 | [fossasia/badgemagic-app](https://github.com/fossasia/badgemagic-app) | 2k | 🟡 help wanted | 2026-10-08 |  |
 | [\[FR\] press Enter anywhere in the grid view to add a new row / shift + enter a new line](https://github.com/AppFlowy-IO/AppFlowy/issues/3074) 💬 3 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 78.8k | 🟡 help wanted | 2026-09-29 |  |
@@ -54,7 +56,6 @@
 | [\[Feature Request\] Support range versions](https://github.com/btwld/fvm/issues/751) 💬 1 | [btwld/fvm](https://github.com/btwld/fvm) | 5.5k | 🟡 help wanted | 2026-09-08 |  |
 | [Migration guide Firebase to Serverpod](https://github.com/serverpod/serverpod/issues/3337) 💬 8 | [serverpod/serverpod](https://github.com/serverpod/serverpod) | 3.3k | 🟢 beginner | 2026-09-07 | [📘 guide](https://github.com/serverpod/serverpod/blob/HEAD/CONTRIBUTING.md) |
 | [ci: enable the use of a dependancy bot](https://github.com/ImranR98/Obtainium/issues/3275) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 21.5k | 🟢 beginner | 2026-09-06 | 📄 AI policy · [📘 guide](https://github.com/ImranR98/Obtainium/blob/HEAD/docs/CONTRIBUTING.md) |
-| [\[Flatpak\] Auth: Failed to launch: libsecret_error: Failed to unlock the keyring](https://github.com/ente/ente/issues/6564) 💬 6 | [ente/ente](https://github.com/ente/ente) | 30.1k | 🟡 help wanted | 2026-09-03 | [📘 guide](https://github.com/ente/ente/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] When drag and dropping contact to Bcc, the field isn't highlighted](https://github.com/linagora/tmail-flutter/issues/3074) 💬 1 | [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) | 666 | 🟢 beginner | 2026-08-29 |  |
 | [\[Feature\] New icons set](https://github.com/RIP-Comm/sossoldi/issues/535) 💬 1 | [RIP-Comm/sossoldi](https://github.com/RIP-Comm/sossoldi) | 1.4k | 🟢 beginner | 2026-08-27 |  |
 | [Joplin integration](https://github.com/LinwoodDev/Butterfly/issues/253) 💬 3 | [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) | 2.1k | 🟢 beginner | 2026-08-23 | [📘 guide](https://github.com/LinwoodDev/Butterfly/blob/HEAD/CONTRIBUTING.md) |
@@ -74,7 +75,6 @@
 | [\[typed_sql\] MariaDB and MySQL support](https://github.com/google/dart-neats/issues/330) | [google/dart-neats](https://github.com/google/dart-neats) | 512 | 🟡 help wanted | 2026-06-09 | ✍️ CLA · [📘 guide](https://github.com/google/dart-neats/blob/HEAD/CONTRIBUTING.md) |
 | [change the file extension form mp4 to m4a](https://github.com/HemantKArya/BloomeeTunes/issues/38) 💬 4 | [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) | 2.3k | 🟢 beginner | 2026-06-03 | [📘 guide](https://github.com/HemantKArya/BloomeeTunes/blob/HEAD/CONTRIBUTING.md) |
 | [Browers plugin? (eg. Firefox)](https://github.com/authpass/authpass/issues/41) 💬 13 | [authpass/authpass](https://github.com/authpass/authpass) | 2.8k | 🟡 help wanted | 2026-05-29 | ✍️ CLA · [📘 guide](https://github.com/authpass/authpass/blob/HEAD/CONTRIBUTING.md) |
-| [allow customizing the quick-access symbol bar.](https://github.com/freeCodeCamp/mobile/issues/1661) 💬 1 | [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile) | 587 | 🟡 help wanted | 2026-05-25 |  |
 | [阅黑色背景右和下边会有一个白边](https://github.com/Anxcye/anx-reader/issues/93) 💬 4 | [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) | 9.2k | 🟡 help wanted | 2026-05-24 | [📘 guide](https://github.com/Anxcye/anx-reader/blob/HEAD/CONTRIBUTING.md) |
 | [Make a better icon](https://github.com/Zverik/every_door/issues/37) 💬 8 | [Zverik/every_door](https://github.com/Zverik/every_door) | 568 | 🟡 help wanted | 2026-05-23 |  |
 | [feat: implement podcast sync api](https://github.com/ubuntu-flutter-community/musicpod/issues/36) 💬 6 | [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod) | 673 | 🟡 help wanted | 2026-05-20 |  |

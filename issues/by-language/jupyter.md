@@ -1,10 +1,10 @@
 # Jupyter Notebook issues
 
-**28** open issues (18 labeled for beginners) across **13** active Jupyter Notebook projects.
+**27** open issues (17 labeled for beginners) across **12** active Jupyter Notebook projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/jupyter.xml)
 
-> Updated automatically on **2026-11-12 14:32 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-12 23:27 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Hub Contributions Ideas](https://github.com/apache/hamilton/issues/559) 💬 3 | [apache/hamilton](https://github.com/apache/hamilton) | 2.6k | 🟢 beginner | 2026-11-12 | ✍️ CLA · [📘 guide](https://github.com/apache/hamilton/blob/HEAD/CONTRIBUTING.md) |
 | [Support MultiIndex in the Web App](https://github.com/MAIF/shapash/issues/381) 💬 5 | [MAIF/shapash](https://github.com/MAIF/shapash) | 3.3k | 🟢 beginner | 2026-11-09 | [📘 guide](https://github.com/MAIF/shapash/blob/HEAD/CONTRIBUTING.md) |
 | [\[Challenge 2026\]\[Issue\] Warn when built-in directory filters hide supported source files](https://github.com/FinanceFlash/unvibecode/issues/148) | [FinanceFlash/unvibecode](https://github.com/FinanceFlash/unvibecode) | 1.5k | 🟢 beginner | 2026-11-09 | [📘 guide](https://github.com/FinanceFlash/unvibecode/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Issue\] Business Path Compiler crashes on valid LLM confidence value 'UNSUPPORTED'](https://github.com/FinanceFlash/unvibecode/issues/125) 💬 6 | [FinanceFlash/unvibecode](https://github.com/FinanceFlash/unvibecode) | 1.5k | 🟢 beginner | 2026-11-09 | [📘 guide](https://github.com/FinanceFlash/unvibecode/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -29,7 +30,6 @@
 | [Fix broken science article links in TU Chronicles pages](https://github.com/onestardao/WFGY/issues/126) 💬 2 | [onestardao/WFGY](https://github.com/onestardao/WFGY) | 1.8k | 🟢 beginner | 2026-08-08 | [📘 guide](https://github.com/onestardao/WFGY/blob/HEAD/CONTRIBUTING.md) |
 | [Add a minimal reproducible debugging template](https://github.com/onestardao/WFGY/issues/80) 💬 1 | [onestardao/WFGY](https://github.com/onestardao/WFGY) | 1.8k | 🟢 beginner | 2026-08-08 | [📘 guide](https://github.com/onestardao/WFGY/blob/HEAD/CONTRIBUTING.md) |
 | [添加 colab 运行版本](https://github.com/walkinglabs/hands-on-modern-rl/issues/47) | [walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) | 4.9k | 🟢 beginner | 2026-07-06 | ⚠️ AI restricted |
-| [Hub Contributions Ideas](https://github.com/apache/hamilton/issues/559) 💬 2 | [apache/hamilton](https://github.com/apache/hamilton) | 2.6k | 🟢 beginner | 2026-06-28 | ✍️ CLA · [📘 guide](https://github.com/apache/hamilton/blob/HEAD/CONTRIBUTING.md) |
 | [providing sample weights to glm.fit() and glm.fit.sparse()](https://github.com/tensorflow/probability/issues/252) 💬 1 | [tensorflow/probability](https://github.com/tensorflow/probability) | 4.4k | 🟢 beginner | 2026-06-22 | ✍️ CLA · [📘 guide](https://github.com/tensorflow/probability/blob/HEAD/CONTRIBUTING.md) |
 | [Combined 'extract' decorator](https://github.com/apache/hamilton/issues/121) 💬 2 | [apache/hamilton](https://github.com/apache/hamilton) | 2.6k | 🟢 beginner | 2026-06-19 | ✍️ CLA · [📘 guide](https://github.com/apache/hamilton/blob/HEAD/CONTRIBUTING.md) |
 | [JN 7.0.2 Hotkey for copying cells from one notebook to another is not working](https://github.com/jupyter/notebook/issues/7019) 💬 14 | [jupyter/notebook](https://github.com/jupyter/notebook) | 13.5k | 🟡 help wanted | 2026-06-18 | [📘 guide](https://github.com/jupyter/notebook/blob/HEAD/CONTRIBUTING.md) |
@@ -39,4 +39,3 @@
 | [Example for running on AWS (Glue, EMR, SageMaker, etc)](https://github.com/awslabs/python-deequ/issues/140) 💬 3 | [awslabs/python-deequ](https://github.com/awslabs/python-deequ) | 828 | 🟢 beginner | 2026-05-18 | ✍️ CLA · [📘 guide](https://github.com/awslabs/python-deequ/blob/HEAD/CONTRIBUTING.md) |
 | [External Json interface to define constraints](https://github.com/awslabs/python-deequ/issues/103) 💬 2 | [awslabs/python-deequ](https://github.com/awslabs/python-deequ) | 828 | 🟡 help wanted | 2026-05-18 | ✍️ CLA · [📘 guide](https://github.com/awslabs/python-deequ/blob/HEAD/CONTRIBUTING.md) |
 | [check with hasSize/hasMin etc fails with below error. Pydeequ version 1.0.0](https://github.com/awslabs/python-deequ/issues/64) 💬 3 | [awslabs/python-deequ](https://github.com/awslabs/python-deequ) | 828 | 🟡 help wanted | 2026-05-18 | ✍️ CLA · [📘 guide](https://github.com/awslabs/python-deequ/blob/HEAD/CONTRIBUTING.md) |
-| [NeuralFoil Optimizer tutorial issue](https://github.com/peterdsharpe/AeroSandbox/issues/172) 💬 1 | [peterdsharpe/AeroSandbox](https://github.com/peterdsharpe/AeroSandbox) | 1.4k | 🟢 beginner | 2026-05-16 | [📘 guide](https://github.com/peterdsharpe/AeroSandbox/blob/HEAD/CONTRIBUTING.md) |

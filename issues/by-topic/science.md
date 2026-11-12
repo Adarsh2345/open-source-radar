@@ -1,8 +1,8 @@
 # Science and research issues
 
-**58** open issues (36 labeled for beginners) across **19** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
+**57** open issues (35 labeled for beginners) across **18** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
 
-> Updated automatically on **2026-11-12 14:32 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-12 23:27 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -11,7 +11,7 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Draw shaded polygons, lines, and arcs](https://github.com/Stellarium/stellarium/issues/3144) 💬 5 | [Stellarium/stellarium](https://github.com/Stellarium/stellarium) | 10.2k | 🟡 help wanted | 2026-11-10 | [📘 guide](https://github.com/Stellarium/stellarium/blob/HEAD/CONTRIBUTING.md) |
-| [Other worlds: Moon and Mars as alternate globes](https://github.com/bilawalsidhu/gods-eye-view/issues/738) 💬 7 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 64.4k | 🟡 help wanted | 2026-11-07 | [📘 guide](https://github.com/bilawalsidhu/gods-eye-view/blob/HEAD/CONTRIBUTING.md) |
+| [Other worlds: Moon and Mars as alternate globes](https://github.com/bilawalsidhu/gods-eye-view/issues/738) 💬 7 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 64.5k | 🟡 help wanted | 2026-11-07 | [📘 guide](https://github.com/bilawalsidhu/gods-eye-view/blob/HEAD/CONTRIBUTING.md) |
 | [Crash just after loading screen due to 'ERROR: Parameter "tex" is null'](https://github.com/Revolutionary-Games/Thrive/issues/6981) 💬 12 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.9k | 🟡 help wanted | 2026-11-06 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16470) 💬 3 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6k | 🟢 beginner | 2026-11-04 | 🤖 disclose AI use · [📘 guide](https://github.com/stdlib-js/stdlib/blob/HEAD/CONTRIBUTING.md) |
 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16453) 💬 3 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6k | 🟢 beginner | 2026-11-02 | 🤖 disclose AI use · [📘 guide](https://github.com/stdlib-js/stdlib/blob/HEAD/CONTRIBUTING.md) |
@@ -67,4 +67,3 @@
 | [A question about target_log_prob_fn](https://github.com/tensorflow/probability/issues/611) 💬 5 | [tensorflow/probability](https://github.com/tensorflow/probability) | 4.4k | 🟢 beginner | 2026-05-18 | ✍️ CLA · [📘 guide](https://github.com/tensorflow/probability/blob/HEAD/CONTRIBUTING.md) |
 | [Feature Request: Efficient Poisson Binomial PMF/CDF in tfp](https://github.com/tensorflow/probability/issues/1453) 💬 14 | [tensorflow/probability](https://github.com/tensorflow/probability) | 4.4k | 🟢 beginner | 2026-05-18 | ✍️ CLA · [📘 guide](https://github.com/tensorflow/probability/blob/HEAD/CONTRIBUTING.md) |
 | [Add the new Arabic variant localization if it is started](https://github.com/Revolutionary-Games/Thrive/issues/7006) | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.9k | 🟢 beginner | 2026-05-18 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
-| [NeuralFoil Optimizer tutorial issue](https://github.com/peterdsharpe/AeroSandbox/issues/172) 💬 1 | [peterdsharpe/AeroSandbox](https://github.com/peterdsharpe/AeroSandbox) | 1.4k | 🟢 beginner | 2026-05-16 | [📘 guide](https://github.com/peterdsharpe/AeroSandbox/blob/HEAD/CONTRIBUTING.md) |
