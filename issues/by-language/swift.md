@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/swift.xml)
 
-> Updated automatically on **2026-11-11 13:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-12 00:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -44,8 +44,8 @@
 | [Menu labels may be missing (iOS 16)](https://github.com/mozilla-mobile/firefox-ios/issues/32205) 💬 5 | [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 13.1k | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/mozilla-mobile/firefox-ios/blob/HEAD/CONTRIBUTING.md) |
 | [Context menu items missing inside OneDrive folder on macOS](https://github.com/nikgrbn/finder-menu/issues/29) 💬 1 | [nikgrbn/finder-menu](https://github.com/nikgrbn/finder-menu) | 549 | 🟡 help wanted | 2026-10-13 |  |
 | [Would a version for iPadOS be feasible?](https://github.com/awaseem/foqos/issues/287) 💬 10 | [awaseem/foqos](https://github.com/awaseem/foqos) | 925 | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/awaseem/foqos/blob/HEAD/CONTRIBUTING.md) |
-| [All file names to lower case](https://github.com/lab421/forel/issues/60) 💬 1 | [lab421/forel](https://github.com/lab421/forel) | 937 | 🟡 help wanted | 2026-10-09 | 🤖 disclose AI use |
-| [how do i pin the version of swift in my project?](https://github.com/swiftlang/swiftly/issues/517) 💬 2 | [swiftlang/swiftly](https://github.com/swiftlang/swiftly) | 977 | 🟢 beginner | 2026-10-08 |  |
+| [All file names to lower case](https://github.com/lab421/forel/issues/60) 💬 1 | [lab421/forel](https://github.com/lab421/forel) | 940 | 🟡 help wanted | 2026-10-09 | 🤖 disclose AI use |
+| [how do i pin the version of swift in my project?](https://github.com/swiftlang/swiftly/issues/517) 💬 2 | [swiftlang/swiftly](https://github.com/swiftlang/swiftly) | 978 | 🟢 beginner | 2026-10-08 |  |
 | [\[Feature\]: keymapping for Mac appstore apps](https://github.com/PlayCover/PlayCover/issues/2209) | [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) | 12.1k | 🟢 beginner | 2026-10-07 |  |
 | [\[Feature\]: Keymap incompatible warning when aspect ratio isn't 16:10](https://github.com/PlayCover/PlayCover/issues/785) 💬 1 | [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) | 12.1k | 🟢 beginner | 2026-10-07 |  |
 | [\[Bug\]: auto resolution does not update after changing macOS display preference](https://github.com/PlayCover/PlayCover/issues/796) 💬 1 | [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) | 12.1k | 🟢 beginner | 2026-10-07 |  |
@@ -62,12 +62,12 @@
 | [Copy support info button in Settings](https://github.com/karansinghgit/speaktype/issues/161) 💬 3 | [karansinghgit/speaktype](https://github.com/karansinghgit/speaktype) | 579 | 🟢 beginner | 2026-09-23 | [📘 guide](https://github.com/karansinghgit/speaktype/blob/HEAD/CONTRIBUTING.md) |
 | [Use augmentsSyntaxTokens parameter instead of reportSyntacticHighlightInSemanticTokens in initialization reque](https://github.com/swiftlang/sourcekit-lsp/issues/2767) 💬 2 | [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp) | 3.9k | 🟢 beginner | 2026-09-22 | [📘 guide](https://github.com/swiftlang/sourcekit-lsp/blob/HEAD/CONTRIBUTING.md) |
 | [Ship SpeakType on Flathub](https://github.com/karansinghgit/speaktype/issues/163) | [karansinghgit/speaktype](https://github.com/karansinghgit/speaktype) | 579 | 🟡 help wanted | 2026-09-22 | [📘 guide](https://github.com/karansinghgit/speaktype/blob/HEAD/CONTRIBUTING.md) |
-| [FR: Add configurable Finder context menu actions and one-click compression](https://github.com/idawnlight/ShichiZip/issues/63) 💬 2 | [idawnlight/ShichiZip](https://github.com/idawnlight/ShichiZip) | 985 | 🟡 help wanted | 2026-09-20 |  |
+| [FR: Add configurable Finder context menu actions and one-click compression](https://github.com/idawnlight/ShichiZip/issues/63) 💬 2 | [idawnlight/ShichiZip](https://github.com/idawnlight/ShichiZip) | 986 | 🟡 help wanted | 2026-09-20 |  |
 | [Add support for Raycast/Alfred](https://github.com/buresdv/Cork/issues/135) 💬 1 | [buresdv/Cork](https://github.com/buresdv/Cork) | 4.7k | 🟡 help wanted | 2026-09-19 | 📄 AI policy · [📘 guide](https://github.com/buresdv/Cork/blob/HEAD/CONTRIBUTING.md) |
 | [Feature Request: Resize Window with Ctrl + Mouse Scroll](https://github.com/pablopunk/SwiftShift/issues/98) 💬 4 | [pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift) | 668 | 🟡 help wanted | 2026-09-18 |  |
 | [\[Feature Request\] 支持 CodeWhale（DeepSeek V4 终端编程智能体）](https://github.com/erha19/ping-island/issues/238) 💬 2 | [erha19/ping-island](https://github.com/erha19/ping-island) | 1.1k | 🟢 beginner | 2026-09-16 |  |
 | [bug: かな入力でテンキーの入力がひらがなに化けてしまう](https://github.com/azooKey/azooKey-Desktop/issues/262) 💬 15 | [azooKey/azooKey-Desktop](https://github.com/azooKey/azooKey-Desktop) | 1.1k | 🟢 beginner | 2026-09-16 |  |
-| [Drop ZIG as the default build programme](https://github.com/idawnlight/ShichiZip/issues/52) 💬 1 | [idawnlight/ShichiZip](https://github.com/idawnlight/ShichiZip) | 985 | 🟡 help wanted | 2026-09-16 |  |
+| [Drop ZIG as the default build programme](https://github.com/idawnlight/ShichiZip/issues/52) 💬 1 | [idawnlight/ShichiZip](https://github.com/idawnlight/ShichiZip) | 986 | 🟡 help wanted | 2026-09-16 |  |
 | [连接airpods的时候，会奇怪的出现通透模式，降噪模式切换](https://github.com/Ebullioscopic/Atoll/issues/822) 💬 2 | [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) | 5.2k | 🟡 help wanted | 2026-09-09 | [📘 guide](https://github.com/Ebullioscopic/Atoll/blob/HEAD/CONTRIBUTING.md) |
 | [Adopt iOS 17 nightstand landscape mode](https://github.com/vinhnx/Clendar/issues/255) 💬 8 | [vinhnx/Clendar](https://github.com/vinhnx/Clendar) | 742 | 🟢 beginner | 2026-09-06 |  |
 | [Add support for Cygwin](https://github.com/swiftlang/swift-testing/issues/886) 💬 1 | [swiftlang/swift-testing](https://github.com/swiftlang/swift-testing) | 2.2k | 🟡 help wanted | 2026-09-03 | [📘 guide](https://github.com/swiftlang/swift-testing/blob/HEAD/CONTRIBUTING.md) |
@@ -85,7 +85,7 @@
 | [✨ ⇧⌘T keyboard shortcut to bring back closed editor tabs](https://github.com/CodeEditApp/CodeEdit/issues/1656) 💬 3 | [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) | 23.1k | 🟢 beginner | 2026-08-10 | [📘 guide](https://github.com/CodeEditApp/CodeEdit/blob/HEAD/CONTRIBUTING.md) |
 | [\[SR-13388\] Add Fix-Its to "override" mismatch](https://github.com/swiftlang/swift/issues/55828) 💬 13 | [swiftlang/swift](https://github.com/swiftlang/swift) | 70.6k | 🟢 beginner | 2026-08-03 | [📘 guide](https://github.com/swiftlang/swift/blob/HEAD/CONTRIBUTING.md) |
 | [\[SR-5362\] StdlibUnittest allows redeclaration of the same-named test; ignores all but last](https://github.com/swiftlang/swift/issues/47936) 💬 3 | [swiftlang/swift](https://github.com/swiftlang/swift) | 70.6k | 🟢 beginner | 2026-08-01 | [📘 guide](https://github.com/swiftlang/swift/blob/HEAD/CONTRIBUTING.md) |
-| [\[Bug\] always open with mode failed to open zip file](https://github.com/idawnlight/ShichiZip/issues/50) 💬 3 | [idawnlight/ShichiZip](https://github.com/idawnlight/ShichiZip) | 985 | 🟡 help wanted | 2026-07-28 |  |
+| [\[Bug\] always open with mode failed to open zip file](https://github.com/idawnlight/ShichiZip/issues/50) 💬 3 | [idawnlight/ShichiZip](https://github.com/idawnlight/ShichiZip) | 986 | 🟡 help wanted | 2026-07-28 |  |
 | [Java2Swift: Improve diagnostics when we suppress import due to a missing Java class import](https://github.com/swiftlang/swift-java/issues/112) 💬 2 | [swiftlang/swift-java](https://github.com/swiftlang/swift-java) | 1.3k | 🟢 beginner | 2026-07-27 | [📘 guide](https://github.com/swiftlang/swift-java/blob/HEAD/CONTRIBUTING.md) |
 | [\[SR-12930\] Add protocol extension to "Result where Success == Void" so that we can use .success()](https://github.com/swiftlang/swift/issues/55376) 💬 3 | [swiftlang/swift](https://github.com/swiftlang/swift) | 70.6k | 🟢 beginner | 2026-07-23 | [📘 guide](https://github.com/swiftlang/swift/blob/HEAD/CONTRIBUTING.md) |
 | [Play sound when picking up colors](https://github.com/superhighfives/pika/issues/68) 💬 2 | [superhighfives/pika](https://github.com/superhighfives/pika) | 2.6k | 🟡 help wanted | 2026-07-23 |  |
@@ -108,6 +108,6 @@
 | [Replace TODO comments in DuplicatesModule with real implementation or remove](https://github.com/iliyami/MacSai/issues/5) | [iliyami/MacSai](https://github.com/iliyami/MacSai) | 2.1k | 🟢 beginner | 2026-05-28 | [📘 guide](https://github.com/iliyami/MacSai/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] Generated EventControllerKey.keyPressed doesn’t support returning Bool](https://github.com/moreSwift/swift-cross-ui/issues/594) 💬 1 | [moreSwift/swift-cross-ui](https://github.com/moreSwift/swift-cross-ui) | 1.8k | 🟡 help wanted | 2026-05-26 | 🤖 disclose AI use · [📘 guide](https://github.com/moreSwift/swift-cross-ui/blob/HEAD/CONTRIBUTING.md) |
 | [Configurable Raise Delay With Focus-follows-mouse](https://github.com/ianyh/Amethyst/issues/638) 💬 4 | [ianyh/Amethyst](https://github.com/ianyh/Amethyst) | 16.3k | 🟢 beginner | 2026-05-21 |  |
-| [Enhance documentation](https://github.com/swiftwasm/WasmKit/issues/71) | [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit) | 523 | 🟢 beginner | 2026-05-21 |  |
+| [Enhance documentation](https://github.com/swiftwasm/WasmKit/issues/71) | [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit) | 524 | 🟢 beginner | 2026-05-21 |  |
 | [大佬，可否增加低版本macos的支持](https://github.com/bylinxx/MacCalendar/issues/34) 💬 1 | [bylinxx/MacCalendar](https://github.com/bylinxx/MacCalendar) | 875 | 🟡 help wanted | 2026-05-19 |  |
 | [issue with external monitor DDC control](https://github.com/Ebullioscopic/Atoll/issues/274) 💬 2 | [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) | 5.2k | 🟡 help wanted | 2026-05-16 | [📘 guide](https://github.com/Ebullioscopic/Atoll/blob/HEAD/CONTRIBUTING.md) |

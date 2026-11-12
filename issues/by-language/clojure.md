@@ -1,10 +1,10 @@
 # Clojure issues
 
-**14** open issues (11 labeled for beginners) across **9** active Clojure projects.
+**14** open issues (11 labeled for beginners) across **10** active Clojure projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/clojure.xml)
 
-> Updated automatically on **2026-11-11 13:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-12 00:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Pages panel hides all pages when resized to its minimum height](https://github.com/penpot/penpot/issues/12992) | [penpot/penpot](https://github.com/penpot/penpot) | 62.3k | 🟢 beginner | 2026-11-11 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/penpot/penpot/blob/HEAD/CONTRIBUTING.md) |
 | [selectors return new object every time causing unnecessary re-renderings](https://github.com/metabase/metabase/issues/52312) 💬 4 | [metabase/metabase](https://github.com/metabase/metabase) | 50.3k | 🟢 beginner | 2026-11-04 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Show when a subscription or alert was skipped because it was empty](https://github.com/metabase/metabase/issues/80736) 💬 4 | [metabase/metabase](https://github.com/metabase/metabase) | 50.3k | 🟢 beginner | 2026-10-23 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [An authentication rule's remoteAddress should match a CIDR block, as the docs say](https://github.com/xtdb/xtdb/issues/6282) | [xtdb/xtdb](https://github.com/xtdb/xtdb) | 3.1k | 🟢 beginner | 2026-10-23 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/xtdb/xtdb/blob/HEAD/CONTRIBUTING.md) |
@@ -25,4 +26,3 @@
 | [Migrate 'locale' and 'is_qbnewb' columns in 'core_user' table to User-local settings](https://github.com/metabase/metabase/issues/20604) 💬 4 | [metabase/metabase](https://github.com/metabase/metabase) | 50.3k | 🟢 beginner | 2026-07-27 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Default settings](https://github.com/mtgred/netrunner/issues/7403) 💬 2 | [mtgred/netrunner](https://github.com/mtgred/netrunner) | 990 | 🟢 beginner | 2026-07-17 | [📘 guide](https://github.com/mtgred/netrunner/blob/HEAD/CONTRIBUTING.md) |
 | [New linter for usage of prefix lists in require](https://github.com/clj-kondo/clj-kondo/issues/1137) 💬 5 | [clj-kondo/clj-kondo](https://github.com/clj-kondo/clj-kondo) | 1.9k | 🟡 help wanted | 2026-06-26 | [📘 guide](https://github.com/clj-kondo/clj-kondo/blob/HEAD/CONTRIBUTING.md) |
-| [Metadata: automatically set password fields to sensitive information](https://github.com/metabase/metabase/issues/1694) 💬 7 | [metabase/metabase](https://github.com/metabase/metabase) | 50.3k | 🟢 beginner | 2026-05-15 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |

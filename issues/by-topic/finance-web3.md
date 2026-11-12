@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**63** open issues (17 labeled for beginners) across **11** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
+**62** open issues (17 labeled for beginners) across **11** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
 
-> Updated automatically on **2026-11-11 13:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-12 00:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -29,7 +29,6 @@
 | [SM4-XTS: Incorrect ciphertext with multiple EVP_CipherUpdate calls](https://github.com/openssl/openssl/issues/33503) 💬 4 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟢 beginner | 2026-11-10 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [BN_generate_prime_ex: generated primes are biased modulo small primes (sieve-gap weighting)](https://github.com/openssl/openssl/issues/33565) 💬 4 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟡 help wanted | 2026-11-09 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [Windows (MSWin32): fixup_cmd_elements doubles every backslash in arguments that need quoting](https://github.com/openssl/openssl/issues/33613) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟡 help wanted | 2026-11-09 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
-| [x509: -x509toreq -outform DER writes the text dump plus the certificate DER instead of a request](https://github.com/openssl/openssl/issues/33495) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟡 help wanted | 2026-11-09 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: ios - export budget does not work](https://github.com/actualbudget/actual/issues/9441) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.2k | 🟡 help wanted | 2026-11-09 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [Syncing archive node from era files](https://github.com/ethereum/go-ethereum/issues/35354) 💬 5 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51.5k | 🟡 help wanted | 2026-11-08 | [📘 guide](https://github.com/ethereum/go-ethereum/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Feat\] ios - native keyboard support](https://github.com/actualbudget/actual/issues/9449) | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.2k | 🟡 help wanted | 2026-11-07 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |

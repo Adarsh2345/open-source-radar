@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-11-11 13:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-12 00:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Support Typst raw blocks](https://github.com/scalameta/scalafmt/issues/5245) 💬 4 | [scalameta/scalafmt](https://github.com/scalameta/scalafmt) | 1.5k | 🟡 help wanted | 2026-11-11 | [📘 guide](https://github.com/scalameta/scalafmt/blob/HEAD/CONTRIBUTING.md) |
 | [Can we provide implicit to make Marshal JsValue =&gt; Message work?](https://github.com/akka/akka-http/issues/2027) 💬 1 | [akka/akka-http](https://github.com/akka/akka-http) | 1.4k | 🟡 help wanted | 2026-11-09 | ✍️ CLA · [📘 guide](https://github.com/akka/akka-http/blob/HEAD/CONTRIBUTING.md) |
 | [Add refreshAfterWrite operation to caching API](https://github.com/akka/akka-http/issues/1537) 💬 1 | [akka/akka-http](https://github.com/akka/akka-http) | 1.4k | 🟡 help wanted | 2026-11-09 | ✍️ CLA · [📘 guide](https://github.com/akka/akka-http/blob/HEAD/CONTRIBUTING.md) |
 | [WebSocket client sample ignores half closed](https://github.com/akka/akka-http/issues/1324) 💬 3 | [akka/akka-http](https://github.com/akka/akka-http) | 1.4k | 🟡 help wanted | 2026-11-09 | ✍️ CLA · [📘 guide](https://github.com/akka/akka-http/blob/HEAD/CONTRIBUTING.md) |
@@ -23,7 +24,6 @@
 | [:memo: Fix/Add config section of deployment on kubernetes](https://github.com/apache/kyuubi/issues/5085) 💬 3 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-11-05 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/kyuubi/blob/HEAD/CONTRIBUTING.md) |
 | [chore: Improve cast MapType to String](https://github.com/apache/datafusion-comet/issues/4631) 💬 5 | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-11-01 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [\[4.x\] Atomic reference types should use new Java features, if possible](https://github.com/monix/monix/issues/1560) 💬 6 | [monix/monix](https://github.com/monix/monix) | 1.9k | 🟡 help wanted | 2026-10-11 | [📘 guide](https://github.com/monix/monix/blob/HEAD/CONTRIBUTING.md) |
-| [Support Typst raw blocks](https://github.com/scalameta/scalafmt/issues/5245) 💬 3 | [scalameta/scalafmt](https://github.com/scalameta/scalafmt) | 1.5k | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/scalameta/scalafmt/blob/HEAD/CONTRIBUTING.md) |
 | [\[Improvement\] Update Spark Ranger plugin to 2.7.0](https://github.com/apache/kyuubi/issues/7234) 💬 2 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/kyuubi/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] rounding doubles floats can result in -0.0 result](https://github.com/NVIDIA/cudf-spark/issues/9349) 💬 1 | [NVIDIA/cudf-spark](https://github.com/NVIDIA/cudf-spark) | 1k | 🟢 beginner | 2026-09-19 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/NVIDIA/cudf-spark/blob/HEAD/CONTRIBUTING.md) |
 | [Unable to create a routes file with same name as a method in Predef](https://github.com/playframework/playframework/issues/10204) 💬 7 | [playframework/playframework](https://github.com/playframework/playframework) | 12.6k | 🟡 help wanted | 2026-09-18 |  |

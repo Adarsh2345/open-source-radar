@@ -1,10 +1,10 @@
 # Ruby issues
 
-**75** open issues (54 labeled for beginners) across **26** active Ruby projects.
+**76** open issues (55 labeled for beginners) across **26** active Ruby projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-11-11 13:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-12 00:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [IAHBECEDARIO \[IAHBECEDARIO SABIDURÍA-IAH Ecosistema Tecnologico iOGeminis\]](https://github.com/github-linguist/linguist/issues/8330) 💬 1 | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.8k | 🟢 beginner | 2026-11-11 | [📘 guide](https://github.com/github-linguist/linguist/blob/HEAD/CONTRIBUTING.md) |
+| [Search does not find article with all keywords in its title](https://github.com/lobsters/lobsters/issues/2220) 💬 5 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-11-11 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Bump anubis cookie expiration on login, also generate](https://github.com/lobsters/lobsters/issues/2283) | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-11-09 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Add optional date for collections](https://github.com/manyfold3d/manyfold/issues/4827) 💬 3 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-11-09 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Upload with tags with tag with a hyphen symbol creates multiple tags](https://github.com/manyfold3d/manyfold/issues/2704) 💬 8 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-11-07 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -25,7 +27,6 @@
 | [Add Qalun data](https://github.com/TarteelAI/quranic-universal-library/issues/245) 💬 1 | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) | 1.1k | 🟡 help wanted | 2026-11-01 |  |
 | [Add Qumbul data](https://github.com/TarteelAI/quranic-universal-library/issues/246) | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) | 1.1k | 🟡 help wanted | 2026-11-01 |  |
 | [Add Alsosi qirat data](https://github.com/TarteelAI/quranic-universal-library/issues/247) | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) | 1.1k | 🟡 help wanted | 2026-11-01 |  |
-| [Search does not find article with all keywords in its title](https://github.com/lobsters/lobsters/issues/2220) 💬 3 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-10-30 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Add Missing Table Translation Test Case](https://github.com/ManageIQ/manageiq/issues/22736) 💬 2 | [ManageIQ/manageiq](https://github.com/ManageIQ/manageiq) | 1.4k | 🟢 beginner | 2026-10-26 | [📘 guide](https://github.com/ManageIQ/manageiq/blob/HEAD/CONTRIBUTING.md) |
 | [\[RFE\] Add support for relative paths to evm:export:service_dialogs](https://github.com/ManageIQ/manageiq/issues/20488) 💬 5 | [ManageIQ/manageiq](https://github.com/ManageIQ/manageiq) | 1.4k | 🟢 beginner | 2026-10-26 | [📘 guide](https://github.com/ManageIQ/manageiq/blob/HEAD/CONTRIBUTING.md) |
 | [Adding Action Args to agent actions](https://github.com/activeagents/activeagent/issues/295) 💬 1 | [activeagents/activeagent](https://github.com/activeagents/activeagent) | 986 | 🟡 help wanted | 2026-10-24 |  |
@@ -38,7 +39,7 @@
 | [Canceling comment edit triggers a JS exception and doesn't cancel](https://github.com/lobsters/lobsters/issues/2215) 💬 2 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-10-05 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Mark actions as destructive](https://github.com/avo-hq/avo/issues/2082) 💬 1 | [avo-hq/avo](https://github.com/avo-hq/avo) | 1.8k | 🟡 help wanted | 2026-09-28 | ✍️ CLA |
 | [Add support for Salam](https://github.com/github-linguist/linguist/issues/8206) 💬 3 | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.8k | 🟢 beginner | 2026-09-25 | [📘 guide](https://github.com/github-linguist/linguist/blob/HEAD/CONTRIBUTING.md) |
-| [Feature Request to add chatwoot directly install in plesk apps](https://github.com/chatwoot/chatwoot/issues/6911) 💬 6 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 39.6k | 🟢 beginner | 2026-09-19 | [📘 guide](https://github.com/chatwoot/chatwoot/blob/HEAD/CONTRIBUTING.md) |
+| [Feature Request to add chatwoot directly install in plesk apps](https://github.com/chatwoot/chatwoot/issues/6911) 💬 6 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 39.7k | 🟢 beginner | 2026-09-19 | [📘 guide](https://github.com/chatwoot/chatwoot/blob/HEAD/CONTRIBUTING.md) |
 | [Python: implement full-unlock so security updates can bump a parent to fix a vulnerable transitive dependency](https://github.com/dependabot/dependabot-core/issues/16337) | [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) | 5.8k | 🟡 help wanted | 2026-09-18 | [📘 guide](https://github.com/dependabot/dependabot-core/blob/HEAD/CONTRIBUTING.md) |
 | [Normalize and provide automatic metadata for arXiv links](https://github.com/lobsters/lobsters/issues/1165) 💬 5 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-09-18 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [raise exception on full table scans](https://github.com/lobsters/lobsters/issues/2150) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-09-17 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
