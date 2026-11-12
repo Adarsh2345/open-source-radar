@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/vue.xml)
 
-> Updated automatically on **2026-11-12 00:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-12 14:32 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -21,11 +21,11 @@
 | [\[功能建议\]NixOS适配](https://github.com/stark81/VutronMusic/issues/421) 💬 5 | [stark81/VutronMusic](https://github.com/stark81/VutronMusic) | 1.7k | 🟡 help wanted | 2026-10-25 |  |
 | [\[Enhancement\] Android TV Support](https://github.com/advplyr/audiobookshelf-app/issues/606) 💬 31 | [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) | 2.8k | 🟡 help wanted | 2026-10-23 |  |
 | [Teams overview: toggle option between wide and narrow mode with tags and content information](https://github.com/Smaug6739/Alexandrie/issues/771) 💬 1 | [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) | 3.9k | 🟢 beginner | 2026-10-20 | [📘 guide](https://github.com/Smaug6739/Alexandrie/blob/HEAD/CONTRIBUTING.md) |
-| [添加音源后卡顿严重，基本点击设置以及歌词等界面都会出现卡顿5秒左右，但是播放一切正常](https://github.com/algerkong/AlgerMusicPlayer/issues/723) 💬 1 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17.5k | 🟡 help wanted | 2026-10-07 |  |
-| [能否增加对外置DAC解码器的支持，支持bit-perfect源码播放，DAC独占支持？谢谢](https://github.com/algerkong/AlgerMusicPlayer/issues/686) | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17.5k | 🟡 help wanted | 2026-10-07 |  |
-| [大佬会考虑加入自建音源：Navidrome server吗？我收藏了几千首歌，没有一个播放器喜欢的](https://github.com/algerkong/AlgerMusicPlayer/issues/439) 💬 6 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17.5k | 🟢 beginner | 2026-10-07 |  |
-| [建议新增同步数据的服务端，比如同步歌单，配置信息](https://github.com/algerkong/AlgerMusicPlayer/issues/385) | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17.5k | 🟡 help wanted | 2026-10-07 |  |
-| [使用过后的反馈建议以及一些期望的功能](https://github.com/algerkong/AlgerMusicPlayer/issues/132) 💬 1 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17.5k | 🟢 beginner | 2026-10-07 |  |
+| [添加音源后卡顿严重，基本点击设置以及歌词等界面都会出现卡顿5秒左右，但是播放一切正常](https://github.com/algerkong/AlgerMusicPlayer/issues/723) 💬 1 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17.6k | 🟡 help wanted | 2026-10-07 |  |
+| [能否增加对外置DAC解码器的支持，支持bit-perfect源码播放，DAC独占支持？谢谢](https://github.com/algerkong/AlgerMusicPlayer/issues/686) | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17.6k | 🟡 help wanted | 2026-10-07 |  |
+| [大佬会考虑加入自建音源：Navidrome server吗？我收藏了几千首歌，没有一个播放器喜欢的](https://github.com/algerkong/AlgerMusicPlayer/issues/439) 💬 6 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17.6k | 🟢 beginner | 2026-10-07 |  |
+| [建议新增同步数据的服务端，比如同步歌单，配置信息](https://github.com/algerkong/AlgerMusicPlayer/issues/385) | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17.6k | 🟡 help wanted | 2026-10-07 |  |
+| [使用过后的反馈建议以及一些期望的功能](https://github.com/algerkong/AlgerMusicPlayer/issues/132) 💬 1 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17.6k | 🟢 beginner | 2026-10-07 |  |
 | [Forward Ticket to External Third Party / Supplier in Frappe Helpdesk](https://github.com/frappe/helpdesk/issues/3774) 💬 4 | [frappe/helpdesk](https://github.com/frappe/helpdesk) | 3.5k | 🟢 beginner | 2026-09-24 |  |
 | [Command Line controls](https://github.com/tranxuanthang/lrcget/issues/61) 💬 6 | [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) | 3.4k | 🟡 help wanted | 2026-09-06 |  |
 | [Incorrect username after "Delete and re-draft" for handles with subdomains](https://github.com/elk-zone/elk/issues/3410) 💬 2 | [elk-zone/elk](https://github.com/elk-zone/elk) | 6k | 🟡 help wanted | 2026-09-05 | 🔏 DCO · [📘 guide](https://github.com/elk-zone/elk/blob/HEAD/CONTRIBUTING.md) |

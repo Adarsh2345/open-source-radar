@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/erlang.xml)
 
-> Updated automatically on **2026-11-12 00:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-12 14:32 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [asn1: BER decoding accepts a BIT STRING unused-bit count of 8 and drops the final octet](https://github.com/erlang/otp/issues/12160) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-11-12 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [asn1: compiling fails with system_limit when a nested component path exceeds 255 characters](https://github.com/erlang/otp/issues/11935) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-26 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [asn1: PER and UPER with maps omit an extension addition group whose components are all OPTIONAL](https://github.com/erlang/otp/issues/11934) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-26 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [asn1: a decoded unknown CHOICE alternative ({asn1_ExtAlt, Bytes}) cannot be encoded](https://github.com/erlang/otp/issues/11936) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-26 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
@@ -39,5 +40,4 @@
 | [asn1: BER cannot encode a value in which an extension addition group is absent](https://github.com/erlang/otp/issues/11876) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-19 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [asn1: PER encodes a SET with a second root component list as if an extension addition were present](https://github.com/erlang/otp/issues/11875) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-19 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [asn1: EXCEPT and ALL EXCEPT in a SIZE constraint cause internal errors](https://github.com/erlang/otp/issues/11874) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-19 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
-| [asn1: a SIZE constraint applied to a reference to a SEQUENCE OF type is ignored for PER](https://github.com/erlang/otp/issues/11873) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-19 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [Can emqx cluster provide a docker swarm mode demo? Currently only the single-machine cluster deployed in docke](https://github.com/emqx/emqx/issues/6002) 💬 2 | [emqx/emqx](https://github.com/emqx/emqx) | 16.9k | 🟡 help wanted | 2026-06-04 | ⚠️ AI restricted · [📘 guide](https://github.com/emqx/emqx/blob/HEAD/CONTRIBUTING.md) |
