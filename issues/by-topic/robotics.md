@@ -2,7 +2,7 @@
 
 **7** open issues (1 labeled for beginners) across **5** projects tagged with topics like `robotics`, `ros`, `ros2`, `drones`, `autonomous-vehicles`, `slam`.
 
-> Updated automatically on **2026-11-12 23:27 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-13 13:50 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -16,4 +16,4 @@
 | [Add VSLAM or 3D lidar SLAM algorithms](https://github.com/AtsushiSakai/PythonRobotics/issues/1219) 💬 7 | [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | 30.9k | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/AtsushiSakai/PythonRobotics/blob/HEAD/CONTRIBUTING.md) |
 | [Consider feature adoption: Vector PP and Stanley within RPP package](https://github.com/ros-navigation/navigation2/issues/5952) 💬 10 | [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2) | 5k | 🟡 help wanted | 2026-09-10 | 🔏 DCO · [📘 guide](https://github.com/ros-navigation/navigation2/blob/HEAD/CONTRIBUTING.md) |
 | [Run thread/address sanitizers in Nav2 System Tests CI](https://github.com/ros-navigation/navigation2/issues/6349) 💬 4 | [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2) | 5k | 🟡 help wanted | 2026-08-25 | 🔏 DCO · [📘 guide](https://github.com/ros-navigation/navigation2/blob/HEAD/CONTRIBUTING.md) |
-| [Sub: Vaccuum testing mode with RGB feedback](https://github.com/ArduPilot/ardupilot/issues/9828) 💬 5 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 16.3k | 🟢 beginner | 2026-06-05 | 🤖 disclose AI use · [📘 guide](https://github.com/ArduPilot/ardupilot/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Sub: Vaccuum testing mode with RGB feedback](https://github.com/ArduPilot/ardupilot/issues/9828) 💬 5 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 16.4k | 🟢 beginner | 2026-06-05 | 🤖 disclose AI use · [📘 guide](https://github.com/ArduPilot/ardupilot/blob/HEAD/.github/CONTRIBUTING.md) |

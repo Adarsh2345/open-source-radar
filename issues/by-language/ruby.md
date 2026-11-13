@@ -1,10 +1,10 @@
 # Ruby issues
 
-**75** open issues (54 labeled for beginners) across **26** active Ruby projects.
+**76** open issues (54 labeled for beginners) across **27** active Ruby projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-11-12 23:27 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-13 13:50 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,6 +13,7 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Search does not find article with all keywords in its title](https://github.com/lobsters/lobsters/issues/2220) 💬 5 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-11-11 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
+| [bokeh.embed.components get stuck in PyCall.without_gvl block](https://github.com/red-data-tools/pycall.rb/issues/92) 💬 1 | [red-data-tools/pycall.rb](https://github.com/red-data-tools/pycall.rb) | 1.1k | 🟡 help wanted | 2026-11-10 |  |
 | [Bump anubis cookie expiration on login, also generate](https://github.com/lobsters/lobsters/issues/2283) | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-11-09 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Add optional date for collections](https://github.com/manyfold3d/manyfold/issues/4827) 💬 3 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-11-09 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Upload with tags with tag with a hyphen symbol creates multiple tags](https://github.com/manyfold3d/manyfold/issues/2704) 💬 8 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-11-07 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -28,7 +29,7 @@
 | [Add Alsosi qirat data](https://github.com/TarteelAI/quranic-universal-library/issues/247) | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) | 1.1k | 🟡 help wanted | 2026-11-01 |  |
 | [Add Missing Table Translation Test Case](https://github.com/ManageIQ/manageiq/issues/22736) 💬 2 | [ManageIQ/manageiq](https://github.com/ManageIQ/manageiq) | 1.4k | 🟢 beginner | 2026-10-26 | [📘 guide](https://github.com/ManageIQ/manageiq/blob/HEAD/CONTRIBUTING.md) |
 | [\[RFE\] Add support for relative paths to evm:export:service_dialogs](https://github.com/ManageIQ/manageiq/issues/20488) 💬 5 | [ManageIQ/manageiq](https://github.com/ManageIQ/manageiq) | 1.4k | 🟢 beginner | 2026-10-26 | [📘 guide](https://github.com/ManageIQ/manageiq/blob/HEAD/CONTRIBUTING.md) |
-| [Adding Action Args to agent actions](https://github.com/activeagents/activeagent/issues/295) 💬 1 | [activeagents/activeagent](https://github.com/activeagents/activeagent) | 986 | 🟡 help wanted | 2026-10-24 |  |
+| [Adding Action Args to agent actions](https://github.com/activeagents/activeagent/issues/295) 💬 1 | [activeagents/activeagent](https://github.com/activeagents/activeagent) | 985 | 🟡 help wanted | 2026-10-24 |  |
 | [Current page's table of contents](https://github.com/freeCodeCamp/devdocs/issues/6) 💬 21 | [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) | 39.6k | 🟡 help wanted | 2026-10-20 | [📘 guide](https://github.com/freeCodeCamp/devdocs/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Mod deleting a comment removes the visual indication of upvoted](https://github.com/lobsters/lobsters/issues/2201) | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-10-19 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Rubocop Layout/LineLength](https://github.com/drwl/annotaterb/issues/261) 💬 5 | [drwl/annotaterb](https://github.com/drwl/annotaterb) | 631 | 🟡 help wanted | 2026-10-19 | [📘 guide](https://github.com/drwl/annotaterb/blob/HEAD/CONTRIBUTING.md) |
@@ -38,7 +39,7 @@
 | [Canceling comment edit triggers a JS exception and doesn't cancel](https://github.com/lobsters/lobsters/issues/2215) 💬 2 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-10-05 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Mark actions as destructive](https://github.com/avo-hq/avo/issues/2082) 💬 1 | [avo-hq/avo](https://github.com/avo-hq/avo) | 1.8k | 🟡 help wanted | 2026-09-28 | ✍️ CLA |
 | [Add support for Salam](https://github.com/github-linguist/linguist/issues/8206) 💬 3 | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.8k | 🟢 beginner | 2026-09-25 | [📘 guide](https://github.com/github-linguist/linguist/blob/HEAD/CONTRIBUTING.md) |
-| [Feature Request to add chatwoot directly install in plesk apps](https://github.com/chatwoot/chatwoot/issues/6911) 💬 6 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 39.7k | 🟢 beginner | 2026-09-19 | [📘 guide](https://github.com/chatwoot/chatwoot/blob/HEAD/CONTRIBUTING.md) |
+| [Feature Request to add chatwoot directly install in plesk apps](https://github.com/chatwoot/chatwoot/issues/6911) 💬 6 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 39.8k | 🟢 beginner | 2026-09-19 | [📘 guide](https://github.com/chatwoot/chatwoot/blob/HEAD/CONTRIBUTING.md) |
 | [Python: implement full-unlock so security updates can bump a parent to fix a vulnerable transitive dependency](https://github.com/dependabot/dependabot-core/issues/16337) | [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) | 5.8k | 🟡 help wanted | 2026-09-18 | [📘 guide](https://github.com/dependabot/dependabot-core/blob/HEAD/CONTRIBUTING.md) |
 | [Normalize and provide automatic metadata for arXiv links](https://github.com/lobsters/lobsters/issues/1165) 💬 5 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-09-18 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [raise exception on full table scans](https://github.com/lobsters/lobsters/issues/2150) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-09-17 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
@@ -46,7 +47,7 @@
 | [Improve accessibility of generated website](https://github.com/brettchalupa/graphql-docs/issues/107) | [brettchalupa/graphql-docs](https://github.com/brettchalupa/graphql-docs) | 523 | 🟢 beginner | 2026-09-15 | [📘 guide](https://github.com/brettchalupa/graphql-docs/blob/HEAD/CONTRIBUTING.md) |
 | [Feature: Organize documentation topics in beginner-friendly learning order](https://github.com/freeCodeCamp/devdocs/issues/2611) | [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) | 39.6k | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/freeCodeCamp/devdocs/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Soft delete for Initiatives on admin panel](https://github.com/decidim/decidim/issues/6542) 💬 9 | [decidim/decidim](https://github.com/decidim/decidim) | 1.9k | 🟢 beginner | 2026-09-10 |  |
-| [Documentation backlog](https://github.com/activeagents/activeagent/issues/404) | [activeagents/activeagent](https://github.com/activeagents/activeagent) | 986 | 🟡 help wanted | 2026-09-07 |  |
+| [Documentation backlog](https://github.com/activeagents/activeagent/issues/404) | [activeagents/activeagent](https://github.com/activeagents/activeagent) | 985 | 🟡 help wanted | 2026-09-07 |  |
 | [Etc.uname needs a native version](https://github.com/jruby/jruby/issues/2145) 💬 12 | [jruby/jruby](https://github.com/jruby/jruby) | 3.9k | 🟢 beginner | 2026-09-04 | [📘 guide](https://github.com/jruby/jruby/blob/HEAD/CONTRIBUTING.md) |
 | [Revisit Style/EmptyCaseCondition?](https://github.com/rubocop/rubocop/issues/8396) 💬 4 | [rubocop/rubocop](https://github.com/rubocop/rubocop) | 12.9k | 🟡 help wanted | 2026-09-01 | 🤖 disclose AI use · [📘 guide](https://github.com/rubocop/rubocop/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature Request\] Dark Mode](https://github.com/endoflife-date/endoflife.date/issues/1187) 💬 10 | [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) | 3.4k | 🟢 beginner | 2026-08-28 | [📘 guide](https://github.com/endoflife-date/endoflife.date/blob/HEAD/CONTRIBUTING.md) |
@@ -71,7 +72,7 @@
 | [class com.sun.nio.file.ExtendedOpenOption cannot access class jdk.internal.misc.FileSystemOption](https://github.com/jruby/jruby/issues/7835) 💬 7 | [jruby/jruby](https://github.com/jruby/jruby) | 3.9k | 🟢 beginner | 2026-07-09 | [📘 guide](https://github.com/jruby/jruby/blob/HEAD/CONTRIBUTING.md) |
 | [Links in Description](https://github.com/manyfold3d/manyfold/issues/4944) 💬 3 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-07-08 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Support 'distinct' when it comes to further association chaining](https://github.com/neo4jrb/activegraph/issues/1340) 💬 3 | [neo4jrb/activegraph](https://github.com/neo4jrb/activegraph) | 1.4k | 🟢 beginner | 2026-07-06 | [📘 guide](https://github.com/neo4jrb/activegraph/blob/HEAD/CONTRIBUTING.md) |
-| [Upload form missing a number of options](https://github.com/e621ng/e621ng/issues/1794) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 588 | 🟢 beginner | 2026-06-30 |  |
+| [Upload form missing a number of options](https://github.com/e621ng/e621ng/issues/1794) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 589 | 🟢 beginner | 2026-06-30 |  |
 | [Disown CTA has unique focus and hover effect](https://github.com/lobsters/lobsters/issues/2099) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-06-24 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Create Huginn iPhone / Android app](https://github.com/huginn/huginn/issues/166) 💬 19 | [huginn/huginn](https://github.com/huginn/huginn) | 50.5k | 🟡 help wanted | 2026-06-20 | [📘 guide](https://github.com/huginn/huginn/blob/HEAD/CONTRIBUTING.md) |
 | [add also "open in Anycubic Slicer Next"](https://github.com/manyfold3d/manyfold/issues/5823) 💬 2 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-06-19 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
