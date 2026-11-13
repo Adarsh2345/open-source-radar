@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**69** open issues (25 labeled for beginners) across **10** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
+**68** open issues (24 labeled for beginners) across **10** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
 
-> Updated automatically on **2026-11-13 13:50 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-13 23:20 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,13 +10,12 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Allocation-error reporting re-enters base initialization and error-state TLS setup](https://github.com/openssl/openssl/issues/33304) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟡 help wanted | 2026-11-13 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | ['BIO_get_cipher_status()' returns 1 after a failed key-wrap decrypt, so 'CMS_decrypt()' and 'PKCS7_decrypt()'](https://github.com/openssl/openssl/issues/33699) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟡 help wanted | 2026-11-13 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
-| ['EVP_PKEY_get_utf8_string_param()' size query returns 0 for an empty value such as 'mandatory-digest' of EdDSA](https://github.com/openssl/openssl/issues/33698) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟢 beginner | 2026-11-13 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | ['SSL_CTX_use_certificate_chain_file()' fails with an empty error queue when the file holds an empty PEM block](https://github.com/openssl/openssl/issues/33691) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟢 beginner | 2026-11-13 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [test_recordlen short AEAD record tests fail with the FIPS provider](https://github.com/openssl/openssl/issues/33713) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟡 help wanted | 2026-11-13 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | ['OCSP_basic_sign()' on an already-signed response frees the key-ID responder ID as an 'X509_NAME' (SEGV) or le](https://github.com/openssl/openssl/issues/33696) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟡 help wanted | 2026-11-13 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
-| [Allocation-error reporting re-enters base initialization and error-state TLS setup](https://github.com/openssl/openssl/issues/33304) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟡 help wanted | 2026-11-13 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
-| [QIF export from Quicken fails to import: "Unknown Detail Code: U"](https://github.com/actualbudget/actual/issues/9526) 💬 4 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.2k | 🟢 beginner | 2026-11-13 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
+| [QIF export from Quicken fails to import: "Unknown Detail Code: U"](https://github.com/actualbudget/actual/issues/9526) 💬 7 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.2k | 🟢 beginner | 2026-11-13 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [Missing support for parameter sets that use SHA256/192 hashes from draft-fluhrer-lms-more-parm-sets](https://github.com/open-quantum-safe/liboqs/issues/2143) 💬 6 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-11-13 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
 | ['PEM_write_bio_PrivateKey_traditional()' returns success for AEAD and provider-only ciphers, but the key it wr](https://github.com/openssl/openssl/issues/33668) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟡 help wanted | 2026-11-12 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | ['SSL_OP_ALLOW_NO_DHE_KEX' is documented for QUIC but silently ignored](https://github.com/openssl/openssl/issues/33644) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟢 beginner | 2026-11-12 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
