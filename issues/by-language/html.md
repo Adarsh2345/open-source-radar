@@ -1,10 +1,10 @@
 # HTML issues
 
-**115** open issues (48 labeled for beginners) across **30** active HTML projects.
+**113** open issues (48 labeled for beginners) across **30** active HTML projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/html.xml)
 
-> Updated automatically on **2026-11-14 12:50 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-14 22:07 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Build a four-clip editor demo from whatever references are available](https://github.com/blixvip/NullMotion/issues/69) | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 1.4k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/blixvip/NullMotion/blob/HEAD/CONTRIBUTING.md) |
+| [Keep the preview Play/Pause button label in sync with the film](https://github.com/blixvip/NullMotion/issues/68) | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 1.4k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/blixvip/NullMotion/blob/HEAD/CONTRIBUTING.md) |
 | [Gallery: contribute an HTML email newsletter to awesome-open-design](https://github.com/feimacode/open-design-agent-kit/issues/148) | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 1.1k | 🟢 beginner | 2026-11-13 | [📘 guide](https://github.com/feimacode/open-design-agent-kit/blob/HEAD/CONTRIBUTING.md) |
 | [Gallery: contribute a business card design to awesome-open-design](https://github.com/feimacode/open-design-agent-kit/issues/147) | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 1.1k | 🟢 beginner | 2026-11-13 | [📘 guide](https://github.com/feimacode/open-design-agent-kit/blob/HEAD/CONTRIBUTING.md) |
 | [Add a business card printer as a print house](https://github.com/feimacode/open-design-agent-kit/issues/146) | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 1.1k | 🟢 beginner | 2026-11-13 | [📘 guide](https://github.com/feimacode/open-design-agent-kit/blob/HEAD/CONTRIBUTING.md) |
@@ -48,10 +50,6 @@
 | [Add Last-Modified/ETag and 304 responses for static files and media](https://github.com/blixvip/NullMotion/issues/35) | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 1.4k | 🟡 help wanted | 2026-11-06 | [📘 guide](https://github.com/blixvip/NullMotion/blob/HEAD/CONTRIBUTING.md) |
 | [Stream exported MP4s to disk instead of holding the whole file in memory](https://github.com/blixvip/NullMotion/issues/34) | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 1.4k | 🟡 help wanted | 2026-11-06 | [📘 guide](https://github.com/blixvip/NullMotion/blob/HEAD/CONTRIBUTING.md) |
 | [Stop the export from hanging forever when the hidden film stalls](https://github.com/blixvip/NullMotion/issues/33) | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 1.4k | 🟡 help wanted | 2026-11-06 | [📘 guide](https://github.com/blixvip/NullMotion/blob/HEAD/CONTRIBUTING.md) |
-| [Check encoder support before export instead of failing after the render](https://github.com/blixvip/NullMotion/issues/32) | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 1.4k | 🟡 help wanted | 2026-11-06 | [📘 guide](https://github.com/blixvip/NullMotion/blob/HEAD/CONTRIBUTING.md) |
-| [build-waveforms drops the last audio window and overflows on long videos](https://github.com/blixvip/NullMotion/issues/31) | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 1.4k | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/blixvip/NullMotion/blob/HEAD/CONTRIBUTING.md) |
-| [Move the export crop math into a module and test it directly](https://github.com/blixvip/NullMotion/issues/30) | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 1.4k | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/blixvip/NullMotion/blob/HEAD/CONTRIBUTING.md) |
-| [\[Marketplace\] Add Resend plugin](https://github.com/ToolJet/ToolJet/issues/18236) 💬 4 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41.2k | 🟡 help wanted | 2026-11-05 | 🤖 disclose AI use · [📘 guide](https://github.com/ToolJet/ToolJet/blob/HEAD/CONTRIBUTING.md) |
 | [emoji request: vegan symbol (Ⓥ) and vegetarian indicator](https://github.com/hfg-gmuend/openmoji/issues/620) 💬 5 | [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) | 4.6k | 🟡 help wanted | 2026-11-05 | [📘 guide](https://github.com/hfg-gmuend/openmoji/blob/HEAD/CONTRIBUTING.md) |
 | [\[Initiative\]: Cloud Native Observability Personas](https://github.com/cncf/toc/issues/2037) 💬 24 | [cncf/toc](https://github.com/cncf/toc) | 1.9k | 🟡 help wanted | 2026-11-05 | [📘 guide](https://github.com/cncf/toc/blob/HEAD/CONTRIBUTING.md) |
 | [\[Initiative\]: Scale and performance testing guidance](https://github.com/cncf/toc/issues/2233) 💬 9 | [cncf/toc](https://github.com/cncf/toc) | 1.9k | 🟡 help wanted | 2026-11-05 | [📘 guide](https://github.com/cncf/toc/blob/HEAD/CONTRIBUTING.md) |
@@ -88,7 +86,7 @@
 | [NEW DESIGN - The action menu should be on the left of the Open Food Facts logo when scrolling](https://github.com/openfoodfacts/openfoodfacts-server/issues/7497) 💬 7 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-09-26 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/openfoodfacts/openfoodfacts-server/blob/HEAD/CONTRIBUTING.md) |
 | [Confirm new ubuntu-latest GH runner image is fine](https://github.com/mozilla/bedrock/issues/17386) 💬 1 | [mozilla/bedrock](https://github.com/mozilla/bedrock) | 1.3k | 🟡 help wanted | 2026-09-18 | [📘 guide](https://github.com/mozilla/bedrock/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Allow disable generating full mobile navigation tree](https://github.com/imfing/hextra/issues/275) 💬 1 | [imfing/hextra](https://github.com/imfing/hextra) | 2.4k | 🟢 beginner | 2026-09-15 | [📘 guide](https://github.com/imfing/hextra/blob/HEAD/.github/CONTRIBUTING.md) |
-| [\[feat\] no new X chat dm sending?](https://github.com/nirholas/XActions/issues/37) 💬 4 | [nirholas/XActions](https://github.com/nirholas/XActions) | 656 | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/nirholas/XActions/blob/HEAD/CONTRIBUTING.md) |
+| [\[feat\] no new X chat dm sending?](https://github.com/nirholas/XActions/issues/37) 💬 4 | [nirholas/XActions](https://github.com/nirholas/XActions) | 657 | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/nirholas/XActions/blob/HEAD/CONTRIBUTING.md) |
 | [Headscale with reverse proxy Zoraxy not working because allegedly WebSockets are not passing through](https://github.com/tobychui/zoraxy/issues/1012) 💬 9 | [tobychui/zoraxy](https://github.com/tobychui/zoraxy) | 5.6k | 🟡 help wanted | 2026-09-09 |  |
 | [Check for obsoletes](https://github.com/mgaudet/CompilerJobs/issues/83) 💬 5 | [mgaudet/CompilerJobs](https://github.com/mgaudet/CompilerJobs) | 783 | 🟢 beginner | 2026-09-08 |  |
 | [update HTTPProxy status reporting documentation](https://github.com/projectcontour/contour/issues/3144) 💬 2 | [projectcontour/contour](https://github.com/projectcontour/contour) | 4k | 🟢 beginner | 2026-08-30 | 🔏 DCO · [📘 guide](https://github.com/projectcontour/contour/blob/HEAD/CONTRIBUTING.md) |

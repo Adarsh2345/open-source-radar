@@ -1,10 +1,10 @@
 # Scala issues
 
-**34** open issues (16 labeled for beginners) across **18** active Scala projects.
+**33** open issues (15 labeled for beginners) across **17** active Scala projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-11-14 12:50 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-14 22:07 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [lint.ignore has no effect despite being documented as suppressing diagnostics](https://github.com/scalacenter/scalafix/issues/2521) 💬 3 | [scalacenter/scalafix](https://github.com/scalacenter/scalafix) | 878 | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/scalacenter/scalafix/blob/HEAD/CONTRIBUTING.md) |
 | [Automate version discovery for bundled tools / tool modules](https://github.com/com-lihaoyi/mill/issues/7844) | [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) | 2.8k | 🟡 help wanted | 2026-11-12 |  |
 | [Support Typst raw blocks](https://github.com/scalameta/scalafmt/issues/5245) 💬 4 | [scalameta/scalafmt](https://github.com/scalameta/scalafmt) | 1.5k | 🟡 help wanted | 2026-11-11 | [📘 guide](https://github.com/scalameta/scalafmt/blob/HEAD/CONTRIBUTING.md) |
 | [Can we provide implicit to make Marshal JsValue =&gt; Message work?](https://github.com/akka/akka-http/issues/2027) 💬 1 | [akka/akka-http](https://github.com/akka/akka-http) | 1.4k | 🟡 help wanted | 2026-11-09 | ✍️ CLA · [📘 guide](https://github.com/akka/akka-http/blob/HEAD/CONTRIBUTING.md) |

@@ -1,6 +1,6 @@
 # Issue index
 
-**3410** open, unclaimed issues from **1129** active projects (1315 labeled for beginners). Updated 2026-11-14 12:50 UTC.
+**3419** open, unclaimed issues from **1127** active projects (1301 labeled for beginners). Updated 2026-11-14 22:07 UTC.
 
 Looking for a project rather than an issue? See the [projects directory](../projects/README.md).
 
@@ -8,31 +8,31 @@ Looking for a project rather than an issue? See the [projects directory](../proj
 
 | Language | Issues | Beginner | Projects |
 | --- | ---: | ---: | ---: |
-| [C++](by-language/cpp.md) | 321 | 117 | 100 |
-| [TypeScript](by-language/typescript.md) | 306 | 97 | 75 |
-| [Rust](by-language/rust.md) | 298 | 121 | 85 |
-| [Go](by-language/go.md) | 287 | 81 | 80 |
-| [Java](by-language/java.md) | 272 | 119 | 79 |
-| [C#](by-language/csharp.md) | 259 | 78 | 81 |
-| [Python](by-language/python.md) | 225 | 63 | 74 |
-| [Kotlin](by-language/kotlin.md) | 198 | 57 | 73 |
-| [JavaScript](by-language/javascript.md) | 160 | 63 | 68 |
-| [PHP](by-language/php.md) | 149 | 82 | 45 |
-| [C](by-language/c.md) | 148 | 27 | 53 |
-| [HTML](by-language/html.md) | 115 | 48 | 30 |
-| [Shell](by-language/shell.md) | 109 | 45 | 51 |
-| [Swift](by-language/swift.md) | 98 | 48 | 53 |
-| [Ruby](by-language/ruby.md) | 75 | 53 | 27 |
+| [C++](by-language/cpp.md) | 319 | 115 | 99 |
+| [Go](by-language/go.md) | 302 | 83 | 82 |
+| [C#](by-language/csharp.md) | 297 | 83 | 83 |
+| [Rust](by-language/rust.md) | 291 | 124 | 84 |
+| [TypeScript](by-language/typescript.md) | 288 | 90 | 73 |
+| [Java](by-language/java.md) | 271 | 116 | 79 |
+| [Python](by-language/python.md) | 228 | 64 | 76 |
+| [Kotlin](by-language/kotlin.md) | 198 | 58 | 74 |
+| [JavaScript](by-language/javascript.md) | 156 | 61 | 66 |
+| [PHP](by-language/php.md) | 147 | 76 | 45 |
+| [C](by-language/c.md) | 145 | 26 | 53 |
+| [HTML](by-language/html.md) | 113 | 48 | 30 |
+| [Shell](by-language/shell.md) | 108 | 45 | 51 |
+| [Swift](by-language/swift.md) | 99 | 48 | 53 |
+| [Ruby](by-language/ruby.md) | 75 | 54 | 27 |
 | [Dart](by-language/dart.md) | 69 | 26 | 35 |
 | [Julia](by-language/julia.md) | 51 | 37 | 15 |
-| [CSS](by-language/css.md) | 35 | 32 | 4 |
-| [Scala](by-language/scala.md) | 34 | 16 | 18 |
+| [CSS](by-language/css.md) | 34 | 31 | 4 |
+| [Scala](by-language/scala.md) | 33 | 15 | 17 |
 | [Lua](by-language/lua.md) | 30 | 20 | 13 |
 | [Vue](by-language/vue.md) | 29 | 18 | 11 |
 | [Erlang](by-language/erlang.md) | 29 | 0 | 2 |
-| [Jupyter Notebook](by-language/jupyter.md) | 27 | 17 | 12 |
 | [OCaml](by-language/ocaml.md) | 25 | 16 | 7 |
-| [Haskell](by-language/haskell.md) | 16 | 7 | 6 |
+| [Jupyter Notebook](by-language/jupyter.md) | 22 | 14 | 11 |
+| [Haskell](by-language/haskell.md) | 15 | 6 | 5 |
 | [Clojure](by-language/clojure.md) | 14 | 11 | 9 |
 | [Zig](by-language/zig.md) | 11 | 7 | 7 |
 | [Nix](by-language/nix.md) | 10 | 4 | 9 |
@@ -43,17 +43,17 @@ Looking for a project rather than an issue? See the [projects directory](../proj
 
 | Topic | Issues | Beginner | Projects |
 | --- | ---: | ---: | ---: |
-| [Mobile and desktop apps](by-topic/mobile.md) | 616 | 216 | 207 |
-| [Cloud, DevOps and infrastructure](by-topic/cloud-devops.md) | 471 | 206 | 140 |
-| [Developer tools](by-topic/devtools.md) | 377 | 146 | 135 |
-| [AI and machine learning](by-topic/ai-ml.md) | 375 | 129 | 120 |
-| [Data and databases](by-topic/data.md) | 323 | 172 | 92 |
-| [Web development](by-topic/web.md) | 266 | 102 | 92 |
-| [Security and privacy](by-topic/security.md) | 248 | 101 | 57 |
-| [Systems and embedded](by-topic/systems.md) | 208 | 89 | 49 |
-| [Games and graphics](by-topic/games-graphics.md) | 151 | 87 | 51 |
-| [Science and research](by-topic/science.md) | 87 | 34 | 19 |
-| [Documentation and education](by-topic/docs-education.md) | 86 | 34 | 24 |
-| [Finance and Web3](by-topic/finance-web3.md) | 69 | 23 | 11 |
+| [Mobile and desktop apps](by-topic/mobile.md) | 615 | 217 | 209 |
+| [Cloud, DevOps and infrastructure](by-topic/cloud-devops.md) | 473 | 200 | 140 |
+| [Developer tools](by-topic/devtools.md) | 380 | 152 | 132 |
+| [AI and machine learning](by-topic/ai-ml.md) | 375 | 128 | 121 |
+| [Data and databases](by-topic/data.md) | 319 | 169 | 92 |
+| [Web development](by-topic/web.md) | 271 | 101 | 91 |
+| [Security and privacy](by-topic/security.md) | 247 | 101 | 58 |
+| [Systems and embedded](by-topic/systems.md) | 206 | 88 | 49 |
+| [Games and graphics](by-topic/games-graphics.md) | 148 | 85 | 50 |
+| [Science and research](by-topic/science.md) | 85 | 32 | 19 |
+| [Documentation and education](by-topic/docs-education.md) | 80 | 28 | 22 |
+| [Finance and Web3](by-topic/finance-web3.md) | 66 | 22 | 11 |
 | [Accessibility](by-topic/accessibility.md) | 12 | 3 | 6 |
 | [Robotics](by-topic/robotics.md) | 7 | 1 | 5 |

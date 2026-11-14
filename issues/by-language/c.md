@@ -1,10 +1,10 @@
 # C issues
 
-**148** open issues (27 labeled for beginners) across **53** active C projects.
+**145** open issues (26 labeled for beginners) across **53** active C projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/c.xml)
 
-> Updated automatically on **2026-11-14 12:50 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-14 22:07 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,12 +12,10 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Razer Kraken V4 Pro (1532:0568): protocol documented, working reference tool, looking for guidance on driver l](https://github.com/openrazer/openrazer/issues/2965) 💬 1 | [openrazer/openrazer](https://github.com/openrazer/openrazer) | 4.6k | 🟡 help wanted | 2026-11-14 |  |
 | [Update unicode tables to unicode 18.0.0](https://github.com/rizinorg/rizin/issues/6792) 💬 4 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 4.2k | 🟢 beginner | 2026-11-14 | 🤖 disclose AI use · [📘 guide](https://github.com/rizinorg/rizin/blob/HEAD/CONTRIBUTING.md) |
 | [Allocation-error reporting re-enters base initialization and error-state TLS setup](https://github.com/openssl/openssl/issues/33304) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟡 help wanted | 2026-11-13 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
-| ['BIO_get_cipher_status()' returns 1 after a failed key-wrap decrypt, so 'CMS_decrypt()' and 'PKCS7_decrypt()'](https://github.com/openssl/openssl/issues/33699) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟡 help wanted | 2026-11-13 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
-| ['SSL_CTX_use_certificate_chain_file()' fails with an empty error queue when the file holds an empty PEM block](https://github.com/openssl/openssl/issues/33691) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟢 beginner | 2026-11-13 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [test_recordlen short AEAD record tests fail with the FIPS provider](https://github.com/openssl/openssl/issues/33713) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟡 help wanted | 2026-11-13 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
-| ['OCSP_basic_sign()' on an already-signed response frees the key-ID responder ID as an 'X509_NAME' (SEGV) or le](https://github.com/openssl/openssl/issues/33696) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟡 help wanted | 2026-11-13 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [Windows x64: upper halves of ymm6-ymm15 are zeroed when the app passes through the dispatcher](https://github.com/DynamoRIO/dynamorio/issues/8256) | [DynamoRIO/dynamorio](https://github.com/DynamoRIO/dynamorio) | 3.2k | 🟡 help wanted | 2026-11-13 | ✍️ CLA · [📘 guide](https://github.com/DynamoRIO/dynamorio/blob/HEAD/CONTRIBUTING.md) |
 | [Missing support for parameter sets that use SHA256/192 hashes from draft-fluhrer-lms-more-parm-sets](https://github.com/open-quantum-safe/liboqs/issues/2143) 💬 6 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-11-13 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
 | ['PEM_write_bio_PrivateKey_traditional()' returns success for AEAD and provider-only ciphers, but the key it wr](https://github.com/openssl/openssl/issues/33668) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟡 help wanted | 2026-11-12 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
@@ -38,7 +36,6 @@
 | [openssl rehash does not remove links first](https://github.com/openssl/openssl/issues/25272) 💬 5 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟡 help wanted | 2026-11-10 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | ['CMS_add1_signer(CMS_REUSE_DIGEST \| CMS_NOATTR)' returns SignerInfo with empty signature](https://github.com/openssl/openssl/issues/33629) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.4k | 🟡 help wanted | 2026-11-10 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [Snap Tap reverse engineering](https://github.com/openrazer/openrazer/issues/2754) 💬 1 | [openrazer/openrazer](https://github.com/openrazer/openrazer) | 4.6k | 🟡 help wanted | 2026-11-08 |  |
-| [\[File Locksmith\] Request confirmation on closing processes](https://github.com/microsoft/PowerToys/issues/21807) 💬 3 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 141k | 🟡 help wanted | 2026-11-07 | [📘 guide](https://github.com/microsoft/PowerToys/blob/HEAD/CONTRIBUTING.md) |
 | [Interval of Find My Mouse Shortcut](https://github.com/microsoft/PowerToys/issues/19806) 💬 2 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 141k | 🟡 help wanted | 2026-11-07 | [📘 guide](https://github.com/microsoft/PowerToys/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] Potential dropped key under Permissive Hold when re-pressing a key behind an unsettled tap-hold key.](https://github.com/qmk/qmk_firmware/issues/26567) | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-11-07 |  |
 | [\[Bug\] PC not waking up from sleep](https://github.com/qmk/qmk_firmware/issues/26429) 💬 16 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-11-04 |  |
@@ -86,7 +83,7 @@
 | [Adding FAEST](https://github.com/open-quantum-safe/liboqs/issues/2101) 💬 14 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-01 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] GMMK Pro rev1 ANSI: LEDs on first AW20216S driver stay dark on master; fixed by lowering SPI speed](https://github.com/qmk/qmk_firmware/issues/26492) | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-09-30 |  |
 | [Bank MSB shouldn't always be ignored in XG mode](https://github.com/FluidSynth/fluidsynth/issues/1378) 💬 26 | [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) | 2.5k | 🟡 help wanted | 2026-09-29 | [📘 guide](https://github.com/FluidSynth/fluidsynth/blob/HEAD/CONTRIBUTING.md) |
-| [\[Experiment\] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 51k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/JustVugg/colibri/blob/HEAD/CONTRIBUTING.md) |
+| [\[Experiment\] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 51.1k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/JustVugg/colibri/blob/HEAD/CONTRIBUTING.md) |
 | [Extensions for browser support monitoring](https://github.com/axel-download-accelerator/axel/issues/346) 💬 5 | [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) | 3.4k | 🟡 help wanted | 2026-09-26 | [📘 guide](https://github.com/axel-download-accelerator/axel/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] Unable to restore the database](https://github.com/mydumper/mydumper/issues/2355) 💬 3 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.3k | 🟡 help wanted | 2026-09-24 |  |
 | [Investigate AddressSanitizer-like diagnostics for ThreadX](https://github.com/eclipse-threadx/threadx/issues/764) | [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) | 3.6k | 🟡 help wanted | 2026-09-22 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/eclipse-threadx/threadx/blob/HEAD/CONTRIBUTING.md) |

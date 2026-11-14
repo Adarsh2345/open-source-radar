@@ -1,10 +1,10 @@
 # Java issues
 
-**272** open issues (119 labeled for beginners) across **79** active Java projects.
+**271** open issues (116 labeled for beginners) across **79** active Java projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/java.xml)
 
-> Updated automatically on **2026-11-14 12:50 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-14 22:07 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,11 +13,9 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Add unit tests for the Gantt timeline helpers](https://github.com/kestra-io/kestra/issues/22636) 💬 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30.2k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Add unit tests for the flow summary helpers](https://github.com/kestra-io/kestra/issues/22645) 💬 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30.2k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
-| [No-code duration field writes weeks as P1W, which the backend can't parse](https://github.com/kestra-io/kestra/issues/21197) 💬 7 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30.2k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Watched folder file discovery doesn't respect Allowed Formats](https://github.com/grimmory-tools/grimmory/issues/1477) 💬 2 | [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory) | 4.7k | 🟢 beginner | 2026-11-14 | 🤖 disclose AI use · [📘 guide](https://github.com/grimmory-tools/grimmory/blob/HEAD/CONTRIBUTING.md) |
 | [Include KEV status in exported files](https://github.com/DependencyTrack/dependency-track/issues/7668) 💬 7 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.5k | 🟢 beginner | 2026-11-14 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/DependencyTrack/dependency-track/blob/HEAD/CONTRIBUTING.md) |
-| [A trigger with stopAfter that is disabled while its execution runs is enabled again when the execution ends](https://github.com/kestra-io/kestra/issues/21948) 💬 9 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30.2k | 🟢 beginner | 2026-11-13 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Provide a thread pool that limits virtual threads creation](https://github.com/jetty/jetty.project/issues/14362) 💬 2 | [jetty/jetty.project](https://github.com/jetty/jetty.project) | 4.1k | 🟡 help wanted | 2026-11-14 | [📘 guide](https://github.com/jetty/jetty.project/blob/HEAD/CONTRIBUTING.md) |
 | [函数计算字段选择优化建议](https://github.com/jeecgboot/jimureport/issues/4842) 💬 2 | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.6k | 🟡 help wanted | 2026-11-13 |  |
 | [Deletion of CLIENT_ROLE_MAPPING / REALM_ROLE_MAPPING not shown in the user admin events tab](https://github.com/keycloak/keycloak/issues/54008) 💬 8 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.9k | 🟡 help wanted | 2026-11-12 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/keycloak/keycloak/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\]\[Connector-v2\]\[MySQL\] Support dynamic discovery of new tables for regex-based multi-table sync](https://github.com/apache/seatunnel/issues/10203) 💬 52 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟢 beginner | 2026-11-12 | ✍️ CLA |
@@ -212,5 +210,7 @@
 | [Should we use the new 'expectedVisitedNodes' estimator to speed up filtered vector search?](https://github.com/apache/lucene/issues/14845) 💬 8 | [apache/lucene](https://github.com/apache/lucene) | 3.6k | 🟢 beginner | 2026-08-09 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/lucene/blob/HEAD/CONTRIBUTING.md) |
 | [\[Doc\]\[Task\] Could not add step to AWS EMR](https://github.com/apache/dolphinscheduler/issues/16963) 💬 2 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14.6k | 🟡 help wanted | 2026-08-07 | [📘 guide](https://github.com/apache/dolphinscheduler/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] \[SeaTunnel\] SeaTunnel streaming job status incorrect & task cannot be stopped from DolphinScheduler](https://github.com/apache/dolphinscheduler/issues/17786) 💬 14 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14.6k | 🟡 help wanted | 2026-08-07 | [📘 guide](https://github.com/apache/dolphinscheduler/blob/HEAD/CONTRIBUTING.md) |
+| [Support for removing metrics registered by CaffeineCacheMetrics](https://github.com/micrometer-metrics/micrometer/issues/5297) 💬 13 | [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) | 4.9k | 🟡 help wanted | 2026-08-07 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/micrometer-metrics/micrometer/blob/HEAD/CONTRIBUTING.md) |
+| [When creating an input, have graylog show a note if the selected port is already in use](https://github.com/Graylog2/graylog2-server/issues/15953) 💬 5 | [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) | 8.2k | 🟢 beginner | 2026-08-06 | [📘 guide](https://github.com/Graylog2/graylog2-server/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 272 on the website.
+Showing the 200 most recently updated. See all 271 on the website.
