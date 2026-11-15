@@ -1,10 +1,10 @@
 # CSS issues
 
-**34** open issues (31 labeled for beginners) across **4** active CSS projects.
+**30** open issues (27 labeled for beginners) across **3** active CSS projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/css.xml)
 
-> Updated automatically on **2026-11-14 22:07 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-15 13:22 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,8 +12,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Link Checker Report](https://github.com/data-engineering-community/data-engineering-wiki/issues/180) | [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) | 2.1k | 🟢 beginner | 2026-11-09 | ⚠️ AI restricted · [📘 guide](https://github.com/data-engineering-community/data-engineering-wiki/blob/HEAD/CONTRIBUTING.md) |
-| [Link Checker Report](https://github.com/data-engineering-community/data-engineering-wiki/issues/179) | [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) | 2.1k | 🟢 beginner | 2026-11-02 | ⚠️ AI restricted · [📘 guide](https://github.com/data-engineering-community/data-engineering-wiki/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Medium Issue 2 (JavaScript)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8576) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 519 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Medium Issue (Docker)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8574) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 519 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Hard Issue (Docker)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8573) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 519 | 🟡 help wanted | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
@@ -43,6 +41,4 @@
 | [\[ICON REQUEST\]: API Platform](https://github.com/devicons/devicon/issues/2139) 💬 2 | [devicons/devicon](https://github.com/devicons/devicon) | 11.9k | 🟢 beginner | 2026-10-28 | [📘 guide](https://github.com/devicons/devicon/blob/HEAD/CONTRIBUTING.md) |
 | [\[ICON REQUEST\]: Elysia js](https://github.com/devicons/devicon/issues/2373) 💬 2 | [devicons/devicon](https://github.com/devicons/devicon) | 11.9k | 🟢 beginner | 2026-10-28 | [📘 guide](https://github.com/devicons/devicon/blob/HEAD/CONTRIBUTING.md) |
 | [\[ICON REQUEST\]: Chocolatey](https://github.com/devicons/devicon/issues/2727) 💬 2 | [devicons/devicon](https://github.com/devicons/devicon) | 11.9k | 🟢 beginner | 2026-10-28 | [📘 guide](https://github.com/devicons/devicon/blob/HEAD/CONTRIBUTING.md) |
-| [Link Checker Report](https://github.com/data-engineering-community/data-engineering-wiki/issues/178) | [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) | 2.1k | 🟢 beginner | 2026-10-26 | ⚠️ AI restricted · [📘 guide](https://github.com/data-engineering-community/data-engineering-wiki/blob/HEAD/CONTRIBUTING.md) |
 | [Add an OpenType Math version: Source Serif Pro Math](https://github.com/adobe-fonts/source-serif/issues/13) 💬 23 | [adobe-fonts/source-serif](https://github.com/adobe-fonts/source-serif) | 2.4k | 🟡 help wanted | 2026-09-17 |  |
-| [Link Checker Report](https://github.com/data-engineering-community/data-engineering-wiki/issues/151) | [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) | 2.1k | 🟢 beginner | 2026-05-25 | ⚠️ AI restricted · [📘 guide](https://github.com/data-engineering-community/data-engineering-wiki/blob/HEAD/CONTRIBUTING.md) |

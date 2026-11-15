@@ -1,10 +1,10 @@
 # HTML issues
 
-**113** open issues (48 labeled for beginners) across **30** active HTML projects.
+**114** open issues (49 labeled for beginners) across **30** active HTML projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/html.xml)
 
-> Updated automatically on **2026-11-14 22:07 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-15 13:22 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -50,6 +50,8 @@
 | [Add Last-Modified/ETag and 304 responses for static files and media](https://github.com/blixvip/NullMotion/issues/35) | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 1.4k | 🟡 help wanted | 2026-11-06 | [📘 guide](https://github.com/blixvip/NullMotion/blob/HEAD/CONTRIBUTING.md) |
 | [Stream exported MP4s to disk instead of holding the whole file in memory](https://github.com/blixvip/NullMotion/issues/34) | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 1.4k | 🟡 help wanted | 2026-11-06 | [📘 guide](https://github.com/blixvip/NullMotion/blob/HEAD/CONTRIBUTING.md) |
 | [Stop the export from hanging forever when the hidden film stalls](https://github.com/blixvip/NullMotion/issues/33) | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 1.4k | 🟡 help wanted | 2026-11-06 | [📘 guide](https://github.com/blixvip/NullMotion/blob/HEAD/CONTRIBUTING.md) |
+| [Check encoder support before export instead of failing after the render](https://github.com/blixvip/NullMotion/issues/32) | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 1.4k | 🟡 help wanted | 2026-11-06 | [📘 guide](https://github.com/blixvip/NullMotion/blob/HEAD/CONTRIBUTING.md) |
+| [build-waveforms drops the last audio window and overflows on long videos](https://github.com/blixvip/NullMotion/issues/31) | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 1.4k | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/blixvip/NullMotion/blob/HEAD/CONTRIBUTING.md) |
 | [emoji request: vegan symbol (Ⓥ) and vegetarian indicator](https://github.com/hfg-gmuend/openmoji/issues/620) 💬 5 | [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) | 4.6k | 🟡 help wanted | 2026-11-05 | [📘 guide](https://github.com/hfg-gmuend/openmoji/blob/HEAD/CONTRIBUTING.md) |
 | [\[Initiative\]: Cloud Native Observability Personas](https://github.com/cncf/toc/issues/2037) 💬 24 | [cncf/toc](https://github.com/cncf/toc) | 1.9k | 🟡 help wanted | 2026-11-05 | [📘 guide](https://github.com/cncf/toc/blob/HEAD/CONTRIBUTING.md) |
 | [\[Initiative\]: Scale and performance testing guidance](https://github.com/cncf/toc/issues/2233) 💬 9 | [cncf/toc](https://github.com/cncf/toc) | 1.9k | 🟡 help wanted | 2026-11-05 | [📘 guide](https://github.com/cncf/toc/blob/HEAD/CONTRIBUTING.md) |
@@ -60,7 +62,6 @@
 | [switch cutout for back body plate doesn't fit switch](https://github.com/nasa-jpl/open-source-rover/issues/499) 💬 3 | [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) | 9.8k | 🟡 help wanted | 2026-10-28 | [📘 guide](https://github.com/nasa-jpl/open-source-rover/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Gateway API: implement client cert verification \[experimental\]](https://github.com/projectcontour/contour/issues/6428) 💬 6 | [projectcontour/contour](https://github.com/projectcontour/contour) | 4k | 🟡 help wanted | 2026-10-28 | 🔏 DCO · [📘 guide](https://github.com/projectcontour/contour/blob/HEAD/CONTRIBUTING.md) |
 | [\[ja\] Translate docs/reference/access-authn-authz/certificate-signing-requests.md into Japanese](https://github.com/kubernetes/website/issues/58144) 💬 4 | [kubernetes/website](https://github.com/kubernetes/website) | 5.4k | 🟡 help wanted | 2026-10-27 | [📘 guide](https://github.com/kubernetes/website/blob/HEAD/CONTRIBUTING.md) |
-| [\[ja\] Translate docs/reference/using-api/client-libraries.md into Japanese](https://github.com/kubernetes/website/issues/58142) 💬 4 | [kubernetes/website](https://github.com/kubernetes/website) | 5.4k | 🟡 help wanted | 2026-10-27 | [📘 guide](https://github.com/kubernetes/website/blob/HEAD/CONTRIBUTING.md) |
 | [JWKS Async Fetch](https://github.com/projectcontour/contour/issues/6524) 💬 5 | [projectcontour/contour](https://github.com/projectcontour/contour) | 4k | 🟡 help wanted | 2026-10-27 | 🔏 DCO · [📘 guide](https://github.com/projectcontour/contour/blob/HEAD/CONTRIBUTING.md) |
 | [\[Marketplace\] Add Strapi plugin](https://github.com/ToolJet/ToolJet/issues/18232) 💬 8 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41.2k | 🟡 help wanted | 2026-10-23 | 🤖 disclose AI use · [📘 guide](https://github.com/ToolJet/ToolJet/blob/HEAD/CONTRIBUTING.md) |
 | [\[Marketplace\] Add Paddle plugin](https://github.com/ToolJet/ToolJet/issues/18235) 💬 2 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41.2k | 🟡 help wanted | 2026-10-23 | 🤖 disclose AI use · [📘 guide](https://github.com/ToolJet/ToolJet/blob/HEAD/CONTRIBUTING.md) |
@@ -86,7 +87,7 @@
 | [NEW DESIGN - The action menu should be on the left of the Open Food Facts logo when scrolling](https://github.com/openfoodfacts/openfoodfacts-server/issues/7497) 💬 7 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-09-26 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/openfoodfacts/openfoodfacts-server/blob/HEAD/CONTRIBUTING.md) |
 | [Confirm new ubuntu-latest GH runner image is fine](https://github.com/mozilla/bedrock/issues/17386) 💬 1 | [mozilla/bedrock](https://github.com/mozilla/bedrock) | 1.3k | 🟡 help wanted | 2026-09-18 | [📘 guide](https://github.com/mozilla/bedrock/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Allow disable generating full mobile navigation tree](https://github.com/imfing/hextra/issues/275) 💬 1 | [imfing/hextra](https://github.com/imfing/hextra) | 2.4k | 🟢 beginner | 2026-09-15 | [📘 guide](https://github.com/imfing/hextra/blob/HEAD/.github/CONTRIBUTING.md) |
-| [\[feat\] no new X chat dm sending?](https://github.com/nirholas/XActions/issues/37) 💬 4 | [nirholas/XActions](https://github.com/nirholas/XActions) | 657 | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/nirholas/XActions/blob/HEAD/CONTRIBUTING.md) |
+| [\[feat\] no new X chat dm sending?](https://github.com/nirholas/XActions/issues/37) 💬 4 | [nirholas/XActions](https://github.com/nirholas/XActions) | 658 | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/nirholas/XActions/blob/HEAD/CONTRIBUTING.md) |
 | [Headscale with reverse proxy Zoraxy not working because allegedly WebSockets are not passing through](https://github.com/tobychui/zoraxy/issues/1012) 💬 9 | [tobychui/zoraxy](https://github.com/tobychui/zoraxy) | 5.6k | 🟡 help wanted | 2026-09-09 |  |
 | [Check for obsoletes](https://github.com/mgaudet/CompilerJobs/issues/83) 💬 5 | [mgaudet/CompilerJobs](https://github.com/mgaudet/CompilerJobs) | 783 | 🟢 beginner | 2026-09-08 |  |
 | [update HTTPProxy status reporting documentation](https://github.com/projectcontour/contour/issues/3144) 💬 2 | [projectcontour/contour](https://github.com/projectcontour/contour) | 4k | 🟢 beginner | 2026-08-30 | 🔏 DCO · [📘 guide](https://github.com/projectcontour/contour/blob/HEAD/CONTRIBUTING.md) |
