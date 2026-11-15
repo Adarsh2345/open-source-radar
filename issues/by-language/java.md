@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/java.xml)
 
-> Updated automatically on **2026-11-15 13:22 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-15 22:27 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,9 +13,9 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Online报表支持任意查询条件和参数查询条件](https://github.com/jeecgboot/JeecgBoot/issues/9924) | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 48.5k | 🟡 help wanted | 2026-11-15 |  |
-| [Broken links and image paths in .github/CONTRIBUTING.md](https://github.com/kestra-io/kestra/issues/22711) | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30.2k | 🟢 beginner | 2026-11-15 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
-| [希望可以提供一个创建用户的api](https://github.com/apolloconfig/apollo/issues/5441) 💬 4 | [apolloconfig/apollo](https://github.com/apolloconfig/apollo) | 29.8k | 🟢 beginner | 2026-11-15 | ✍️ CLA · [📘 guide](https://github.com/apolloconfig/apollo/blob/HEAD/CONTRIBUTING.md) |
-| [\[Feature\]\[API\]\[Connector-V2\] Unify column default value handling across the DDL pipeline](https://github.com/apache/seatunnel/issues/13217) 💬 3 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-15 | ✍️ CLA |
+| [Broken links and image paths in .github/CONTRIBUTING.md](https://github.com/kestra-io/kestra/issues/22711) 💬 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30.2k | 🟢 beginner | 2026-11-15 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
+| [希望可以提供一个创建用户的api](https://github.com/apolloconfig/apollo/issues/5441) 💬 5 | [apolloconfig/apollo](https://github.com/apolloconfig/apollo) | 29.8k | 🟢 beginner | 2026-11-15 | ✍️ CLA · [📘 guide](https://github.com/apolloconfig/apollo/blob/HEAD/CONTRIBUTING.md) |
+| [\[Feature\]\[API\]\[Connector-V2\] Unify column default value handling across the DDL pipeline](https://github.com/apache/seatunnel/issues/13217) 💬 4 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-15 | ✍️ CLA |
 | [Online报表支持任意查询条件和参数查询条件](https://github.com/jeecgboot/jimureport/issues/4848) | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.6k | 🟡 help wanted | 2026-11-15 |  |
 | [Execution Artifacts omits tasks from flow-level errors, finally, and afterExecution](https://github.com/kestra-io/kestra/issues/22707) 💬 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30.2k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Watched folder file discovery doesn't respect Allowed Formats](https://github.com/grimmory-tools/grimmory/issues/1477) 💬 2 | [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory) | 4.7k | 🟢 beginner | 2026-11-14 | 🤖 disclose AI use · [📘 guide](https://github.com/grimmory-tools/grimmory/blob/HEAD/CONTRIBUTING.md) |

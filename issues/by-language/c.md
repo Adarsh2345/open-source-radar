@@ -1,10 +1,10 @@
 # C issues
 
-**145** open issues (26 labeled for beginners) across **53** active C projects.
+**144** open issues (27 labeled for beginners) across **52** active C projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/c.xml)
 
-> Updated automatically on **2026-11-15 13:22 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-15 22:27 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,6 +13,7 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | ['SSL_get0_listener()' returns NULL for connections accepted from a DTLS listener](https://github.com/openssl/openssl/issues/33626) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-15 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
+| ['SET_POINT_SIZE' commands received within a BEGIN/END block should be ignored but are handled](https://github.com/xemu-project/xemu/issues/3173) 💬 1 | [xemu-project/xemu](https://github.com/xemu-project/xemu) | 4.3k | 🟢 beginner | 2026-11-15 | [📘 guide](https://github.com/xemu-project/xemu/blob/HEAD/CONTRIBUTING.md) |
 | [Razer Kraken V4 Pro (1532:0568): protocol documented, working reference tool, looking for guidance on driver l](https://github.com/openrazer/openrazer/issues/2965) 💬 1 | [openrazer/openrazer](https://github.com/openrazer/openrazer) | 4.6k | 🟡 help wanted | 2026-11-14 |  |
 | [Allocation-error reporting re-enters base initialization and error-state TLS setup](https://github.com/openssl/openssl/issues/33304) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-13 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [test_recordlen short AEAD record tests fail with the FIPS provider](https://github.com/openssl/openssl/issues/33713) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-13 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
@@ -20,7 +21,6 @@
 | [Missing support for parameter sets that use SHA256/192 hashes from draft-fluhrer-lms-more-parm-sets](https://github.com/open-quantum-safe/liboqs/issues/2143) 💬 6 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-11-13 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
 | ['PEM_write_bio_PrivateKey_traditional()' returns success for AEAD and provider-only ciphers, but the key it wr](https://github.com/openssl/openssl/issues/33668) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-12 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | ['SSL_get_conn_close_info()' returns '-1' instead of the documented '0' on unsupported objects](https://github.com/openssl/openssl/issues/33637) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-12 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
-| ['OSSL_STORE_LOADER_free()' leaks loaders made by 'OSSL_STORE_LOADER_new()' (regression in 4.1.0)](https://github.com/openssl/openssl/issues/33635) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-12 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] Concurrent --exec workers can abort with "pid not found"](https://github.com/mydumper/mydumper/issues/2366) 💬 4 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.3k | 🟡 help wanted | 2026-11-12 |  |
 | [stb_ds.h unit test fails](https://github.com/nothings/stb/issues/1251) 💬 3 | [nothings/stb](https://github.com/nothings/stb) | 35k | 🟡 help wanted | 2026-11-11 | ⚠️ AI restricted · [📘 guide](https://github.com/nothings/stb/blob/HEAD/CONTRIBUTING.md) |
 | [Server-side SSL_accept gets "unexpected eof while reading" for Windows Schannel client with client-cert](https://github.com/openssl/openssl/issues/25520) 💬 4 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-11 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
@@ -39,9 +39,8 @@
 | [\[Bug\] Potential dropped key under Permissive Hold when re-pressing a key behind an unsettled tap-hold key.](https://github.com/qmk/qmk_firmware/issues/26567) | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-11-07 |  |
 | [\[Bug\] PC not waking up from sleep](https://github.com/qmk/qmk_firmware/issues/26429) 💬 16 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-11-04 |  |
 | [Wayland: could Dunst pass activation tokens when invoking notification actions?](https://github.com/dunst-project/dunst/issues/1569) 💬 2 | [dunst-project/dunst](https://github.com/dunst-project/dunst) | 5.6k | 🟡 help wanted | 2026-11-04 | 🤖 disclose AI use · [📘 guide](https://github.com/dunst-project/dunst/blob/HEAD/CONTRIBUTING.md) |
-| [Filesystem time on stat from 'nftw' not faked](https://github.com/wolfcw/libfaketime/issues/476) 💬 5 | [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) | 3.1k | 🟡 help wanted | 2026-11-04 | [📘 guide](https://github.com/wolfcw/libfaketime/blob/HEAD/CONTRIBUTING.md) |
 | [The latest docker image is about one year ago, you are not updating it anymore?](https://github.com/taosdata/TDengine/issues/35717) 💬 1 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-11-03 |  |
-| [分享一下我解决进不去里站的方法](https://github.com/xiaojieonly/Ehviewer_CN_SXJ/issues/96) 💬 57 | [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | 29.1k | 🟡 help wanted | 2026-11-02 |  |
+| [分享一下我解决进不去里站的方法](https://github.com/xiaojieonly/Ehviewer_CN_SXJ/issues/96) 💬 57 | [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | 29.2k | 🟡 help wanted | 2026-11-02 |  |
 | [kew roadmap: "Project Joy"](https://github.com/ravachol/kew/issues/575) 💬 92 | [ravachol/kew](https://github.com/ravachol/kew) | 3.2k | 🟡 help wanted | 2026-11-01 |  |
 | [Logitech G502 Profile Names](https://github.com/libratbag/libratbag/issues/680) 💬 6 | [libratbag/libratbag](https://github.com/libratbag/libratbag) | 2.6k | 🟡 help wanted | 2026-10-31 |  |
 | [CmdPal not finding a extension (winget)](https://github.com/microsoft/PowerToys/issues/38718) 💬 4 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 141k | 🟡 help wanted | 2026-10-29 | [📘 guide](https://github.com/microsoft/PowerToys/blob/HEAD/CONTRIBUTING.md) |
@@ -83,7 +82,7 @@
 | [Adding FAEST](https://github.com/open-quantum-safe/liboqs/issues/2101) 💬 14 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-01 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] GMMK Pro rev1 ANSI: LEDs on first AW20216S driver stay dark on master; fixed by lowering SPI speed](https://github.com/qmk/qmk_firmware/issues/26492) | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-09-30 |  |
 | [Bank MSB shouldn't always be ignored in XG mode](https://github.com/FluidSynth/fluidsynth/issues/1378) 💬 26 | [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) | 2.5k | 🟡 help wanted | 2026-09-29 | [📘 guide](https://github.com/FluidSynth/fluidsynth/blob/HEAD/CONTRIBUTING.md) |
-| [\[Experiment\] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 51.2k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/JustVugg/colibri/blob/HEAD/CONTRIBUTING.md) |
+| [\[Experiment\] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 51.3k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/JustVugg/colibri/blob/HEAD/CONTRIBUTING.md) |
 | [Extensions for browser support monitoring](https://github.com/axel-download-accelerator/axel/issues/346) 💬 5 | [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) | 3.4k | 🟡 help wanted | 2026-09-26 | [📘 guide](https://github.com/axel-download-accelerator/axel/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] Unable to restore the database](https://github.com/mydumper/mydumper/issues/2355) 💬 3 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.3k | 🟡 help wanted | 2026-09-24 |  |
 | [Investigate AddressSanitizer-like diagnostics for ThreadX](https://github.com/eclipse-threadx/threadx/issues/764) | [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) | 3.6k | 🟡 help wanted | 2026-09-22 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/eclipse-threadx/threadx/blob/HEAD/CONTRIBUTING.md) |
