@@ -1,10 +1,10 @@
 # OCaml issues
 
-**25** open issues (15 labeled for beginners) across **6** active OCaml projects.
+**26** open issues (16 labeled for beginners) across **7** active OCaml projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ocaml.xml)
 
-> Updated automatically on **2026-11-15 22:27 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-16 14:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Flow.single_write: document that a call that raises wrote nothing](https://github.com/ocaml-multicore/eio/issues/962) 💬 1 | [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio) | 742 | 🟢 beginner | 2026-11-16 |  |
 | [SSReflect rewrite cannot rewrite with unfolded definition of setoid](https://github.com/rocq-prover/rocq/issues/7693) 💬 5 | [rocq-prover/rocq](https://github.com/rocq-prover/rocq) | 5.7k | 🟡 help wanted | 2026-11-15 | [📘 guide](https://github.com/rocq-prover/rocq/blob/HEAD/CONTRIBUTING.md) |
 | [CoqIDE input mode broken sometimes?](https://github.com/rocq-prover/rocq/issues/14501) 💬 49 | [rocq-prover/rocq](https://github.com/rocq-prover/rocq) | 5.7k | 🟡 help wanted | 2026-11-02 | [📘 guide](https://github.com/rocq-prover/rocq/blob/HEAD/CONTRIBUTING.md) |
 | [\[wish\] coq_makefile flag -findlib-package dep](https://github.com/rocq-prover/rocq/issues/15660) 💬 2 | [rocq-prover/rocq](https://github.com/rocq-prover/rocq) | 5.7k | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/rocq-prover/rocq/blob/HEAD/CONTRIBUTING.md) |
