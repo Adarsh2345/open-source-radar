@@ -1,10 +1,10 @@
 # Scala issues
 
-**33** open issues (15 labeled for beginners) across **17** active Scala projects.
+**32** open issues (14 labeled for beginners) across **17** active Scala projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-11-16 14:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-17 01:33 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -35,7 +35,6 @@
 | [Board editor: possibly disable 960 Castling in standard](https://github.com/lichess-org/lila/issues/12926) 💬 9 | [lichess-org/lila](https://github.com/lichess-org/lila) | 19k | 🟢 beginner | 2026-08-15 | 🤖 disclose AI use · [📘 guide](https://github.com/lichess-org/lila/blob/HEAD/CONTRIBUTING.md) |
 | [Clean constructor parameters for 'Indexer' and 'ScalaCli'](https://github.com/scalameta/metals/issues/4788) 💬 6 | [scalameta/metals](https://github.com/scalameta/metals) | 2.3k | 🟢 beginner | 2026-08-12 | [📘 guide](https://github.com/scalameta/metals/blob/HEAD/CONTRIBUTING.md) |
 | [Add chicken-bit support to BOOM](https://github.com/riscv-boom/riscv-boom/issues/36) 💬 5 | [riscv-boom/riscv-boom](https://github.com/riscv-boom/riscv-boom) | 2.3k | 🟢 beginner | 2026-08-03 |  |
-| [\[EPIC\] Replace hand-rolled native code with existing arrow-rs kernels](https://github.com/apache/datafusion-comet/issues/5104) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-08-03 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [\[FEATURE\] Interval analysis to improve a..b](https://github.com/apalache-mc/apalache/issues/446) | [apalache-mc/apalache](https://github.com/apalache-mc/apalache) | 628 | 🟡 help wanted | 2026-08-02 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/apalache-mc/apalache/blob/HEAD/CONTRIBUTING.md) |
 | [\[FEATURE\] Detect uninitialized 'CONSTANT's in the 'ConfigurationPass'](https://github.com/apalache-mc/apalache/issues/1274) | [apalache-mc/apalache](https://github.com/apalache-mc/apalache) | 628 | 🟢 beginner | 2026-08-02 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/apalache-mc/apalache/blob/HEAD/CONTRIBUTING.md) |
 | [ScalaSQL support](https://github.com/Iltotore/iron/issues/375) | [Iltotore/iron](https://github.com/Iltotore/iron) | 562 | 🟢 beginner | 2026-07-06 | [📘 guide](https://github.com/Iltotore/iron/blob/HEAD/CONTRIBUTING.md) |

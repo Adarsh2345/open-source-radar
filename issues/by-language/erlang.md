@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/erlang.xml)
 
-> Updated automatically on **2026-11-16 14:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-17 01:33 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [ssl:format_error/1 raises badarg for a reason that is neither an atom nor a form it names](https://github.com/erlang/otp/issues/12218) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
+| [ssl:format_error/1 gives "Invalid TLS option" for a certfile or keyfile ssl:listen cannot read](https://github.com/erlang/otp/issues/12211) 💬 1 | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [Windows: a port with exit_status can lose a child's output that is still in the pipe when the child exits](https://github.com/erlang/otp/issues/12170) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [erl_child_setup: "failed with error 32 on line 284" when the emulator dies while a port is starting](https://github.com/erlang/otp/issues/12203) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [SIGTERM sent in the emulator's first ~250 ms is silently ignored](https://github.com/erlang/otp/issues/12204) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
@@ -38,6 +40,4 @@
 | [asn1: BER code for a component relation constraint inside a CHOICE uses an unbound ObjFun](https://github.com/erlang/otp/issues/11885) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-19 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [asn1: BER table dispatch emits no row when the type is reached through an object field](https://github.com/erlang/otp/issues/11884) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-19 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [asn1: a permitted-alphabet range over NumericString or PrintableString includes code points that are not chara](https://github.com/erlang/otp/issues/11883) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-19 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
-| [asn1: a value set reference used as a type causes an internal badrecord error](https://github.com/erlang/otp/issues/11882) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-19 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
-| [asn1: a value set used as a constraint loses the constraints of its governing type for PER](https://github.com/erlang/otp/issues/11881) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-10-19 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [Can emqx cluster provide a docker swarm mode demo? Currently only the single-machine cluster deployed in docke](https://github.com/emqx/emqx/issues/6002) 💬 2 | [emqx/emqx](https://github.com/emqx/emqx) | 16.9k | 🟡 help wanted | 2026-06-04 | ⚠️ AI restricted · [📘 guide](https://github.com/emqx/emqx/blob/HEAD/CONTRIBUTING.md) |
