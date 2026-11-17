@@ -1,10 +1,10 @@
 # C++ issues
 
-**324** open issues (123 labeled for beginners) across **100** active C++ projects.
+**323** open issues (122 labeled for beginners) across **100** active C++ projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/cpp.xml)
 
-> Updated automatically on **2026-11-17 01:33 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-17 15:18 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Continued issues with the shell extension](https://github.com/microsoft/terminal/issues/14185) 💬 48 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105.4k | 🟡 help wanted | 2026-11-17 | 🤖 disclose AI use · [📘 guide](https://github.com/microsoft/terminal/blob/HEAD/CONTRIBUTING.md) |
 | [Modify autotest to notify Discord when run is complete](https://github.com/ArduPilot/ardupilot/issues/14438) 💬 3 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 16.4k | 🟢 beginner | 2026-11-16 | 🤖 disclose AI use · [📘 guide](https://github.com/ArduPilot/ardupilot/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Investigate flaky tests](https://github.com/zeek/zeek/issues/6087) 💬 3 | [zeek/zeek](https://github.com/zeek/zeek) | 8.2k | 🟢 beginner | 2026-11-16 | 🤖 disclose AI use · [📘 guide](https://github.com/zeek/zeek/blob/HEAD/CONTRIBUTING.md) |
 | [Selected color is not a distinct color, making selection hard to read sometimes, lets change it](https://github.com/f3d-app/f3d/issues/3675) 💬 1 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 5.1k | 🟢 beginner | 2026-11-16 | 🤖 disclose AI use · [📘 guide](https://github.com/f3d-app/f3d/blob/HEAD/CONTRIBUTING.md) |
@@ -22,7 +23,6 @@
 | [Improve depth buffer accuracy](https://github.com/f3d-app/f3d/issues/2986) 💬 2 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 5.1k | 🟢 beginner | 2026-11-16 | 🤖 disclose AI use · [📘 guide](https://github.com/f3d-app/f3d/blob/HEAD/CONTRIBUTING.md) |
 | [Rework vtkF3DQuakeMDLImporter to use Stream API instead of copying into a buffer](https://github.com/f3d-app/f3d/issues/2849) | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 5.1k | 🟢 beginner | 2026-11-16 | 🤖 disclose AI use · [📘 guide](https://github.com/f3d-app/f3d/blob/HEAD/CONTRIBUTING.md) |
 | [GLTF Webp Support](https://github.com/f3d-app/f3d/issues/2473) 💬 9 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 5.1k | 🟢 beginner | 2026-11-16 | 🤖 disclose AI use · [📘 guide](https://github.com/f3d-app/f3d/blob/HEAD/CONTRIBUTING.md) |
-| [Current page zoom displays in new tab dialouge](https://github.com/zen-browser/desktop/issues/16616) 💬 1 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 45.8k | 🟢 beginner | 2026-11-15 |  |
 | [Wayland: Copy and paste issue](https://github.com/FreeCAD/FreeCAD/issues/15198) 💬 32 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.5k | 🟡 help wanted | 2026-11-15 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [TechDraw: QGIViewDimension unreadable technical debt (needs refactor)](https://github.com/FreeCAD/FreeCAD/issues/16400) 💬 16 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.5k | 🟡 help wanted | 2026-11-15 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [Sequential download option in GUI](https://github.com/transmission/transmission/issues/7370) 💬 11 | [transmission/transmission](https://github.com/transmission/transmission) | 15.4k | 🟡 help wanted | 2026-11-15 | [📘 guide](https://github.com/transmission/transmission/blob/HEAD/CONTRIBUTING.md) |
@@ -43,7 +43,7 @@
 | [Pasting randomly fails after installing CopyQ](https://github.com/hluk/CopyQ/issues/3024) 💬 19 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.6k | 🟡 help wanted | 2026-11-11 |  |
 | [Clang/LLVM tracking issue](https://github.com/microsoft/STL/issues/4413) | [microsoft/STL](https://github.com/microsoft/STL) | 11.2k | 🟡 help wanted | 2026-11-11 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/microsoft/STL/blob/HEAD/CONTRIBUTING.md) |
 | [Collection Name not supported by SectionList](https://github.com/react/react-native/issues/30969) 💬 26 | [react/react-native](https://github.com/react/react-native) | 126.9k | 🟢 beginner | 2026-11-10 | [📘 guide](https://github.com/react/react-native/blob/HEAD/CONTRIBUTING.md) |
-| [Can not swipe between workspaces in bottom padding-block when tablist is overflowing.](https://github.com/zen-browser/desktop/issues/15557) 💬 4 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 45.8k | 🟢 beginner | 2026-11-10 |  |
+| [Can not swipe between workspaces in bottom padding-block when tablist is overflowing.](https://github.com/zen-browser/desktop/issues/15557) 💬 4 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 45.9k | 🟢 beginner | 2026-11-10 |  |
 | [Moves item to the top even with option disabled](https://github.com/hluk/CopyQ/issues/3646) 💬 2 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.6k | 🟡 help wanted | 2026-11-10 |  |
 | [CopyQ does not paste content automatically](https://github.com/hluk/CopyQ/issues/3000) 💬 27 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.6k | 🟡 help wanted | 2026-11-10 |  |
 | [Draw shaded polygons, lines, and arcs](https://github.com/Stellarium/stellarium/issues/3144) 💬 5 | [Stellarium/stellarium](https://github.com/Stellarium/stellarium) | 10.2k | 🟡 help wanted | 2026-11-10 | [📘 guide](https://github.com/Stellarium/stellarium/blob/HEAD/CONTRIBUTING.md) |
@@ -70,7 +70,7 @@
 | [Move Wiki into doc/ folder in repo](https://github.com/ninja-build/ninja/issues/2843) 💬 3 | [ninja-build/ninja](https://github.com/ninja-build/ninja) | 13.4k | 🟡 help wanted | 2026-11-07 | [📘 guide](https://github.com/ninja-build/ninja/blob/HEAD/CONTRIBUTING.md) |
 | [\[Epic\] Requested 3D formats](https://github.com/assimp/assimp/issues/6097) 💬 1 | [assimp/assimp](https://github.com/assimp/assimp) | 13.3k | 🟡 help wanted | 2026-11-07 | [📘 guide](https://github.com/assimp/assimp/blob/HEAD/CONTRIBUTING.md) |
 | [Fullscreen: enable revealing the tabs by hovering at the top of the screen](https://github.com/microsoft/terminal/issues/5677) 💬 6 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105.4k | 🟡 help wanted | 2026-11-06 | 🤖 disclose AI use · [📘 guide](https://github.com/microsoft/terminal/blob/HEAD/CONTRIBUTING.md) |
-| [The toolbar breaks when changing the browser layout](https://github.com/zen-browser/desktop/issues/11595) 💬 8 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 45.8k | 🟢 beginner | 2026-11-05 |  |
+| [The toolbar breaks when changing the browser layout](https://github.com/zen-browser/desktop/issues/11595) 💬 8 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 45.9k | 🟢 beginner | 2026-11-05 |  |
 | [rbac: principals evaluation performance](https://github.com/envoyproxy/envoy/issues/12285) 💬 9 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29.2k | 🟡 help wanted | 2026-11-05 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/envoyproxy/envoy/blob/HEAD/CONTRIBUTING.md) |
 | [ROS2 Kilted Sync (2025-07-28) ~ 0.9.7-1 : Fails to resolve is_nothrow_invocable_v in magic_enum::detail](https://github.com/Neargye/magic_enum/issues/420) 💬 20 | [Neargye/magic_enum](https://github.com/Neargye/magic_enum) | 6.3k | 🟡 help wanted | 2026-11-05 |  |
 | [Paste to current window intermittently fails quietly (no effect or empty paste) on Windows](https://github.com/hluk/CopyQ/issues/3744) 💬 5 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.6k | 🟡 help wanted | 2026-11-04 |  |
@@ -94,9 +94,8 @@
 | [Need reliable commitment for maintainers.](https://github.com/cp-algorithms/cp-algorithms/issues/1489) 💬 14 | [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) | 11.5k | 🟡 help wanted | 2026-10-26 | 🤖 disclose AI use · [📘 guide](https://github.com/cp-algorithms/cp-algorithms/blob/HEAD/CONTRIBUTING.md) |
 | [Better docs/name needed for "multi-threaded" benchmarking](https://github.com/google/benchmark/issues/813) 💬 2 | [google/benchmark](https://github.com/google/benchmark) | 10.5k | 🟡 help wanted | 2026-10-26 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/google/benchmark/blob/HEAD/CONTRIBUTING.md) |
 | [Add testing for special_id/special_type weapon filters](https://github.com/wesnoth/wesnoth/issues/4482) 💬 4 | [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) | 7k | 🟢 beginner | 2026-10-26 | [📘 guide](https://github.com/wesnoth/wesnoth/blob/HEAD/CONTRIBUTING.md) |
-| [Feature Request: support the multi-modal Bagel model](https://github.com/ggml-org/llama.cpp/issues/17861) 💬 3 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 135.4k | 🟡 help wanted | 2026-10-25 | ⚠️ AI restricted · [📘 guide](https://github.com/ggml-org/llama.cpp/blob/HEAD/CONTRIBUTING.md) |
+| [Feature Request: support the multi-modal Bagel model](https://github.com/ggml-org/llama.cpp/issues/17861) 💬 3 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 135.5k | 🟡 help wanted | 2026-10-25 | ⚠️ AI restricted · [📘 guide](https://github.com/ggml-org/llama.cpp/blob/HEAD/CONTRIBUTING.md) |
 | [saved position slowly drifts down](https://github.com/mumble-voip/mumble/issues/7112) 💬 6 | [mumble-voip/mumble](https://github.com/mumble-voip/mumble) | 8.4k | 🟡 help wanted | 2026-10-25 |  |
-| [Continued issues with the shell extension](https://github.com/microsoft/terminal/issues/14185) 💬 47 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105.4k | 🟡 help wanted | 2026-10-24 | 🤖 disclose AI use · [📘 guide](https://github.com/microsoft/terminal/blob/HEAD/CONTRIBUTING.md) |
 | [webdav 删除文件报错，实际已经删除。文件夹和文件按名称排序异常](https://github.com/filecxx/FileCentipede/issues/656) 💬 1 | [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) | 11k | 🟢 beginner | 2026-10-24 |  |
 | [这个网址的视频能下载但是不能播放](https://github.com/filecxx/FileCentipede/issues/702) 💬 3 | [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) | 11k | 🟢 beginner | 2026-10-24 |  |
 | [proto defined enums conflicts with globally defined variables using protoc cpp](https://github.com/protocolbuffers/protobuf/issues/8953) 💬 3 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 72.2k | 🟡 help wanted | 2026-10-22 | ✍️ CLA · [📘 guide](https://github.com/protocolbuffers/protobuf/blob/HEAD/CONTRIBUTING.md) |
@@ -164,9 +163,9 @@
 | [Tile mode for background image stretch](https://github.com/microsoft/terminal/issues/3193) 💬 4 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105.4k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · [📘 guide](https://github.com/microsoft/terminal/blob/HEAD/CONTRIBUTING.md) |
 | [Segfault and application crash when clicking outside the tray menu](https://github.com/hluk/CopyQ/issues/3187) 💬 6 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.6k | 🟡 help wanted | 2026-09-30 |  |
 | [end-to-end tests for ioredis and dragonfly](https://github.com/dragonflydb/dragonfly/issues/383) 💬 7 | [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) | 31.9k | 🟢 beginner | 2026-09-29 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/dragonflydb/dragonfly/blob/HEAD/CONTRIBUTING.md) |
-| [\[Feature Request\] Option to return only collection name on the '/collections' endpoint](https://github.com/typesense/typesense/issues/1212) 💬 5 | [typesense/typesense](https://github.com/typesense/typesense) | 27.1k | 🟢 beginner | 2026-09-29 | [📘 guide](https://github.com/typesense/typesense/blob/HEAD/CONTRIBUTING.md) |
+| [\[Feature Request\] Option to return only collection name on the '/collections' endpoint](https://github.com/typesense/typesense/issues/1212) 💬 5 | [typesense/typesense](https://github.com/typesense/typesense) | 27.2k | 🟢 beginner | 2026-09-29 | [📘 guide](https://github.com/typesense/typesense/blob/HEAD/CONTRIBUTING.md) |
 | [Report your benchmark results here!](https://github.com/ProjectPhysX/FluidX3D/issues/8) 💬 278 | [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) | 5.4k | 🟡 help wanted | 2026-09-29 |  |
-| [\[L10n\]\[TR\] Accesskey collisions in bookmark and tab context menus](https://github.com/zen-browser/desktop/issues/15488) 💬 1 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 45.8k | 🟢 beginner | 2026-09-28 |  |
+| [\[L10n\]\[TR\] Accesskey collisions in bookmark and tab context menus](https://github.com/zen-browser/desktop/issues/15488) 💬 1 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 45.9k | 🟢 beginner | 2026-09-28 |  |
 | [Replace UTF code](https://github.com/zeek/zeek/issues/1756) 💬 9 | [zeek/zeek](https://github.com/zeek/zeek) | 8.2k | 🟢 beginner | 2026-09-28 | 🤖 disclose AI use · [📘 guide](https://github.com/zeek/zeek/blob/HEAD/CONTRIBUTING.md) |
 | [xtensa-lx106-elf-g++: bad CPU type in executable on a M2 Mac without rosetta emulation installed](https://github.com/esp8266/Arduino/issues/8725) 💬 10 | [esp8266/Arduino](https://github.com/esp8266/Arduino) | 16.7k | 🟡 help wanted | 2026-09-27 |  |
 | [CopyQ Creates a Blank Unclosable Window, Subsequently opens Second Window](https://github.com/hluk/CopyQ/issues/1228) 💬 13 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.6k | 🟡 help wanted | 2026-09-27 |  |
@@ -212,5 +211,6 @@
 | [Consider feature adoption: Vector PP and Stanley within RPP package](https://github.com/ros-navigation/navigation2/issues/5952) 💬 10 | [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2) | 5.1k | 🟡 help wanted | 2026-09-10 | 🔏 DCO · [📘 guide](https://github.com/ros-navigation/navigation2/blob/HEAD/CONTRIBUTING.md) |
 | [When you change the objective in a scenario that you have already failed it does not remove the failed objecti](https://github.com/OpenRCT2/OpenRCT2/issues/16510) 💬 4 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.6k | 🟢 beginner | 2026-09-09 | [📘 guide](https://github.com/OpenRCT2/OpenRCT2/blob/HEAD/CONTRIBUTING.md) |
 | [Add Bluesky and Mastodon to the Edit Place screen](https://github.com/organicmaps/organicmaps/issues/10142) 💬 6 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 16k | 🟢 beginner | 2026-09-09 | 🔏 DCO · [📘 guide](https://github.com/organicmaps/organicmaps/blob/HEAD/CONTRIBUTING.md) |
+| [Translate "more..."](https://github.com/organicmaps/organicmaps/issues/13214) 💬 1 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 16k | 🟢 beginner | 2026-09-09 | 🔏 DCO · [📘 guide](https://github.com/organicmaps/organicmaps/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 324 on the website.
+Showing the 200 most recently updated. See all 323 on the website.

@@ -1,10 +1,10 @@
 # PHP issues
 
-**135** open issues (65 labeled for beginners) across **45** active PHP projects.
+**132** open issues (62 labeled for beginners) across **45** active PHP projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-11-17 01:33 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-17 15:18 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -15,9 +15,6 @@
 | [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.4k | 🟢 beginner | 2026-11-16 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Provide config option to autofocus Username field on login page](https://github.com/phpmyadmin/phpmyadmin/issues/19340) 💬 9 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 8k | 🟢 beginner | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/phpmyadmin/phpmyadmin/blob/HEAD/CONTRIBUTING.md) |
 | [\[Store\] Sorting Store Bridges with Doctrine Reference/Dependency](https://github.com/symfony/ai/issues/2952) 💬 2 | [symfony/ai](https://github.com/symfony/ai) | 1.2k | 🟡 help wanted | 2026-11-16 | [📘 guide](https://github.com/symfony/ai/blob/HEAD/CONTRIBUTING.md) |
-| [Consolidate copy-to-clipboard onto one shared helper](https://github.com/ChurchCRM/CRM/issues/11458) | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-16 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
-| [Move the Zero Givers report form into the finance reports hub](https://github.com/ChurchCRM/CRM/issues/11560) | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-16 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
-| [Pending self-registrations: exclude from mailing and email lists](https://github.com/ChurchCRM/CRM/issues/11540) | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-16 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [MVC migration: SettingsIndividual](https://github.com/ChurchCRM/CRM/issues/11584) 💬 1 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-15 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [MVC migration: WhyCameEditor](https://github.com/ChurchCRM/CRM/issues/11507) 💬 1 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-15 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Replace ConvertIndividualToFamily.php with an API endpoint](https://github.com/ChurchCRM/CRM/issues/11583) | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-15 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
@@ -63,7 +60,7 @@
 | [Porting command: dev:log](https://github.com/netz98/n98-magerun2/issues/74) | [netz98/n98-magerun2](https://github.com/netz98/n98-magerun2) | 927 | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/netz98/n98-magerun2/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\] Notification to Admin when an update is actually ready for installation](https://github.com/FreshRSS/FreshRSS/issues/6487) 💬 5 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.6k | 🟡 help wanted | 2026-10-20 | [📘 guide](https://github.com/FreshRSS/FreshRSS/blob/HEAD/CONTRIBUTING.md) |
 | [Failed locked jobs never clear.](https://github.com/laravel/horizon/issues/1678) 💬 7 | [laravel/horizon](https://github.com/laravel/horizon) | 4.2k | 🟡 help wanted | 2026-10-17 | [📘 guide](https://github.com/laravel/horizon/blob/HEAD/.github/CONTRIBUTING.md) |
-| [New tags layout in sentence page](https://github.com/Tatoeba/tatoeba2/issues/3350) 💬 1 | [Tatoeba/tatoeba2](https://github.com/Tatoeba/tatoeba2) | 898 | 🟢 beginner | 2026-10-14 |  |
+| [New tags layout in sentence page](https://github.com/Tatoeba/tatoeba2/issues/3350) 💬 1 | [Tatoeba/tatoeba2](https://github.com/Tatoeba/tatoeba2) | 899 | 🟢 beginner | 2026-10-14 |  |
 | [Feature request: skip to the next folder with card (or button)](https://github.com/MiczFlor/RPi-Jukebox-RFID/issues/574) 💬 9 | [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) | 1.8k | 🟡 help wanted | 2026-10-13 | [📘 guide](https://github.com/MiczFlor/RPi-Jukebox-RFID/blob/HEAD/CONTRIBUTING.md) |
 | [Make CHUNKED_READ_BLOCK_SIZE configurable](https://github.com/maennchen/ZipStream-PHP/issues/436) 💬 2 | [maennchen/ZipStream-PHP](https://github.com/maennchen/ZipStream-PHP) | 1.9k | 🟡 help wanted | 2026-10-12 | [📘 guide](https://github.com/maennchen/ZipStream-PHP/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Artisan Console Components should use STDERR for auxiliary output](https://github.com/laravel/framework/issues/56602) 💬 8 | [laravel/framework](https://github.com/laravel/framework) | 35k | 🟡 help wanted | 2026-10-11 | [📘 guide](https://github.com/laravel/framework/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -143,7 +140,7 @@
 | [Org admin can't delete local tags](https://github.com/MISP/MISP/issues/6513) 💬 1 | [MISP/MISP](https://github.com/MISP/MISP) | 6.7k | 🟡 help wanted | 2026-06-08 | ✍️ CLA · [📘 guide](https://github.com/MISP/MISP/blob/HEAD/CONTRIBUTING.md) |
 | [Add warning on the web interface stating the discussions aren't shared.](https://github.com/MISP/MISP/issues/3181) 💬 3 | [MISP/MISP](https://github.com/MISP/MISP) | 6.7k | 🟢 beginner | 2026-06-07 | ✍️ CLA · [📘 guide](https://github.com/MISP/MISP/blob/HEAD/CONTRIBUTING.md) |
 | [Publish icon is upside down](https://github.com/MISP/MISP/issues/1179) 💬 3 | [MISP/MISP](https://github.com/MISP/MISP) | 6.7k | 🟢 beginner | 2026-06-05 | ✍️ CLA · [📘 guide](https://github.com/MISP/MISP/blob/HEAD/CONTRIBUTING.md) |
-| [\[FR\] RTL BiDi Support](https://github.com/PrivateBin/PrivateBin/issues/1849) 💬 1 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | 8.7k | 🟡 help wanted | 2026-06-04 | 🤖 disclose AI use · [📘 guide](https://github.com/PrivateBin/PrivateBin/blob/HEAD/.github/CONTRIBUTING.md) |
+| [\[FR\] RTL BiDi Support](https://github.com/PrivateBin/PrivateBin/issues/1849) 💬 1 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | 8.8k | 🟡 help wanted | 2026-06-04 | 🤖 disclose AI use · [📘 guide](https://github.com/PrivateBin/PrivateBin/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Add support for W3C’s Tabular Data Model](https://github.com/api-platform/core/issues/3174) 💬 1 | [api-platform/core](https://github.com/api-platform/core) | 2.6k | 🟡 help wanted | 2026-05-29 | [📘 guide](https://github.com/api-platform/core/blob/HEAD/CONTRIBUTING.md) |
 | [\[JSON-LD\] \[OpenAPI\] Introduce violations OpenAPI schema](https://github.com/api-platform/core/issues/6811) | [api-platform/core](https://github.com/api-platform/core) | 2.6k | 🟡 help wanted | 2026-05-29 | [📘 guide](https://github.com/api-platform/core/blob/HEAD/CONTRIBUTING.md) |
 | [Commands with list of output items should allow multiple formats](https://github.com/EasyEngine/easyengine/issues/1387) 💬 1 | [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) | 2.2k | 🟢 beginner | 2026-05-27 | [📘 guide](https://github.com/EasyEngine/easyengine/blob/HEAD/.github/CONTRIBUTING.md) |

@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**60** open issues (22 labeled for beginners) across **11** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
+**57** open issues (21 labeled for beginners) across **11** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
 
-> Updated automatically on **2026-11-17 01:33 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-17 15:18 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,9 +10,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [QUIC interop container: support keyupdate and multiconnect test cases](https://github.com/openssl/openssl/issues/33572) 💬 5 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-17 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [comp/zstd: zstd_stateful_compress_block ignores nonzero return from ZSTD_flushStream](https://github.com/openssl/openssl/issues/28846) 💬 4 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-16 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
-| ['SSL_OP_ALLOW_NO_DHE_KEX' is documented for QUIC but silently ignored](https://github.com/openssl/openssl/issues/33644) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟢 beginner | 2026-11-16 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [ECH when in FIPS mode](https://github.com/openssl/openssl/issues/33724) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-16 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [TLS 1.3 server rejects SM2-with-SM3 certificate when client offers 'sm2sig_sm3' in 'signature_algorithms_cert'](https://github.com/openssl/openssl/issues/33714) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-16 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | ['ASN1_TIME_to_tm()' leaves 'tm_wday' and 'tm_yday' at 0 for the current time and for '+hhmm'/'-hhmm' offsets](https://github.com/openssl/openssl/issues/33692) 💬 4 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-16 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
@@ -23,7 +21,6 @@
 | [Allocation-error reporting re-enters base initialization and error-state TLS setup](https://github.com/openssl/openssl/issues/33304) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-13 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [test_recordlen short AEAD record tests fail with the FIPS provider](https://github.com/openssl/openssl/issues/33713) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-13 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | ['PEM_write_bio_PrivateKey_traditional()' returns success for AEAD and provider-only ciphers, but the key it wr](https://github.com/openssl/openssl/issues/33668) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-12 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
-| ['SSL_get_conn_close_info()' returns '-1' instead of the documented '0' on unsupported objects](https://github.com/openssl/openssl/issues/33637) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-12 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [Syncing archive node from era files](https://github.com/ethereum/go-ethereum/issues/35354) 💬 5 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51.5k | 🟡 help wanted | 2026-11-08 | [📘 guide](https://github.com/ethereum/go-ethereum/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Feat\] ios - native keyboard support](https://github.com/actualbudget/actual/issues/9449) | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.3k | 🟡 help wanted | 2026-11-07 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feat\] ios - faceid / passcode / biometrics](https://github.com/actualbudget/actual/issues/9444) | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.3k | 🟡 help wanted | 2026-11-07 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
@@ -69,4 +66,4 @@
 | [Missing type validation on public_key parameter in manifest handler](https://github.com/XRPLF/rippled/issues/6794) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-06-26 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
 | [Notify user, when response of Hub Authentication takes a long time](https://github.com/cryptomator/cryptomator/issues/3162) 💬 3 | [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) | 16.5k | 🟢 beginner | 2026-06-24 |  |
 | [AccountLines: missing type validation on peer parameter](https://github.com/XRPLF/rippled/issues/6760) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-06-22 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
-| [\[FR\] RTL BiDi Support](https://github.com/PrivateBin/PrivateBin/issues/1849) 💬 1 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | 8.7k | 🟡 help wanted | 2026-06-04 | 🤖 disclose AI use · [📘 guide](https://github.com/PrivateBin/PrivateBin/blob/HEAD/.github/CONTRIBUTING.md) |
+| [\[FR\] RTL BiDi Support](https://github.com/PrivateBin/PrivateBin/issues/1849) 💬 1 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | 8.8k | 🟡 help wanted | 2026-06-04 | 🤖 disclose AI use · [📘 guide](https://github.com/PrivateBin/PrivateBin/blob/HEAD/.github/CONTRIBUTING.md) |
