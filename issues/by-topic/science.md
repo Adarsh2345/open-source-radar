@@ -1,8 +1,8 @@
 # Science and research issues
 
-**81** open issues (31 labeled for beginners) across **18** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
+**82** open issues (32 labeled for beginners) across **18** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
 
-> Updated automatically on **2026-11-17 15:18 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-18 00:30 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +10,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Counts missing from Variogram Surface struct](https://github.com/JuliaEarth/GeoStats.jl/issues/600) | [JuliaEarth/GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) | 594 | 🟢 beginner | 2026-11-17 | [📘 guide](https://github.com/JuliaEarth/GeoStats.jl/blob/HEAD/CONTRIBUTING.md) |
 | [Memory scalability issues in univariate feature selection](https://github.com/scikit-learn/scikit-learn/issues/1651) 💬 8 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 68.2k | 🟡 help wanted | 2026-11-13 | 🤖 disclose AI use · [📘 guide](https://github.com/scikit-learn/scikit-learn/blob/HEAD/CONTRIBUTING.md) |
 | [Core.bitcast to LLVMPtr from Float64 generates invalid inttoptr, aborts compilation](https://github.com/JuliaLang/julia/issues/63218) 💬 6 | [JuliaLang/julia](https://github.com/JuliaLang/julia) | 49.3k | 🟢 beginner | 2026-11-13 | 🤖 disclose AI use · [📘 guide](https://github.com/JuliaLang/julia/blob/HEAD/CONTRIBUTING.md) |
 | [Crash when tapping the flashlight widget while the app is idle (3 users)](https://github.com/kylecorry31/Trail-Sense/issues/4174) | [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) | 3k | 🟡 help wanted | 2026-11-13 | [📘 guide](https://github.com/kylecorry31/Trail-Sense/blob/HEAD/CONTRIBUTING.md) |
@@ -43,7 +44,7 @@
 | [Calibrate accelerometer / bubble level](https://github.com/kylecorry31/Trail-Sense/issues/1025) | [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) | 3k | 🟡 help wanted | 2026-11-12 | [📘 guide](https://github.com/kylecorry31/Trail-Sense/blob/HEAD/CONTRIBUTING.md) |
 | [Don't show the solar panel instructions more than once](https://github.com/kylecorry31/Trail-Sense/issues/2565) | [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) | 3k | 🟡 help wanted | 2026-11-12 | [📘 guide](https://github.com/kylecorry31/Trail-Sense/blob/HEAD/CONTRIBUTING.md) |
 | [Draw shaded polygons, lines, and arcs](https://github.com/Stellarium/stellarium/issues/3144) 💬 5 | [Stellarium/stellarium](https://github.com/Stellarium/stellarium) | 10.2k | 🟡 help wanted | 2026-11-10 | [📘 guide](https://github.com/Stellarium/stellarium/blob/HEAD/CONTRIBUTING.md) |
-| [Other worlds: Moon and Mars as alternate globes](https://github.com/bilawalsidhu/gods-eye-view/issues/738) 💬 7 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 65.4k | 🟡 help wanted | 2026-11-07 | [📘 guide](https://github.com/bilawalsidhu/gods-eye-view/blob/HEAD/CONTRIBUTING.md) |
+| [Other worlds: Moon and Mars as alternate globes](https://github.com/bilawalsidhu/gods-eye-view/issues/738) 💬 7 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 65.6k | 🟡 help wanted | 2026-11-07 | [📘 guide](https://github.com/bilawalsidhu/gods-eye-view/blob/HEAD/CONTRIBUTING.md) |
 | [Crash just after loading screen due to 'ERROR: Parameter "tex" is null'](https://github.com/Revolutionary-Games/Thrive/issues/6981) 💬 12 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.9k | 🟡 help wanted | 2026-11-06 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16470) 💬 3 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6k | 🟢 beginner | 2026-11-04 | 🤖 disclose AI use · [📘 guide](https://github.com/stdlib-js/stdlib/blob/HEAD/CONTRIBUTING.md) |
 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16453) 💬 3 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6k | 🟢 beginner | 2026-11-02 | 🤖 disclose AI use · [📘 guide](https://github.com/stdlib-js/stdlib/blob/HEAD/CONTRIBUTING.md) |
