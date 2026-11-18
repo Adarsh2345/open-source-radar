@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**59** open issues (25 labeled for beginners) across **11** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
+**57** open issues (23 labeled for beginners) across **11** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
 
-> Updated automatically on **2026-11-18 00:30 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-18 14:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,11 +10,10 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Adding functions SSL_CTX_get_sigalgs, SSL_CTX_get_groups](https://github.com/openssl/openssl/issues/31804) 💬 4 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-18 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
+| [\[Bug\]: ios - cappucino theme - toast transparency](https://github.com/actualbudget/actual/issues/9584) 💬 1 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.3k | 🟢 beginner | 2026-11-18 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [Allocation-error reporting re-enters base initialization and error-state TLS setup](https://github.com/openssl/openssl/issues/33304) 💬 5 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-17 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
-| [\[Bug\]: ios - toast bottom padding](https://github.com/actualbudget/actual/issues/9587) 💬 1 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.3k | 🟢 beginner | 2026-11-17 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
-| [\[Bug\]: ios - last transaction in the list not selectable](https://github.com/actualbudget/actual/issues/9586) | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.3k | 🟢 beginner | 2026-11-17 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: ios - budget automation - missing top padding](https://github.com/actualbudget/actual/issues/9585) | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.3k | 🟢 beginner | 2026-11-17 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
-| [\[Bug\]: ios - cappucino theme - toast transparency](https://github.com/actualbudget/actual/issues/9584) | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.3k | 🟢 beginner | 2026-11-17 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [comp/zstd: zstd_stateful_compress_block ignores nonzero return from ZSTD_flushStream](https://github.com/openssl/openssl/issues/28846) 💬 4 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-16 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [ECH when in FIPS mode](https://github.com/openssl/openssl/issues/33724) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-16 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [QUIC: 'SSL_is_server()' reports wrong role for client connections before handshake and for all streams](https://github.com/openssl/openssl/issues/33628) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-16 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
@@ -37,7 +36,6 @@
 | [\[RFC\] Define point-in-time universe contract and snapshot model](https://github.com/OpenByteInc/QuantDinger/issues/258) 💬 1 | [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | 13.8k | 🟡 help wanted | 2026-10-09 | 🔏 DCO · [📘 guide](https://github.com/OpenByteInc/QuantDinger/blob/HEAD/CONTRIBUTING.md) |
 | [Make Wycheproof CI (network) failure resistant](https://github.com/open-quantum-safe/liboqs/issues/2495) 💬 5 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-07 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
 | [Adds Futures Fill Model](https://github.com/QuantConnect/Lean/issues/4605) 💬 1 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 22.6k | 🟢 beginner | 2026-10-06 | [📘 guide](https://github.com/QuantConnect/Lean/blob/HEAD/CONTRIBUTING.md) |
-| [Adding FAEST](https://github.com/open-quantum-safe/liboqs/issues/2101) 💬 14 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-01 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
 | [\[Roadmap\] External signals and point-in-time strategy gates](https://github.com/OpenByteInc/QuantDinger/issues/256) | [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | 13.8k | 🟡 help wanted | 2026-09-19 | 🔏 DCO · [📘 guide](https://github.com/OpenByteInc/QuantDinger/blob/HEAD/CONTRIBUTING.md) |
 | [\[RFC\] Specify multi-leg execution state machine and recovery matrix](https://github.com/OpenByteInc/QuantDinger/issues/260) | [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | 13.8k | 🟡 help wanted | 2026-09-18 | 🔏 DCO · [📘 guide](https://github.com/OpenByteInc/QuantDinger/blob/HEAD/CONTRIBUTING.md) |
 | [\[RFC\] Define pair/spread identity and lifecycle contract](https://github.com/OpenByteInc/QuantDinger/issues/259) | [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | 13.8k | 🟡 help wanted | 2026-09-18 | 🔏 DCO · [📘 guide](https://github.com/OpenByteInc/QuantDinger/blob/HEAD/CONTRIBUTING.md) |

@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/clojure.xml)
 
-> Updated automatically on **2026-11-18 00:30 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-18 14:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Missing three-dot menu on Color Assets for tablet users](https://github.com/penpot/penpot/issues/12618) 💬 2 | [penpot/penpot](https://github.com/penpot/penpot) | 62.5k | 🟢 beginner | 2026-11-16 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/penpot/penpot/blob/HEAD/CONTRIBUTING.md) |
+| [Missing three-dot menu on Color Assets for tablet users](https://github.com/penpot/penpot/issues/12618) 💬 2 | [penpot/penpot](https://github.com/penpot/penpot) | 62.5k | 🟢 beginner | 2026-11-16 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/penpot/penpot/blob/HEAD/CONTRIBUTING.md) |
 | [selectors return new object every time causing unnecessary re-renderings](https://github.com/metabase/metabase/issues/52312) 💬 4 | [metabase/metabase](https://github.com/metabase/metabase) | 50.4k | 🟢 beginner | 2026-11-04 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Show when a subscription or alert was skipped because it was empty](https://github.com/metabase/metabase/issues/80736) 💬 4 | [metabase/metabase](https://github.com/metabase/metabase) | 50.4k | 🟢 beginner | 2026-10-23 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [An authentication rule's remoteAddress should match a CIDR block, as the docs say](https://github.com/xtdb/xtdb/issues/6282) | [xtdb/xtdb](https://github.com/xtdb/xtdb) | 3.1k | 🟢 beginner | 2026-10-23 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/xtdb/xtdb/blob/HEAD/CONTRIBUTING.md) |

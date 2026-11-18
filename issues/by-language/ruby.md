@@ -1,10 +1,10 @@
 # Ruby issues
 
-**75** open issues (53 labeled for beginners) across **27** active Ruby projects.
+**74** open issues (53 labeled for beginners) across **27** active Ruby projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-11-18 00:30 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-18 14:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Introduce Ruby's Array and Hash wrappers in Python](https://github.com/red-data-tools/pycall.rb/issues/64) 💬 5 | [red-data-tools/pycall.rb](https://github.com/red-data-tools/pycall.rb) | 1.1k | 🟡 help wanted | 2026-11-17 |  |
 | [Bump anubis cookie expiration on login, also generate](https://github.com/lobsters/lobsters/issues/2283) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-11-15 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Search does not find article with all keywords in its title](https://github.com/lobsters/lobsters/issues/2220) 💬 5 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-11-11 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [bokeh.embed.components get stuck in PyCall.without_gvl block](https://github.com/red-data-tools/pycall.rb/issues/92) 💬 1 | [red-data-tools/pycall.rb](https://github.com/red-data-tools/pycall.rb) | 1.1k | 🟡 help wanted | 2026-11-10 |  |

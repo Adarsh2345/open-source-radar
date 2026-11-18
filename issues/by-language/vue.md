@@ -1,10 +1,10 @@
 # Vue issues
 
-**24** open issues (16 labeled for beginners) across **10** active Vue projects.
+**25** open issues (17 labeled for beginners) across **10** active Vue projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/vue.xml)
 
-> Updated automatically on **2026-11-18 00:30 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-18 14:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Update named filter presets to allow for sort-only presets](https://github.com/VueTorrent/VueTorrent/issues/3025) 💬 1 | [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) | 7.1k | 🟢 beginner | 2026-11-18 | [📘 guide](https://github.com/VueTorrent/VueTorrent/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Feature Request\]: Support the new error state API](https://github.com/VueTorrent/VueTorrent/issues/2319) 💬 5 | [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) | 7.1k | 🟢 beginner | 2026-11-11 | [📘 guide](https://github.com/VueTorrent/VueTorrent/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Linux 点「安装根证书」100% 失败：传给 '@vscode/sudo-prompt' 的 'name' 含连字符不通过校验；附带：'trust' 命令存在导致非 Arch 系误入 Arch 分支](https://github.com/docmirror/dev-sidecar/issues/740) 💬 2 | [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) | 25.1k | 🟢 beginner | 2026-11-06 | 🤖 disclose AI use |
 | [Improve public documents sharing](https://github.com/Smaug6739/Alexandrie/issues/608) | [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) | 3.9k | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/Smaug6739/Alexandrie/blob/HEAD/CONTRIBUTING.md) |

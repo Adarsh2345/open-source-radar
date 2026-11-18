@@ -1,10 +1,10 @@
 # C issues
 
-**135** open issues (28 labeled for beginners) across **52** active C projects.
+**136** open issues (28 labeled for beginners) across **53** active C projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/c.xml)
 
-> Updated automatically on **2026-11-18 00:30 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-18 14:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Adding functions SSL_CTX_get_sigalgs, SSL_CTX_get_groups](https://github.com/openssl/openssl/issues/31804) 💬 4 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-18 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
+| [Compiler wrapper symlinks naming convenction.](https://github.com/AFLplusplus/AFLplusplus/issues/1926) 💬 3 | [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) | 6.9k | 🟡 help wanted | 2026-11-18 | [📘 guide](https://github.com/AFLplusplus/AFLplusplus/blob/HEAD/CONTRIBUTING.md) |
+| [Document the SPSel = 0 / SP_EL0 requirement of the ARMv8-A ports](https://github.com/eclipse-threadx/threadx/issues/703) 💬 1 | [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) | 3.6k | 🟡 help wanted | 2026-11-18 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/eclipse-threadx/threadx/blob/HEAD/CONTRIBUTING.md) |
 | [Allocation-error reporting re-enters base initialization and error-state TLS setup](https://github.com/openssl/openssl/issues/33304) 💬 5 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-17 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [Window Move and Resize broken in Screen Sharing sessions](https://github.com/asmvik/yabai/issues/2255) 💬 6 | [asmvik/yabai](https://github.com/asmvik/yabai) | 29.8k | 🟡 help wanted | 2026-11-17 |  |
 | [\[Bug\] Waiting buffer overflow drops all queued key events, even with default tap-hold settings](https://github.com/qmk/qmk_firmware/issues/26589) | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-11-17 |  |
@@ -73,10 +76,9 @@
 | [\[YSQL\] Side-by-side diff doesn't pick best expectfile](https://github.com/yugabyte/yugabyte-db/issues/28716) 💬 2 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.7k | 🟡 help wanted | 2026-10-06 |  |
 | [DPI Clutch and middle mouse not working (Razer Basilisk V3 X HyperSpeed)](https://github.com/openrazer/openrazer/issues/2591) 💬 9 | [openrazer/openrazer](https://github.com/openrazer/openrazer) | 4.6k | 🟡 help wanted | 2026-10-05 |  |
 | [\[Bug\] DOIO KB16-01 (rev1) large knob registers two inputs per detent](https://github.com/qmk/qmk_firmware/issues/26378) 💬 3 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-10-04 |  |
-| [Adding FAEST](https://github.com/open-quantum-safe/liboqs/issues/2101) 💬 14 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-01 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] GMMK Pro rev1 ANSI: LEDs on first AW20216S driver stay dark on master; fixed by lowering SPI speed](https://github.com/qmk/qmk_firmware/issues/26492) | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-09-30 |  |
 | [Bank MSB shouldn't always be ignored in XG mode](https://github.com/FluidSynth/fluidsynth/issues/1378) 💬 26 | [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) | 2.6k | 🟡 help wanted | 2026-09-29 | [📘 guide](https://github.com/FluidSynth/fluidsynth/blob/HEAD/CONTRIBUTING.md) |
-| [\[Experiment\] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 51.8k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/JustVugg/colibri/blob/HEAD/CONTRIBUTING.md) |
+| [\[Experiment\] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 51.9k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/JustVugg/colibri/blob/HEAD/CONTRIBUTING.md) |
 | [Extensions for browser support monitoring](https://github.com/axel-download-accelerator/axel/issues/346) 💬 5 | [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) | 3.4k | 🟡 help wanted | 2026-09-26 | [📘 guide](https://github.com/axel-download-accelerator/axel/blob/HEAD/CONTRIBUTING.md) |
 | [Add render scale to about window (and compatibility reports)](https://github.com/xemu-project/xemu/issues/1000) 💬 1 | [xemu-project/xemu](https://github.com/xemu-project/xemu) | 4.3k | 🟢 beginner | 2026-09-25 | [📘 guide](https://github.com/xemu-project/xemu/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] Unable to restore the database](https://github.com/mydumper/mydumper/issues/2355) 💬 3 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.3k | 🟡 help wanted | 2026-09-24 |  |
@@ -88,7 +90,6 @@
 | [Add support for '_NET_WM_FRAME_DRAWN'](https://github.com/yshui/picom/issues/910) 💬 2 | [yshui/picom](https://github.com/yshui/picom) | 4.8k | 🟡 help wanted | 2026-09-11 |  |
 | [Add SMP support for Armv8-R (Cortex-R52 / Cortex-R82)](https://github.com/eclipse-threadx/threadx/issues/710) | [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) | 3.6k | 🟡 help wanted | 2026-09-09 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/eclipse-threadx/threadx/blob/HEAD/CONTRIBUTING.md) |
 | [Request for Guidance on GPL Compliance and Source Code Release – YUNZII Tri-Mode Boards](https://github.com/qmk/qmk_firmware/issues/25737) 💬 24 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-09-08 |  |
-| [Document the SPSel = 0 / SP_EL0 requirement of the ARMv8-A ports](https://github.com/eclipse-threadx/threadx/issues/703) | [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) | 3.6k | 🟡 help wanted | 2026-09-08 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/eclipse-threadx/threadx/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature Request\] Support configurable additional HID interfaces](https://github.com/qmk/qmk_firmware/issues/26363) 💬 2 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-09-06 |  |
 | [Will open5gs team produce NEF(Network Exposure Function ) to meet MEC(edge computing) use case ？](https://github.com/open5gs/open5gs/issues/1663) 💬 2 | [open5gs/open5gs](https://github.com/open5gs/open5gs) | 2.8k | 🟡 help wanted | 2026-09-03 |  |
 | [DOSBox-X translations 💬🌍](https://github.com/joncampbell123/dosbox-x/issues/2820) 💬 22 | [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) | 3.8k | 🟡 help wanted | 2026-09-01 | [📘 guide](https://github.com/joncampbell123/dosbox-x/blob/HEAD/CONTRIBUTING.md) |

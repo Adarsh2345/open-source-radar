@@ -1,10 +1,10 @@
 # CSS issues
 
-**27** open issues (24 labeled for beginners) across **3** active CSS projects.
+**23** open issues (20 labeled for beginners) across **3** active CSS projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/css.xml)
 
-> Updated automatically on **2026-11-18 00:30 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-18 14:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Fork, Commit, Merge - Medium Issue 2 (JavaScript)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8576) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Medium Issue (Docker)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8574) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Hard Issue (Docker)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8573) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟡 help wanted | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Hard Issue (Bash)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8572) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟡 help wanted | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
@@ -21,14 +20,11 @@
 | [Fork, Commit, Merge - Easy Issue 1 (PHP)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8567) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Easy Issue 2 (PHP)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8566) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Easy Issue (Next.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8565) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
-| [Fork, Commit, Merge - Easy Issue 3 (Dart)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8563) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Easy Issue 2 (Dart)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8562) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Easy Issue 3 (HTML)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8561) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Easy Issue 2 (HTML)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8560) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Easy Issue (TypeScript/Vitest)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8558) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
-| [Fork, Commit, Merge - Easy Issue 1 (Dart)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8557) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Easy Issue (C#)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8556) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
-| [Fork, Commit, Merge - Medium Issue (HTML)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8555) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Easy Issue (Bash)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8554) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Medium Issue 2 (React.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8553) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Medium Issue 1 (React.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8552) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
