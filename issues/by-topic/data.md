@@ -1,8 +1,8 @@
 # Data and databases issues
 
-**300** open issues (166 labeled for beginners) across **90** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
+**300** open issues (163 labeled for beginners) across **90** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
 
-> Updated automatically on **2026-11-18 14:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-19 00:07 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -11,11 +11,11 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Update Docs: fix Grammar errors, Typos and unclear wording in “Dashboard errors when managing users” KB articl](https://github.com/supabase/supabase/issues/53401) 💬 7 | [supabase/supabase](https://github.com/supabase/supabase) | 115.1k | 🟢 beginner | 2026-11-18 | [📘 guide](https://github.com/supabase/supabase/blob/HEAD/CONTRIBUTING.md) |
+| [Table: Display name overrides break ad hoc column hiding and reordering](https://github.com/grafana/grafana/issues/138287) | [grafana/grafana](https://github.com/grafana/grafana) | 78k | 🟡 help wanted | 2026-11-18 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/grafana/grafana/blob/HEAD/CONTRIBUTING.md) |
+| [Table: Expose scroll to top/bottom](https://github.com/grafana/grafana/issues/138285) | [grafana/grafana](https://github.com/grafana/grafana) | 78k | 🟡 help wanted | 2026-11-18 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/grafana/grafana/blob/HEAD/CONTRIBUTING.md) |
 | [Gauge: Investigate performance of SegmentedGauge](https://github.com/grafana/grafana/issues/117548) 💬 1 | [grafana/grafana](https://github.com/grafana/grafana) | 78k | 🟡 help wanted | 2026-11-18 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/grafana/grafana/blob/HEAD/CONTRIBUTING.md) |
 | [Allow passing config_path as a parameter to KubernetesExecutor](https://github.com/apache/airflow/issues/46293) 💬 7 | [apache/airflow](https://github.com/apache/airflow) | 47.5k | 🟢 beginner | 2026-11-18 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/airflow/blob/HEAD/CONTRIBUTING.rst) |
-| [Add a unit test for useFlowFields](https://github.com/kestra-io/kestra/issues/22741) 💬 5 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30.3k | 🟢 beginner | 2026-11-18 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Add a unit test for escapePebbleLiteral](https://github.com/kestra-io/kestra/issues/22652) 💬 6 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30.3k | 🟢 beginner | 2026-11-18 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Add a unit test for isFlowTabAllowed](https://github.com/kestra-io/kestra/issues/22736) 💬 5 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30.3k | 🟢 beginner | 2026-11-18 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Nullable DateTimeOffset .Value is executed locally in F#](https://github.com/dotnet/efcore/issues/14013) 💬 12 | [dotnet/efcore](https://github.com/dotnet/efcore) | 14.8k | 🟡 help wanted | 2026-11-18 | ✍️ CLA · [📘 guide](https://github.com/dotnet/efcore/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Oracle Geometry type not handled / not queryable in Trino](https://github.com/trinodb/trino/issues/30020) 💬 4 | [trinodb/trino](https://github.com/trinodb/trino) | 13.5k | 🟢 beginner | 2026-11-17 | ✍️ CLA · [📘 guide](https://github.com/trinodb/trino/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Execution Artifacts omits tasks from flow-level errors, finally, and afterExecution](https://github.com/kestra-io/kestra/issues/22707) 💬 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30.3k | 🟢 beginner | 2026-11-16 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [fix(ui): bind currentPage/pageSize at KsDataTable call sites missing them](https://github.com/kestra-io/kestra/issues/20528) 💬 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30.3k | 🟢 beginner | 2026-11-16 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -26,6 +26,7 @@
 | [Improve 'EXPLAIN ANALYZE' for 'COUNT(*)' queries](https://github.com/crate/crate/issues/20531) | [crate/crate](https://github.com/crate/crate) | 4.5k | 🟡 help wanted | 2026-11-16 | ⚠️ AI restricted · ✍️ CLA · [📘 guide](https://github.com/crate/crate/blob/HEAD/CONTRIBUTING.rst) |
 | [Online报表支持任意查询条件和参数查询条件](https://github.com/jeecgboot/jimureport/issues/4848) | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.6k | 🟡 help wanted | 2026-11-15 |  |
 | [Ability to annotate DAG's source (repo, tag, commit, etc)](https://github.com/apache/airflow/issues/51321) 💬 8 | [apache/airflow](https://github.com/apache/airflow) | 47.5k | 🟢 beginner | 2026-11-13 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/airflow/blob/HEAD/CONTRIBUTING.rst) |
+| [Incorrect URL path prefix when "Copy Webhook URL" button is used](https://github.com/kestra-io/kestra/issues/14229) 💬 19 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30.3k | 🟢 beginner | 2026-11-13 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [FEAT: add 'explain' option after running a query](https://github.com/beekeeper-studio/beekeeper-studio/issues/784) 💬 3 | [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | 23.9k | 🟡 help wanted | 2026-11-13 | ✍️ CLA · [📘 guide](https://github.com/beekeeper-studio/beekeeper-studio/blob/HEAD/CONTRIBUTING.md) |
 | [函数计算字段选择优化建议](https://github.com/jeecgboot/jimureport/issues/4842) 💬 2 | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.6k | 🟡 help wanted | 2026-11-13 |  |
 | [Introduce 'CURRENT_TIMESTAMP \[(p)\]'](https://github.com/tarantool/tarantool/issues/13683) | [tarantool/tarantool](https://github.com/tarantool/tarantool) | 3.7k | 🟢 beginner | 2026-11-13 | [📘 guide](https://github.com/tarantool/tarantool/blob/HEAD/CONTRIBUTING.md) |
@@ -208,7 +209,6 @@
 | [clang-tidy: enable performance-*](https://github.com/alibaba/zvec/issues/291) 💬 3 | [alibaba/zvec](https://github.com/alibaba/zvec) | 16.3k | 🟡 help wanted | 2026-09-08 | [📘 guide](https://github.com/alibaba/zvec/blob/HEAD/CONTRIBUTING.md) |
 | [clang-tidy: enable clang-analyzer-*](https://github.com/alibaba/zvec/issues/292) | [alibaba/zvec](https://github.com/alibaba/zvec) | 16.3k | 🟡 help wanted | 2026-09-08 | [📘 guide](https://github.com/alibaba/zvec/blob/HEAD/CONTRIBUTING.md) |
 | [Migration guide Firebase to Serverpod](https://github.com/serverpod/serverpod/issues/3337) 💬 8 | [serverpod/serverpod](https://github.com/serverpod/serverpod) | 3.3k | 🟢 beginner | 2026-09-07 | [📘 guide](https://github.com/serverpod/serverpod/blob/HEAD/CONTRIBUTING.md) |
-| [\[BUG\] Python groupby rolling aggregations return index inconsistent with pandas](https://github.com/NVIDIA/cudf/issues/10249) 💬 6 | [NVIDIA/cudf](https://github.com/NVIDIA/cudf) | 9.8k | 🟢 beginner | 2026-09-06 | ⚠️ AI restricted · [📘 guide](https://github.com/NVIDIA/cudf/blob/HEAD/CONTRIBUTING.md) |
 | [include git commit id in status information and artifact README](https://github.com/yacy/yacy_search_server/issues/466) 💬 1 | [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) | 4.1k | 🟢 beginner | 2026-09-06 | [📘 guide](https://github.com/yacy/yacy_search_server/blob/HEAD/CONTRIBUTING.md) |
 
 Showing the 200 most recently updated. See all 300 on the website.

@@ -1,10 +1,10 @@
 # PHP issues
 
-**135** open issues (65 labeled for beginners) across **46** active PHP projects.
+**135** open issues (65 labeled for beginners) across **44** active PHP projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-11-18 14:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-19 00:07 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,13 +12,10 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.4k | 🟢 beginner | 2026-11-18 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [net/haproxy: per-certificate (SNI) client certificate verification (mTLS) in Public Service](https://github.com/opnsense/plugins/issues/5934) | [opnsense/plugins](https://github.com/opnsense/plugins) | 1.2k | 🟡 help wanted | 2026-11-18 | 🤖 disclose AI use · [📘 guide](https://github.com/opnsense/plugins/blob/HEAD/CONTRIBUTING.md) |
-| [Move the Zero Givers report form into the finance reports hub](https://github.com/ChurchCRM/CRM/issues/11560) | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-18 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
-| [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.4k | 🟢 beginner | 2026-11-17 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
-| [Demo site: Add a copy button to the top right of code snippets](https://github.com/DenverCoder1/github-readme-streak-stats/issues/966) | [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) | 7.2k | 🟢 beginner | 2026-11-17 | [📘 guide](https://github.com/DenverCoder1/github-readme-streak-stats/blob/HEAD/CONTRIBUTING.md) |
 | [Provide config option to autofocus Username field on login page](https://github.com/phpmyadmin/phpmyadmin/issues/19340) 💬 9 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 8k | 🟢 beginner | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/phpmyadmin/phpmyadmin/blob/HEAD/CONTRIBUTING.md) |
 | [\[Store\] Sorting Store Bridges with Doctrine Reference/Dependency](https://github.com/symfony/ai/issues/2952) 💬 2 | [symfony/ai](https://github.com/symfony/ai) | 1.2k | 🟡 help wanted | 2026-11-16 | [📘 guide](https://github.com/symfony/ai/blob/HEAD/CONTRIBUTING.md) |
-| [array_walk_recursive changes variable type to incorrect](https://github.com/vimeo/psalm/issues/5767) 💬 3 | [vimeo/psalm](https://github.com/vimeo/psalm) | 5.9k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/vimeo/psalm/blob/HEAD/CONTRIBUTING.md) |
 | [FEATURE: A "Guardian" Role in the Kiosk System](https://github.com/ChurchCRM/CRM/issues/8850) 💬 6 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Feature: Retained data in fields when adding payments to deposit slips](https://github.com/ChurchCRM/CRM/issues/11185) 💬 2 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Feature Request: Link Related Families / Family Relationships](https://github.com/ChurchCRM/CRM/issues/9968) 💬 1 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
@@ -31,6 +28,9 @@
 | [Feature: Customize home dashboard](https://github.com/ChurchCRM/CRM/issues/8559) 💬 3 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Feature request: Add additional field to People Directory Report](https://github.com/ChurchCRM/CRM/issues/7286) 💬 13 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Attendance not showing demographics](https://github.com/ChurchCRM/CRM/issues/5619) 💬 6 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
+| [Events offering](https://github.com/ChurchCRM/CRM/issues/261) 💬 6 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
+| [Feature Request:- Add support for Groups in CSV import/export](https://github.com/ChurchCRM/CRM/issues/4315) 💬 8 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
+| [Create attendance sheet \| only Sundays?](https://github.com/ChurchCRM/CRM/issues/5314) 💬 4 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Enable type safety, unused-symbol and definition-order lint rules](https://github.com/LibreSign/libresign/issues/9502) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 847 | 🟡 help wanted | 2026-11-14 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |
 | [Enable import-extension and TypeScript type-import rules](https://github.com/LibreSign/libresign/issues/9501) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 847 | 🟡 help wanted | 2026-11-14 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |
 | [Enable import sorting while preserving import side effects](https://github.com/LibreSign/libresign/issues/9500) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 847 | 🟡 help wanted | 2026-11-14 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |

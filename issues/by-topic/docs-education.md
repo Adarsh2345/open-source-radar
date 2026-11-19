@@ -2,7 +2,7 @@
 
 **74** open issues (28 labeled for beginners) across **20** projects tagged with topics like `documentation`, `education`, `learning`, `tutorial`, `awesome`, `awesome-list`.
 
-> Updated automatically on **2026-11-18 14:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-19 00:07 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -56,7 +56,7 @@
 | [Add resource type alongside tutorial title.](https://github.com/practical-tutorials/project-based-learning/issues/63) 💬 8 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 290k | 🟢 beginner | 2026-10-03 | [📘 guide](https://github.com/practical-tutorials/project-based-learning/blob/HEAD/CONTRIBUTING.md) |
 | [ContentProvider returns null unless app manually launched — request for background-initializable entry point](https://github.com/ankidroid/Anki-Android/issues/18286) 💬 16 | [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) | 12.3k | 🟡 help wanted | 2026-10-03 | 🤖 disclose AI use · [📘 guide](https://github.com/ankidroid/Anki-Android/blob/HEAD/CONTRIBUTING.md) |
 | [element with display flex do not create a new BFC itself](https://github.com/yangshun/front-end-interview-handbook/issues/159) 💬 1 | [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 44k | 🟡 help wanted | 2026-10-02 | [📘 guide](https://github.com/yangshun/front-end-interview-handbook/blob/HEAD/CONTRIBUTING.md) |
-| [\[FR\] press Enter anywhere in the grid view to add a new row / shift + enter a new line](https://github.com/AppFlowy-IO/AppFlowy/issues/3074) 💬 3 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 79.1k | 🟡 help wanted | 2026-09-29 |  |
+| [\[FR\] press Enter anywhere in the grid view to add a new row / shift + enter a new line](https://github.com/AppFlowy-IO/AppFlowy/issues/3074) 💬 3 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 79.2k | 🟡 help wanted | 2026-09-29 |  |
 | [Ability to buffer the output of the RGB Video component](https://github.com/logisim-evolution/logisim-evolution/issues/2523) 💬 4 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 8k | 🟡 help wanted | 2026-09-28 | [📘 guide](https://github.com/logisim-evolution/logisim-evolution/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Delay component](https://github.com/logisim-evolution/logisim-evolution/issues/1840) 💬 27 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 8k | 🟡 help wanted | 2026-09-28 | [📘 guide](https://github.com/logisim-evolution/logisim-evolution/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Custom wire colors / multi-wire selecting](https://github.com/logisim-evolution/logisim-evolution/issues/1994) 💬 6 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 8k | 🟡 help wanted | 2026-09-28 | [📘 guide](https://github.com/logisim-evolution/logisim-evolution/blob/HEAD/.github/CONTRIBUTING.md) |

@@ -1,6 +1,6 @@
 # Issue index
 
-**3313** open, unclaimed issues from **1123** active projects (1262 labeled for beginners). Updated 2026-11-18 14:55 UTC.
+**3336** open, unclaimed issues from **1123** active projects (1261 labeled for beginners). Updated 2026-11-19 00:07 UTC.
 
 Looking for a project rather than an issue? See the [projects directory](../projects/README.md).
 
@@ -8,25 +8,25 @@ Looking for a project rather than an issue? See the [projects directory](../proj
 
 | Language | Issues | Beginner | Projects |
 | --- | ---: | ---: | ---: |
-| [C++](by-language/cpp.md) | 316 | 118 | 100 |
-| [Rust](by-language/rust.md) | 293 | 121 | 82 |
-| [Java](by-language/java.md) | 289 | 121 | 80 |
-| [Go](by-language/go.md) | 288 | 85 | 82 |
-| [TypeScript](by-language/typescript.md) | 287 | 79 | 74 |
-| [Python](by-language/python.md) | 234 | 73 | 79 |
-| [C#](by-language/csharp.md) | 234 | 67 | 80 |
-| [Kotlin](by-language/kotlin.md) | 204 | 58 | 75 |
-| [JavaScript](by-language/javascript.md) | 157 | 58 | 64 |
-| [C](by-language/c.md) | 136 | 28 | 53 |
-| [PHP](by-language/php.md) | 135 | 65 | 46 |
-| [Shell](by-language/shell.md) | 116 | 57 | 52 |
+| [C++](by-language/cpp.md) | 315 | 117 | 100 |
+| [TypeScript](by-language/typescript.md) | 292 | 83 | 75 |
+| [Go](by-language/go.md) | 284 | 84 | 82 |
+| [Java](by-language/java.md) | 284 | 118 | 80 |
+| [Rust](by-language/rust.md) | 283 | 114 | 81 |
+| [Python](by-language/python.md) | 244 | 76 | 80 |
+| [C#](by-language/csharp.md) | 242 | 67 | 80 |
+| [Kotlin](by-language/kotlin.md) | 207 | 61 | 75 |
+| [JavaScript](by-language/javascript.md) | 156 | 58 | 63 |
+| [C](by-language/c.md) | 148 | 28 | 53 |
+| [PHP](by-language/php.md) | 135 | 65 | 44 |
+| [Shell](by-language/shell.md) | 117 | 56 | 53 |
+| [Swift](by-language/swift.md) | 101 | 48 | 53 |
 | [HTML](by-language/html.md) | 97 | 38 | 30 |
-| [Swift](by-language/swift.md) | 96 | 47 | 52 |
-| [Ruby](by-language/ruby.md) | 74 | 53 | 27 |
+| [Ruby](by-language/ruby.md) | 75 | 54 | 28 |
 | [Dart](by-language/dart.md) | 67 | 24 | 34 |
 | [Julia](by-language/julia.md) | 50 | 37 | 15 |
 | [Scala](by-language/scala.md) | 32 | 14 | 17 |
-| [Lua](by-language/lua.md) | 31 | 21 | 13 |
+| [Lua](by-language/lua.md) | 30 | 21 | 12 |
 | [Erlang](by-language/erlang.md) | 29 | 0 | 2 |
 | [Vue](by-language/vue.md) | 25 | 17 | 10 |
 | [OCaml](by-language/ocaml.md) | 25 | 16 | 7 |
@@ -43,17 +43,17 @@ Looking for a project rather than an issue? See the [projects directory](../proj
 
 | Topic | Issues | Beginner | Projects |
 | --- | ---: | ---: | ---: |
-| [Mobile and desktop apps](by-topic/mobile.md) | 607 | 205 | 208 |
-| [Cloud, DevOps and infrastructure](by-topic/cloud-devops.md) | 450 | 188 | 136 |
-| [AI and machine learning](by-topic/ai-ml.md) | 384 | 126 | 123 |
-| [Developer tools](by-topic/devtools.md) | 361 | 135 | 131 |
-| [Data and databases](by-topic/data.md) | 300 | 166 | 90 |
-| [Web development](by-topic/web.md) | 268 | 94 | 93 |
-| [Security and privacy](by-topic/security.md) | 245 | 106 | 58 |
-| [Systems and embedded](by-topic/systems.md) | 192 | 77 | 47 |
+| [Mobile and desktop apps](by-topic/mobile.md) | 603 | 203 | 207 |
+| [Cloud, DevOps and infrastructure](by-topic/cloud-devops.md) | 447 | 185 | 136 |
+| [AI and machine learning](by-topic/ai-ml.md) | 393 | 134 | 124 |
+| [Developer tools](by-topic/devtools.md) | 366 | 135 | 130 |
+| [Data and databases](by-topic/data.md) | 300 | 163 | 90 |
+| [Web development](by-topic/web.md) | 269 | 95 | 93 |
+| [Security and privacy](by-topic/security.md) | 255 | 103 | 58 |
+| [Systems and embedded](by-topic/systems.md) | 191 | 78 | 48 |
 | [Games and graphics](by-topic/games-graphics.md) | 148 | 89 | 49 |
 | [Science and research](by-topic/science.md) | 81 | 31 | 18 |
 | [Documentation and education](by-topic/docs-education.md) | 74 | 28 | 20 |
-| [Finance and Web3](by-topic/finance-web3.md) | 57 | 23 | 11 |
+| [Finance and Web3](by-topic/finance-web3.md) | 68 | 22 | 11 |
 | [Accessibility](by-topic/accessibility.md) | 11 | 2 | 6 |
 | [Robotics](by-topic/robotics.md) | 8 | 2 | 5 |
