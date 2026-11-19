@@ -1,10 +1,10 @@
 # Haskell issues
 
-**17** open issues (7 labeled for beginners) across **6** active Haskell projects.
+**16** open issues (6 labeled for beginners) across **5** active Haskell projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/haskell.xml)
 
-> Updated automatically on **2026-11-19 00:07 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-19 15:13 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,7 +13,6 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Trusted registries don't work correctly for multi-part repo names](https://github.com/hadolint/hadolint/issues/401) 💬 9 | [hadolint/hadolint](https://github.com/hadolint/hadolint) | 12.5k | 🟡 help wanted | 2026-11-15 |  |
-| [Be able to define custom aliases](https://github.com/unisonweb/unison/issues/809) 💬 2 | [unisonweb/unison](https://github.com/unisonweb/unison) | 6.8k | 🟢 beginner | 2026-11-15 |  |
 | [Resurrecting the MySQL backend](https://github.com/haskell-beam/beam/issues/822) 💬 6 | [haskell-beam/beam](https://github.com/haskell-beam/beam) | 637 | 🟡 help wanted | 2026-11-10 |  |
 | [Warning that has been turned off is reported](https://github.com/agda/agda/issues/8886) 💬 2 | [agda/agda](https://github.com/agda/agda) | 3k | 🟡 help wanted | 2026-11-02 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) |
 | [Output to STDOUT blocks reporting to STDERR](https://github.com/gren-lang/compiler/issues/388) 💬 1 | [gren-lang/compiler](https://github.com/gren-lang/compiler) | 508 | 🟢 beginner | 2026-10-23 | [📘 guide](https://github.com/gren-lang/compiler/blob/HEAD/CONTRIBUTING.md) |
