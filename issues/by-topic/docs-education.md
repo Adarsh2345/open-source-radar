@@ -2,7 +2,7 @@
 
 **77** open issues (29 labeled for beginners) across **23** projects tagged with topics like `documentation`, `education`, `learning`, `tutorial`, `awesome`, `awesome-list`.
 
-> Updated automatically on **2026-11-20 14:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-20 23:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +10,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Determine and keep EOL (for saving/reading files) (\\n vs \\r\\n)](https://github.com/gsantner/markor/issues/827) 💬 4 | [gsantner/markor](https://github.com/gsantner/markor) | 6.5k | 🟢 beginner | 2026-11-20 |  |
 | [\[BUG\] sockops port error](https://github.com/eunomia-bpf/bpf-developer-tutorial/issues/115) 💬 3 | [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) | 4.3k | 🟡 help wanted | 2026-11-20 |  |
 | [学习29-sockops遇到报错“iperf3: error - unable to send control message: Permission denied](https://github.com/eunomia-bpf/bpf-developer-tutorial/issues/117) 💬 4 | [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) | 4.3k | 🟢 beginner | 2026-11-20 |  |
 | [Allow favicons in formats other than svg](https://github.com/imfing/hextra/issues/888) 💬 3 | [imfing/hextra](https://github.com/imfing/hextra) | 2.4k | 🟢 beginner | 2026-11-20 | [📘 guide](https://github.com/imfing/hextra/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -23,7 +24,7 @@
 | [\[Bug\]: Docs addon jest mdx transformer needs 'process' method](https://github.com/storybookjs/storybook/issues/23053) 💬 1 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | 91.7k | 🟡 help wanted | 2026-11-02 | 🤖 disclose AI use · [📘 guide](https://github.com/storybookjs/storybook/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: @storybook/web-components-vite 'RollupError: Unexpected token' in mdx](https://github.com/storybookjs/storybook/issues/23098) 💬 1 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | 91.7k | 🟡 help wanted | 2026-11-02 | 🤖 disclose AI use · [📘 guide](https://github.com/storybookjs/storybook/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Decorator HMR does not re-render the story](https://github.com/storybookjs/storybook/issues/20869) 💬 5 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | 91.7k | 🟡 help wanted | 2026-10-31 | 🤖 disclose AI use · [📘 guide](https://github.com/storybookjs/storybook/blob/HEAD/CONTRIBUTING.md) |
-| [\[Enhancement\]: Handle unmaintained projects](https://github.com/hesreallyhim/awesome-claude-code/issues/387) 💬 7 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 58.4k | 🟡 help wanted | 2026-10-31 | [📘 guide](https://github.com/hesreallyhim/awesome-claude-code/blob/HEAD/CONTRIBUTING.md) |
+| [\[Enhancement\]: Handle unmaintained projects](https://github.com/hesreallyhim/awesome-claude-code/issues/387) 💬 7 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 58.5k | 🟡 help wanted | 2026-10-31 | [📘 guide](https://github.com/hesreallyhim/awesome-claude-code/blob/HEAD/CONTRIBUTING.md) |
 | [GrapheneOS Storage Scopes](https://github.com/ankidroid/Anki-Android/issues/22844) 💬 7 | [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) | 12.3k | 🟡 help wanted | 2026-10-31 | 🤖 disclose AI use · [📘 guide](https://github.com/ankidroid/Anki-Android/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: storybookStoreV6 does not work with Suspense](https://github.com/storybookjs/storybook/issues/23190) 💬 7 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | 91.7k | 🟡 help wanted | 2026-10-30 | 🤖 disclose AI use · [📘 guide](https://github.com/storybookjs/storybook/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: styled_default is not a function - MaterialUI Grid2](https://github.com/storybookjs/storybook/issues/23690) 💬 4 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | 91.7k | 🟡 help wanted | 2026-10-30 | 🤖 disclose AI use · [📘 guide](https://github.com/storybookjs/storybook/blob/HEAD/CONTRIBUTING.md) |
@@ -45,7 +46,6 @@
 | [macOS app fails Gatekeeper; Homebrew cask deprecated and scheduled for disablement](https://github.com/logisim-evolution/logisim-evolution/issues/2699) 💬 2 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 8k | 🟡 help wanted | 2026-10-13 | [📘 guide](https://github.com/logisim-evolution/logisim-evolution/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Add file history to Viewer navigation](https://github.com/gsantner/markor/issues/705) 💬 8 | [gsantner/markor](https://github.com/gsantner/markor) | 6.5k | 🟢 beginner | 2026-10-10 |  |
 | [todo.txt: Reminders & Notifications for due date](https://github.com/gsantner/markor/issues/716) 💬 6 | [gsantner/markor](https://github.com/gsantner/markor) | 6.5k | 🟢 beginner | 2026-10-10 |  |
-| [Determine and keep EOL (for saving/reading files) (\\n vs \\r\\n)](https://github.com/gsantner/markor/issues/827) 💬 3 | [gsantner/markor](https://github.com/gsantner/markor) | 6.5k | 🟢 beginner | 2026-10-10 |  |
 | [Markdown converter: Add option to break lines on single EOL](https://github.com/gsantner/markor/issues/835) 💬 5 | [gsantner/markor](https://github.com/gsantner/markor) | 6.5k | 🟢 beginner | 2026-10-10 |  |
 | [todo.txt: view mode - Fancy grouping, sort, search etc](https://github.com/gsantner/markor/issues/859) 💬 14 | [gsantner/markor](https://github.com/gsantner/markor) | 6.5k | 🟢 beginner | 2026-10-10 |  |
 | [Improve View Mode & "default to view mode"](https://github.com/gsantner/markor/issues/912) | [gsantner/markor](https://github.com/gsantner/markor) | 6.5k | 🟢 beginner | 2026-10-10 |  |
@@ -86,4 +86,4 @@
 | [WebGL Error Triggered by 'noSmooth()' Invocation Between Framebuffer Creation and Drawing on Framebuffer](https://github.com/processing/p5.js/issues/6369) 💬 2 | [processing/p5.js](https://github.com/processing/p5.js) | 24.4k | 🟡 help wanted | 2026-06-09 | ⚠️ AI restricted · [📘 guide](https://github.com/processing/p5.js/blob/HEAD/CONTRIBUTING.md) |
 | [difference between inline and inline-block should include discussion about replaced / non-replaced elements](https://github.com/yangshun/front-end-interview-handbook/issues/160) 💬 3 | [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 44k | 🟡 help wanted | 2026-06-05 | [📘 guide](https://github.com/yangshun/front-end-interview-handbook/blob/HEAD/CONTRIBUTING.md) |
 | [Support for Top-Level Global Mode](https://github.com/processing/p5.js/issues/7737) 💬 35 | [processing/p5.js](https://github.com/processing/p5.js) | 24.4k | 🟡 help wanted | 2026-06-01 | ⚠️ AI restricted · [📘 guide](https://github.com/processing/p5.js/blob/HEAD/CONTRIBUTING.md) |
-| [Feature Request: Integrate Crowdin for community translations](https://github.com/jaywcjlove/awesome-mac/issues/2119) 💬 1 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 118.9k | 🟡 help wanted | 2026-05-30 | 📄 AI policy · [📘 guide](https://github.com/jaywcjlove/awesome-mac/blob/HEAD/docs/CONTRIBUTING.md) |
+| [Feature Request: Integrate Crowdin for community translations](https://github.com/jaywcjlove/awesome-mac/issues/2119) 💬 1 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 119k | 🟡 help wanted | 2026-05-30 | 📄 AI policy · [📘 guide](https://github.com/jaywcjlove/awesome-mac/blob/HEAD/docs/CONTRIBUTING.md) |

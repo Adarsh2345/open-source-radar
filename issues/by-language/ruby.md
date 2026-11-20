@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-11-20 14:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-20 23:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Feature Request to add chatwoot directly install in plesk apps](https://github.com/chatwoot/chatwoot/issues/6911) 💬 7 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 40.2k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/chatwoot/chatwoot/blob/HEAD/CONTRIBUTING.md) |
+| [Feature Request to add chatwoot directly install in plesk apps](https://github.com/chatwoot/chatwoot/issues/6911) 💬 7 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 40.3k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/chatwoot/chatwoot/blob/HEAD/CONTRIBUTING.md) |
 | [ObjectSpace.each_object(Module) should visit singleton classes](https://github.com/truffleruby/truffleruby/issues/2825) | [truffleruby/truffleruby](https://github.com/truffleruby/truffleruby) | 3.2k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/truffleruby/truffleruby/blob/HEAD/CONTRIBUTING.md) |
 | [Assert assignPositionOnly() and copyNewlineFlag() are never called on a SequenceNode](https://github.com/truffleruby/truffleruby/issues/4282) | [truffleruby/truffleruby](https://github.com/truffleruby/truffleruby) | 3.2k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/truffleruby/truffleruby/blob/HEAD/CONTRIBUTING.md) |
 | [#load should prioritize $LOAD_PATH before the 'pwd'](https://github.com/truffleruby/truffleruby/issues/1498) 💬 1 | [truffleruby/truffleruby](https://github.com/truffleruby/truffleruby) | 3.2k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/truffleruby/truffleruby/blob/HEAD/CONTRIBUTING.md) |
@@ -54,7 +54,7 @@
 | [Documentation backlog](https://github.com/activeagents/activeagent/issues/404) | [activeagents/activeagent](https://github.com/activeagents/activeagent) | 985 | 🟡 help wanted | 2026-09-07 |  |
 | [Etc.uname needs a native version](https://github.com/jruby/jruby/issues/2145) 💬 12 | [jruby/jruby](https://github.com/jruby/jruby) | 3.9k | 🟢 beginner | 2026-09-04 | ⚠️ AI restricted · [📘 guide](https://github.com/jruby/jruby/blob/HEAD/CONTRIBUTING.md) |
 | [Revisit Style/EmptyCaseCondition?](https://github.com/rubocop/rubocop/issues/8396) 💬 4 | [rubocop/rubocop](https://github.com/rubocop/rubocop) | 12.9k | 🟡 help wanted | 2026-09-01 | 🤖 disclose AI use · [📘 guide](https://github.com/rubocop/rubocop/blob/HEAD/CONTRIBUTING.md) |
-| [\[Feature Request\] Dark Mode](https://github.com/endoflife-date/endoflife.date/issues/1187) 💬 10 | [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) | 3.4k | 🟢 beginner | 2026-08-28 | [📘 guide](https://github.com/endoflife-date/endoflife.date/blob/HEAD/CONTRIBUTING.md) |
+| [\[Feature Request\] Dark Mode](https://github.com/endoflife-date/endoflife.date/issues/1187) 💬 10 | [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) | 3.5k | 🟢 beginner | 2026-08-28 | [📘 guide](https://github.com/endoflife-date/endoflife.date/blob/HEAD/CONTRIBUTING.md) |
 | [\[Request\] Generate policy file when using scaffolding](https://github.com/varvet/pundit/issues/735) 💬 5 | [varvet/pundit](https://github.com/varvet/pundit) | 8.5k | 🟢 beginner | 2026-08-15 | [📘 guide](https://github.com/varvet/pundit/blob/HEAD/CONTRIBUTING.md) |
 | [Make a performance comparison between replacing Turbolinks (plus rails-ujs) with Turbo and dropping it entirel](https://github.com/consuldemocracy/consuldemocracy/issues/5485) | [consuldemocracy/consuldemocracy](https://github.com/consuldemocracy/consuldemocracy) | 1.6k | 🟡 help wanted | 2026-08-14 | [📘 guide](https://github.com/consuldemocracy/consuldemocracy/blob/HEAD/CONTRIBUTING.md) |
 | [Add Warsh Qirat Data to QUL](https://github.com/TarteelAI/quranic-universal-library/issues/131) 💬 3 | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) | 1.1k | 🟡 help wanted | 2026-08-08 |  |
@@ -75,7 +75,7 @@
 | [class com.sun.nio.file.ExtendedOpenOption cannot access class jdk.internal.misc.FileSystemOption](https://github.com/jruby/jruby/issues/7835) 💬 7 | [jruby/jruby](https://github.com/jruby/jruby) | 3.9k | 🟢 beginner | 2026-07-09 | ⚠️ AI restricted · [📘 guide](https://github.com/jruby/jruby/blob/HEAD/CONTRIBUTING.md) |
 | [Links in Description](https://github.com/manyfold3d/manyfold/issues/4944) 💬 3 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.3k | 🟢 beginner | 2026-07-08 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Support 'distinct' when it comes to further association chaining](https://github.com/neo4jrb/activegraph/issues/1340) 💬 3 | [neo4jrb/activegraph](https://github.com/neo4jrb/activegraph) | 1.4k | 🟢 beginner | 2026-07-06 | [📘 guide](https://github.com/neo4jrb/activegraph/blob/HEAD/CONTRIBUTING.md) |
-| [Upload form missing a number of options](https://github.com/e621ng/e621ng/issues/1794) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 593 | 🟢 beginner | 2026-06-30 |  |
+| [Upload form missing a number of options](https://github.com/e621ng/e621ng/issues/1794) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 594 | 🟢 beginner | 2026-06-30 |  |
 | [Disown CTA has unique focus and hover effect](https://github.com/lobsters/lobsters/issues/2099) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-06-24 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Create Huginn iPhone / Android app](https://github.com/huginn/huginn/issues/166) 💬 19 | [huginn/huginn](https://github.com/huginn/huginn) | 50.6k | 🟡 help wanted | 2026-06-20 | [📘 guide](https://github.com/huginn/huginn/blob/HEAD/CONTRIBUTING.md) |
 | [add also "open in Anycubic Slicer Next"](https://github.com/manyfold3d/manyfold/issues/5823) 💬 2 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.3k | 🟢 beginner | 2026-06-19 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |

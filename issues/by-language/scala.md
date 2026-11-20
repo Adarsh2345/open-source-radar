@@ -1,10 +1,10 @@
 # Scala issues
 
-**32** open issues (14 labeled for beginners) across **17** active Scala projects.
+**31** open issues (13 labeled for beginners) across **17** active Scala projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-11-20 14:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-20 23:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -21,7 +21,6 @@
 | [Consider implementing "time to receive request" timeout on server-side](https://github.com/akka/akka-http/issues/813) 💬 7 | [akka/akka-http](https://github.com/akka/akka-http) | 1.3k | 🟡 help wanted | 2026-11-09 | ✍️ CLA · [📘 guide](https://github.com/akka/akka-http/blob/HEAD/CONTRIBUTING.md) |
 | [Fix scaladoc and javadoc references](https://github.com/akka/akka-http/issues/546) 💬 1 | [akka/akka-http](https://github.com/akka/akka-http) | 1.3k | 🟡 help wanted | 2026-11-09 | ✍️ CLA · [📘 guide](https://github.com/akka/akka-http/blob/HEAD/CONTRIBUTING.md) |
 | [Improve spray migration guide on marshallers](https://github.com/akka/akka-http/issues/520) | [akka/akka-http](https://github.com/akka/akka-http) | 1.3k | 🟡 help wanted | 2026-11-09 | ✍️ CLA · [📘 guide](https://github.com/akka/akka-http/blob/HEAD/CONTRIBUTING.md) |
-| [:memo: Fix/Add config section of deployment on kubernetes](https://github.com/apache/kyuubi/issues/5085) 💬 3 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-11-05 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/kyuubi/blob/HEAD/CONTRIBUTING.md) |
 | [chore: Improve cast MapType to String](https://github.com/apache/datafusion-comet/issues/4631) 💬 5 | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-11-01 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [\[4.x\] Atomic reference types should use new Java features, if possible](https://github.com/monix/monix/issues/1560) 💬 6 | [monix/monix](https://github.com/monix/monix) | 1.9k | 🟡 help wanted | 2026-10-11 | [📘 guide](https://github.com/monix/monix/blob/HEAD/CONTRIBUTING.md) |
 | [\[Improvement\] Update Spark Ranger plugin to 2.7.0](https://github.com/apache/kyuubi/issues/7234) 💬 2 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/kyuubi/blob/HEAD/CONTRIBUTING.md) |

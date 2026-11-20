@@ -1,10 +1,10 @@
 # Java issues
 
-**285** open issues (112 labeled for beginners) across **79** active Java projects.
+**285** open issues (112 labeled for beginners) across **80** active Java projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/java.xml)
 
-> Updated automatically on **2026-11-20 14:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-20 23:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -14,6 +14,7 @@
 | --- | --- | ---: | --- | --- | --- |
 | [Unable to log out via external IdP if external session terminated](https://github.com/keycloak/keycloak/issues/14451) 💬 11 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 38k | 🟡 help wanted | 2026-11-20 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/keycloak/keycloak/blob/HEAD/CONTRIBUTING.md) |
 | [Documentation for Admin Rest API: Wrong response codes for some API-actions in API-Doc](https://github.com/keycloak/keycloak/issues/30202) 💬 5 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 38k | 🟡 help wanted | 2026-11-20 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/keycloak/keycloak/blob/HEAD/CONTRIBUTING.md) |
+| [\[Feature\]\[API\]\[Connector-V2\] Unify column default value handling across the DDL pipeline](https://github.com/apache/seatunnel/issues/13217) 💬 9 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-20 | ✍️ CLA |
 | [\[Bug\]\[Zeta\] ResourceRequestHandler#request never completes for an empty resource profile list](https://github.com/apache/seatunnel/issues/13356) 💬 2 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-20 | ✍️ CLA |
 | [\[Improve\]\[Zeta\] Fixed-slot heartbeat and allocation do not scale with large slot-num](https://github.com/apache/seatunnel/issues/13355) 💬 2 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-20 | ✍️ CLA |
 | [\[Improve\]\[Zeta\] Static-slot REST/diagnostics report unallocatable heap as free and CPU as zero](https://github.com/apache/seatunnel/issues/13354) 💬 2 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-20 | ✍️ CLA |
@@ -24,9 +25,10 @@
 | [\[Bug\]\[Zeta\] Fixed-slot ownership has no lease or reconciliation, so lost allocation responses permanently leak](https://github.com/apache/seatunnel/issues/13346) 💬 2 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-20 | ✍️ CLA |
 | [\[Bug\]\[Zeta\] Master failover pre-applies fixed slots for task groups that will never be redeployed](https://github.com/apache/seatunnel/issues/13345) 💬 1 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-20 | ✍️ CLA |
 | [\[Bug\]\[Zeta\] Pre-applied fixed slots leak when a pending job is cancelled or the scheduler epoch is invalidated](https://github.com/apache/seatunnel/issues/13344) 💬 1 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-20 | ✍️ CLA |
-| [\[Feature\]\[API\]\[Connector-V2\] Unify column default value handling across the DDL pipeline](https://github.com/apache/seatunnel/issues/13217) 💬 8 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-20 | ✍️ CLA |
 | [配置下拉框查询时，直接使用SQL拉取数据，SQL中能否支持URL中的参数](https://github.com/jeecgboot/jimureport/issues/3658) | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.6k | 🟡 help wanted | 2026-11-20 |  |
 | [希望下拉树支持搜索](https://github.com/jeecgboot/jimureport/issues/3847) | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.6k | 🟡 help wanted | 2026-11-20 |  |
+| [Determine and keep EOL (for saving/reading files) (\\n vs \\r\\n)](https://github.com/gsantner/markor/issues/827) 💬 4 | [gsantner/markor](https://github.com/gsantner/markor) | 6.5k | 🟢 beginner | 2026-11-20 |  |
+| [Support parity between displayed LibreOffice paragraph formats and JStyle specifications](https://github.com/JabRef/jabref/issues/17883) 💬 1 | [JabRef/jabref](https://github.com/JabRef/jabref) | 4.9k | 🟢 beginner | 2026-11-20 | ⚠️ AI restricted · [📘 guide](https://github.com/JabRef/jabref/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]\[Zeta\] Fixed-slot allocation uses a stale heartbeat snapshot without reservation, causing spurious NoEnou](https://github.com/apache/seatunnel/issues/13349) | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-19 | ✍️ CLA |
 | [\[Bug\]\[Zeta\] One corrupted stored checkpoint aborts the whole restore instead of falling back to older checkpoi](https://github.com/apache/seatunnel/issues/13321) 💬 3 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-19 | ✍️ CLA |
 | [\[Bug\]\[Zeta\] completedCheckpointIds survives restores and records ids before storage succeeds](https://github.com/apache/seatunnel/issues/13322) 💬 3 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-19 | ✍️ CLA |
@@ -123,7 +125,6 @@
 | [Add bazel flag for max_cas_entry size.](https://github.com/bazelbuild/bazel/issues/18449) 💬 13 | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 26.1k | 🟡 help wanted | 2026-10-10 | ✍️ CLA · [📘 guide](https://github.com/bazelbuild/bazel/blob/HEAD/CONTRIBUTING.md) |
 | [Add file history to Viewer navigation](https://github.com/gsantner/markor/issues/705) 💬 8 | [gsantner/markor](https://github.com/gsantner/markor) | 6.5k | 🟢 beginner | 2026-10-10 |  |
 | [todo.txt: Reminders & Notifications for due date](https://github.com/gsantner/markor/issues/716) 💬 6 | [gsantner/markor](https://github.com/gsantner/markor) | 6.5k | 🟢 beginner | 2026-10-10 |  |
-| [Determine and keep EOL (for saving/reading files) (\\n vs \\r\\n)](https://github.com/gsantner/markor/issues/827) 💬 3 | [gsantner/markor](https://github.com/gsantner/markor) | 6.5k | 🟢 beginner | 2026-10-10 |  |
 | [Markdown converter: Add option to break lines on single EOL](https://github.com/gsantner/markor/issues/835) 💬 5 | [gsantner/markor](https://github.com/gsantner/markor) | 6.5k | 🟢 beginner | 2026-10-10 |  |
 | [todo.txt: view mode - Fancy grouping, sort, search etc](https://github.com/gsantner/markor/issues/859) 💬 14 | [gsantner/markor](https://github.com/gsantner/markor) | 6.5k | 🟢 beginner | 2026-10-10 |  |
 | [Improve View Mode & "default to view mode"](https://github.com/gsantner/markor/issues/912) | [gsantner/markor](https://github.com/gsantner/markor) | 6.5k | 🟢 beginner | 2026-10-10 |  |
@@ -157,7 +158,6 @@
 | [Remove operate legacy templates from SaaS to eliminate log noise](https://github.com/camunda/camunda/issues/39542) 💬 2 | [camunda/camunda](https://github.com/camunda/camunda) | 4.4k | 🟢 beginner | 2026-10-01 | ✍️ CLA · [📘 guide](https://github.com/camunda/camunda/blob/HEAD/CONTRIBUTING.md) |
 | [Unable to enable multiple metric anomaly finders at the same time](https://github.com/cruise-control-for-kafka/cruise-control/issues/1101) 💬 4 | [cruise-control-for-kafka/cruise-control](https://github.com/cruise-control-for-kafka/cruise-control) | 3.1k | 🟢 beginner | 2026-10-01 | 🔏 DCO · [📘 guide](https://github.com/cruise-control-for-kafka/cruise-control/blob/HEAD/CONTRIBUTING.md) |
 | [package-bazel.sh fails when temporary or input paths contain spaces](https://github.com/bazelbuild/bazel/issues/31343) | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 26.1k | 🟡 help wanted | 2026-09-30 | ✍️ CLA · [📘 guide](https://github.com/bazelbuild/bazel/blob/HEAD/CONTRIBUTING.md) |
-| [Config Doc - Support more features in Asciidoc -&gt; Mardown converter](https://github.com/quarkusio/quarkus/issues/43287) 💬 9 | [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | 16k | 🟢 beginner | 2026-09-30 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/quarkusio/quarkus/blob/HEAD/CONTRIBUTING.md) |
 | [Ability to buffer the output of the RGB Video component](https://github.com/logisim-evolution/logisim-evolution/issues/2523) 💬 4 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 8k | 🟡 help wanted | 2026-09-28 | [📘 guide](https://github.com/logisim-evolution/logisim-evolution/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Delay component](https://github.com/logisim-evolution/logisim-evolution/issues/1840) 💬 27 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 8k | 🟡 help wanted | 2026-09-28 | [📘 guide](https://github.com/logisim-evolution/logisim-evolution/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Custom wire colors / multi-wire selecting](https://github.com/logisim-evolution/logisim-evolution/issues/1994) 💬 6 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 8k | 🟡 help wanted | 2026-09-28 | [📘 guide](https://github.com/logisim-evolution/logisim-evolution/blob/HEAD/.github/CONTRIBUTING.md) |

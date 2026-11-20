@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/julia.xml)
 
-> Updated automatically on **2026-11-20 14:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-20 23:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -42,7 +42,7 @@
 | [CUSPARSE: in-place copy from CuSparseCSC to SparseCSC](https://github.com/JuliaGPU/CUDA.jl/issues/1997) 💬 1 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
 | [Support authentication when downloading files (e.g. artifacts)](https://github.com/JuliaLang/Pkg.jl/issues/4247) 💬 4 | [JuliaLang/Pkg.jl](https://github.com/JuliaLang/Pkg.jl) | 680 | 🟡 help wanted | 2026-10-07 |  |
 | [Conjugate heat transfer, requires implementation of new temperature scalar transport equation](https://github.com/WaterLily-jl/WaterLily.jl/issues/172) 💬 15 | [WaterLily-jl/WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl) | 860 | 🟡 help wanted | 2026-09-27 |  |
-| [Missing Rmath derivatives](https://github.com/EnzymeAD/Enzyme.jl/issues/1620) 💬 2 | [EnzymeAD/Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl) | 593 | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/EnzymeAD/Enzyme.jl/blob/HEAD/CONTRIBUTING.md) |
+| [Missing Rmath derivatives](https://github.com/EnzymeAD/Enzyme.jl/issues/1620) 💬 2 | [EnzymeAD/Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl) | 594 | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/EnzymeAD/Enzyme.jl/blob/HEAD/CONTRIBUTING.md) |
 | [Can't turn off range and indexing parentheses](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/877) 💬 1 | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 649 | 🟢 beginner | 2026-09-10 |  |
 | [Utilize DocumenterCodeblocks.jl in all subpackages of the ecosystem](https://github.com/JuliaDynamics/DynamicalSystems.jl/issues/270) | [JuliaDynamics/DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) | 959 | 🟢 beginner | 2026-08-18 | [📘 guide](https://github.com/JuliaDynamics/DynamicalSystems.jl/blob/HEAD/CONTRIBUTING.md) |
 | [Functional equivalents missing for some layers](https://github.com/FluxML/Flux.jl/issues/2013) 💬 4 | [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) | 4.8k | 🟢 beginner | 2026-08-12 | [📘 guide](https://github.com/FluxML/Flux.jl/blob/HEAD/CONTRIBUTING.md) |
@@ -53,7 +53,7 @@
 | [Testing apps should ideally upload the app somewhere and then download it on another machine which doesn't hav](https://github.com/JuliaLang/PackageCompiler.jl/issues/322) 💬 5 | [JuliaLang/PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) | 1.6k | 🟡 help wanted | 2026-07-31 |  |
 | [More refined handling of (top-level) semicolons](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/1239) 💬 1 | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 649 | 🟢 beginner | 2026-07-26 |  |
 | [CI job to push automated fixes to PRs](https://github.com/JuliaDocs/Documenter.jl/issues/2229) 💬 6 | [JuliaDocs/Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) | 924 | 🟢 beginner | 2026-07-23 | 🤖 disclose AI use |
-| [API for Hessian](https://github.com/EnzymeAD/Enzyme.jl/issues/1495) 💬 3 | [EnzymeAD/Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl) | 593 | 🟢 beginner | 2026-07-20 | [📘 guide](https://github.com/EnzymeAD/Enzyme.jl/blob/HEAD/CONTRIBUTING.md) |
+| [API for Hessian](https://github.com/EnzymeAD/Enzyme.jl/issues/1495) 💬 3 | [EnzymeAD/Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl) | 594 | 🟢 beginner | 2026-07-20 | [📘 guide](https://github.com/EnzymeAD/Enzyme.jl/blob/HEAD/CONTRIBUTING.md) |
 | [Some Projects that are Available for Future Work](https://github.com/QuantEcon/QuantEcon.jl/issues/83) 💬 16 | [QuantEcon/QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl) | 556 | 🟡 help wanted | 2026-07-15 |  |
 | [Provide interpolation function 'f(x, y)' for user-driven postprocessing of results](https://github.com/trixi-framework/Trixi.jl/issues/1291) 💬 4 | [trixi-framework/Trixi.jl](https://github.com/trixi-framework/Trixi.jl) | 739 | 🟢 beginner | 2026-07-13 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/trixi-framework/Trixi.jl/blob/HEAD/CONTRIBUTING.md) |
 | [Implement '@formula' support in 'Kriging' model](https://github.com/JuliaEarth/GeoStats.jl/issues/573) 💬 2 | [JuliaEarth/GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) | 595 | 🟡 help wanted | 2026-07-04 | [📘 guide](https://github.com/JuliaEarth/GeoStats.jl/blob/HEAD/CONTRIBUTING.md) |

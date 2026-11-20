@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/dart.xml)
 
-> Updated automatically on **2026-11-20 14:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-20 23:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -22,8 +22,8 @@
 | [\[Flatpak\] Auth: Failed to launch: libsecret_error: Failed to unlock the keyring](https://github.com/ente/ente/issues/6564) 💬 7 | [ente/ente](https://github.com/ente/ente) | 30.3k | 🟡 help wanted | 2026-11-12 | [📘 guide](https://github.com/ente/ente/blob/HEAD/CONTRIBUTING.md) |
 | [allow customizing the quick-access symbol bar.](https://github.com/freeCodeCamp/mobile/issues/1661) 💬 2 | [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile) | 587 | 🟡 help wanted | 2026-11-12 |  |
 | [Add quick stats on the % of NOVA 4 products in a list](https://github.com/openfoodfacts/smooth-app/issues/6274) 💬 14 | [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) | 1.5k | 🟢 beginner | 2026-11-11 | [📘 guide](https://github.com/openfoodfacts/smooth-app/blob/HEAD/CONTRIBUTING.md) |
-| [Add WiFi password share with QR-Code](https://github.com/cogwheel0/luci-mobile/issues/37) 💬 2 | [cogwheel0/luci-mobile](https://github.com/cogwheel0/luci-mobile) | 740 | 🟢 beginner | 2026-11-11 | [📘 guide](https://github.com/cogwheel0/luci-mobile/blob/HEAD/CONTRIBUTING.md) |
-| [New way to show devices distribution](https://github.com/osociety/vernet/issues/36) 💬 1 | [osociety/vernet](https://github.com/osociety/vernet) | 573 | 🟢 beginner | 2026-11-08 | 📄 AI policy · [📘 guide](https://github.com/osociety/vernet/blob/HEAD/CONTRIBUTING.md) |
+| [Add WiFi password share with QR-Code](https://github.com/cogwheel0/luci-mobile/issues/37) 💬 2 | [cogwheel0/luci-mobile](https://github.com/cogwheel0/luci-mobile) | 742 | 🟢 beginner | 2026-11-11 | [📘 guide](https://github.com/cogwheel0/luci-mobile/blob/HEAD/CONTRIBUTING.md) |
+| [New way to show devices distribution](https://github.com/osociety/vernet/issues/36) 💬 1 | [osociety/vernet](https://github.com/osociety/vernet) | 574 | 🟢 beginner | 2026-11-08 | 📄 AI policy · [📘 guide](https://github.com/osociety/vernet/blob/HEAD/CONTRIBUTING.md) |
 | [Product addition (tracker)](https://github.com/openfoodfacts/smooth-app/issues/1379) 💬 18 | [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) | 1.5k | 🟢 beginner | 2026-11-07 | [📘 guide](https://github.com/openfoodfacts/smooth-app/blob/HEAD/CONTRIBUTING.md) |
 | [Need process for nightly builds meet requirement of CI support](https://github.com/FriesI23/mhabit/issues/55) | [FriesI23/mhabit](https://github.com/FriesI23/mhabit) | 1.7k | 🟡 help wanted | 2026-11-05 |  |
 | [App Crashes while Scrolling Broadcast Carousel](https://github.com/lichess-org/mobile/issues/1769) 💬 2 | [lichess-org/mobile](https://github.com/lichess-org/mobile) | 2.7k | 🟡 help wanted | 2026-11-02 | 🤖 disclose AI use · [📘 guide](https://github.com/lichess-org/mobile/blob/HEAD/CONTRIBUTING.md) |
@@ -48,7 +48,7 @@
 | ['&gt;' is shown next to non-expandable fields](https://github.com/flutter/devtools/issues/5377) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
 | [File selection text field does not feel like a fully featured text input](https://github.com/flutter/devtools/issues/5337) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
 | [Clean up feature controllers in Performance page](https://github.com/flutter/devtools/issues/5100) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
-| [Port to KaiOS](https://github.com/localsend/localsend/issues/1511) 💬 4 | [localsend/localsend](https://github.com/localsend/localsend) | 99.9k | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/localsend/localsend/blob/HEAD/CONTRIBUTING.md) |
+| [Port to KaiOS](https://github.com/localsend/localsend/issues/1511) 💬 4 | [localsend/localsend](https://github.com/localsend/localsend) | 100k | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/localsend/localsend/blob/HEAD/CONTRIBUTING.md) |
 | [English translation](https://github.com/bepass-org/oblivion/issues/171) 💬 2 | [bepass-org/oblivion](https://github.com/bepass-org/oblivion) | 4.9k | 🟡 help wanted | 2026-10-09 |  |
 | [\[Feature Request\] implement a flickering method to introduce grayscale](https://github.com/fossasia/badgemagic-app/issues/1671) 💬 5 | [fossasia/badgemagic-app](https://github.com/fossasia/badgemagic-app) | 2k | 🟡 help wanted | 2026-10-08 |  |
 | [\[FR\] press Enter anywhere in the grid view to add a new row / shift + enter a new line](https://github.com/AppFlowy-IO/AppFlowy/issues/3074) 💬 3 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 79.3k | 🟡 help wanted | 2026-09-29 |  |

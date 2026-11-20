@@ -1,10 +1,10 @@
 # JavaScript issues
 
-**158** open issues (57 labeled for beginners) across **64** active JavaScript projects.
+**154** open issues (57 labeled for beginners) across **63** active JavaScript projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/javascript.xml)
 
-> Updated automatically on **2026-11-20 14:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-20 23:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [📌 Feature Request: Add "Pin to Top" or "Favorite Collection" Feature for Better Collection Management](https://github.com/usebruno/bruno/issues/4298) 💬 4 | [usebruno/bruno](https://github.com/usebruno/bruno) | 48.5k | 🟢 beginner | 2026-11-20 |  |
 | [Create Embedding](https://github.com/PipedreamHQ/pipedream/issues/22400) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.8k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/PipedreamHQ/pipedream/blob/HEAD/CONTRIBUTING.md) |
 | [GameDig Discord Server Monitoring](https://github.com/louislam/uptime-kuma/issues/4304) 💬 9 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 94.7k | 🟢 beginner | 2026-11-18 | ⚠️ AI restricted · [📘 guide](https://github.com/louislam/uptime-kuma/blob/HEAD/CONTRIBUTING.md) |
 | [\[Help\] 同步代码后不自动更新](https://github.com/maillab/cloud-mail/issues/661) 💬 2 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 16.5k | 🟡 help wanted | 2026-11-18 |  |
@@ -45,11 +46,9 @@
 | [Radar Chart Type](https://github.com/frappe/charts/issues/151) 💬 5 | [frappe/charts](https://github.com/frappe/charts) | 15.1k | 🟡 help wanted | 2026-10-31 |  |
 | [\[ACTION\]](https://github.com/PipedreamHQ/pipedream/issues/22372) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.8k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/PipedreamHQ/pipedream/blob/HEAD/CONTRIBUTING.md) |
 | [\[jsx-no-literals\] elementOverrides crashes on let without initializer](https://github.com/jsx-eslint/eslint-plugin-react/issues/4051) 💬 2 | [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) | 9.3k | 🟡 help wanted | 2026-10-29 | [📘 guide](https://github.com/jsx-eslint/eslint-plugin-react/blob/HEAD/CONTRIBUTING.md) |
-| [Please add Blazor syntax highlighter.](https://github.com/microsoft/monaco-editor/issues/2543) 💬 4 | [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) | 47k | 🟡 help wanted | 2026-10-28 | [📘 guide](https://github.com/microsoft/monaco-editor/blob/HEAD/CONTRIBUTING.md) |
 | [Parse results in multiple objects with the same key instead of one.](https://github.com/ljharb/qs/issues/241) | [ljharb/qs](https://github.com/ljharb/qs) | 8.9k | 🟡 help wanted | 2026-10-28 |  |
 | [Decoder function not being called](https://github.com/ljharb/qs/issues/284) 💬 3 | [ljharb/qs](https://github.com/ljharb/qs) | 8.9k | 🟡 help wanted | 2026-10-28 |  |
 | [\[Feature\] 开放桌宠层（状态 / 动画 / 触发器）给第三方，让开发者能做出行为不同的桌宠](https://github.com/rullerzhou-afk/clawd-on-desk/issues/1019) 💬 5 | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6.8k | 🟡 help wanted | 2026-10-28 | [📘 guide](https://github.com/rullerzhou-afk/clawd-on-desk/blob/HEAD/CONTRIBUTING.md) |
-| [📌 Feature Request: Add "Pin to Top" or "Favorite Collection" Feature for Better Collection Management](https://github.com/usebruno/bruno/issues/4298) 💬 3 | [usebruno/bruno](https://github.com/usebruno/bruno) | 48.5k | 🟢 beginner | 2026-10-26 |  |
 | [Integration: Microsoft Login / MS Graph API](https://github.com/sahat/hackathon-starter/issues/1357) 💬 2 | [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) | 35.3k | 🟡 help wanted | 2026-10-26 |  |
 | [\[ACTION\]](https://github.com/PipedreamHQ/pipedream/issues/22341) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.8k | 🟢 beginner | 2026-10-26 | [📘 guide](https://github.com/PipedreamHQ/pipedream/blob/HEAD/CONTRIBUTING.md) |
 | [Alasql 2](https://github.com/AlaSQL/alasql/issues/94) 💬 10 | [AlaSQL/alasql](https://github.com/AlaSQL/alasql) | 7.3k | 🟡 help wanted | 2026-10-25 | [📘 guide](https://github.com/AlaSQL/alasql/blob/HEAD/CONTRIBUTING.md) |
@@ -78,7 +77,6 @@
 | [animate() in Chrome triggers hundreds of HTTP requests](https://github.com/jquery/jquery/issues/4968) 💬 9 | [jquery/jquery](https://github.com/jquery/jquery) | 60.1k | 🟡 help wanted | 2026-10-12 | ✍️ CLA · [📘 guide](https://github.com/jquery/jquery/blob/HEAD/CONTRIBUTING.md) |
 | [\[Help\] 换域名了，原域名没了，改绑新域名，怎么重新初始化？ 或怎么改？](https://github.com/maillab/cloud-mail/issues/593) 💬 1 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 16.5k | 🟡 help wanted | 2026-10-12 |  |
 | [\[riddle_quiz_maker\] Update app metadata: description, logo and MCP URL](https://github.com/PipedreamHQ/pipedream/issues/21717) 💬 3 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.8k | 🟢 beginner | 2026-10-12 | [📘 guide](https://github.com/PipedreamHQ/pipedream/blob/HEAD/CONTRIBUTING.md) |
-| [TS regex missed by Monarch grammar](https://github.com/microsoft/monaco-editor/issues/2512) 💬 1 | [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) | 47k | 🟡 help wanted | 2026-10-11 | [📘 guide](https://github.com/microsoft/monaco-editor/blob/HEAD/CONTRIBUTING.md) |
 | [Typescript regression in handling functions with generic types and method chaingin in 3.2.0 compared to 3.1.0](https://github.com/prettier/prettier/issues/16080) 💬 6 | [prettier/prettier](https://github.com/prettier/prettier) | 52.4k | 🟡 help wanted | 2026-10-10 | 📄 AI policy · [📘 guide](https://github.com/prettier/prettier/blob/HEAD/CONTRIBUTING.md) |
 | [Audit proposal: Detect if React is development mode](https://github.com/GoogleChrome/lighthouse/issues/9511) 💬 8 | [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) | 31.2k | 🟢 beginner | 2026-10-09 | ✍️ CLA · [📘 guide](https://github.com/GoogleChrome/lighthouse/blob/HEAD/CONTRIBUTING.md) |
 | [Open new source to check Webhook \[TRIGGER\]](https://github.com/PipedreamHQ/pipedream/issues/21912) 💬 1 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.8k | 🟢 beginner | 2026-10-09 | [📘 guide](https://github.com/PipedreamHQ/pipedream/blob/HEAD/CONTRIBUTING.md) |
@@ -101,7 +99,6 @@
 | [Change the shortcut keys in tooltip titles to show 'cmd' on Mac instead of 'ctrl'](https://github.com/josdejong/jsoneditor/issues/1628) 💬 12 | [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) | 12.3k | 🟡 help wanted | 2026-09-13 | [📘 guide](https://github.com/josdejong/jsoneditor/blob/HEAD/CONTRIBUTING.md) |
 | [Implement an option to enable/disable date tags](https://github.com/josdejong/jsoneditor/issues/1553) 💬 5 | [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) | 12.3k | 🟡 help wanted | 2026-09-13 | [📘 guide](https://github.com/josdejong/jsoneditor/blob/HEAD/CONTRIBUTING.md) |
 | [enum dropdown in anyOf \\ oneOf](https://github.com/josdejong/jsoneditor/issues/1653) 💬 2 | [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) | 12.3k | 🟡 help wanted | 2026-09-13 | [📘 guide](https://github.com/josdejong/jsoneditor/blob/HEAD/CONTRIBUTING.md) |
-| [\[Bug\] Instructions for integrating with Vite don't work](https://github.com/microsoft/monaco-editor/issues/4045) 💬 8 | [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) | 47k | 🟡 help wanted | 2026-09-11 | [📘 guide](https://github.com/microsoft/monaco-editor/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\]: Background image is rendered at an incorrect size after box zoom followed by mouse wheel zoom out](https://github.com/plotly/plotly.js/issues/7914) 💬 8 | [plotly/plotly.js](https://github.com/plotly/plotly.js) | 18.4k | 🟢 beginner | 2026-09-09 | ⚠️ AI restricted · [📘 guide](https://github.com/plotly/plotly.js/blob/HEAD/CONTRIBUTING.md) |
 | [Decision tree visualization](https://github.com/lutzroeder/netron/issues/180) 💬 1 | [lutzroeder/netron](https://github.com/lutzroeder/netron) | 33.7k | 🟡 help wanted | 2026-09-08 | [📘 guide](https://github.com/lutzroeder/netron/blob/HEAD/CONTRIBUTING.md) |
 | [Resize to non-proper scaling and checkmark effect](https://github.com/fengyuanchen/compressorjs/issues/182) 💬 3 | [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) | 5.8k | 🟡 help wanted | 2026-09-07 | [📘 guide](https://github.com/fengyuanchen/compressorjs/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -166,7 +163,6 @@
 | [WebGL Error Triggered by 'noSmooth()' Invocation Between Framebuffer Creation and Drawing on Framebuffer](https://github.com/processing/p5.js/issues/6369) 💬 2 | [processing/p5.js](https://github.com/processing/p5.js) | 24.4k | 🟡 help wanted | 2026-06-09 | ⚠️ AI restricted · [📘 guide](https://github.com/processing/p5.js/blob/HEAD/CONTRIBUTING.md) |
 | [difference between inline and inline-block should include discussion about replaced / non-replaced elements](https://github.com/yangshun/front-end-interview-handbook/issues/160) 💬 3 | [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 44k | 🟡 help wanted | 2026-06-05 | [📘 guide](https://github.com/yangshun/front-end-interview-handbook/blob/HEAD/CONTRIBUTING.md) |
 | [这是什么情况？](https://github.com/maillab/cloud-mail/issues/430) 💬 1 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 16.5k | 🟡 help wanted | 2026-06-03 |  |
-| [\[Bug\] Incorrect Raw String Literals formatting](https://github.com/microsoft/monaco-editor/issues/5085) | [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) | 47k | 🟡 help wanted | 2026-06-02 | [📘 guide](https://github.com/microsoft/monaco-editor/blob/HEAD/CONTRIBUTING.md) |
 | [Support for Top-Level Global Mode](https://github.com/processing/p5.js/issues/7737) 💬 35 | [processing/p5.js](https://github.com/processing/p5.js) | 24.4k | 🟡 help wanted | 2026-06-01 | ⚠️ AI restricted · [📘 guide](https://github.com/processing/p5.js/blob/HEAD/CONTRIBUTING.md) |
 | [Add ping graph on the status page](https://github.com/louislam/uptime-kuma/issues/637) 💬 35 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 94.7k | 🟡 help wanted | 2026-05-27 | ⚠️ AI restricted · [📘 guide](https://github.com/louislam/uptime-kuma/blob/HEAD/CONTRIBUTING.md) |
 | [Expose Fuse to be used independently](https://github.com/Choices-js/Choices/issues/1370) 💬 1 | [Choices-js/Choices](https://github.com/Choices-js/Choices) | 6.8k | 🟢 beginner | 2026-05-25 | [📘 guide](https://github.com/Choices-js/Choices/blob/HEAD/CONTRIBUTING.md) |

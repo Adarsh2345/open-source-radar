@@ -2,7 +2,7 @@
 
 **79** open issues (29 labeled for beginners) across **18** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
 
-> Updated automatically on **2026-11-20 14:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-20 23:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +10,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Do not offer "free entry to park" or "half-price entry to park" if there is no admission fee](https://github.com/OpenRCT2/OpenRCT2/issues/14778) 💬 5 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.6k | 🟢 beginner | 2026-11-20 | [📘 guide](https://github.com/OpenRCT2/OpenRCT2/blob/HEAD/CONTRIBUTING.md) |
+| [Widgets are still using dynamic colors when dynamic theme is off](https://github.com/kylecorry31/Trail-Sense/issues/4186) | [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) | 3k | 🟡 help wanted | 2026-11-20 | [📘 guide](https://github.com/kylecorry31/Trail-Sense/blob/HEAD/CONTRIBUTING.md) |
 | [Slightly rework UV and oxygen tolerance tooltips to match the new feature changes](https://github.com/Revolutionary-Games/Thrive/issues/7537) | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.9k | 🟢 beginner | 2026-11-18 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
 | [Memory scalability issues in univariate feature selection](https://github.com/scikit-learn/scikit-learn/issues/1651) 💬 8 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 68.3k | 🟡 help wanted | 2026-11-13 | 🤖 disclose AI use · [📘 guide](https://github.com/scikit-learn/scikit-learn/blob/HEAD/CONTRIBUTING.md) |
 | [Core.bitcast to LLVMPtr from Float64 generates invalid inttoptr, aborts compilation](https://github.com/JuliaLang/julia/issues/63218) 💬 6 | [JuliaLang/julia](https://github.com/JuliaLang/julia) | 49.3k | 🟢 beginner | 2026-11-13 | 🤖 disclose AI use · [📘 guide](https://github.com/JuliaLang/julia/blob/HEAD/CONTRIBUTING.md) |
@@ -42,7 +44,6 @@
 | [Add description in error banners](https://github.com/kylecorry31/Trail-Sense/issues/2509) 💬 1 | [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) | 3k | 🟡 help wanted | 2026-11-12 | [📘 guide](https://github.com/kylecorry31/Trail-Sense/blob/HEAD/CONTRIBUTING.md) |
 | [Improve frequency abbreviation for backtrack](https://github.com/kylecorry31/Trail-Sense/issues/2529) 💬 2 | [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) | 3k | 🟡 help wanted | 2026-11-12 | [📘 guide](https://github.com/kylecorry31/Trail-Sense/blob/HEAD/CONTRIBUTING.md) |
 | [Calibrate accelerometer / bubble level](https://github.com/kylecorry31/Trail-Sense/issues/1025) | [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) | 3k | 🟡 help wanted | 2026-11-12 | [📘 guide](https://github.com/kylecorry31/Trail-Sense/blob/HEAD/CONTRIBUTING.md) |
-| [Don't show the solar panel instructions more than once](https://github.com/kylecorry31/Trail-Sense/issues/2565) | [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) | 3k | 🟡 help wanted | 2026-11-12 | [📘 guide](https://github.com/kylecorry31/Trail-Sense/blob/HEAD/CONTRIBUTING.md) |
 | [Draw shaded polygons, lines, and arcs](https://github.com/Stellarium/stellarium/issues/3144) 💬 5 | [Stellarium/stellarium](https://github.com/Stellarium/stellarium) | 10.2k | 🟡 help wanted | 2026-11-10 | [📘 guide](https://github.com/Stellarium/stellarium/blob/HEAD/CONTRIBUTING.md) |
 | [Other worlds: Moon and Mars as alternate globes](https://github.com/bilawalsidhu/gods-eye-view/issues/738) 💬 7 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 66.1k | 🟡 help wanted | 2026-11-07 | [📘 guide](https://github.com/bilawalsidhu/gods-eye-view/blob/HEAD/CONTRIBUTING.md) |
 | [Crash just after loading screen due to 'ERROR: Parameter "tex" is null'](https://github.com/Revolutionary-Games/Thrive/issues/6981) 💬 12 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.9k | 🟡 help wanted | 2026-11-06 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
@@ -53,7 +54,6 @@
 | [Allow batch based metrics calculation of sklearn.metrics](https://github.com/scikit-learn/scikit-learn/issues/31554) 💬 24 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 68.3k | 🟡 help wanted | 2026-10-23 | 🤖 disclose AI use · [📘 guide](https://github.com/scikit-learn/scikit-learn/blob/HEAD/CONTRIBUTING.md) |
 | [Improve reinterpret docstring](https://github.com/JuliaLang/julia/issues/47706) 💬 3 | [JuliaLang/julia](https://github.com/JuliaLang/julia) | 49.3k | 🟡 help wanted | 2026-10-19 | 🤖 disclose AI use · [📘 guide](https://github.com/JuliaLang/julia/blob/HEAD/CONTRIBUTING.md) |
 | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16126) 💬 2 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6k | 🟢 beginner | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/stdlib-js/stdlib/blob/HEAD/CONTRIBUTING.md) |
-| [Do not offer "free entry to park" or "half-price entry to park" if there is no admission fee](https://github.com/OpenRCT2/OpenRCT2/issues/14778) 💬 4 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.6k | 🟢 beginner | 2026-10-05 | [📘 guide](https://github.com/OpenRCT2/OpenRCT2/blob/HEAD/CONTRIBUTING.md) |
 | [Report your benchmark results here!](https://github.com/ProjectPhysX/FluidX3D/issues/8) 💬 278 | [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) | 5.4k | 🟡 help wanted | 2026-09-29 |  |
 | [docs: provide a cargo-generate starter template](https://github.com/tracel-ai/burn/issues/282) 💬 8 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16.3k | 🟢 beginner | 2026-09-28 | 🤖 disclose AI use · [📘 guide](https://github.com/tracel-ai/burn/blob/HEAD/CONTRIBUTING.md) |
 | [Remove Safari 9 WebGL constants workaround](https://github.com/CesiumGS/cesium/issues/5315) 💬 3 | [CesiumGS/cesium](https://github.com/CesiumGS/cesium) | 16k | 🟢 beginner | 2026-09-28 | ✍️ CLA · [📘 guide](https://github.com/CesiumGS/cesium/blob/HEAD/CONTRIBUTING.md) |
