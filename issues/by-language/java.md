@@ -1,10 +1,10 @@
 # Java issues
 
-**287** open issues (115 labeled for beginners) across **80** active Java projects.
+**286** open issues (115 labeled for beginners) across **80** active Java projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/java.xml)
 
-> Updated automatically on **2026-11-19 15:13 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-20 00:15 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,23 +12,22 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Unable to log out via external IdP if external session terminated](https://github.com/keycloak/keycloak/issues/14451) 💬 10 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 38k | 🟡 help wanted | 2026-11-19 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/keycloak/keycloak/blob/HEAD/CONTRIBUTING.md) |
+| [Backfill never runs when the flow has a DATE or TIME input](https://github.com/kestra-io/kestra/issues/22959) | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30.3k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Bug\]\[Zeta\] ResourceRequestHandler#request never completes for an empty resource profile list](https://github.com/apache/seatunnel/issues/13356) 💬 1 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-19 | ✍️ CLA |
 | [\[Bug\]\[Zeta\] Fixed-slot ownership has no lease or reconciliation, so lost allocation responses permanently leak](https://github.com/apache/seatunnel/issues/13346) 💬 1 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-19 | ✍️ CLA |
 | [\[Improve\]\[Zeta\] Fixed-slot heartbeat and allocation do not scale with large slot-num](https://github.com/apache/seatunnel/issues/13355) | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-19 | ✍️ CLA |
 | [\[Improve\]\[Zeta\] Static-slot REST/diagnostics report unallocatable heap as free and CPU as zero](https://github.com/apache/seatunnel/issues/13354) | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-19 | ✍️ CLA |
 | [\[Improve\]\[Zeta\] Fixed slots advertise CPU=0 and fixed heap slices, so static mode cannot honor or enforce real](https://github.com/apache/seatunnel/issues/13353) | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-19 | ✍️ CLA |
 | [\[Bug\]\[Zeta\] Slot allocation strategy state is global and reset by every job's pre-apply](https://github.com/apache/seatunnel/issues/13352) | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-19 | ✍️ CLA |
-| [\[Bug\]\[Zeta\] Slot-request retry blocks the Hazelcast completion thread and retries three times without backoff](https://github.com/apache/seatunnel/issues/13350) | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-19 | ✍️ CLA |
 | [\[Bug\]\[Zeta\] Fixed-slot allocation uses a stale heartbeat snapshot without reservation, causing spurious NoEnou](https://github.com/apache/seatunnel/issues/13349) | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-19 | ✍️ CLA |
 | [\[Bug\]\[Zeta\] Pipeline restore releases every slot before re-acquiring and consumes job.retry.times on allocatio](https://github.com/apache/seatunnel/issues/13348) | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-19 | ✍️ CLA |
-| [\[Bug\]\[Zeta\] DefaultSlotService#reset() lifecycle flag is inverted and can wipe live fixed-slot state](https://github.com/apache/seatunnel/issues/13347) | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-19 | ✍️ CLA |
 | [\[Bug\]\[Zeta\] Master failover pre-applies fixed slots for task groups that will never be redeployed](https://github.com/apache/seatunnel/issues/13345) | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-19 | ✍️ CLA |
 | [\[Bug\]\[Zeta\] Pre-applied fixed slots leak when a pending job is cancelled or the scheduler epoch is invalidated](https://github.com/apache/seatunnel/issues/13344) | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-19 | ✍️ CLA |
 | [\[Bug\]\[Zeta\] One corrupted stored checkpoint aborts the whole restore instead of falling back to older checkpoi](https://github.com/apache/seatunnel/issues/13321) 💬 3 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-19 | ✍️ CLA |
 | [\[Bug\]\[Zeta\] completedCheckpointIds survives restores and records ids before storage succeeds](https://github.com/apache/seatunnel/issues/13322) 💬 3 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-19 | ✍️ CLA |
 | [列实现纵向分组后的同组其他列数据进行求和并且合并单元格显示](https://github.com/jeecgboot/jimureport/issues/4849) | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.6k | 🟡 help wanted | 2026-11-19 |  |
 | [pgwire: more than 32,767 bind parameters fail with 'Illegal Capacity: -N'](https://github.com/crate/crate/issues/20597) 💬 3 | [crate/crate](https://github.com/crate/crate) | 4.5k | 🟡 help wanted | 2026-11-19 | ⚠️ AI restricted · ✍️ CLA · [📘 guide](https://github.com/crate/crate/blob/HEAD/CONTRIBUTING.rst) |
-| [\[Docker\] Run the server image as uid 100:101 so 'runAsNonRoot' works without 'runAsUser'](https://github.com/unitycatalog/unitycatalog/issues/2283) 💬 1 | [unitycatalog/unitycatalog](https://github.com/unitycatalog/unitycatalog) | 3.6k | 🟢 beginner | 2026-11-19 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/unitycatalog/unitycatalog/blob/HEAD/CONTRIBUTING.md) |
 | [Ineffective "Valid post logout redirect URIs" in SAML Client GUI; misleading documentation.](https://github.com/keycloak/keycloak/issues/54563) 💬 3 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 38k | 🟡 help wanted | 2026-11-18 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/keycloak/keycloak/blob/HEAD/CONTRIBUTING.md) |
 | [Expose Netty ioHandler configuration](https://github.com/eclipse-vertx/vert.x/issues/6105) 💬 10 | [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x) | 14.7k | 🟡 help wanted | 2026-11-18 | 🤖 disclose AI use · ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/eclipse-vertx/vert.x/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]\[Zeta\] An exception in JobMaster.cleanJob() leaves jobMasterCompleteFuture incomplete, hanging the coordi](https://github.com/apache/seatunnel/issues/13316) 💬 1 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-18 | ✍️ CLA |
@@ -212,5 +211,6 @@
 | [Offer a mechanism to bootstrap / provision a new Dependency-Track instance](https://github.com/DependencyTrack/dependency-track/issues/6193) 💬 2 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.5k | 🟡 help wanted | 2026-08-24 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/DependencyTrack/dependency-track/blob/HEAD/CONTRIBUTING.md) |
 | [Cache metrics for http clients](https://github.com/micrometer-metrics/micrometer/issues/1700) 💬 2 | [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) | 4.9k | 🟡 help wanted | 2026-08-23 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/micrometer-metrics/micrometer/blob/HEAD/CONTRIBUTING.md) |
 | [Support for greek locale](https://github.com/dbeaver/dbeaver/issues/7932) 💬 4 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 52.5k | 🟡 help wanted | 2026-08-21 | 🤖 disclose AI use · [📘 guide](https://github.com/dbeaver/dbeaver/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Configure heartbeat interval and election timeout](https://github.com/camunda/camunda/issues/3096) 💬 9 | [camunda/camunda](https://github.com/camunda/camunda) | 4.4k | 🟢 beginner | 2026-08-21 | ✍️ CLA · [📘 guide](https://github.com/camunda/camunda/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 287 on the website.
+Showing the 200 most recently updated. See all 286 on the website.

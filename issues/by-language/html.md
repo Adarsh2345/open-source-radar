@@ -1,10 +1,10 @@
 # HTML issues
 
-**97** open issues (38 labeled for beginners) across **30** active HTML projects.
+**96** open issues (37 labeled for beginners) across **30** active HTML projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/html.xml)
 
-> Updated automatically on **2026-11-19 15:13 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-20 00:15 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -18,7 +18,6 @@
 | [New scraper: 'laag' (Louisiana Attorney General opinions)](https://github.com/freelawproject/juriscraper/issues/2355) | [freelawproject/juriscraper](https://github.com/freelawproject/juriscraper) | 662 | 🟢 beginner | 2026-11-17 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/freelawproject/juriscraper/blob/HEAD/CONTRIBUTING.md) |
 | [New scraper: 'flaag' (Florida Attorney General opinions)](https://github.com/freelawproject/juriscraper/issues/2358) | [freelawproject/juriscraper](https://github.com/freelawproject/juriscraper) | 662 | 🟢 beginner | 2026-11-17 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/freelawproject/juriscraper/blob/HEAD/CONTRIBUTING.md) |
 | [New scraper: 'wisag' (Wisconsin Attorney General opinions)](https://github.com/freelawproject/juriscraper/issues/2398) | [freelawproject/juriscraper](https://github.com/freelawproject/juriscraper) | 662 | 🟢 beginner | 2026-11-17 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/freelawproject/juriscraper/blob/HEAD/CONTRIBUTING.md) |
-| [New scraper: 'kanag' (Kansas Attorney General opinions)](https://github.com/freelawproject/juriscraper/issues/2401) | [freelawproject/juriscraper](https://github.com/freelawproject/juriscraper) | 662 | 🟢 beginner | 2026-11-17 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/freelawproject/juriscraper/blob/HEAD/CONTRIBUTING.md) |
 | [New scraper: 'coloag' (Colorado Attorney General opinions)](https://github.com/freelawproject/juriscraper/issues/2404) | [freelawproject/juriscraper](https://github.com/freelawproject/juriscraper) | 662 | 🟢 beginner | 2026-11-17 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/freelawproject/juriscraper/blob/HEAD/CONTRIBUTING.md) |
 | [Gallery: contribute an HTML email newsletter to awesome-open-design](https://github.com/feimacode/open-design-agent-kit/issues/148) | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 1.2k | 🟢 beginner | 2026-11-13 | [📘 guide](https://github.com/feimacode/open-design-agent-kit/blob/HEAD/CONTRIBUTING.md) |
 | [Gallery: contribute a business card design to awesome-open-design](https://github.com/feimacode/open-design-agent-kit/issues/147) | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 1.2k | 🟢 beginner | 2026-11-13 | [📘 guide](https://github.com/feimacode/open-design-agent-kit/blob/HEAD/CONTRIBUTING.md) |
@@ -104,7 +103,7 @@
 | [Windows build fails due to 'chmod' command not recognized](https://github.com/nexu-io/html-video/issues/27) 💬 10 | [nexu-io/html-video](https://github.com/nexu-io/html-video) | 4.9k | 🟢 beginner | 2026-06-13 | ✍️ CLA · [📘 guide](https://github.com/nexu-io/html-video/blob/HEAD/CONTRIBUTING.md) |
 | [Moving away from Anki](https://github.com/badlydrawnrob/anki/issues/181) | [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki) | 940 | 🟡 help wanted | 2026-06-12 |  |
 | [Develop example of a datagrid with advanced, spreadsheet-like features](https://github.com/w3c/aria-practices/issues/155) 💬 19 | [w3c/aria-practices](https://github.com/w3c/aria-practices) | 1.4k | 🟡 help wanted | 2026-06-10 | [📘 guide](https://github.com/w3c/aria-practices/blob/HEAD/CONTRIBUTING.md) |
-| [\[Worlds Without Number\] Text is barely readable/showing the wrong color in the roll macro window](https://github.com/Roll20/roll20-character-sheets/issues/13773) 💬 3 | [Roll20/roll20-character-sheets](https://github.com/Roll20/roll20-character-sheets) | 1.3k | 🟢 beginner | 2026-06-10 |  |
+| [\[Worlds Without Number\] Text is barely readable/showing the wrong color in the roll macro window](https://github.com/Roll20/roll20-character-sheets/issues/13773) 💬 3 | [Roll20/roll20-character-sheets](https://github.com/Roll20/roll20-character-sheets) | 1.2k | 🟢 beginner | 2026-06-10 |  |
 | [Ability to specify custom error page](https://github.com/projectcontour/contour/issues/320) 💬 16 | [projectcontour/contour](https://github.com/projectcontour/contour) | 4k | 🟡 help wanted | 2026-06-07 | 🔏 DCO · [📘 guide](https://github.com/projectcontour/contour/blob/HEAD/CONTRIBUTING.md) |
 | [Update theme demo site screenshots](https://github.com/hugo-sid/hugo-blog-awesome/issues/226) | [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) | 811 | 🟢 beginner | 2026-06-07 | [📘 guide](https://github.com/hugo-sid/hugo-blog-awesome/blob/HEAD/CONTRIBUTING.md) |
 | [中文对话产生乱码(可修)](https://github.com/nexu-io/html-video/issues/9) 💬 7 | [nexu-io/html-video](https://github.com/nexu-io/html-video) | 4.9k | 🟡 help wanted | 2026-06-06 | ✍️ CLA · [📘 guide](https://github.com/nexu-io/html-video/blob/HEAD/CONTRIBUTING.md) |
