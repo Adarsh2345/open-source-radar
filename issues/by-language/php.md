@@ -1,10 +1,10 @@
 # PHP issues
 
-**134** open issues (64 labeled for beginners) across **44** active PHP projects.
+**133** open issues (63 labeled for beginners) across **44** active PHP projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-11-20 00:15 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-20 14:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -17,7 +17,6 @@
 | [Provide config option to autofocus Username field on login page](https://github.com/phpmyadmin/phpmyadmin/issues/19340) 💬 9 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 8k | 🟢 beginner | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/phpmyadmin/phpmyadmin/blob/HEAD/CONTRIBUTING.md) |
 | [\[Store\] Sorting Store Bridges with Doctrine Reference/Dependency](https://github.com/symfony/ai/issues/2952) 💬 2 | [symfony/ai](https://github.com/symfony/ai) | 1.3k | 🟡 help wanted | 2026-11-16 | [📘 guide](https://github.com/symfony/ai/blob/HEAD/CONTRIBUTING.md) |
 | [FEATURE: A "Guardian" Role in the Kiosk System](https://github.com/ChurchCRM/CRM/issues/8850) 💬 6 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
-| [Feature: Retained data in fields when adding payments to deposit slips](https://github.com/ChurchCRM/CRM/issues/11185) 💬 2 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Feature Request: Link Related Families / Family Relationships](https://github.com/ChurchCRM/CRM/issues/9968) 💬 1 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [FEATURE: Ability to customize the column fields for Sunday School](https://github.com/ChurchCRM/CRM/issues/8529) 💬 4 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Inconsistent Output Format when performing CSV Export by Families](https://github.com/ChurchCRM/CRM/issues/1375) 💬 18 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
@@ -53,7 +52,7 @@
 | [Missing translations for Belarusian (be)](https://github.com/symfony/symfony/issues/64483) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Azerbaijani (az)](https://github.com/symfony/symfony/issues/64482) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Afrikaans (af)](https://github.com/symfony/symfony/issues/64478) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
-| [\[Bug\] : Event resolution missing on speakers archive and invisible hover text on speaker profile](https://github.com/fossasia/WPFAevent/issues/312) 💬 10 | [fossasia/WPFAevent](https://github.com/fossasia/WPFAevent) | 827 | 🟢 beginner | 2026-10-25 |  |
+| [\[Bug\] : Event resolution missing on speakers archive and invisible hover text on speaker profile](https://github.com/fossasia/WPFAevent/issues/312) 💬 10 | [fossasia/WPFAevent](https://github.com/fossasia/WPFAevent) | 828 | 🟢 beginner | 2026-10-25 |  |
 | [Missing translations for Tagalog (tl)](https://github.com/symfony/symfony/issues/67434) | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Norwegian Bokmål (nb)](https://github.com/symfony/symfony/issues/64507) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [RepeaterFieldTest::testFieldOnAcfBlock is stubbed out because it fails when run with the full wpunit suite](https://github.com/wp-graphql/wp-graphql/issues/4555) 💬 1 | [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql) | 3.8k | 🟡 help wanted | 2026-10-23 | [📘 guide](https://github.com/wp-graphql/wp-graphql/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -111,7 +110,7 @@
 | [\[Feature Request/Bug\] reordering feeds within a category](https://github.com/FreshRSS/FreshRSS/issues/3527) 💬 5 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.6k | 🟢 beginner | 2026-08-14 | [📘 guide](https://github.com/FreshRSS/FreshRSS/blob/HEAD/CONTRIBUTING.md) |
 | [Setup Onboarding Login-Flow (for Enforce 2FA)](https://github.com/WordPress/two-factor/issues/813) 💬 3 | [WordPress/two-factor](https://github.com/WordPress/two-factor) | 828 | 🟡 help wanted | 2026-08-10 | 🤖 disclose AI use |
 | [docker UID/GID environment settings?](https://github.com/FreshRSS/FreshRSS/issues/2400) 💬 6 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.6k | 🟡 help wanted | 2026-08-09 | [📘 guide](https://github.com/FreshRSS/FreshRSS/blob/HEAD/CONTRIBUTING.md) |
-| [Scaled instances and the deletion problem](https://github.com/HaschekSolutions/pictshare/issues/80) 💬 8 | [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) | 954 | 🟡 help wanted | 2026-08-09 |  |
+| [Scaled instances and the deletion problem](https://github.com/HaschekSolutions/pictshare/issues/80) 💬 8 | [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) | 955 | 🟡 help wanted | 2026-08-09 |  |
 | [Email address InlineEdit not working (Contact, Account, ...) in SuiteCRM 7.x](https://github.com/SuiteCRM/SuiteCRM/issues/9762) 💬 10 | [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) | 5.9k | 🟡 help wanted | 2026-08-04 | ✍️ CLA · [📘 guide](https://github.com/SuiteCRM/SuiteCRM/blob/HEAD/.github/CONTRIBUTING.md) |
 | [🚀 \| Support displays on future3](https://github.com/MiczFlor/RPi-Jukebox-RFID/issues/2364) 💬 9 | [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) | 1.8k | 🟡 help wanted | 2026-08-03 | [📘 guide](https://github.com/MiczFlor/RPi-Jukebox-RFID/blob/HEAD/CONTRIBUTING.md) |
 | [🚀 \| Version Upgrades](https://github.com/MiczFlor/RPi-Jukebox-RFID/issues/2304) 💬 2 | [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) | 1.8k | 🟡 help wanted | 2026-08-03 | [📘 guide](https://github.com/MiczFlor/RPi-Jukebox-RFID/blob/HEAD/CONTRIBUTING.md) |

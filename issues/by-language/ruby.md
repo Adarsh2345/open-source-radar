@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-11-20 00:15 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-20 14:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -75,7 +75,7 @@
 | [class com.sun.nio.file.ExtendedOpenOption cannot access class jdk.internal.misc.FileSystemOption](https://github.com/jruby/jruby/issues/7835) 💬 7 | [jruby/jruby](https://github.com/jruby/jruby) | 3.9k | 🟢 beginner | 2026-07-09 | ⚠️ AI restricted · [📘 guide](https://github.com/jruby/jruby/blob/HEAD/CONTRIBUTING.md) |
 | [Links in Description](https://github.com/manyfold3d/manyfold/issues/4944) 💬 3 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.3k | 🟢 beginner | 2026-07-08 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Support 'distinct' when it comes to further association chaining](https://github.com/neo4jrb/activegraph/issues/1340) 💬 3 | [neo4jrb/activegraph](https://github.com/neo4jrb/activegraph) | 1.4k | 🟢 beginner | 2026-07-06 | [📘 guide](https://github.com/neo4jrb/activegraph/blob/HEAD/CONTRIBUTING.md) |
-| [Upload form missing a number of options](https://github.com/e621ng/e621ng/issues/1794) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 591 | 🟢 beginner | 2026-06-30 |  |
+| [Upload form missing a number of options](https://github.com/e621ng/e621ng/issues/1794) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 593 | 🟢 beginner | 2026-06-30 |  |
 | [Disown CTA has unique focus and hover effect](https://github.com/lobsters/lobsters/issues/2099) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-06-24 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Create Huginn iPhone / Android app](https://github.com/huginn/huginn/issues/166) 💬 19 | [huginn/huginn](https://github.com/huginn/huginn) | 50.6k | 🟡 help wanted | 2026-06-20 | [📘 guide](https://github.com/huginn/huginn/blob/HEAD/CONTRIBUTING.md) |
 | [add also "open in Anycubic Slicer Next"](https://github.com/manyfold3d/manyfold/issues/5823) 💬 2 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.3k | 🟢 beginner | 2026-06-19 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -88,4 +88,4 @@
 | [bug?: "prompted for a comment when submitting this entry because of a similar entry"](https://github.com/lobsters/lobsters/issues/2069) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-06-11 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [New comment appears at the top of parent when replying in isolated form](https://github.com/lobsters/lobsters/issues/2061) 💬 2 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-06-11 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Redesign VM Reconfigure Dialogs](https://github.com/ManageIQ/manageiq/issues/23832) | [ManageIQ/manageiq](https://github.com/ManageIQ/manageiq) | 1.4k | 🟡 help wanted | 2026-06-03 | [📘 guide](https://github.com/ManageIQ/manageiq/blob/HEAD/CONTRIBUTING.md) |
-| [Clean up github-based projects in catalog](https://github.com/rubytoolbox/rubytoolbox/issues/75) 💬 2 | [rubytoolbox/rubytoolbox](https://github.com/rubytoolbox/rubytoolbox) | 549 | 🟡 help wanted | 2026-05-26 |  |
+| [Clean up github-based projects in catalog](https://github.com/rubytoolbox/rubytoolbox/issues/75) 💬 2 | [rubytoolbox/rubytoolbox](https://github.com/rubytoolbox/rubytoolbox) | 550 | 🟡 help wanted | 2026-05-26 |  |
