@@ -1,10 +1,10 @@
 # PHP issues
 
-**134** open issues (64 labeled for beginners) across **44** active PHP projects.
+**131** open issues (60 labeled for beginners) across **44** active PHP projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-11-20 23:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-21 14:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,15 +12,15 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Gmail inline replies are truncated when using gmail_quote_container (FreeScout 1.8.251)](https://github.com/freescout-help-desk/freescout/issues/5825) 💬 4 | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4.7k | 🟡 help wanted | 2026-11-21 |  |
+| [CSV Import does not support Role](https://github.com/ChurchCRM/CRM/issues/2975) 💬 3 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-21 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-11-20 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
-| [Link the logging docs from the bootstrap failure pages and the error-report flow](https://github.com/ChurchCRM/CRM/issues/11825) | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-20 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [net/haproxy: per-certificate (SNI) client certificate verification (mTLS) in Public Service](https://github.com/opnsense/plugins/issues/5934) | [opnsense/plugins](https://github.com/opnsense/plugins) | 1.2k | 🟡 help wanted | 2026-11-18 | 🤖 disclose AI use · [📘 guide](https://github.com/opnsense/plugins/blob/HEAD/CONTRIBUTING.md) |
 | [Provide config option to autofocus Username field on login page](https://github.com/phpmyadmin/phpmyadmin/issues/19340) 💬 9 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 8k | 🟢 beginner | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/phpmyadmin/phpmyadmin/blob/HEAD/CONTRIBUTING.md) |
 | [\[Store\] Sorting Store Bridges with Doctrine Reference/Dependency](https://github.com/symfony/ai/issues/2952) 💬 2 | [symfony/ai](https://github.com/symfony/ai) | 1.3k | 🟡 help wanted | 2026-11-16 | [📘 guide](https://github.com/symfony/ai/blob/HEAD/CONTRIBUTING.md) |
 | [FEATURE: A "Guardian" Role in the Kiosk System](https://github.com/ChurchCRM/CRM/issues/8850) 💬 6 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Feature Request: Link Related Families / Family Relationships](https://github.com/ChurchCRM/CRM/issues/9968) 💬 1 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [FEATURE: Ability to customize the column fields for Sunday School](https://github.com/ChurchCRM/CRM/issues/8529) 💬 4 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
-| [Inconsistent Output Format when performing CSV Export by Families](https://github.com/ChurchCRM/CRM/issues/1375) 💬 18 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Event notification: member demographic change](https://github.com/ChurchCRM/CRM/issues/11491) | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Event notification: new note added to a family](https://github.com/ChurchCRM/CRM/issues/11488) | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Event notification: new family added](https://github.com/ChurchCRM/CRM/issues/11487) | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
@@ -28,9 +28,6 @@
 | [Feature: Customize home dashboard](https://github.com/ChurchCRM/CRM/issues/8559) 💬 3 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Feature request: Add additional field to People Directory Report](https://github.com/ChurchCRM/CRM/issues/7286) 💬 13 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Attendance not showing demographics](https://github.com/ChurchCRM/CRM/issues/5619) 💬 6 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
-| [Events offering](https://github.com/ChurchCRM/CRM/issues/261) 💬 6 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
-| [Feature Request:- Add support for Groups in CSV import/export](https://github.com/ChurchCRM/CRM/issues/4315) 💬 8 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
-| [Create attendance sheet \| only Sundays?](https://github.com/ChurchCRM/CRM/issues/5314) 💬 4 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Enable type safety, unused-symbol and definition-order lint rules](https://github.com/LibreSign/libresign/issues/9502) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 847 | 🟡 help wanted | 2026-11-14 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |
 | [Enable import-extension and TypeScript type-import rules](https://github.com/LibreSign/libresign/issues/9501) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 847 | 🟡 help wanted | 2026-11-14 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |
 | [Enable import sorting while preserving import side effects](https://github.com/LibreSign/libresign/issues/9500) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 847 | 🟡 help wanted | 2026-11-14 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |

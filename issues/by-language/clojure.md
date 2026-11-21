@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/clojure.xml)
 
-> Updated automatically on **2026-11-20 23:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-21 14:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,12 +12,12 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [What companies or projects are using Datalevin?](https://github.com/datalevin/datalevin/issues/383) 💬 8 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1.5k | 🟡 help wanted | 2026-11-21 |  |
 | [selectors return new object every time causing unnecessary re-renderings](https://github.com/metabase/metabase/issues/52312) 💬 4 | [metabase/metabase](https://github.com/metabase/metabase) | 50.5k | 🟢 beginner | 2026-11-04 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Show when a subscription or alert was skipped because it was empty](https://github.com/metabase/metabase/issues/80736) 💬 4 | [metabase/metabase](https://github.com/metabase/metabase) | 50.5k | 🟢 beginner | 2026-10-23 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [An authentication rule's remoteAddress should match a CIDR block, as the docs say](https://github.com/xtdb/xtdb/issues/6282) | [xtdb/xtdb](https://github.com/xtdb/xtdb) | 3.1k | 🟢 beginner | 2026-10-23 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/xtdb/xtdb/blob/HEAD/CONTRIBUTING.md) |
 | [Redundant scrollbar shows when scrolling a container that contains tooltips](https://github.com/metabase/metabase/issues/83643) 💬 2 | [metabase/metabase](https://github.com/metabase/metabase) | 50.5k | 🟢 beginner | 2026-10-22 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Improve the Open Decklists' deckview.](https://github.com/mtgred/netrunner/issues/7890) 💬 1 | [mtgred/netrunner](https://github.com/mtgred/netrunner) | 990 | 🟢 beginner | 2026-10-19 | [📘 guide](https://github.com/mtgred/netrunner/blob/HEAD/CONTRIBUTING.md) |
-| [What companies or projects are using Datalevin?](https://github.com/datalevin/datalevin/issues/383) 💬 7 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1.5k | 🟡 help wanted | 2026-10-07 |  |
 | [Web Search Tool](https://github.com/editor-code-assistant/eca/issues/70) 💬 8 | [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) | 1.1k | 🟢 beginner | 2026-09-15 |  |
 | [Queries doesnt respect styled CSS tags](https://github.com/logseq/logseq/issues/6060) 💬 2 | [logseq/logseq](https://github.com/logseq/logseq) | 45.7k | 🟢 beginner | 2026-09-06 | ✍️ CLA · [📘 guide](https://github.com/logseq/logseq/blob/HEAD/CONTRIBUTING.md) |
 | [Hide parts of schema in OpenAPI spec](https://github.com/metosin/malli/issues/1309) 💬 1 | [metosin/malli](https://github.com/metosin/malli) | 1.8k | 🟡 help wanted | 2026-08-25 | [📘 guide](https://github.com/metosin/malli/blob/HEAD/CONTRIBUTING.md) |

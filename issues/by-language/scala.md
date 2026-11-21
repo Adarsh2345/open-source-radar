@@ -1,10 +1,10 @@
 # Scala issues
 
-**31** open issues (13 labeled for beginners) across **17** active Scala projects.
+**30** open issues (13 labeled for beginners) across **16** active Scala projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-11-20 23:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-21 14:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -42,4 +42,3 @@
 | [\[2.x\] '@cacheLevel' and '@transient' annotation does not work if local val](https://github.com/sbt/sbt/issues/9162) 💬 2 | [sbt/sbt](https://github.com/sbt/sbt) | 5k | 🟡 help wanted | 2026-06-27 | ✍️ CLA · [📘 guide](https://github.com/sbt/sbt/blob/HEAD/CONTRIBUTING.md) |
 | [clean does not seem to work with java projects](https://github.com/sbt/sbt/issues/7187) 💬 2 | [sbt/sbt](https://github.com/sbt/sbt) | 5k | 🟡 help wanted | 2026-06-27 | ✍️ CLA · [📘 guide](https://github.com/sbt/sbt/blob/HEAD/CONTRIBUTING.md) |
 | [:memo: Publish kyuubi-spark-authz Spark 4.0 binary to Maven Central](https://github.com/apache/kyuubi/issues/7449) 💬 4 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-06-11 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/kyuubi/blob/HEAD/CONTRIBUTING.md) |
-| [Scala 3 builds](https://github.com/typelevel/frameless/issues/945) | [typelevel/frameless](https://github.com/typelevel/frameless) | 898 | 🟡 help wanted | 2026-05-25 |  |

@@ -1,10 +1,10 @@
 # Elixir issues
 
-**6** open issues (4 labeled for beginners) across **5** active Elixir projects.
+**5** open issues (4 labeled for beginners) across **4** active Elixir projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/elixir.xml)
 
-> Updated automatically on **2026-11-20 23:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-21 14:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [SMTP: Crashes when email address is invalid](https://github.com/swoosh/swoosh/issues/758) 💬 5 | [swoosh/swoosh](https://github.com/swoosh/swoosh) | 1.5k | 🟡 help wanted | 2026-11-20 | [📘 guide](https://github.com/swoosh/swoosh/blob/HEAD/CONTRIBUTING.md) |
 | [Support Stripe v2 APIs, starting with Money Management](https://github.com/beam-community/stripity-stripe/issues/957) 💬 4 | [beam-community/stripity-stripe](https://github.com/beam-community/stripity-stripe) | 1.1k | 🟡 help wanted | 2026-11-20 |  |
 | [Overview of who opened the mail/ clicked on links](https://github.com/pentacent/keila/issues/109) 💬 7 | [pentacent/keila](https://github.com/pentacent/keila) | 2.3k | 🟢 beginner | 2026-11-13 | ✍️ CLA · [📘 guide](https://github.com/pentacent/keila/blob/HEAD/CONTRIBUTING.md) |
 | ["Polls closing soon" gives confusing notification when pressing its refresh button](https://github.com/bonfire-networks/bonfire-app/issues/2243) | [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) | 953 | 🟢 beginner | 2026-08-29 |  |

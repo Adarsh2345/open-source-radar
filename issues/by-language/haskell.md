@@ -1,10 +1,10 @@
 # Haskell issues
 
-**17** open issues (6 labeled for beginners) across **5** active Haskell projects.
+**18** open issues (6 labeled for beginners) across **5** active Haskell projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/haskell.xml)
 
-> Updated automatically on **2026-11-20 23:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-21 14:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [GHC: primQNameToWord64s returns an incorrect module hash](https://github.com/agda/agda/issues/8942) 💬 1 | [agda/agda](https://github.com/agda/agda) | 3k | 🟡 help wanted | 2026-11-21 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) |
 | [Word64 quotient/remainder optimization changes proven results and introduces division by zero](https://github.com/agda/agda/issues/8931) | [agda/agda](https://github.com/agda/agda) | 3k | 🟡 help wanted | 2026-11-19 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) |
 | [Trusted registries don't work correctly for multi-part repo names](https://github.com/hadolint/hadolint/issues/401) 💬 9 | [hadolint/hadolint](https://github.com/hadolint/hadolint) | 12.5k | 🟡 help wanted | 2026-11-15 |  |
 | [Resurrecting the MySQL backend](https://github.com/haskell-beam/beam/issues/822) 💬 6 | [haskell-beam/beam](https://github.com/haskell-beam/beam) | 637 | 🟡 help wanted | 2026-11-10 |  |
