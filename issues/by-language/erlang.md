@@ -1,10 +1,10 @@
 # Erlang issues
 
-**29** open issues (0 labeled for beginners) across **2** active Erlang projects.
+**25** open issues (0 labeled for beginners) across **2** active Erlang projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/erlang.xml)
 
-> Updated automatically on **2026-11-21 14:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-22 14:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,13 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [ssl:format_error/1 raises badarg for a reason that is neither an atom nor a form it names](https://github.com/erlang/otp/issues/12218) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [ssl:format_error/1 gives "Invalid TLS option" for a certfile or keyfile ssl:listen cannot read](https://github.com/erlang/otp/issues/12211) 💬 1 | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [Windows: a port with exit_status can lose a child's output that is still in the pipe when the child exits](https://github.com/erlang/otp/issues/12170) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [erl_child_setup: "failed with error 32 on line 284" when the emulator dies while a port is starting](https://github.com/erlang/otp/issues/12203) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
-| [SIGTERM sent in the emulator's first ~250 ms is silently ignored](https://github.com/erlang/otp/issues/12204) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
-| ['memsup' closes its port while a collection is under way](https://github.com/erlang/otp/issues/12207) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
-| [erl_lint: check_unused_functions is quadratic in the number of unused functions](https://github.com/erlang/otp/issues/12208) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [code:ensure_loaded/1 answers {error,nofile} and application:load/1 "no such file or directory" when the proces](https://github.com/erlang/otp/issues/12215) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [beam_lib:chunks/2,3 raises badmatch, and beam_lib:md5/1 returns {'EXIT', ...}, for a malformed atom chunk](https://github.com/erlang/otp/issues/12220) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |
 | [asn1: BER decoding accepts a BIT STRING unused-bit count of 8 and drops the final octet](https://github.com/erlang/otp/issues/12160) | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/erlang/otp/blob/HEAD/CONTRIBUTING.md) |

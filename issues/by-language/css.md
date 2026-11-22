@@ -1,10 +1,10 @@
 # CSS issues
 
-**23** open issues (20 labeled for beginners) across **3** active CSS projects.
+**22** open issues (19 labeled for beginners) across **3** active CSS projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/css.xml)
 
-> Updated automatically on **2026-11-21 14:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-22 14:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -31,7 +31,6 @@
 | [Fork, Commit, Merge - Easy Issue (Markdown)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8551) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Medium Issue (Python)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8550) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [Fork, Commit, Merge - Hard Issue (JavaScript/Jest)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8549) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
-| [Fork, Commit, Merge - Easy Issue (Rust)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8548) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 520 | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/fork-commit-merge/fork-commit-merge/blob/HEAD/CONTRIBUTING.md) |
 | [\[ICON REQUEST\]: API Platform](https://github.com/devicons/devicon/issues/2139) 💬 2 | [devicons/devicon](https://github.com/devicons/devicon) | 11.9k | 🟢 beginner | 2026-10-28 | [📘 guide](https://github.com/devicons/devicon/blob/HEAD/CONTRIBUTING.md) |
 | [\[ICON REQUEST\]: Chocolatey](https://github.com/devicons/devicon/issues/2727) 💬 2 | [devicons/devicon](https://github.com/devicons/devicon) | 11.9k | 🟢 beginner | 2026-10-28 | [📘 guide](https://github.com/devicons/devicon/blob/HEAD/CONTRIBUTING.md) |
 | [Add an OpenType Math version: Source Serif Pro Math](https://github.com/adobe-fonts/source-serif/issues/13) 💬 23 | [adobe-fonts/source-serif](https://github.com/adobe-fonts/source-serif) | 2.4k | 🟡 help wanted | 2026-09-17 |  |
