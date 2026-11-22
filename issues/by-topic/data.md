@@ -1,8 +1,8 @@
 # Data and databases issues
 
-**289** open issues (156 labeled for beginners) across **90** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
+**288** open issues (156 labeled for beginners) across **89** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
 
-> Updated automatically on **2026-11-22 14:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-22 23:14 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,8 +10,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [control state of individual taskflow in mapped task-group](https://github.com/apache/airflow/issues/40543) 💬 14 | [apache/airflow](https://github.com/apache/airflow) | 47.6k | 🟢 beginner | 2026-11-22 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/airflow/blob/HEAD/CONTRIBUTING.rst) |
+| [Investigate the bottleneck in the search benchmark using toplev](https://github.com/quickwit-oss/tantivy/issues/1003) 💬 5 | [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) | 16.5k | 🟢 beginner | 2026-11-22 |  |
 | [树形组件loadtree里面配置的方法调用方式](https://github.com/jeecgboot/jimureport/issues/3651) | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.6k | 🟡 help wanted | 2026-11-22 |  |
-| [Add support for BigQuery's RECORD field type](https://github.com/getredash/redash/issues/4207) 💬 7 | [getredash/redash](https://github.com/getredash/redash) | 28.9k | 🟡 help wanted | 2026-11-21 | [📘 guide](https://github.com/getredash/redash/blob/HEAD/CONTRIBUTING.md) |
 | [Enable kubernetes_pod_operator to reattach_on_restart when the worker dies](https://github.com/apache/airflow/issues/21900) 💬 6 | [apache/airflow](https://github.com/apache/airflow) | 47.6k | 🟢 beginner | 2026-11-20 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/airflow/blob/HEAD/CONTRIBUTING.rst) |
 | [Some liveness checks don't actually check process](https://github.com/apache/airflow/issues/26574) 💬 11 | [apache/airflow](https://github.com/apache/airflow) | 47.6k | 🟢 beginner | 2026-11-20 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/airflow/blob/HEAD/CONTRIBUTING.rst) |
 | [配置下拉框查询时，直接使用SQL拉取数据，SQL中能否支持URL中的参数](https://github.com/jeecgboot/jimureport/issues/3658) | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.6k | 🟡 help wanted | 2026-11-20 |  |
@@ -46,8 +47,6 @@
 | [Resurrecting the MySQL backend](https://github.com/haskell-beam/beam/issues/822) 💬 6 | [haskell-beam/beam](https://github.com/haskell-beam/beam) | 637 | 🟡 help wanted | 2026-11-10 |  |
 | [Enhance Marimo for PWA installation](https://github.com/marimo-team/marimo/issues/4134) 💬 7 | [marimo-team/marimo](https://github.com/marimo-team/marimo) | 23.7k | 🟡 help wanted | 2026-11-09 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/marimo-team/marimo/blob/HEAD/CONTRIBUTING.md) |
 | [Refresh interval per panel](https://github.com/grafana/grafana/issues/73434) 💬 44 | [grafana/grafana](https://github.com/grafana/grafana) | 78k | 🟡 help wanted | 2026-11-08 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/grafana/grafana/blob/HEAD/CONTRIBUTING.md) |
-| [control state of individual taskflow in mapped task-group](https://github.com/apache/airflow/issues/40543) 💬 13 | [apache/airflow](https://github.com/apache/airflow) | 47.6k | 🟢 beginner | 2026-11-07 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/airflow/blob/HEAD/CONTRIBUTING.rst) |
-| [Investigate the bottleneck in the search benchmark using toplev](https://github.com/quickwit-oss/tantivy/issues/1003) 💬 4 | [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) | 16.5k | 🟢 beginner | 2026-11-07 |  |
 | [:memo: Fix/Add config section of deployment on kubernetes](https://github.com/apache/kyuubi/issues/5085) 💬 3 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-11-05 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/kyuubi/blob/HEAD/CONTRIBUTING.md) |
 | [selectors return new object every time causing unnecessary re-renderings](https://github.com/metabase/metabase/issues/52312) 💬 4 | [metabase/metabase](https://github.com/metabase/metabase) | 50.5k | 🟢 beginner | 2026-11-04 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |
 | [The latest docker image is about one year ago, you are not updating it anymore?](https://github.com/taosdata/TDengine/issues/35717) 💬 1 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-11-03 |  |
@@ -210,5 +209,6 @@
 | ['_some' operator limited to top-level relations prevents complex nested filtering](https://github.com/directus/directus/issues/25403) 💬 7 | [directus/directus](https://github.com/directus/directus) | 38.6k | 🟡 help wanted | 2026-09-02 |  |
 | [Alternative query result format other than \[\]dict](https://github.com/googleapis/mcp-toolbox/issues/1537) 💬 6 | [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) | 16.9k | 🟡 help wanted | 2026-09-02 | ✍️ CLA · [📘 guide](https://github.com/googleapis/mcp-toolbox/blob/HEAD/CONTRIBUTING.md) |
 | [Improve logging for circuit breakers](https://github.com/elastic/elasticsearch/issues/62452) 💬 11 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 78.8k | 🟡 help wanted | 2026-09-01 | ✍️ CLA · [📘 guide](https://github.com/elastic/elasticsearch/blob/HEAD/CONTRIBUTING.md) |
+| [\[BUG\] String(s) terminate after 2000 chars](https://github.com/opensearch-project/OpenSearch/issues/6323) 💬 11 | [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) | 14.1k | 🟢 beginner | 2026-09-01 | 🔏 DCO · [📘 guide](https://github.com/opensearch-project/OpenSearch/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 289 on the website.
+Showing the 200 most recently updated. See all 288 on the website.

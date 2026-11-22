@@ -1,8 +1,8 @@
 # Systems and embedded issues
 
-**192** open issues (81 labeled for beginners) across **48** projects tagged with topics like `operating-system`, `embedded`, `kernel`, `rust-lang`, `systems-programming`, `wasm`.
+**195** open issues (83 labeled for beginners) across **49** projects tagged with topics like `operating-system`, `embedded`, `kernel`, `rust-lang`, `systems-programming`, `wasm`.
 
-> Updated automatically on **2026-11-22 14:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-22 23:14 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,7 +10,10 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [\[mesheryctl\] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371) 💬 28 | [meshery/meshery](https://github.com/meshery/meshery) | 12.3k | 🟢 beginner | 2026-11-22 | 🔏 DCO · [📘 guide](https://github.com/meshery/meshery/blob/HEAD/CONTRIBUTING.md) |
 | [MudDataGrid: QuickFilter executes on every re-render causing performance issues](https://github.com/MudBlazor/MudBlazor/issues/9494) 💬 4 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟡 help wanted | 2026-11-22 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
+| [Support header sso (Forward Auth)](https://github.com/lldap/lldap/issues/352) 💬 17 | [lldap/lldap](https://github.com/lldap/lldap) | 6.6k | 🟢 beginner | 2026-11-22 | [📘 guide](https://github.com/lldap/lldap/blob/HEAD/CONTRIBUTING.md) |
+| [Accessibility support](https://github.com/iPlug2/iPlug2/issues/671) 💬 1 | [iPlug2/iPlug2](https://github.com/iPlug2/iPlug2) | 2.5k | 🟡 help wanted | 2026-11-22 |  |
 | [Handle NETLINK_PKTINFO sockopt](https://github.com/gvisor/gvisor/issues/13398) 💬 1 | [gvisor/gvisor](https://github.com/gvisor/gvisor) | 20.1k | 🟢 beginner | 2026-11-21 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/gvisor/gvisor/blob/HEAD/CONTRIBUTING.md) |
 | ['madvise' returns success for an unaligned, overflowing, or unmapped range when the advice is one that gVisor](https://github.com/gvisor/gvisor/issues/16047) 💬 3 | [gvisor/gvisor](https://github.com/gvisor/gvisor) | 20.1k | 🟢 beginner | 2026-11-21 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/gvisor/gvisor/blob/HEAD/CONTRIBUTING.md) |
 | [doc: update CNI to v1.0.0](https://github.com/gvisor/gvisor/issues/8120) 💬 1 | [gvisor/gvisor](https://github.com/gvisor/gvisor) | 20.1k | 🟢 beginner | 2026-11-21 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/gvisor/gvisor/blob/HEAD/CONTRIBUTING.md) |
@@ -18,7 +21,7 @@
 | [Implement unit tests for the IPv4OptionIterator type](https://github.com/gvisor/gvisor/issues/5513) 💬 1 | [gvisor/gvisor](https://github.com/gvisor/gvisor) | 20.1k | 🟢 beginner | 2026-11-21 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/gvisor/gvisor/blob/HEAD/CONTRIBUTING.md) |
 | [Parsing non-sendable cmsg in SendMsg syscall should fail](https://github.com/gvisor/gvisor/issues/7188) 💬 3 | [gvisor/gvisor](https://github.com/gvisor/gvisor) | 20.1k | 🟢 beginner | 2026-11-21 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/gvisor/gvisor/blob/HEAD/CONTRIBUTING.md) |
 | [tcpip.Endpoint.Write() doc is out of date](https://github.com/gvisor/gvisor/issues/6024) 💬 7 | [gvisor/gvisor](https://github.com/gvisor/gvisor) | 20.1k | 🟢 beginner | 2026-11-21 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/gvisor/gvisor/blob/HEAD/CONTRIBUTING.md) |
-| [More Linux distros compatible](https://github.com/rustdesk/rustdesk/issues/3565) 💬 9 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 130.7k | 🟡 help wanted | 2026-11-20 | 🔏 DCO · [📘 guide](https://github.com/rustdesk/rustdesk/blob/HEAD/docs/CONTRIBUTING.md) |
+| [More Linux distros compatible](https://github.com/rustdesk/rustdesk/issues/3565) 💬 9 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 130.8k | 🟡 help wanted | 2026-11-20 | 🔏 DCO · [📘 guide](https://github.com/rustdesk/rustdesk/blob/HEAD/docs/CONTRIBUTING.md) |
 | [MudTimePicker doesn't allow a typed space even though format is h:mm tt](https://github.com/MudBlazor/MudBlazor/issues/10131) 💬 3 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟡 help wanted | 2026-11-20 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
 | [Add DateTimePicker component with DateTimeOffset and culture support](https://github.com/MudBlazor/MudBlazor/issues/1095) 💬 9 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟡 help wanted | 2026-11-20 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
 | [MudTabNavLink: MudTab as Navigation](https://github.com/MudBlazor/MudBlazor/issues/4137) 💬 9 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟡 help wanted | 2026-11-20 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
@@ -192,7 +195,7 @@
 | [Optimize GROUP BY with LIMIT but no ORDER BY to keep only k groups](https://github.com/crate/crate/issues/16827) 💬 5 | [crate/crate](https://github.com/crate/crate) | 4.5k | 🟡 help wanted | 2026-06-30 | ⚠️ AI restricted · ✍️ CLA · [📘 guide](https://github.com/crate/crate/blob/HEAD/CONTRIBUTING.rst) |
 | [Use an external LED as a status led](https://github.com/RaspAP/raspap-webgui/issues/2108) 💬 3 | [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) | 5.2k | 🟢 beginner | 2026-06-23 | [📘 guide](https://github.com/RaspAP/raspap-webgui/blob/HEAD/CONTRIBUTING.md) |
 | [Unified Issue ticket for Rule Engine](https://github.com/nanomq/nanomq/issues/2288) 💬 2 | [nanomq/nanomq](https://github.com/nanomq/nanomq) | 2.7k | 🟡 help wanted | 2026-06-23 | 🔏 DCO · [📘 guide](https://github.com/nanomq/nanomq/blob/HEAD/CONTRIBUTING.md) |
-| [Rustdesk shows workstation offline when its screen is off](https://github.com/rustdesk/rustdesk/issues/2166) 💬 16 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 130.7k | 🟡 help wanted | 2026-06-18 | 🔏 DCO · [📘 guide](https://github.com/rustdesk/rustdesk/blob/HEAD/docs/CONTRIBUTING.md) |
+| [Rustdesk shows workstation offline when its screen is off](https://github.com/rustdesk/rustdesk/issues/2166) 💬 16 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 130.8k | 🟡 help wanted | 2026-06-18 | 🔏 DCO · [📘 guide](https://github.com/rustdesk/rustdesk/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Bulk operations - Ability to perform actions on multiple nodes](https://github.com/canonical/multipass/issues/2404) 💬 11 | [canonical/multipass](https://github.com/canonical/multipass) | 9.4k | 🟢 beginner | 2026-06-15 | ✍️ CLA · [📘 guide](https://github.com/canonical/multipass/blob/HEAD/CONTRIBUTING.md) |
 | [Support mounting VHD drives](https://github.com/canonical/multipass/issues/1923) 💬 2 | [canonical/multipass](https://github.com/canonical/multipass) | 9.4k | 🟡 help wanted | 2026-06-15 | ✍️ CLA · [📘 guide](https://github.com/canonical/multipass/blob/HEAD/CONTRIBUTING.md) |
 | [firewalld integration](https://github.com/canonical/multipass/issues/1236) 💬 2 | [canonical/multipass](https://github.com/canonical/multipass) | 9.4k | 🟢 beginner | 2026-06-15 | ✍️ CLA · [📘 guide](https://github.com/canonical/multipass/blob/HEAD/CONTRIBUTING.md) |

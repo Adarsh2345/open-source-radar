@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/html.xml)
 
-> Updated automatically on **2026-11-22 14:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-22 23:14 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -82,7 +82,7 @@
 | [Translate content into Korean](https://github.com/HTTPArchive/almanac.httparchive.org/issues/926) 💬 14 | [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org) | 696 | 🟢 beginner | 2026-07-05 | [📘 guide](https://github.com/HTTPArchive/almanac.httparchive.org/blob/HEAD/CONTRIBUTING.md) |
 | [NEW DESIGN - We should try to display cards when JavaScript is disabled](https://github.com/openfoodfacts/openfoodfacts-server/issues/7503) 💬 3 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-06-28 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/openfoodfacts/openfoodfacts-server/blob/HEAD/CONTRIBUTING.md) |
 | ["determine the value of a named property" should not imply a new object each time](https://github.com/whatwg/html/issues/5266) 💬 13 | [whatwg/html](https://github.com/whatwg/html) | 9.5k | 🟢 beginner | 2026-06-26 | [📘 guide](https://github.com/whatwg/html/blob/HEAD/.github/CONTRIBUTING.md) |
-| [CORE-AAM has "user agents must not expose non-global, not support attributes on roles", but there is no relate](https://github.com/w3c/aria/issues/2168) 💬 2 | [w3c/aria](https://github.com/w3c/aria) | 758 | 🟢 beginner | 2026-06-23 | [📘 guide](https://github.com/w3c/aria/blob/HEAD/CONTRIBUTING.md) |
+| [CORE-AAM has "user agents must not expose non-global, not support attributes on roles", but there is no relate](https://github.com/w3c/aria/issues/2168) 💬 2 | [w3c/aria](https://github.com/w3c/aria) | 759 | 🟢 beginner | 2026-06-23 | [📘 guide](https://github.com/w3c/aria/blob/HEAD/CONTRIBUTING.md) |
 | [Axe-core's d.ts file is incomplete](https://github.com/dequelabs/axe-core/issues/4241) 💬 4 | [dequelabs/axe-core](https://github.com/dequelabs/axe-core) | 7.9k | 🟡 help wanted | 2026-06-21 | ✍️ CLA · [📘 guide](https://github.com/dequelabs/axe-core/blob/HEAD/CONTRIBUTING.md) |
 | [Windows下启动项目会找不到agent](https://github.com/nexu-io/html-video/issues/7) 💬 16 | [nexu-io/html-video](https://github.com/nexu-io/html-video) | 4.9k | 🟡 help wanted | 2026-06-21 | ✍️ CLA · [📘 guide](https://github.com/nexu-io/html-video/blob/HEAD/CONTRIBUTING.md) |
 | [support Podman for local development](https://github.com/projectcontour/contour/issues/5261) 💬 1 | [projectcontour/contour](https://github.com/projectcontour/contour) | 4k | 🟡 help wanted | 2026-06-18 | 🔏 DCO · [📘 guide](https://github.com/projectcontour/contour/blob/HEAD/CONTRIBUTING.md) |

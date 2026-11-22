@@ -1,10 +1,10 @@
 # Java issues
 
-**276** open issues (108 labeled for beginners) across **78** active Java projects.
+**277** open issues (110 labeled for beginners) across **78** active Java projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/java.xml)
 
-> Updated automatically on **2026-11-22 14:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-22 23:14 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [\[Dex mode\] Channel name is cut](https://github.com/TeamNewPipe/NewPipe/issues/14065) 💬 1 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 40.9k | 🟢 beginner | 2026-11-22 | 📄 AI policy · [📘 guide](https://github.com/TeamNewPipe/NewPipe/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Bug\]\[Zeta\] updateStatus swallows terminal IMap write failures while isNoErrorCompleted trusts the IMap state](https://github.com/apache/seatunnel/issues/13324) 💬 3 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-22 | ✍️ CLA |
 | [\[Feature\]\[API\]\[Connector-V2\] Unify column default value handling across the DDL pipeline](https://github.com/apache/seatunnel/issues/13217) 💬 12 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-22 | ✍️ CLA |
 | [树形组件loadtree里面配置的方法调用方式](https://github.com/jeecgboot/jimureport/issues/3651) | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.6k | 🟡 help wanted | 2026-11-22 |  |
@@ -27,7 +28,6 @@
 | [\[Bug\]\[Zeta\] Pipeline restore releases every slot before re-acquiring and consumes job.retry.times on allocatio](https://github.com/apache/seatunnel/issues/13348) 💬 1 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-20 | ✍️ CLA |
 | [\[Bug\]\[Zeta\] Fixed-slot ownership has no lease or reconciliation, so lost allocation responses permanently leak](https://github.com/apache/seatunnel/issues/13346) 💬 2 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-20 | ✍️ CLA |
 | [\[Bug\]\[Zeta\] Master failover pre-applies fixed slots for task groups that will never be redeployed](https://github.com/apache/seatunnel/issues/13345) 💬 1 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-20 | ✍️ CLA |
-| [\[Bug\]\[Zeta\] Pre-applied fixed slots leak when a pending job is cancelled or the scheduler epoch is invalidated](https://github.com/apache/seatunnel/issues/13344) 💬 1 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟡 help wanted | 2026-11-20 | ✍️ CLA |
 | [配置下拉框查询时，直接使用SQL拉取数据，SQL中能否支持URL中的参数](https://github.com/jeecgboot/jimureport/issues/3658) | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.6k | 🟡 help wanted | 2026-11-20 |  |
 | [希望下拉树支持搜索](https://github.com/jeecgboot/jimureport/issues/3847) | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.6k | 🟡 help wanted | 2026-11-20 |  |
 | [Determine and keep EOL (for saving/reading files) (\\n vs \\r\\n)](https://github.com/gsantner/markor/issues/827) 💬 4 | [gsantner/markor](https://github.com/gsantner/markor) | 6.5k | 🟢 beginner | 2026-11-20 |  |
@@ -80,6 +80,7 @@
 | [Crash on startup on Android 6.0.1: NullPointerException "Attempt to read from null array" in MainActivity.onCr](https://github.com/TeamNewPipe/NewPipe/issues/13866) 💬 8 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 40.9k | 🟢 beginner | 2026-11-01 | 📄 AI policy · [📘 guide](https://github.com/TeamNewPipe/NewPipe/blob/HEAD/.github/CONTRIBUTING.md) |
 | [All runners should support ProfilingOptions](https://github.com/apache/beam/issues/18011) 💬 1 | [apache/beam](https://github.com/apache/beam) | 8.7k | 🟢 beginner | 2026-11-01 | ✍️ CLA · [📘 guide](https://github.com/apache/beam/blob/HEAD/CONTRIBUTING.md) |
 | [Clean DeprecationWarning from SDK/tests](https://github.com/apache/beam/issues/18303) 💬 1 | [apache/beam](https://github.com/apache/beam) | 8.7k | 🟢 beginner | 2026-11-01 | ✍️ CLA · [📘 guide](https://github.com/apache/beam/blob/HEAD/CONTRIBUTING.md) |
+| [startBeforeElement on AHSP inner element skips outputCollection initialization, causing NPE on job completion](https://github.com/camunda/camunda/issues/55243) 💬 7 | [camunda/camunda](https://github.com/camunda/camunda) | 4.4k | 🟢 beginner | 2026-11-01 | ✍️ CLA · [📘 guide](https://github.com/camunda/camunda/blob/HEAD/CONTRIBUTING.md) |
 | [Support HTTP Caching](https://github.com/netty/netty/issues/2646) 💬 9 | [netty/netty](https://github.com/netty/netty) | 35.1k | 🟡 help wanted | 2026-10-31 | ✍️ CLA · [📘 guide](https://github.com/netty/netty/blob/HEAD/CONTRIBUTING.md) |
 | [请问AI智能体目前是否支持动态生成Python脚本代码，执行并返回所需结果？](https://github.com/jeecgboot/JeecgBoot/issues/9866) 💬 3 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 48.6k | 🟡 help wanted | 2026-10-29 |  |
 | [Lag when many downloaded items are loaded on Download page](https://github.com/TeamNewPipe/NewPipe/issues/12547) 💬 12 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 40.9k | 🟡 help wanted | 2026-10-29 | 📄 AI policy · [📘 guide](https://github.com/TeamNewPipe/NewPipe/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -191,14 +192,14 @@
 | [\[Bug\] Dubbo 3.3.2: FORCE_APPLICATION may leave one of multiple same-interface different-group consumer referen](https://github.com/apache/dubbo/issues/16269) 💬 4 | [apache/dubbo](https://github.com/apache/dubbo) | 41.6k | 🟡 help wanted | 2026-09-01 | ✍️ CLA · [📘 guide](https://github.com/apache/dubbo/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] When running a Dubbo 3.3.6 application on JDK 25, application startup fails with 'NoClassDefFoundError:](https://github.com/apache/dubbo/issues/16295) 💬 6 | [apache/dubbo](https://github.com/apache/dubbo) | 41.6k | 🟡 help wanted | 2026-09-01 | ✍️ CLA · [📘 guide](https://github.com/apache/dubbo/blob/HEAD/CONTRIBUTING.md) |
 | [\[DSIP-64\] Add more workflow Integration test cases in master.](https://github.com/apache/dolphinscheduler/issues/16479) 💬 7 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14.6k | 🟢 beginner | 2026-09-01 | [📘 guide](https://github.com/apache/dolphinscheduler/blob/HEAD/CONTRIBUTING.md) |
-| [\[BUG\] String(s) terminate after 2000 chars](https://github.com/opensearch-project/OpenSearch/issues/6323) 💬 11 | [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) | 14k | 🟢 beginner | 2026-09-01 | 🔏 DCO · [📘 guide](https://github.com/opensearch-project/OpenSearch/blob/HEAD/CONTRIBUTING.md) |
+| [\[BUG\] String(s) terminate after 2000 chars](https://github.com/opensearch-project/OpenSearch/issues/6323) 💬 11 | [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) | 14.1k | 🟢 beginner | 2026-09-01 | 🔏 DCO · [📘 guide](https://github.com/opensearch-project/OpenSearch/blob/HEAD/CONTRIBUTING.md) |
 | [\[DB TLS Connection\]\[Helm Chart\] Request for the feature for connecting to external DB with TLS connection](https://github.com/apache/dolphinscheduler/issues/17550) 💬 1 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14.6k | 🟡 help wanted | 2026-08-31 | [📘 guide](https://github.com/apache/dolphinscheduler/blob/HEAD/CONTRIBUTING.md) |
 | [Improve wording when "continuing onto" motorways..](https://github.com/graphhopper/graphhopper/issues/1287) 💬 16 | [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) | 6.8k | 🟢 beginner | 2026-08-31 | [📘 guide](https://github.com/graphhopper/graphhopper/blob/HEAD/CONTRIBUTING.md) |
 | [Document meaning of pemWorkDirectory](https://github.com/jetty/jetty.project/issues/12795) 💬 3 | [jetty/jetty.project](https://github.com/jetty/jetty.project) | 4.1k | 🟡 help wanted | 2026-08-31 | [📘 guide](https://github.com/jetty/jetty.project/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\] Improve the compatibility test between the new and old versions of paimon](https://github.com/apache/paimon/issues/3531) 💬 3 | [apache/paimon](https://github.com/apache/paimon) | 3.5k | 🟢 beginner | 2026-08-31 |  |
 | [Separate windows for editor and results](https://github.com/dbeaver/dbeaver/issues/34959) 💬 10 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 52.5k | 🟡 help wanted | 2026-08-27 | 🤖 disclose AI use · [📘 guide](https://github.com/dbeaver/dbeaver/blob/HEAD/.github/CONTRIBUTING.md) |
 | ["Error loading feed" message reappears when rotating the screen even after selecting Cancel](https://github.com/TeamNewPipe/NewPipe/issues/8474) 💬 3 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 40.9k | 🟡 help wanted | 2026-08-27 | 📄 AI policy · [📘 guide](https://github.com/TeamNewPipe/NewPipe/blob/HEAD/.github/CONTRIBUTING.md) |
-| [\[Feature Request\]:](https://github.com/yuliskov/SmartTube/issues/4603) 💬 7 | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | 36.5k | 🟡 help wanted | 2026-08-26 |  |
+| [\[Feature Request\]:](https://github.com/yuliskov/SmartTube/issues/4603) 💬 7 | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | 36.6k | 🟡 help wanted | 2026-08-26 |  |
 | [Command line to Export ER Diagrams](https://github.com/dbeaver/dbeaver/issues/6215) 💬 7 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 52.5k | 🟡 help wanted | 2026-08-25 | 🤖 disclose AI use · [📘 guide](https://github.com/dbeaver/dbeaver/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Api to reset the state of a specific scenario in Wiremock?](https://github.com/wiremock/wiremock/issues/847) 💬 8 | [wiremock/wiremock](https://github.com/wiremock/wiremock) | 7.4k | 🟢 beginner | 2026-08-24 | [📘 guide](https://github.com/wiremock/wiremock/blob/HEAD/CONTRIBUTING.md) |
 | [Offer a mechanism to bootstrap / provision a new Dependency-Track instance](https://github.com/DependencyTrack/dependency-track/issues/6193) 💬 2 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.5k | 🟡 help wanted | 2026-08-24 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/DependencyTrack/dependency-track/blob/HEAD/CONTRIBUTING.md) |
@@ -211,6 +212,5 @@
 | [Tracking openrocket in downstream package ecosystem](https://github.com/openrocket/openrocket/issues/2254) 💬 15 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 3.3k | 🟢 beginner | 2026-08-20 | 📄 AI policy · [📘 guide](https://github.com/openrocket/openrocket/blob/HEAD/CONTRIBUTING.md) |
 | [\[FEATURE\] Quick Settings option for directly starting video taping without opening the app at all](https://github.com/anonfaded/FadCam/issues/207) 💬 10 | [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | 2.9k | 🟢 beginner | 2026-08-20 |  |
 | [\[cuda\]\[onnxruntime\] CUDA EP fail connected to cudnn redist 13.3-9.25-1.5.14](https://github.com/bytedeco/javacpp-presets/issues/1799) 💬 6 | [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) | 2.9k | 🟡 help wanted | 2026-08-20 |  |
-| [Introduce a better hash function for Starlark](https://github.com/bazelbuild/bazel/issues/26529) 💬 7 | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 26.1k | 🟡 help wanted | 2026-08-18 | ✍️ CLA · [📘 guide](https://github.com/bazelbuild/bazel/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 276 on the website.
+Showing the 200 most recently updated. See all 277 on the website.
