@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-11-22 23:14 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-23 16:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,12 +12,12 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Search does not find article with all keywords in its title](https://github.com/lobsters/lobsters/issues/2220) 💬 7 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Add support for Magma (computational algebra system)](https://github.com/github-linguist/linguist/issues/8353) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.8k | 🟢 beginner | 2026-11-21 | [📘 guide](https://github.com/github-linguist/linguist/blob/HEAD/CONTRIBUTING.md) |
 | [Feature Request to add chatwoot directly install in plesk apps](https://github.com/chatwoot/chatwoot/issues/6911) 💬 7 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 40.4k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/chatwoot/chatwoot/blob/HEAD/CONTRIBUTING.md) |
 | [ObjectSpace.each_object(Module) should visit singleton classes](https://github.com/truffleruby/truffleruby/issues/2825) | [truffleruby/truffleruby](https://github.com/truffleruby/truffleruby) | 3.2k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/truffleruby/truffleruby/blob/HEAD/CONTRIBUTING.md) |
 | [Assert assignPositionOnly() and copyNewlineFlag() are never called on a SequenceNode](https://github.com/truffleruby/truffleruby/issues/4282) | [truffleruby/truffleruby](https://github.com/truffleruby/truffleruby) | 3.2k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/truffleruby/truffleruby/blob/HEAD/CONTRIBUTING.md) |
 | [#load should prioritize $LOAD_PATH before the 'pwd'](https://github.com/truffleruby/truffleruby/issues/1498) 💬 1 | [truffleruby/truffleruby](https://github.com/truffleruby/truffleruby) | 3.2k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/truffleruby/truffleruby/blob/HEAD/CONTRIBUTING.md) |
-| [Search does not find article with all keywords in its title](https://github.com/lobsters/lobsters/issues/2220) 💬 6 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-11-18 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Bump anubis cookie expiration on login, also generate](https://github.com/lobsters/lobsters/issues/2283) 💬 2 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-11-18 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [bokeh.embed.components get stuck in PyCall.without_gvl block](https://github.com/red-data-tools/pycall.rb/issues/92) 💬 1 | [red-data-tools/pycall.rb](https://github.com/red-data-tools/pycall.rb) | 1.1k | 🟡 help wanted | 2026-11-10 |  |
 | [Add optional date for collections](https://github.com/manyfold3d/manyfold/issues/4827) 💬 3 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.3k | 🟢 beginner | 2026-11-09 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
