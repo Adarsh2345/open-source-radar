@@ -1,8 +1,8 @@
 # Robotics issues
 
-**9** open issues (3 labeled for beginners) across **5** projects tagged with topics like `robotics`, `ros`, `ros2`, `drones`, `autonomous-vehicles`, `slam`.
+**8** open issues (2 labeled for beginners) across **5** projects tagged with topics like `robotics`, `ros`, `ros2`, `drones`, `autonomous-vehicles`, `slam`.
 
-> Updated automatically on **2026-11-24 03:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-24 16:41 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,7 +10,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Use Twist from the Odom Smoother in Nav2 Controller rather than Raw Twist](https://github.com/ros-navigation/navigation2/issues/6843) | [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2) | 5.1k | 🟢 beginner | 2026-11-24 | 🔏 DCO · [📘 guide](https://github.com/ros-navigation/navigation2/blob/HEAD/CONTRIBUTING.md) |
 | [Modify autotest to notify Discord when run is complete](https://github.com/ArduPilot/ardupilot/issues/14438) 💬 3 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 16.4k | 🟢 beginner | 2026-11-16 | 🤖 disclose AI use · [📘 guide](https://github.com/ArduPilot/ardupilot/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Evaluate Fuse as a RL replacement & consider other alternatives](https://github.com/ros-navigation/navigation2/issues/2598) 💬 12 | [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2) | 5.1k | 🟡 help wanted | 2026-11-02 | 🔏 DCO · [📘 guide](https://github.com/ros-navigation/navigation2/blob/HEAD/CONTRIBUTING.md) |
 | [Geospatial types and GIS support](https://github.com/questdb/questdb/issues/4899) 💬 2 | [questdb/questdb](https://github.com/questdb/questdb) | 17.6k | 🟡 help wanted | 2026-10-28 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/questdb/questdb/blob/HEAD/CONTRIBUTING.md) |
