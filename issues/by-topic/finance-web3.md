@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**64** open issues (21 labeled for beginners) across **12** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
+**65** open issues (21 labeled for beginners) across **12** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
 
-> Updated automatically on **2026-11-24 16:41 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-25 02:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -11,6 +11,7 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Syncing archive node from era files](https://github.com/ethereum/go-ethereum/issues/35354) 💬 6 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51.5k | 🟡 help wanted | 2026-11-24 | [📘 guide](https://github.com/ethereum/go-ethereum/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Support memfd_secret() for secure memory allocation where available](https://github.com/openssl/openssl/issues/16371) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-24 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [OID is not based on criteria](https://github.com/openssl/openssl/issues/21991) 💬 9 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-24 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [LDFLAGS gets duplicated in Windows builds](https://github.com/openssl/openssl/issues/29753) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-24 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [BN_mod_exp interface not distinguish the positive and negative exponents](https://github.com/openssl/openssl/issues/21740) 💬 4 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-24 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
@@ -32,9 +33,9 @@
 | [Specifying certificate compression algorithms](https://github.com/openssl/openssl/issues/19532) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-23 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [SSL_get1_supported_ciphers returns unsupported results with SHA1 sigalgo](https://github.com/openssl/openssl/issues/19436) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.5k | 🟡 help wanted | 2026-11-23 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Filtered balance on Split's notes not calculating properly](https://github.com/actualbudget/actual/issues/4381) 💬 4 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.4k | 🟡 help wanted | 2026-11-23 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
-| [\[FEAT\] - Online synchronization](https://github.com/flow-mn/flow/issues/93) 💬 5 | [flow-mn/flow](https://github.com/flow-mn/flow) | 522 | 🟡 help wanted | 2026-11-21 | 📄 AI policy · [📘 guide](https://github.com/flow-mn/flow/blob/HEAD/CONTRIBUTING.md) |
+| [\[FEAT\] - Online synchronization](https://github.com/flow-mn/flow/issues/93) 💬 5 | [flow-mn/flow](https://github.com/flow-mn/flow) | 523 | 🟡 help wanted | 2026-11-21 | 📄 AI policy · [📘 guide](https://github.com/flow-mn/flow/blob/HEAD/CONTRIBUTING.md) |
 | [Missing support for parameter sets that use SHA256/192 hashes from draft-fluhrer-lms-more-parm-sets](https://github.com/open-quantum-safe/liboqs/issues/2143) 💬 8 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-11-19 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
-| [\[FEAT\] Add transactions from incoming SMS](https://github.com/flow-mn/flow/issues/673) 💬 7 | [flow-mn/flow](https://github.com/flow-mn/flow) | 522 | 🟡 help wanted | 2026-11-14 | 📄 AI policy · [📘 guide](https://github.com/flow-mn/flow/blob/HEAD/CONTRIBUTING.md) |
+| [\[FEAT\] Add transactions from incoming SMS](https://github.com/flow-mn/flow/issues/673) 💬 7 | [flow-mn/flow](https://github.com/flow-mn/flow) | 523 | 🟡 help wanted | 2026-11-14 | 📄 AI policy · [📘 guide](https://github.com/flow-mn/flow/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Scrolling jitter on mobile](https://github.com/actualbudget/actual/issues/9294) 💬 6 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.4k | 🟡 help wanted | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Enable Banking with "imagin / CaixaBank" bank linking fails on desktop but works on mobile browser](https://github.com/actualbudget/actual/issues/8326) 💬 8 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.4k | 🟡 help wanted | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [Support ledger parameters in tx command and deprecate/remove transaction_entry](https://github.com/XRPLF/rippled/issues/2598) 💬 5 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-11-02 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |

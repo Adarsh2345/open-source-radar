@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/html.xml)
 
-> Updated automatically on **2026-11-24 16:41 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-25 02:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,9 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Add higher-level ops (mark_intersection / label) so the model doesn't compute coordinates](https://github.com/molly554/whiteboard-ai-tutor/issues/7) 💬 2 | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 561 | 🟡 help wanted | 2026-11-24 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
-| [Document player font fallback on macOS or Linux](https://github.com/molly554/whiteboard-ai-tutor/issues/5) | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 561 | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
-| [Improve accessible descriptions for the Pythagorean-theorem examples](https://github.com/molly554/whiteboard-ai-tutor/issues/4) | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 561 | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
+| [Add higher-level ops (mark_intersection / label) so the model doesn't compute coordinates](https://github.com/molly554/whiteboard-ai-tutor/issues/7) 💬 2 | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 564 | 🟡 help wanted | 2026-11-24 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
+| [Document player font fallback on macOS or Linux](https://github.com/molly554/whiteboard-ai-tutor/issues/5) | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 564 | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
+| [Improve accessible descriptions for the Pythagorean-theorem examples](https://github.com/molly554/whiteboard-ai-tutor/issues/4) | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 564 | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
 | [Allow favicons in formats other than svg](https://github.com/imfing/hextra/issues/888) 💬 3 | [imfing/hextra](https://github.com/imfing/hextra) | 2.4k | 🟢 beginner | 2026-11-20 | [📘 guide](https://github.com/imfing/hextra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Confirm new ubuntu-latest GH runner image is fine](https://github.com/mozilla/bedrock/issues/17386) 💬 2 | [mozilla/bedrock](https://github.com/mozilla/bedrock) | 1.3k | 🟡 help wanted | 2026-11-20 | [📘 guide](https://github.com/mozilla/bedrock/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Initiative\]: Cloud Native Business Continuity: whitepaper and best practices](https://github.com/cncf/toc/issues/1779) 💬 14 | [cncf/toc](https://github.com/cncf/toc) | 1.9k | 🟡 help wanted | 2026-11-19 | [📘 guide](https://github.com/cncf/toc/blob/HEAD/CONTRIBUTING.md) |

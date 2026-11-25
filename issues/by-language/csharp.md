@@ -1,10 +1,10 @@
 # C# issues
 
-**240** open issues (61 labeled for beginners) across **81** active C# projects.
+**239** open issues (62 labeled for beginners) across **80** active C# projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/csharp.xml)
 
-> Updated automatically on **2026-11-24 16:41 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-25 02:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,16 +12,16 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Invalid IDE0059 Suggestion](https://github.com/dotnet/roslyn/issues/44010) 💬 22 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.8k | 🟡 help wanted | 2026-11-24 | ✍️ CLA · [📘 guide](https://github.com/dotnet/roslyn/blob/HEAD/CONTRIBUTING.md) |
+| [Invalid IDE0059 Suggestion](https://github.com/dotnet/roslyn/issues/44010) 💬 24 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.8k | 🟡 help wanted | 2026-11-24 | ✍️ CLA · [📘 guide](https://github.com/dotnet/roslyn/blob/HEAD/CONTRIBUTING.md) |
 | [【可视化】GUI/WebUI 收集](https://github.com/nilaoda/N_m3u8DL-RE/issues/239) 💬 34 | [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | 9.1k | 🟢 beginner | 2026-11-24 |  |
 | [\[FEATURE\]: Flip selection](https://github.com/PixiEditor/PixiEditor/issues/1091) 💬 6 | [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) | 8.2k | 🟢 beginner | 2026-11-24 | [📘 guide](https://github.com/PixiEditor/PixiEditor/blob/HEAD/CONTRIBUTING.md) |
+| [Write in CONTRIBUTING.txt the easiest way to solve translation merge conflicts](https://github.com/Revolutionary-Games/Thrive/issues/4127) | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.9k | 🟢 beginner | 2026-11-24 | 📄 AI policy · [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
+| [FluentFTP.GnuTLS: Windows ARM64 binaries so x64 and ARM64 are covered on Windows and Linux](https://github.com/robinrodricks/FluentFTP/issues/1889) 💬 3 | [robinrodricks/FluentFTP](https://github.com/robinrodricks/FluentFTP) | 3.4k | 🟡 help wanted | 2026-11-24 |  |
 | [Feature Request: Semantic / Contextual text search using local embeddings (BERT or lightweight alternatives)](https://github.com/dnGrep/dnGrep/issues/1561) 💬 2 | [dnGrep/dnGrep](https://github.com/dnGrep/dnGrep) | 2.2k | 🟡 help wanted | 2026-11-24 |  |
 | [MudTextField cannot reliably submit on Enter key in Blazor MAUI Hybrid apps](https://github.com/MudBlazor/MudBlazor/issues/9136) 💬 8 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟡 help wanted | 2026-11-23 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
 | [Is it intended that the top video quality level ("1080p") sends the original file untouched instead of transco](https://github.com/TelegramMessenger/Unigram/issues/3526) 💬 5 | [TelegramMessenger/Unigram](https://github.com/TelegramMessenger/Unigram) | 5.6k | 🟡 help wanted | 2026-11-23 | [📘 guide](https://github.com/TelegramMessenger/Unigram/blob/HEAD/CONTRIBUTING.md) |
 | [Variables set as a result of a custom handled command in ink can be skipped over](https://github.com/inkle/ink/issues/858) 💬 1 | [inkle/ink](https://github.com/inkle/ink) | 5k | 🟡 help wanted | 2026-11-23 |  |
 | [\[Bug\]: Print stuck in infinite loading state on Windows 11](https://github.com/Ruben2776/PicView/issues/411) 💬 3 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.8k | 🟡 help wanted | 2026-11-23 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
-| [FluentFTP.GnuTLS: Windows ARM64 binaries so x64 and ARM64 are covered on Windows and Linux](https://github.com/robinrodricks/FluentFTP/issues/1889) 💬 1 | [robinrodricks/FluentFTP](https://github.com/robinrodricks/FluentFTP) | 3.4k | 🟡 help wanted | 2026-11-23 |  |
-| [ParameterView unchecked type casts when splatting provides unhelpful error messages](https://github.com/dotnet/aspnetcore/issues/67285) 💬 4 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38.5k | 🟡 help wanted | 2026-11-22 | ✍️ CLA · [📘 guide](https://github.com/dotnet/aspnetcore/blob/HEAD/CONTRIBUTING.md) |
 | [MudDataGrid: QuickFilter executes on every re-render causing performance issues](https://github.com/MudBlazor/MudBlazor/issues/9494) 💬 4 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟡 help wanted | 2026-11-22 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
 | [Generated-test templates: extract the bounded poll loop (blocked by generator tests pinning template text)](https://github.com/BrighterCommand/Brighter/issues/4757) | [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) | 2.5k | 🟡 help wanted | 2026-11-22 | ✍️ CLA · [📘 guide](https://github.com/BrighterCommand/Brighter/blob/HEAD/CONTRIBUTING.md) |
 | [feat: Add Azure Synapse Analytics tools to Azure MCP Server](https://github.com/microsoft/mcp/issues/2122) 💬 4 | [microsoft/mcp](https://github.com/microsoft/mcp) | 3.9k | 🟡 help wanted | 2026-11-21 | [📘 guide](https://github.com/microsoft/mcp/blob/HEAD/CONTRIBUTING.md) |
@@ -213,4 +213,4 @@
 | [Animated image frame speed control](https://github.com/Ruben2776/PicView/issues/222) 💬 1 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.8k | 🟡 help wanted | 2026-08-06 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
 | [Need HDR support](https://github.com/Ruben2776/PicView/issues/310) 💬 4 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.8k | 🟡 help wanted | 2026-08-06 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 240 on the website.
+Showing the 200 most recently updated. See all 239 on the website.

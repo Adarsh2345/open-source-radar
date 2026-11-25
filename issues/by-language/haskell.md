@@ -1,10 +1,10 @@
 # Haskell issues
 
-**45** open issues (15 labeled for beginners) across **6** active Haskell projects.
+**44** open issues (15 labeled for beginners) across **6** active Haskell projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/haskell.xml)
 
-> Updated automatically on **2026-11-24 16:41 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-25 02:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,7 +13,6 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | ['bindQModule' ignores its 'Access' argument](https://github.com/agda/agda/issues/8954) | [agda/agda](https://github.com/agda/agda) | 3k | 🟢 beginner | 2026-11-24 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) |
-| [GHC: primQNameToWord64s returns an incorrect module hash](https://github.com/agda/agda/issues/8942) 💬 2 | [agda/agda](https://github.com/agda/agda) | 3k | 🟡 help wanted | 2026-11-24 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) |
 | [Rename a hero in-game](https://github.com/LambdaHack/LambdaHack/issues/264) 💬 1 | [LambdaHack/LambdaHack](https://github.com/LambdaHack/LambdaHack) | 659 | 🟡 help wanted | 2026-11-24 |  |
 | [Add more tutorial hints](https://github.com/LambdaHack/LambdaHack/issues/241) 💬 1 | [LambdaHack/LambdaHack](https://github.com/LambdaHack/LambdaHack) | 659 | 🟢 beginner | 2026-11-24 |  |
 | [Set up Windows CI, with artifacts](https://github.com/LambdaHack/LambdaHack/issues/299) 💬 1 | [LambdaHack/LambdaHack](https://github.com/LambdaHack/LambdaHack) | 659 | 🟡 help wanted | 2026-11-24 |  |
