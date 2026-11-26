@@ -1,10 +1,10 @@
 # Ruby issues
 
-**75** open issues (55 labeled for beginners) across **27** active Ruby projects.
+**77** open issues (56 labeled for beginners) across **28** active Ruby projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-11-25 02:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-26 01:42 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,7 +13,7 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Add support for Magma (computational algebra system)](https://github.com/github-linguist/linguist/issues/8353) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.8k | 🟢 beginner | 2026-11-21 | [📘 guide](https://github.com/github-linguist/linguist/blob/HEAD/CONTRIBUTING.md) |
-| [Feature Request to add chatwoot directly install in plesk apps](https://github.com/chatwoot/chatwoot/issues/6911) 💬 7 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 40.5k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/chatwoot/chatwoot/blob/HEAD/CONTRIBUTING.md) |
+| [Feature Request to add chatwoot directly install in plesk apps](https://github.com/chatwoot/chatwoot/issues/6911) 💬 7 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 40.6k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/chatwoot/chatwoot/blob/HEAD/CONTRIBUTING.md) |
 | [ObjectSpace.each_object(Module) should visit singleton classes](https://github.com/truffleruby/truffleruby/issues/2825) | [truffleruby/truffleruby](https://github.com/truffleruby/truffleruby) | 3.2k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/truffleruby/truffleruby/blob/HEAD/CONTRIBUTING.md) |
 | [Assert assignPositionOnly() and copyNewlineFlag() are never called on a SequenceNode](https://github.com/truffleruby/truffleruby/issues/4282) | [truffleruby/truffleruby](https://github.com/truffleruby/truffleruby) | 3.2k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/truffleruby/truffleruby/blob/HEAD/CONTRIBUTING.md) |
 | [#load should prioritize $LOAD_PATH before the 'pwd'](https://github.com/truffleruby/truffleruby/issues/1498) 💬 1 | [truffleruby/truffleruby](https://github.com/truffleruby/truffleruby) | 3.2k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/truffleruby/truffleruby/blob/HEAD/CONTRIBUTING.md) |
@@ -25,7 +25,9 @@
 | [Can't edit S3 bucket settings after creating library](https://github.com/manyfold3d/manyfold/issues/4826) 💬 4 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.3k | 🟢 beginner | 2026-11-07 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
 | [When removing a tag from all models, a blank filter remains on reload](https://github.com/manyfold3d/manyfold/issues/3618) 💬 1 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.3k | 🟢 beginner | 2026-11-07 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Link-Preview / Rich Link Preview](https://github.com/manyfold3d/manyfold/issues/4642) 💬 4 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.3k | 🟢 beginner | 2026-11-07 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
+| [\[CW-2868\] Integration for Microsoft Teams](https://github.com/chatwoot/chatwoot/issues/1655) 💬 13 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 40.6k | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/chatwoot/chatwoot/blob/HEAD/CONTRIBUTING.md) |
 | [Debug for SMTP on system's tenants](https://github.com/decidim/decidim/issues/6544) 💬 3 | [decidim/decidim](https://github.com/decidim/decidim) | 1.9k | 🟢 beginner | 2026-11-04 |  |
+| [\[BUG\]: Comments parsed in PRs in Contributions tab](https://github.com/24pullrequests/24pullrequests/issues/3533) 💬 3 | [24pullrequests/24pullrequests](https://github.com/24pullrequests/24pullrequests) | 1.7k | 🟡 help wanted | 2026-11-04 | [📘 guide](https://github.com/24pullrequests/24pullrequests/blob/HEAD/CONTRIBUTING.md) |
 | [Cortex XQL](https://github.com/github-linguist/linguist/issues/7304) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.8k | 🟢 beginner | 2026-11-03 | [📘 guide](https://github.com/github-linguist/linguist/blob/HEAD/CONTRIBUTING.md) |
 | [Add more Learning activities](https://github.com/TarteelAI/quranic-universal-library/issues/250) | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) | 1.1k | 🟡 help wanted | 2026-11-01 |  |
 | [Add Qalun data](https://github.com/TarteelAI/quranic-universal-library/issues/245) 💬 1 | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) | 1.1k | 🟡 help wanted | 2026-11-01 |  |

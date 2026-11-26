@@ -1,10 +1,10 @@
 # Zig issues
 
-**10** open issues (6 labeled for beginners) across **6** active Zig projects.
+**9** open issues (5 labeled for beginners) across **5** active Zig projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/zig.xml)
 
-> Updated automatically on **2026-11-25 02:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-26 01:42 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -20,5 +20,4 @@
 | [add asdf plugin to repo](https://github.com/roc-lang/roc/issues/6076) 💬 3 | [roc-lang/roc](https://github.com/roc-lang/roc) | 6.2k | 🟢 beginner | 2026-07-26 |  |
 | [Add CI check to check repo for any dangerous characters or substrings in text](https://github.com/roc-lang/roc/issues/6963) | [roc-lang/roc](https://github.com/roc-lang/roc) | 6.2k | 🟢 beginner | 2026-07-18 |  |
 | ['roc init'](https://github.com/roc-lang/roc/issues/3139) 💬 2 | [roc-lang/roc](https://github.com/roc-lang/roc) | 6.2k | 🟢 beginner | 2026-06-27 |  |
-| [add support for link type extensions ('&lt;link \[rel\]&gt;')](https://github.com/kristoff-it/superhtml/issues/143) 💬 1 | [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) | 1.4k | 🟢 beginner | 2026-06-23 |  |
 | [Login with Phone number error](https://github.com/Loongphy/codex-auth/issues/138) | [Loongphy/codex-auth](https://github.com/Loongphy/codex-auth) | 2.9k | 🟡 help wanted | 2026-06-05 |  |
