@@ -1,10 +1,10 @@
 # JavaScript issues
 
-**165** open issues (58 labeled for beginners) across **63** active JavaScript projects.
+**164** open issues (55 labeled for beginners) across **63** active JavaScript projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/javascript.xml)
 
-> Updated automatically on **2026-11-26 01:42 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-26 16:04 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Document the background job options for Meteor 3 apps](https://github.com/meteor/meteor/issues/15031) | [meteor/meteor](https://github.com/meteor/meteor) | 44.8k | 🟡 help wanted | 2026-11-26 | ✍️ CLA · [📘 guide](https://github.com/meteor/meteor/blob/HEAD/CONTRIBUTING.md) |
+| [Align the docs on schema and validation options](https://github.com/meteor/meteor/issues/15030) | [meteor/meteor](https://github.com/meteor/meteor) | 44.8k | 🟡 help wanted | 2026-11-26 | ✍️ CLA · [📘 guide](https://github.com/meteor/meteor/blob/HEAD/CONTRIBUTING.md) |
 | [\[WeCom\] Using multiple notifications will cause omissions](https://github.com/louislam/uptime-kuma/issues/4223) 💬 5 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 94.9k | 🟡 help wanted | 2026-11-25 | ⚠️ AI restricted · [📘 guide](https://github.com/louislam/uptime-kuma/blob/HEAD/CONTRIBUTING.md) |
 | [React 18 SSR hydration failure in MeteorJS](https://github.com/meteor/meteor/issues/12185) 💬 6 | [meteor/meteor](https://github.com/meteor/meteor) | 44.8k | 🟡 help wanted | 2026-11-25 | ✍️ CLA · [📘 guide](https://github.com/meteor/meteor/blob/HEAD/CONTRIBUTING.md) |
 | [Type tests for Meteor packages](https://github.com/meteor/meteor/issues/13676) 💬 12 | [meteor/meteor](https://github.com/meteor/meteor) | 44.8k | 🟢 beginner | 2026-11-25 | ✍️ CLA · [📘 guide](https://github.com/meteor/meteor/blob/HEAD/CONTRIBUTING.md) |
@@ -46,18 +48,16 @@
 | [Filter tls options](https://github.com/nodejs/undici/issues/236) 💬 9 | [nodejs/undici](https://github.com/nodejs/undici) | 7.8k | 🟢 beginner | 2026-11-12 | [📘 guide](https://github.com/nodejs/undici/blob/HEAD/CONTRIBUTING.md) |
 | [\[Help\] catch-all那里现在需要email worker，咋办？](https://github.com/maillab/cloud-mail/issues/564) 💬 5 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 16.6k | 🟡 help wanted | 2026-11-08 |  |
 | [Functions do not recon with 'config.number' when converting a string into a numeric type](https://github.com/josdejong/mathjs/issues/3206) 💬 3 | [josdejong/mathjs](https://github.com/josdejong/mathjs) | 15.1k | 🟡 help wanted | 2026-11-08 | [📘 guide](https://github.com/josdejong/mathjs/blob/HEAD/CONTRIBUTING.md) |
-| [Other worlds: Moon and Mars as alternate globes](https://github.com/bilawalsidhu/gods-eye-view/issues/738) 💬 7 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 66.8k | 🟡 help wanted | 2026-11-07 | [📘 guide](https://github.com/bilawalsidhu/gods-eye-view/blob/HEAD/CONTRIBUTING.md) |
+| [Other worlds: Moon and Mars as alternate globes](https://github.com/bilawalsidhu/gods-eye-view/issues/738) 💬 7 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 67k | 🟡 help wanted | 2026-11-07 | [📘 guide](https://github.com/bilawalsidhu/gods-eye-view/blob/HEAD/CONTRIBUTING.md) |
 | [Crashes when syncing in Ardia browser](https://github.com/openstyles/stylus/issues/2267) 💬 4 | [openstyles/stylus](https://github.com/openstyles/stylus) | 7k | 🟡 help wanted | 2026-11-07 | [📘 guide](https://github.com/openstyles/stylus/blob/HEAD/CONTRIBUTING.md) |
 | [Feature request: return a stored source in full ('ctx_get')](https://github.com/mksglu/context-mode/issues/1325) 💬 2 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 34.5k | 🟡 help wanted | 2026-11-06 | [📘 guide](https://github.com/mksglu/context-mode/blob/HEAD/CONTRIBUTING.md) |
 | [Access ECR URI Natively](https://github.com/serverless/serverless/issues/12018) 💬 4 | [serverless/serverless](https://github.com/serverless/serverless) | 46.9k | 🟡 help wanted | 2026-11-05 | [📘 guide](https://github.com/serverless/serverless/blob/HEAD/CONTRIBUTING.md) |
 | [broken upside down mode with (Push) monitors' notifcation detection of important heatbeats](https://github.com/louislam/uptime-kuma/issues/5911) 💬 8 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 94.9k | 🟡 help wanted | 2026-11-04 | ⚠️ AI restricted · [📘 guide](https://github.com/louislam/uptime-kuma/blob/HEAD/CONTRIBUTING.md) |
 | [\[ACTION\] Simplify Notion upload image affordance](https://github.com/PipedreamHQ/pipedream/issues/20537) 💬 3 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.8k | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/PipedreamHQ/pipedream/blob/HEAD/CONTRIBUTING.md) |
-| [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16470) 💬 3 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6k | 🟢 beginner | 2026-11-04 | 🤖 disclose AI use · [📘 guide](https://github.com/stdlib-js/stdlib/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Click causes black screen and unresponsiveness](https://github.com/hovancik/stretchly/issues/1860) 💬 2 | [hovancik/stretchly](https://github.com/hovancik/stretchly) | 6.7k | 🟡 help wanted | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/hovancik/stretchly/blob/HEAD/CONTRIBUTING.md) |
 | [Adding $props in svelte5 reported an error.](https://github.com/antfu/eslint-config/issues/671) 💬 1 | [antfu/eslint-config](https://github.com/antfu/eslint-config) | 6.3k | 🟡 help wanted | 2026-11-03 |  |
 | [Nested derivatives fail](https://github.com/josdejong/mathjs/issues/3528) 💬 4 | [josdejong/mathjs](https://github.com/josdejong/mathjs) | 15.1k | 🟡 help wanted | 2026-11-02 | [📘 guide](https://github.com/josdejong/mathjs/blob/HEAD/CONTRIBUTING.md) |
 | [Add react-virtual support](https://github.com/downshift-js/downshift/issues/1654) 💬 3 | [downshift-js/downshift](https://github.com/downshift-js/downshift) | 12.3k | 🟡 help wanted | 2026-11-02 | [📘 guide](https://github.com/downshift-js/downshift/blob/HEAD/CONTRIBUTING.md) |
-| [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16453) 💬 3 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6k | 🟢 beginner | 2026-11-02 | 🤖 disclose AI use · [📘 guide](https://github.com/stdlib-js/stdlib/blob/HEAD/CONTRIBUTING.md) |
 | [🇪🇸 Spanish (es) UI translation](https://github.com/jason5ng32/MyIP/issues/420) 💬 1 | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.4k | 🟢 beginner | 2026-11-01 | [📘 guide](https://github.com/jason5ng32/MyIP/blob/HEAD/CONTRIBUTING.md) |
 | [\[ACTION\]](https://github.com/PipedreamHQ/pipedream/issues/22372) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.8k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/PipedreamHQ/pipedream/blob/HEAD/CONTRIBUTING.md) |
 | [\[jsx-no-literals\] elementOverrides crashes on let without initializer](https://github.com/jsx-eslint/eslint-plugin-react/issues/4051) 💬 2 | [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) | 9.3k | 🟡 help wanted | 2026-10-29 | [📘 guide](https://github.com/jsx-eslint/eslint-plugin-react/blob/HEAD/CONTRIBUTING.md) |
@@ -130,7 +130,6 @@
 | [Add 'defaultOptions' method to main beautifier](https://github.com/beautifier/js-beautify/issues/1584) 💬 4 | [beautifier/js-beautify](https://github.com/beautifier/js-beautify) | 9k | 🟢 beginner | 2026-09-01 | [📘 guide](https://github.com/beautifier/js-beautify/blob/HEAD/CONTRIBUTING.md) |
 | [\[Help\] 按教程创建了 Worker，但是电子邮件 Catch-all 找不到 Worker，提示没有已部署的 Email Worker](https://github.com/maillab/cloud-mail/issues/440) 💬 7 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 16.6k | 🟡 help wanted | 2026-08-28 |  |
 | [\[To Do\] Add visual regression (Backstop) tests to Less](https://github.com/less/less.js/issues/3262) 💬 5 | [less/less.js](https://github.com/less/less.js) | 17k | 🟢 beginner | 2026-08-27 | [📘 guide](https://github.com/less/less.js/blob/HEAD/CONTRIBUTING.md) |
-| [Proxying should support HTTP and HTTPS at the same time](https://github.com/usebruno/bruno/issues/1985) 💬 3 | [usebruno/bruno](https://github.com/usebruno/bruno) | 48.6k | 🟢 beginner | 2026-08-26 |  |
 | [Add a check to test if :hover styles require doubletapping links](https://github.com/GoogleChrome/lighthouse/issues/9474) 💬 9 | [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) | 31.2k | 🟢 beginner | 2026-08-26 | ✍️ CLA · [📘 guide](https://github.com/GoogleChrome/lighthouse/blob/HEAD/CONTRIBUTING.md) |
 | [\[RFC\]: Add C implementation for '@stdlib/stats/base/dists/beta/median'](https://github.com/stdlib-js/stdlib/issues/3429) 💬 2 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6k | 🟢 beginner | 2026-08-22 | 🤖 disclose AI use · [📘 guide](https://github.com/stdlib-js/stdlib/blob/HEAD/CONTRIBUTING.md) |
 | [\[RFC\]: Add C implementation for '@stdlib/stats/base/dists/chisquare/pdf'](https://github.com/stdlib-js/stdlib/issues/3508) 💬 2 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6k | 🟢 beginner | 2026-08-22 | 🤖 disclose AI use · [📘 guide](https://github.com/stdlib-js/stdlib/blob/HEAD/CONTRIBUTING.md) |

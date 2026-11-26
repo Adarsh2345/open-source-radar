@@ -1,10 +1,10 @@
 # Haskell issues
 
-**43** open issues (15 labeled for beginners) across **5** active Haskell projects.
+**42** open issues (14 labeled for beginners) across **5** active Haskell projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/haskell.xml)
 
-> Updated automatically on **2026-11-26 01:42 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-26 16:04 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -19,7 +19,6 @@
 | [Show shorter messages, log longer into history](https://github.com/LambdaHack/LambdaHack/issues/211) 💬 3 | [LambdaHack/LambdaHack](https://github.com/LambdaHack/LambdaHack) | 659 | 🟡 help wanted | 2026-11-24 |  |
 | [Create save files ASAP when save keypress is received](https://github.com/LambdaHack/LambdaHack/issues/166) 💬 3 | [LambdaHack/LambdaHack](https://github.com/LambdaHack/LambdaHack) | 659 | 🟢 beginner | 2026-11-24 |  |
 | [In all item lore menus, show all possible item kinds with '--exposeItems'](https://github.com/LambdaHack/LambdaHack/issues/144) 💬 1 | [LambdaHack/LambdaHack](https://github.com/LambdaHack/LambdaHack) | 659 | 🟡 help wanted | 2026-11-24 |  |
-| [Add metal flavour set, gem set, spray set, etc.](https://github.com/LambdaHack/LambdaHack/issues/138) 💬 1 | [LambdaHack/LambdaHack](https://github.com/LambdaHack/LambdaHack) | 659 | 🟢 beginner | 2026-11-24 |  |
 | [Extend the dashboard](https://github.com/LambdaHack/LambdaHack/issues/130) | [LambdaHack/LambdaHack](https://github.com/LambdaHack/LambdaHack) | 659 | 🟡 help wanted | 2026-11-24 |  |
 | [Add place (room) descriptions in the form of tiles with embedded items](https://github.com/LambdaHack/LambdaHack/issues/126) | [LambdaHack/LambdaHack](https://github.com/LambdaHack/LambdaHack) | 659 | 🟡 help wanted | 2026-11-24 |  |
 | [Implement graphical tiles in SDL2 frontend (later on, in brower frontend, too)](https://github.com/LambdaHack/LambdaHack/issues/140) 💬 5 | [LambdaHack/LambdaHack](https://github.com/LambdaHack/LambdaHack) | 659 | 🟡 help wanted | 2026-11-24 |  |
