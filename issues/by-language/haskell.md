@@ -1,10 +1,10 @@
 # Haskell issues
 
-**42** open issues (14 labeled for beginners) across **5** active Haskell projects.
+**45** open issues (15 labeled for beginners) across **6** active Haskell projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/haskell.xml)
 
-> Updated automatically on **2026-11-26 16:04 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-27 01:40 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -47,6 +47,9 @@
 | [Haskell-based compiler 0.6.5 crashes when compiling a package that has a summary field &gt;= 80 chars](https://github.com/gren-lang/compiler/issues/380) | [gren-lang/compiler](https://github.com/gren-lang/compiler) | 510 | 🟢 beginner | 2026-10-23 | [📘 guide](https://github.com/gren-lang/compiler/blob/HEAD/CONTRIBUTING.md) |
 | [Encourage using mutual/forward declarations over interleaved mutual](https://github.com/agda/agda/issues/8018) 💬 2 | [agda/agda](https://github.com/agda/agda) | 3k | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) |
 | ['ClashesViaRenaming' too strict](https://github.com/agda/agda/issues/8786) | [agda/agda](https://github.com/agda/agda) | 3k | 🟢 beginner | 2026-10-21 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) |
+| [New-pipeline: use Parlaylib allocator on Windows](https://github.com/AccelerateHS/accelerate/issues/576) 💬 3 | [AccelerateHS/accelerate](https://github.com/AccelerateHS/accelerate) | 1k | 🟡 help wanted | 2026-10-06 |  |
+| [Update utility packages for Accelerate 1.4](https://github.com/AccelerateHS/accelerate/issues/580) 💬 3 | [AccelerateHS/accelerate](https://github.com/AccelerateHS/accelerate) | 1k | 🟡 help wanted | 2026-10-06 |  |
+| [New pipeline: atrace on PTX](https://github.com/AccelerateHS/accelerate/issues/582) | [AccelerateHS/accelerate](https://github.com/AccelerateHS/accelerate) | 1k | 🟢 beginner | 2026-10-06 |  |
 | [RepeatedNamesInImportDirective error too strict](https://github.com/agda/agda/issues/8237) 💬 2 | [agda/agda](https://github.com/agda/agda) | 3k | 🟢 beginner | 2026-10-04 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) |
 | [Use github actions' cron to build additional libraries?](https://github.com/agda/agda/issues/4328) 💬 5 | [agda/agda](https://github.com/agda/agda) | 3k | 🟡 help wanted | 2026-09-02 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) |
 | [Installing development version with cabal](https://github.com/agda/agda/issues/6031) 💬 8 | [agda/agda](https://github.com/agda/agda) | 3k | 🟡 help wanted | 2026-09-01 | [📘 guide](https://github.com/agda/agda/blob/HEAD/CONTRIBUTING.md) |

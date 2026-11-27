@@ -1,10 +1,10 @@
 # C# issues
 
-**245** open issues (64 labeled for beginners) across **81** active C# projects.
+**243** open issues (64 labeled for beginners) across **81** active C# projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/csharp.xml)
 
-> Updated automatically on **2026-11-26 16:04 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-27 01:40 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Reflection on enums creates instances of open generic types](https://github.com/dotnet/runtime/issues/7976) 💬 19 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.5k | 🟡 help wanted | 2026-11-26 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
 | [Introduce suppressor for CA1001 (Types that own disposable fields should be disposable)](https://github.com/dotnet/BenchmarkDotNet/issues/3357) 💬 1 | [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | 11.5k | 🟡 help wanted | 2026-11-26 | [📘 guide](https://github.com/dotnet/BenchmarkDotNet/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Represent command-line arguments primarily as 'IReadOnlyList&lt;string&gt;' instead of 'string'](https://github.com/Tyrrrz/CliWrap/issues/358) | [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) | 5k | 🟢 beginner | 2026-11-26 |  |
 | [Option to constrain process lifetime to that of the parent](https://github.com/Tyrrrz/CliWrap/issues/356) | [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) | 5k | 🟢 beginner | 2026-11-26 |  |
@@ -22,7 +23,6 @@
 | [Analyzer proposal: treat calls to ROS&lt;char&gt; op_Equality as warning](https://github.com/dotnet/runtime/issues/54794) 💬 22 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.5k | 🟡 help wanted | 2026-11-25 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
 | [\[Analyzer\] Adjust/simplify code for numeric IntPtr](https://github.com/dotnet/runtime/issues/74518) 💬 7 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.5k | 🟡 help wanted | 2026-11-25 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
 | [\[JIT\] Idea: rebalance chains of relational compares against constants (switch 'when' guards) into a binary sea](https://github.com/dotnet/runtime/issues/136039) 💬 3 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.5k | 🟡 help wanted | 2026-11-25 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
-| [JIT: a no-return call in a compound assignment to a struct field keeps the struct in memory](https://github.com/dotnet/runtime/issues/137581) 💬 1 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.5k | 🟡 help wanted | 2026-11-25 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature Request\] Option to launch on PC idle only.](https://github.com/duplicati/duplicati/issues/2551) 💬 3 | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | 🟡 help wanted | 2026-11-25 |  |
 | [\[Feature\] DotNet New Template](https://github.com/BrighterCommand/Brighter/issues/3566) | [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) | 2.5k | 🟡 help wanted | 2026-11-25 | ✍️ CLA · [📘 guide](https://github.com/BrighterCommand/Brighter/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\] Add support to SQS Temporary Queues](https://github.com/BrighterCommand/Brighter/issues/3491) | [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) | 2.5k | 🟡 help wanted | 2026-11-25 | ✍️ CLA · [📘 guide](https://github.com/BrighterCommand/Brighter/blob/HEAD/CONTRIBUTING.md) |
@@ -36,7 +36,7 @@
 | [Feature Request: Semantic / Contextual text search using local embeddings (BERT or lightweight alternatives)](https://github.com/dnGrep/dnGrep/issues/1561) 💬 2 | [dnGrep/dnGrep](https://github.com/dnGrep/dnGrep) | 2.3k | 🟡 help wanted | 2026-11-24 |  |
 | [MudTextField cannot reliably submit on Enter key in Blazor MAUI Hybrid apps](https://github.com/MudBlazor/MudBlazor/issues/9136) 💬 8 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟡 help wanted | 2026-11-23 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
 | [Is it intended that the top video quality level ("1080p") sends the original file untouched instead of transco](https://github.com/TelegramMessenger/Unigram/issues/3526) 💬 5 | [TelegramMessenger/Unigram](https://github.com/TelegramMessenger/Unigram) | 5.6k | 🟡 help wanted | 2026-11-23 | [📘 guide](https://github.com/TelegramMessenger/Unigram/blob/HEAD/CONTRIBUTING.md) |
-| [Variables set as a result of a custom handled command in ink can be skipped over](https://github.com/inkle/ink/issues/858) 💬 1 | [inkle/ink](https://github.com/inkle/ink) | 5k | 🟡 help wanted | 2026-11-23 |  |
+| [Variables set as a result of a custom handled command in ink can be skipped over](https://github.com/inkle/ink/issues/858) 💬 1 | [inkle/ink](https://github.com/inkle/ink) | 5.1k | 🟡 help wanted | 2026-11-23 |  |
 | [MudDataGrid: QuickFilter executes on every re-render causing performance issues](https://github.com/MudBlazor/MudBlazor/issues/9494) 💬 4 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟡 help wanted | 2026-11-22 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
 | [feat: Add Azure Synapse Analytics tools to Azure MCP Server](https://github.com/microsoft/mcp/issues/2122) 💬 4 | [microsoft/mcp](https://github.com/microsoft/mcp) | 3.9k | 🟡 help wanted | 2026-11-21 | [📘 guide](https://github.com/microsoft/mcp/blob/HEAD/CONTRIBUTING.md) |
 | [Design proposal: #47685 Add blob() method to JS side of Blazor DotNetStreamReference](https://github.com/dotnet/aspnetcore/issues/61826) 💬 15 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38.5k | 🟢 beginner | 2026-11-20 | ✍️ CLA · [📘 guide](https://github.com/dotnet/aspnetcore/blob/HEAD/CONTRIBUTING.md) |
@@ -125,7 +125,6 @@
 | [\[Feature\] Auto-restart Performers](https://github.com/BrighterCommand/Brighter/issues/954) 💬 5 | [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) | 2.5k | 🟡 help wanted | 2026-10-23 | ✍️ CLA · [📘 guide](https://github.com/BrighterCommand/Brighter/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\] Enhance ASB Subscription Maintenance](https://github.com/BrighterCommand/Brighter/issues/2074) | [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) | 2.5k | 🟡 help wanted | 2026-10-23 | ✍️ CLA · [📘 guide](https://github.com/BrighterCommand/Brighter/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\] Add support to Bulk post for SQS/SNS](https://github.com/BrighterCommand/Brighter/issues/3522) 💬 1 | [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) | 2.5k | 🟡 help wanted | 2026-10-23 | ✍️ CLA · [📘 guide](https://github.com/BrighterCommand/Brighter/blob/HEAD/CONTRIBUTING.md) |
-| [\[Docs\] WebAPI Samples Not Consistent On Sweeper and Archiver](https://github.com/BrighterCommand/Brighter/issues/4203) | [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) | 2.5k | 🟡 help wanted | 2026-10-23 | ✍️ CLA · [📘 guide](https://github.com/BrighterCommand/Brighter/blob/HEAD/CONTRIBUTING.md) |
 | [Support SNS fifo and SQS standard in pubsub configuration](https://github.com/BrighterCommand/Brighter/issues/4637) 💬 1 | [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) | 2.5k | 🟡 help wanted | 2026-10-23 | ✍️ CLA · [📘 guide](https://github.com/BrighterCommand/Brighter/blob/HEAD/CONTRIBUTING.md) |
 | [Add IconProperties to unify icon, size, color, and viewport settings](https://github.com/MudBlazor/MudBlazor/issues/7561) 💬 10 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟡 help wanted | 2026-10-22 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
 | [Option to Normalize Results by an Additive Baseline](https://github.com/dotnet/BenchmarkDotNet/issues/431) 💬 5 | [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | 11.5k | 🟢 beginner | 2026-10-21 | [📘 guide](https://github.com/dotnet/BenchmarkDotNet/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -212,5 +211,6 @@
 | [Unable to download a private video with cookies ('401 Unauthorized')](https://github.com/Tyrrrz/YoutubeExplode/issues/781) 💬 14 | [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | 3.8k | 🟡 help wanted | 2026-08-19 |  |
 | [\[BUG\]: Not loading cuda backend on laptop](https://github.com/SciSharp/LLamaSharp/issues/990) 💬 10 | [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) | 3.8k | 🟢 beginner | 2026-08-17 | [📘 guide](https://github.com/SciSharp/LLamaSharp/blob/HEAD/CONTRIBUTING.md) |
 | [allow unpack msi if some cab are missing](https://github.com/activescott/lessmsi/issues/175) 💬 5 | [activescott/lessmsi](https://github.com/activescott/lessmsi) | 1.8k | 🟢 beginner | 2026-08-17 | [📘 guide](https://github.com/activescott/lessmsi/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Feature: Use IPTC Location metadata fields instead of reverse geocoding addresses](https://github.com/files-community/Files/issues/10472) 💬 2 | [files-community/Files](https://github.com/files-community/Files) | 46.8k | 🟢 beginner | 2026-08-14 | [📘 guide](https://github.com/files-community/Files/blob/HEAD/.github/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 245 on the website.
+Showing the 200 most recently updated. See all 243 on the website.
