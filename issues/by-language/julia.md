@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/julia.xml)
 
-> Updated automatically on **2026-11-27 01:40 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-27 15:52 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -40,11 +40,11 @@
 | [Support CuDeviceArray construction with non-Int dims](https://github.com/JuliaGPU/CUDA.jl/issues/2846) 💬 1 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
 | [Document kernel indexing for 2D arrays](https://github.com/JuliaGPU/CUDA.jl/issues/218) 💬 4 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
 | [CUSPARSE: in-place copy from CuSparseCSC to SparseCSC](https://github.com/JuliaGPU/CUDA.jl/issues/1997) 💬 1 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
-| [Support authentication when downloading files (e.g. artifacts)](https://github.com/JuliaLang/Pkg.jl/issues/4247) 💬 4 | [JuliaLang/Pkg.jl](https://github.com/JuliaLang/Pkg.jl) | 681 | 🟡 help wanted | 2026-10-07 |  |
-| [Conjugate heat transfer, requires implementation of new temperature scalar transport equation](https://github.com/WaterLily-jl/WaterLily.jl/issues/172) 💬 15 | [WaterLily-jl/WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl) | 860 | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/WaterLily-jl/WaterLily.jl/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Support authentication when downloading files (e.g. artifacts)](https://github.com/JuliaLang/Pkg.jl/issues/4247) 💬 4 | [JuliaLang/Pkg.jl](https://github.com/JuliaLang/Pkg.jl) | 680 | 🟡 help wanted | 2026-10-07 |  |
+| [Conjugate heat transfer, requires implementation of new temperature scalar transport equation](https://github.com/WaterLily-jl/WaterLily.jl/issues/172) 💬 15 | [WaterLily-jl/WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl) | 862 | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/WaterLily-jl/WaterLily.jl/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Missing Rmath derivatives](https://github.com/EnzymeAD/Enzyme.jl/issues/1620) 💬 2 | [EnzymeAD/Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl) | 595 | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/EnzymeAD/Enzyme.jl/blob/HEAD/CONTRIBUTING.md) |
 | [Can't turn off range and indexing parentheses](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/877) 💬 1 | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 650 | 🟢 beginner | 2026-09-10 |  |
-| [Utilize DocumenterCodeblocks.jl in all subpackages of the ecosystem](https://github.com/JuliaDynamics/DynamicalSystems.jl/issues/270) | [JuliaDynamics/DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) | 962 | 🟢 beginner | 2026-08-18 | [📘 guide](https://github.com/JuliaDynamics/DynamicalSystems.jl/blob/HEAD/CONTRIBUTING.md) |
+| [Utilize DocumenterCodeblocks.jl in all subpackages of the ecosystem](https://github.com/JuliaDynamics/DynamicalSystems.jl/issues/270) | [JuliaDynamics/DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) | 964 | 🟢 beginner | 2026-08-18 | [📘 guide](https://github.com/JuliaDynamics/DynamicalSystems.jl/blob/HEAD/CONTRIBUTING.md) |
 | [Functional equivalents missing for some layers](https://github.com/FluxML/Flux.jl/issues/2013) 💬 4 | [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) | 4.8k | 🟢 beginner | 2026-08-12 | [📘 guide](https://github.com/FluxML/Flux.jl/blob/HEAD/CONTRIBUTING.md) |
 | [Add option to log which statement is being precompiled](https://github.com/JuliaLang/PackageCompiler.jl/issues/867) | [JuliaLang/PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) | 1.6k | 🟢 beginner | 2026-07-31 |  |
 | [Reactivate devdocs](https://github.com/JuliaLang/PackageCompiler.jl/issues/842) 💬 2 | [JuliaLang/PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) | 1.6k | 🟡 help wanted | 2026-07-31 |  |
