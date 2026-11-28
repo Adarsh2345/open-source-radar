@@ -1,10 +1,10 @@
 # C issues
 
-**140** open issues (28 labeled for beginners) across **52** active C projects.
+**140** open issues (28 labeled for beginners) across **51** active C projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/c.xml)
 
-> Updated automatically on **2026-11-27 15:52 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-28 01:10 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -15,6 +15,7 @@
 | [Add support for decoding /ITU-T/Identified-Organization/0/194121/2/1 'id-etsi-ext-valassured-ST-certs'](https://github.com/openssl/openssl/issues/29139) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 31.6k | 🟡 help wanted | 2026-11-27 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [SMIME: "-binary" is not respected in verify command](https://github.com/openssl/openssl/issues/29492) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 31.6k | 🟡 help wanted | 2026-11-27 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [Non ascii filenames as a store URI on Windows](https://github.com/openssl/openssl/issues/29253) 💬 4 | [openssl/openssl](https://github.com/openssl/openssl) | 31.6k | 🟡 help wanted | 2026-11-27 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
+| [\[BUG\] random libglib-2.0 kernel trap error with mydumper](https://github.com/mydumper/mydumper/issues/2411) 💬 1 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.3k | 🟡 help wanted | 2026-11-27 |  |
 | [\[Mouse Utilities\] Crosshairs: Don't end lines on monitor](https://github.com/microsoft/PowerToys/issues/16531) 💬 5 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 141.5k | 🟡 help wanted | 2026-11-26 | [📘 guide](https://github.com/microsoft/PowerToys/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] Cannot override cc in Configurations](https://github.com/openssl/openssl/issues/24915) 💬 5 | [openssl/openssl](https://github.com/openssl/openssl) | 31.6k | 🟡 help wanted | 2026-11-26 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [Explanation of the Alert Semantic Difference in the Certificate Signature Failure Scenario](https://github.com/openssl/openssl/issues/30879) 💬 5 | [openssl/openssl](https://github.com/openssl/openssl) | 31.6k | 🟡 help wanted | 2026-11-26 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
@@ -151,4 +152,3 @@
 | [Find functions that perform temporary seek from the API and refactor to use the offset argument if possible](https://github.com/rizinorg/rizin/issues/2906) 💬 3 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 4.3k | 🟢 beginner | 2026-06-14 | 🤖 disclose AI use · [📘 guide](https://github.com/rizinorg/rizin/blob/HEAD/CONTRIBUTING.md) |
 | [Android (APK) build target](https://github.com/joncampbell123/dosbox-x/issues/959) 💬 61 | [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) | 3.8k | 🟡 help wanted | 2026-06-10 | [📘 guide](https://github.com/joncampbell123/dosbox-x/blob/HEAD/CONTRIBUTING.md) |
 | [Core files not being created on SIGSEGV in ASAN/TSAN mode](https://github.com/yugabyte/yugabyte-db/issues/228) 💬 1 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.7k | 🟢 beginner | 2026-06-08 | 🤖 disclose AI use |
-| [Rosetta Code Examples](https://github.com/janet-lang/janet/issues/227) 💬 10 | [janet-lang/janet](https://github.com/janet-lang/janet) | 4.5k | 🟡 help wanted | 2026-06-01 | 🤖 disclose AI use · [📘 guide](https://github.com/janet-lang/janet/blob/HEAD/CONTRIBUTING.md) |

@@ -2,7 +2,7 @@
 
 **61** open issues (22 labeled for beginners) across **13** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
 
-> Updated automatically on **2026-11-27 15:52 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-28 01:10 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -29,9 +29,9 @@
 | [GitHub label documentation](https://github.com/openssl/openssl/issues/30239) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 31.6k | 🟡 help wanted | 2026-11-26 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [Syncing archive node from era files](https://github.com/ethereum/go-ethereum/issues/35354) 💬 6 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51.5k | 🟡 help wanted | 2026-11-24 | [📘 guide](https://github.com/ethereum/go-ethereum/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Bug\]: Filtered balance on Split's notes not calculating properly](https://github.com/actualbudget/actual/issues/4381) 💬 4 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.5k | 🟡 help wanted | 2026-11-23 | 📄 AI policy · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
-| [\[FEAT\] - Online synchronization](https://github.com/flow-mn/flow/issues/93) 💬 5 | [flow-mn/flow](https://github.com/flow-mn/flow) | 525 | 🟡 help wanted | 2026-11-21 | 📄 AI policy · [📘 guide](https://github.com/flow-mn/flow/blob/HEAD/CONTRIBUTING.md) |
+| [\[FEAT\] - Online synchronization](https://github.com/flow-mn/flow/issues/93) 💬 5 | [flow-mn/flow](https://github.com/flow-mn/flow) | 524 | 🟡 help wanted | 2026-11-21 | 📄 AI policy · [📘 guide](https://github.com/flow-mn/flow/blob/HEAD/CONTRIBUTING.md) |
 | [Missing support for parameter sets that use SHA256/192 hashes from draft-fluhrer-lms-more-parm-sets](https://github.com/open-quantum-safe/liboqs/issues/2143) 💬 8 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-11-19 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
-| [\[FEAT\] Add transactions from incoming SMS](https://github.com/flow-mn/flow/issues/673) 💬 7 | [flow-mn/flow](https://github.com/flow-mn/flow) | 525 | 🟡 help wanted | 2026-11-14 | 📄 AI policy · [📘 guide](https://github.com/flow-mn/flow/blob/HEAD/CONTRIBUTING.md) |
+| [\[FEAT\] Add transactions from incoming SMS](https://github.com/flow-mn/flow/issues/673) 💬 7 | [flow-mn/flow](https://github.com/flow-mn/flow) | 524 | 🟡 help wanted | 2026-11-14 | 📄 AI policy · [📘 guide](https://github.com/flow-mn/flow/blob/HEAD/CONTRIBUTING.md) |
 | [Identify all the places we are using 'anyhow' on trait interfaces](https://github.com/FuelLabs/fuel-core/issues/2592) 💬 2 | [FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core) | 56.7k | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/FuelLabs/fuel-core/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Scrolling jitter on mobile](https://github.com/actualbudget/actual/issues/9294) 💬 6 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.5k | 🟡 help wanted | 2026-11-03 | 📄 AI policy · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [Support ledger parameters in tx command and deprecate/remove transaction_entry](https://github.com/XRPLF/rippled/issues/2598) 💬 5 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-11-02 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |

@@ -1,10 +1,10 @@
 # Lua issues
 
-**30** open issues (21 labeled for beginners) across **12** active Lua projects.
+**29** open issues (20 labeled for beginners) across **12** active Lua projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/lua.xml)
 
-> Updated automatically on **2026-11-27 15:52 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-28 01:10 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [website: Categorize apps](https://github.com/public-transport/transitous/issues/2740) | [public-transport/transitous](https://github.com/public-transport/transitous) | 769 | 🟢 beginner | 2026-11-27 | 📄 AI policy |
 | [The key is missing from functional-index and foreign-key error payloads](https://github.com/tarantool/tarantool/issues/13818) | [tarantool/tarantool](https://github.com/tarantool/tarantool) | 3.7k | 🟢 beginner | 2026-11-26 | [📘 guide](https://github.com/tarantool/tarantool/blob/HEAD/CONTRIBUTING.md) |
 | [Good First Issue: Observe Random Announcements behaviour in regular gameplay](https://github.com/CorsixTH/CorsixTH/issues/3606) | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.8k | 🟢 beginner | 2026-11-24 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
 | [\[Forever\] Questie should insert Blizzard quest links anywhere.](https://github.com/Questie/Questie/issues/8218) 💬 3 | [Questie/Questie](https://github.com/Questie/Questie) | 1.2k | 🟢 beginner | 2026-11-21 |  |
@@ -25,12 +24,12 @@
 | [Gamepad/controller support](https://github.com/CorsixTH/CorsixTH/issues/3176) 💬 3 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.8k | 🟡 help wanted | 2026-10-25 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
 | [structured configuration for password retreival](https://github.com/avante-corp/avante.nvim/issues/3323) | [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) | 18.2k | 🟢 beginner | 2026-10-20 | [📘 guide](https://github.com/avante-corp/avante.nvim/blob/HEAD/CONTRIBUTING.md) |
 | [Implement LAN Multiplayer System And Mode](https://github.com/CorsixTH/CorsixTH/issues/386) 💬 54 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.8k | 🟡 help wanted | 2026-10-19 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
-| [feature: Apply session_cwd to session restore](https://github.com/carlos-algms/agentic.nvim/issues/325) 💬 1 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 668 | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
+| [feature: Apply session_cwd to session restore](https://github.com/carlos-algms/agentic.nvim/issues/325) 💬 1 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 669 | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
 | [🐛 migration needed: mobs speed enhancements](https://github.com/LandSandBoat/server/issues/4757) 💬 1 | [LandSandBoat/server](https://github.com/LandSandBoat/server) | 531 | 🟢 beginner | 2026-10-14 | [📘 guide](https://github.com/LandSandBoat/server/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] Missing room explosion animation](https://github.com/CorsixTH/CorsixTH/issues/2556) 💬 7 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.8k | 🟡 help wanted | 2026-10-08 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
-| [feature: Prompting through lua](https://github.com/carlos-algms/agentic.nvim/issues/316) 💬 4 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 668 | 🟡 help wanted | 2026-10-05 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
-| [Support for integrating with ClaudeCode's AskUserQuestion](https://github.com/carlos-algms/agentic.nvim/issues/274) 💬 9 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 668 | 🟡 help wanted | 2026-10-04 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
-| [\[feature\] support rockspec](https://github.com/carlos-algms/agentic.nvim/issues/264) 💬 1 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 668 | 🟢 beginner | 2026-10-04 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
+| [feature: Prompting through lua](https://github.com/carlos-algms/agentic.nvim/issues/316) 💬 4 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 669 | 🟡 help wanted | 2026-10-05 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
+| [Support for integrating with ClaudeCode's AskUserQuestion](https://github.com/carlos-algms/agentic.nvim/issues/274) 💬 9 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 669 | 🟡 help wanted | 2026-10-04 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
+| [\[feature\] support rockspec](https://github.com/carlos-algms/agentic.nvim/issues/264) 💬 1 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 669 | 🟢 beginner | 2026-10-04 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
 | [Long unknown keys are truncated to known keys in some request decoders](https://github.com/tarantool/tarantool/issues/13284) 💬 1 | [tarantool/tarantool](https://github.com/tarantool/tarantool) | 3.7k | 🟢 beginner | 2026-10-02 | [📘 guide](https://github.com/tarantool/tarantool/blob/HEAD/CONTRIBUTING.md) |
 | [docs: make route matching/filtering information more visible](https://github.com/apache/apisix/issues/10735) 💬 5 | [apache/apisix](https://github.com/apache/apisix) | 17.4k | 🟢 beginner | 2026-09-20 | ✍️ CLA · [📘 guide](https://github.com/apache/apisix/blob/HEAD/CONTRIBUTING.md) |
 | [docs: Rework the service discovery documentation in general and Eureka in particular](https://github.com/apache/apisix/issues/7342) 💬 3 | [apache/apisix](https://github.com/apache/apisix) | 17.4k | 🟢 beginner | 2026-09-19 | ✍️ CLA · [📘 guide](https://github.com/apache/apisix/blob/HEAD/CONTRIBUTING.md) |

@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/html.xml)
 
-> Updated automatically on **2026-11-27 15:52 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-28 01:10 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -14,9 +14,9 @@
 | --- | --- | ---: | --- | --- | --- |
 | [\[Initiative\]: Cloud Native Business Continuity: whitepaper and best practices](https://github.com/cncf/toc/issues/1779) 💬 14 | [cncf/toc](https://github.com/cncf/toc) | 1.9k | 🟡 help wanted | 2026-11-25 | [📘 guide](https://github.com/cncf/toc/blob/HEAD/CONTRIBUTING.md) |
 | [Add the Superior Court for the Commonwealth of the Northern Mariana Islands](https://github.com/freelawproject/juriscraper/issues/2294) | [freelawproject/juriscraper](https://github.com/freelawproject/juriscraper) | 667 | 🟢 beginner | 2026-11-25 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/freelawproject/juriscraper/blob/HEAD/CONTRIBUTING.md) |
-| [Add higher-level ops (mark_intersection / label) so the model doesn't compute coordinates](https://github.com/molly554/whiteboard-ai-tutor/issues/7) 💬 2 | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 575 | 🟡 help wanted | 2026-11-24 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
-| [Document player font fallback on macOS or Linux](https://github.com/molly554/whiteboard-ai-tutor/issues/5) | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 575 | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
-| [Improve accessible descriptions for the Pythagorean-theorem examples](https://github.com/molly554/whiteboard-ai-tutor/issues/4) | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 575 | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
+| [Add higher-level ops (mark_intersection / label) so the model doesn't compute coordinates](https://github.com/molly554/whiteboard-ai-tutor/issues/7) 💬 2 | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 576 | 🟡 help wanted | 2026-11-24 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
+| [Document player font fallback on macOS or Linux](https://github.com/molly554/whiteboard-ai-tutor/issues/5) | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 576 | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
+| [Improve accessible descriptions for the Pythagorean-theorem examples](https://github.com/molly554/whiteboard-ai-tutor/issues/4) | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 576 | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
 | [Allow favicons in formats other than svg](https://github.com/imfing/hextra/issues/888) 💬 3 | [imfing/hextra](https://github.com/imfing/hextra) | 2.4k | 🟢 beginner | 2026-11-20 | [📘 guide](https://github.com/imfing/hextra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Confirm new ubuntu-latest GH runner image is fine](https://github.com/mozilla/bedrock/issues/17386) 💬 2 | [mozilla/bedrock](https://github.com/mozilla/bedrock) | 1.3k | 🟡 help wanted | 2026-11-20 | [📘 guide](https://github.com/mozilla/bedrock/blob/HEAD/.github/CONTRIBUTING.md) |
 | [document using Contour with an ALB](https://github.com/projectcontour/contour/issues/5939) 💬 1 | [projectcontour/contour](https://github.com/projectcontour/contour) | 4k | 🟡 help wanted | 2026-11-17 | 🔏 DCO · [📘 guide](https://github.com/projectcontour/contour/blob/HEAD/CONTRIBUTING.md) |

@@ -1,8 +1,8 @@
 # Robotics issues
 
-**8** open issues (2 labeled for beginners) across **5** projects tagged with topics like `robotics`, `ros`, `ros2`, `drones`, `autonomous-vehicles`, `slam`.
+**7** open issues (1 labeled for beginners) across **5** projects tagged with topics like `robotics`, `ros`, `ros2`, `drones`, `autonomous-vehicles`, `slam`.
 
-> Updated automatically on **2026-11-27 15:52 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-28 01:10 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,7 +10,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Modify autotest to notify Discord when run is complete](https://github.com/ArduPilot/ardupilot/issues/14438) 💬 3 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 16.4k | 🟢 beginner | 2026-11-16 | 🤖 disclose AI use · [📘 guide](https://github.com/ArduPilot/ardupilot/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Evaluate Fuse as a RL replacement & consider other alternatives](https://github.com/ros-navigation/navigation2/issues/2598) 💬 12 | [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2) | 5.1k | 🟡 help wanted | 2026-11-02 | 🔏 DCO · [📘 guide](https://github.com/ros-navigation/navigation2/blob/HEAD/CONTRIBUTING.md) |
 | [Geospatial types and GIS support](https://github.com/questdb/questdb/issues/4899) 💬 2 | [questdb/questdb](https://github.com/questdb/questdb) | 17.6k | 🟡 help wanted | 2026-10-28 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/questdb/questdb/blob/HEAD/CONTRIBUTING.md) |
 | [switch cutout for back body plate doesn't fit switch](https://github.com/nasa-jpl/open-source-rover/issues/499) 💬 1 | [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) | 9.8k | 🟡 help wanted | 2026-10-28 | [📘 guide](https://github.com/nasa-jpl/open-source-rover/blob/HEAD/.github/CONTRIBUTING.md) |
